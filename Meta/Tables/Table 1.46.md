@@ -1,0 +1,12 @@
+| **Character** | **Example**    | **Meaning**                                                                                                                                               |
+| ------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st           | **d**rwxrwxrwx | file type<br><br>- `d` for directory<br>    <br>- `-` for a regular file                                                                                      |
+| 2nd           | d**r**wxrwxrwx | read permissions for the user<br><br>- `r` if the user has read permissions<br>    <br>- `-` if the user lacks read permissions                               |
+| 3rd           | dr**w**xrwxrwx | write permissions for the user<br><br>- `w` if the user has write permissions<br>    <br>- `-` if the user lacks write permissions                            |
+| 4th           | drw**x**rwxrwx | execute permissions for the user<br><br>- `x` if the user has execute permissions<br>    <br>- `-` if the user lacks execute permissions                      |
+| 5th           | drwx**r**wxrwx | read permissions for the group<br><br>- `r` if the group has read permissions<br>    <br>- `-` if the group lacks read permissions                            |
+| 6th           | drwxr**w**xrwx | write permissions for the group<br><br>- `w` if the group has write permissions<br>    <br>- `-` if the group lacks write permissions                         |
+| 7th           | drwxrw**x**rwx | execute permissions for the group<br><br>- `x` if the group has execute permissions<br>    <br>- `-` if the group lacks execute permissions                   |
+| 8th           | drwxrwx**r**wx | read permissions for other<br><br>- `r` if the other owner type has read permissions<br>    <br>- `-` if the other owner type lacks read permissions          |
+| 9th           | drwxrwxr**w**x | write permissions for other<br><br>- `w` if the other owner type has write permissions<br>    <br>- `-` if the other owner type lacks write permissions       |
+| 10th          | drwxrwxrw**x** | execute permissions for other<br><br>- `x` if the other owner type has execute permissions<br>    <br>- `-` if the other owner type lacks execute permissions |

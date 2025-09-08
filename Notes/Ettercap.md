@@ -1,0 +1,3 @@
+## Ettercap
+
+A [[Network protocol analyzer|network protocol analyzer]] commonly used in cybersecurity. It enables [[User|user's]] to monitor, intercept, and analyze network traffic in realtime. With its capabilities, [[User|users]] can gain insights into the communication between devices on a network, capture [[Data Packet|data packets]], and detect potential security vulnerabilities. Beyond passive monitoring, Ettercap also facilitates active interception and manipulation of network traffic, making it a versatile tool for both network analysis and security testing purposes.

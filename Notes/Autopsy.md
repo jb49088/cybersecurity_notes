@@ -1,0 +1,4 @@
+
+# Autopsy
+
+Autopsy is a powerful open-source digital forensics platform used to analyze and recover data from various digital devices. It helps investigators uncover deleted files, reconstruct damaged directories, and perform detailed metadata and keyword searches. The tool is known for its user-friendly graphical interface, which simplifies complex forensic tasks and makes it accessible to both novices and experienced professionals. Autopsy also integrates with other forensic tools, such as The Sleuth Kit, enhancing its capabilities. Despite its strengths, users should be mindful of its learning curve and potential performance issues with large data sets.

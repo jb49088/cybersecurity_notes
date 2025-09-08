@@ -1,0 +1,1 @@
+The prioritizing of [[main/Incident Response & Forensics|incidents]] according to their level of importance or urgency.
