@@ -10,7 +10,7 @@ My issues with this were:
 
 1. Decision fatigue: I often felt less inclined to make notes because I had to decide where to put them in the system.
 
-2. Overlap issues: Some notes naturally fir into multiple areas (especially in cybersecurity), and the systems rigid single-place indexing made it hard to organize them.
+2. Overlap issues: Some notes naturally fit into multiple areas (especially in cybersecurity), and the systems rigid single-place indexing made it hard to organize them.
 
 I've favored a more flat/networked style of organization. All notes go in one directory. Simple. No friction. To manage this I use links, tags, dataview queries and the Obsidian search function. This way any single note can belong to multiple categories at once creating a sort of network of interconnected ideas.
 
