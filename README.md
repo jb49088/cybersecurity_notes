@@ -1,4 +1,4 @@
-# cybersecurity_notess
+# cybersecurity_notes
 
 These are the cybersecurity notes I made while studying for the CompTIA Security+. I figured it would make studying less monotonous if I created a scalable resource simultaneously.
 
