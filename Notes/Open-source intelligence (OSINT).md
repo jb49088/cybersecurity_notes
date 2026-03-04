@@ -1,4 +1,3 @@
-
 # Open-source intelligence (OSINT)
 
 Open-source intelligence (OSINT) involves collecting and analyzing information from publicly available sources to gather insights and support decision-making. OSINT is a valuable resource for cybersecurity, law enforcement, and business intelligence.

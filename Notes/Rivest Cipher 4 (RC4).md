@@ -1,4 +1,3 @@
-
 # Rivest Cipher 4 (RC4)
 
 [[🏷️Symmetric encryption algorithm]]

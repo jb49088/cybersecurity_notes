@@ -1,4 +1,3 @@
-
 # Contingency planning (CP)
 
 Contingency planning (CP) is the process of preparing for unexpected events or disruptions to ensure that critical operations can continue with minimal impact. It involves identifying potential risks, developing strategies to address them, and ensuring organizational resilience during emergencies.

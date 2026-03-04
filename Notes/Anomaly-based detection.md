@@ -1,4 +1,3 @@
-
 # Anomaly-based detection
 
 Anomaly-based detection focuses on identifying deviations from a predefined baseline of normal activity. By monitoring network traffic, system behavior, or user activity, this method detects unusual patterns that might indicate potential threats, even if the specific threat has never been encountered before.

@@ -1,4 +1,3 @@
-
 # IEEE 802.11 (Wi-Fi)
 
 [[🏷️Network protocol]]

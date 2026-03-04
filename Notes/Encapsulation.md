@@ -1,4 +1,3 @@
-
 # Encapsulation
 
 Encapsulation is a process used in networking and data communication to securely package and transmit data. It involves wrapping data in a packet that includes necessary protocol information, ensuring the data can traverse a network securely and efficiently. Typically, encapsulation is used to protect data during transmission by adding encryption, making it unreadable to unauthorized parties. This outer layer of information allows the data to reach its destination safely and ensures it is properly routed.

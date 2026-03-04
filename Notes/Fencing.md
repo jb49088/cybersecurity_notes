@@ -1,4 +1,3 @@
-
 # Fencing
 
 [[🏷️Physical security]]
@@ -14,4 +13,3 @@ In addition to security, fencing helps direct pedestrian and vehicular traffic, 
 ---
 
 See also:
-

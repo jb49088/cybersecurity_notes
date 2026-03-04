@@ -1,4 +1,3 @@
-
 # National Institute of Standards and Technology (NIST)
 
 The National Institute of Standards and Technology (NIST) is a U.S. federal agency under the Department of Commerce that develops and promotes standards, guidelines, and best practices for science, technology, and cybersecurity. Founded in 1901, NIST plays a critical role in advancing innovation and ensuring reliable, secure systems across industries.

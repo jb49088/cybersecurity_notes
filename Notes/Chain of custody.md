@@ -1,4 +1,3 @@
-
 # Chain of custody
 
 Chain of custody refers to the process of tracking and documenting the handling of evidence from the moment it is collected until it is presented in court. Maintaining an unbroken and documented chain ensures the integrity of the evidence.
@@ -17,4 +16,3 @@ See also:
 - [[Digital forensics]]
 - [[Legal hold]]
 - [[E-discovery]]
-

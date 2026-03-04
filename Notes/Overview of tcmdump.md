@@ -1,4 +1,3 @@
-
 # Overview of tcmdump
 
 As a security analyst, you’ll use network protocol analyzers to help defend against any network intrusions. Previously, you learned the following terms related to network monitoring and analysis: 

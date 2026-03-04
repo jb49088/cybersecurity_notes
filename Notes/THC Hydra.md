@@ -1,3 +1,1 @@
-
 # THC Hydra
-

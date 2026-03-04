@@ -1,4 +1,3 @@
-
 # Database administrator (DBA)
 
 A database administrator (DBA) is a professional responsible for managing, maintaining, and securing databases within an organization. The DBA ensures that databases are efficient, reliable, and secure while meeting the organization's data management needs.

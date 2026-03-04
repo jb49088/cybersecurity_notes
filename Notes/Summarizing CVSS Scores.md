@@ -1,4 +1,3 @@
-
 # Summarizing CVSS Scores
 
 The CVSS vector provides good detailed information on the nature of the risk posed by a vulnerability, but the complexity of the vector makes it difficult to use in prioritization exercises. For this reason, analysts can calculate the CVSS base score, which is a single number representing the overall risk posed by the vulnerability. Arriving at the base score requires first calculating some other CVSS component scores.
@@ -57,6 +56,5 @@ Continuing with the SSL vulnerability example from [[Image 2.51.png|Image 2.51]]
 
 > [!info] Note
 > Be sure you are familiar with the CVSS severity rating scale for the exam. These scores are a common topic for exam questions!
-
 
 

@@ -1,4 +1,3 @@
-
 # Information Security Policy
 
 [[🏷️Policy]]

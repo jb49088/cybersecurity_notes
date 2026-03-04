@@ -1,4 +1,3 @@
-
 # Counter mode CBC-MAC protocol (CCMP)
 
 Counter mode with cipher block chaining message authentication code protocol (CCMP) is a security protocol used in wireless networks to provide encryption, authentication, and message integrity. It is a key component of WPA2 (Wi-Fi Protected Access 2) and WPA3, ensuring secure communication over Wi-Fi by addressing vulnerabilities in older protocols like WEP.

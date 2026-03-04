@@ -1,4 +1,3 @@
-
 # Corporate owned, personally enabled (COPE)
 
 [[🏷️Policy]]

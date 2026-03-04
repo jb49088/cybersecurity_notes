@@ -1,4 +1,3 @@
-
 # Compliance monitoring
 
 Compliance monitoring is the process of ensuring that an organization adheres to regulatory requirements, internal policies, and industry standards. It is an ongoing activity that helps maintain operational integrity, reduce risks, and demonstrate accountability.

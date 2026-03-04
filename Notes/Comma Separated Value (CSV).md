@@ -1,4 +1,3 @@
-
 # Comma Separated Value (CSV)
 
 Comma Separated Value (CSV) uses commas to separate data values. In CSV logs, the position of the data corresponds to its field name, but the field names themselves might not be included in the log. It’s critical to understand what fields the source device (like an IPS, firewall, scanner, etc.) is including in the log.

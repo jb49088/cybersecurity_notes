@@ -1,4 +1,3 @@
-
 # Tuple
 
 [[🏷️Data structure]]

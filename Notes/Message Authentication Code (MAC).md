@@ -1,4 +1,3 @@
-
 # Message Authentication Code (MAC)
 
 A Message Authentication Code (MAC) is a cryptographic construct used to verify the integrity and authenticity of a message. It ensures that the message has not been tampered with and that it originates from a trusted sender.

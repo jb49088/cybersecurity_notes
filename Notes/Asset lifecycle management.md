@@ -1,4 +1,3 @@
-
 # Asset lifecycle management
 
 [[🏷️Risk management]]

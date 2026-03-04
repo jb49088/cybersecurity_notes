@@ -1,4 +1,3 @@
-
 # Extensible authentication protocol (EAP)
 
 [[🏷️Network protocol]]

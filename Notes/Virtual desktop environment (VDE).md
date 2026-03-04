@@ -1,4 +1,3 @@
-
 # Virtual desktop environment (VDE)
 
 A virtual desktop environment (VDE) is a computing setup where users access desktop instances that run on a centralized server rather than on their local devices. This allows for greater flexibility, security, and resource efficiency, as desktops can be managed, maintained, and updated centrally.

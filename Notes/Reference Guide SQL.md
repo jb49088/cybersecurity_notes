@@ -1,4 +1,3 @@
-
 # Reference Guide SQL
 
 ## Query a database
@@ -226,4 +225,3 @@ Returns a single number that represents the sum of the numerical data in a colum
 
 SELECT SUM(cost)  
 Returns the sum of costs from all records that have a value in the cost column
-

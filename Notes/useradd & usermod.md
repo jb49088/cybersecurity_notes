@@ -1,4 +1,3 @@
-
 # useradd & usermod
 
 [[🏷️Linux command]]

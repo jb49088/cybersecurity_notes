@@ -1,4 +1,3 @@
-
 # Operators
 
 [[🏷️Python]]

@@ -1,4 +1,3 @@
-
 # Supply-chain attack
 
 A supply-chain attack is a type of cyber attack that targets less secure elements in a supply network. Instead of directly attacking a well-protected primary target, the attacker compromises a third-party vendor, service provider, or supplier to infiltrate the primary target's systems. This method leverages the trust and interdependencies within the supply chain to gain access to sensitive information, systems, or networks.

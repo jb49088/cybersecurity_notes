@@ -1,4 +1,3 @@
-
 # More on conditionals in python
 
 Previously, you explored conditional statements and how they’re useful in automating tasks in Python. So far, you’ve focused on the `if` and `else` keywords. In this reading, you’ll review these and learn another keyword, `elif`. You’ll also learn how you can apply the `and`, `or`, and `not` operators to your conditions.

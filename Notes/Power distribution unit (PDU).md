@@ -1,4 +1,3 @@
-
 # Power distribution unit (PDU)
 
 A power distribution unit (PDU) is an electrical device used to distribute electrical power to multiple devices or equipment within a data center, server room, or other settings where numerous devices require reliable power. PDUs are typically used to manage power for servers, networking equipment, and other critical infrastructure in environments where uptime is essential.

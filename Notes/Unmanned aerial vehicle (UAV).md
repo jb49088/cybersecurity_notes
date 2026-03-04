@@ -1,4 +1,3 @@
-
 # Unmanned aerial vehicle (UAV)
 
 An unmanned aerial vehicle (UAV), commonly known as a drone, is an aircraft that operates without a human pilot onboard. UAVs are controlled remotely or autonomously and are used for a wide range of applications, from military operations to commercial uses such as aerial photography, surveying, and package delivery.

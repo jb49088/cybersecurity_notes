@@ -1,4 +1,3 @@
-
 # Integer
 
 [[🏷️Data type]]
@@ -34,4 +33,3 @@ Outputs:
 `7`
 
 You can also subtract, multiply, or divide integers.
-

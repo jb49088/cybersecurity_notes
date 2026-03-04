@@ -1,4 +1,3 @@
-
 # Bug bounty
 
 A bug bounty is a program offered by organizations to incentivize security researchers, ethical hackers, and developers to discover and report vulnerabilities in their systems, applications, or platforms. In exchange for their efforts, researchers are typically rewarded with monetary compensation or other incentives.

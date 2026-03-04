@@ -1,4 +1,3 @@
-
 # Personal identity verification (PIV)
 
 Personal identity verification (PIV) is a standardized method for verifying an individual’s identity using a government-issued smart card. It is primarily used by U.S. federal agencies to ensure secure access to physical and digital resources. PIV cards contain embedded cryptographic credentials that enable strong authentication, encryption, and digital signatures.

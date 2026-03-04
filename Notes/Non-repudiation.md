@@ -1,4 +1,3 @@
-
 # Non-repudiation
 
 [[🏷️Principle]]

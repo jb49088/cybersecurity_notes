@@ -1,4 +1,3 @@
-
 # Software Development Life Cycle Methodology (SDLM)
 
 [[🏷️Development]]

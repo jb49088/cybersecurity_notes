@@ -1,4 +1,3 @@
-
 # Structured threat information expression (STIX)
 
 Structured threat information expression (STIX) is a standardized language used for representing and sharing cyber threat intelligence (CTI). It allows organizations, security analysts, and automated systems to communicate threat information in a structured and machine-readable format. STIX helps improve threat detection, response, and collaboration across different cybersecurity entities.

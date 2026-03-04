@@ -1,4 +1,3 @@
-
 # Data Structures 
 
 Data structures are vital for efficiently managing and securing data. They organize information in ways that facilitate quick access and manipulation, which is crucial for tasks like threat detection, incident response, and managing security logs. Key data structures such as hash tables and trees support effective searching and storage, enabling robust security measures and faster responses to potential threats.
@@ -42,6 +41,5 @@ A list is a linear collection of data elements of any type, called nodes, where
 ## Struct/Record
 
 Represents a composite data type consisting of multiple fields or members, each with its own data type. Structs are used to encapsulate related data into a single unit.
-
 
 

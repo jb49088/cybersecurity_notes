@@ -1,4 +1,3 @@
-
 # Open shortest path first (OSPF)
 
 [[🏷️Network protocol]]

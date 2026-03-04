@@ -1,4 +1,3 @@
-
 # Account
 
 Claiming an identity and being authorized to access a system or service requires an account. Accounts contain the information about a user, including things like rights and permissions that are associated with the account.

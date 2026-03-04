@@ -1,4 +1,3 @@
-
 # Online certificate status protocol (OCSP)
 
 [[🏷️Network protocol]]

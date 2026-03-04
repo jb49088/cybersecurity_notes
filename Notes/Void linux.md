@@ -1,4 +1,3 @@
-
 # Void linux
 
 [[🏷️Linux distribution]]

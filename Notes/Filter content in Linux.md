@@ -1,4 +1,3 @@
-
 # Filter content in Linux
 
 In this reading, you’ll continue exploring Linux commands, which can help you filter for the information you need. You’ll learn a new Linux command, find, which can help you search files and directories for specific information.

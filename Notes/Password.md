@@ -1,4 +1,3 @@
-
 # Password
 
 [[🏷️Authentication methods]]
@@ -24,4 +23,3 @@ See also:
 - [[Password policy]]
 - [[Password attack]]
 - [[Password manager]]
-

@@ -1,4 +1,3 @@
-
 # Routers
 
 [[🏷️Networking device]]

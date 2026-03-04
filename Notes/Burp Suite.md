@@ -1,4 +1,3 @@
-
 # Burp Suite
 
 [[🏷️Cybersecurity tool]]

@@ -1,4 +1,3 @@
-
 # rm
 
 [[🏷️Linux command]]
@@ -23,4 +22,3 @@ The `-r` flag in the `rm` command in Linux stands for “**recursive**”. When 
 > `rm -ri mydir`
 > 
 > This will prompt you for confirmation before deleting each file and directory within the `mydir` directory.
-

@@ -1,4 +1,3 @@
-
 # Universal serial bus (USB)
 
 Universal serial bus (USB) is a widely used standard for connecting devices to computers and other electronic systems. It defines the cables, connectors, and protocols for data transfer and power supply between devices. Initially developed in the mid-1990s, USB has become the standard interface for a wide range of peripherals, including keyboards, mice, printers, external storage devices, smartphones, and more.
@@ -18,4 +17,3 @@ USB has become a crucial part of everyday computing, providing a universal and r
 See also:
 
 - [[Peripheral devices]]
-

@@ -1,4 +1,3 @@
-
 # Time-of-check to time-of-use (TOCTOU)
 
 Time-of-check to time-of-use (TOCTOU) is a type of race condition where an attacker exploits the time gap between checking a system condition (such as file permissions, system state, or resource availability) and actually using the results of that check. During this brief period, the system's state may change, allowing the attacker to manipulate the system to their advantage.

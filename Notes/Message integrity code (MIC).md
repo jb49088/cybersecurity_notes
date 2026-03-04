@@ -1,4 +1,3 @@
-
 # Message integrity code (MIC)
 
 A message integrity code (MIC) is a security mechanism used to ensure that data transmitted over a network has not been altered or tampered with during transmission. It provides a way to verify the integrity of the message by generating a checksum, which is appended to the message before it is sent. The recipient can then use the same algorithm to calculate a checksum on the received message and compare it with the MIC to confirm that the data has not been modified.

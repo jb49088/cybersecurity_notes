@@ -1,4 +1,3 @@
-
 # Cross-site scripting (XSS)
 
 [[🏷️Web application attack]]
@@ -36,5 +35,4 @@ See also:
 - [[Web application]]
 - [[Input sanitization]]
 - [[Input validation]]
-
 

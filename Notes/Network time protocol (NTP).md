@@ -1,4 +1,3 @@
-
 # Network time protocol (NTP)
 
 [[🏷️Network protocol]]

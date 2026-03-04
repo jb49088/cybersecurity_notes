@@ -1,4 +1,3 @@
-
 # Temporal key integrity protocol (TKIP)
 
 [[🏷️Network protocol]]

@@ -1,5 +1,4 @@
 
-
 # Hosting models
 
 ## Self-hosted
@@ -13,5 +12,4 @@ Refers to applications or services that are deployed on cloud infrastructure but
 ## Cloud-native
 
 Refers to applications or services that are built from the ground up to run in the cloud. These applications are designed with cloud principles in mind, such as availability, flexibility, and scalability. 
-
 

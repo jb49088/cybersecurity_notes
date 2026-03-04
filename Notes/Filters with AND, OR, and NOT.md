@@ -1,4 +1,3 @@
-
 # Filters with AND, OR, and NOT
 
 In the previous lesson, we learned about even more ways to filter queries in SQL to work with some typical security analyst tasks. However, when working with real security questions, we often have to filter for multiple conditions. Vulnerabilities, for instance, might depend on more than one factor. For example, a security vulnerability might be related to machines using a specific email client on a specific operating system. So, to find the possible vulnerabilities, we need to find machines using both the email client and the operating system.

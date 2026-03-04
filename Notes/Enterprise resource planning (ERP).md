@@ -1,4 +1,3 @@
-
 # Enterprise resource planning (ERP)
 
 Enterprise resource planning (ERP) is a software system used by organizations to manage and integrate key business processes. An ERP system helps streamline operations by providing a centralized platform for managing areas such as finance, human resources, supply chain, production, and customer relations.

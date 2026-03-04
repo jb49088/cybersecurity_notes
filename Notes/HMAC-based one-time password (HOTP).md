@@ -1,4 +1,3 @@
-
 # HMAC-based one-time password (HOTP)
 
 HMAC-based one-time password (HOTP) is an authentication mechanism used to generate a one-time password (OTP) based on the HMAC (Hash-based Message Authentication Code) algorithm. It provides a secure method for verifying the identity of users in two-factor authentication (2FA) systems.

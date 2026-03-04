@@ -1,4 +1,3 @@
-
 # Root of trust
 
 The root of trust is a fundamental concept in IT security, acting as an inherently trusted component that establishes and maintains the trustworthiness of a system. Since all security mechanisms rely on trust as a foundational principle, the root of trust serves as the initial point from which this trust is built and extended.

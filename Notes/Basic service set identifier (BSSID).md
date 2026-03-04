@@ -1,4 +1,3 @@
-
 # Basic service set identifier (BSSID)
 
 A basic service set identifier (BSSID) is a unique identifier assigned to a specific access point (AP) within a wireless local area network (WLAN). The BSSID is used to distinguish between different access points in a network, particularly in environments where multiple access points are deployed. Each AP within a WLAN has a distinct BSSID, which is typically the MAC address of the access point's radio interface.

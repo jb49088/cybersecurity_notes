@@ -1,4 +1,3 @@
-
 # Fail-open ⁄ fail-closed
 
 Fail-open and fail-closed are two types of behaviors used to define how systems handle failures or disruptions in their operation. These terms describe how systems or security mechanisms respond when they encounter an error or are unable to perform their intended functions.

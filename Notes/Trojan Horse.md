@@ -1,4 +1,3 @@
-
 # Trojan Horse
 
 [[🏷️Malware]] 

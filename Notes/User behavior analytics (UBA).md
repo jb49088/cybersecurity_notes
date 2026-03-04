@@ -1,4 +1,3 @@
-
 # User behavior analytics (UBA)
 
 User behavior analytics (UBA) is a security approach that uses data analysis to detect and respond to unusual or malicious activity based on patterns of user behavior. It extends the scope of traditional anomaly detection to provide deeper insights into user and system activities, helping identify potential threats before they escalate.

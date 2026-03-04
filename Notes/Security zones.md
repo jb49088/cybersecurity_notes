@@ -1,4 +1,3 @@
-
 # Security zones
 
 Security zones refer to logical or physical divisions of a network that help to establish clear boundaries for applying security policies. These zones are used to segment a network into areas with different levels of trust and security, allowing more precise control over traffic and access.
@@ -21,7 +20,6 @@ By clearly defining these zones and the traffic flow between them, organizations
 See also:
 
 - [[Network segmentation]]
-
 
 
 

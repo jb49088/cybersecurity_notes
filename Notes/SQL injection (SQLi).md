@@ -1,4 +1,3 @@
-
 # SQL injection (SQLi)
 
 [[🏷️Injection attack]]
@@ -34,4 +33,3 @@ See also:
 - [[Prepared statement]]
 - [[Input sanitization]]
 - [[Input validation]]
-

@@ -1,4 +1,3 @@
-
 # Cipher-based Message Authentication Code (CMAC)
 
 [[🏷️Cryptography]]

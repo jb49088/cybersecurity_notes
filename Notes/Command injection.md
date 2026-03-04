@@ -1,4 +1,3 @@
-
 # Command injection
 
 [[🏷️Injection attack]]
@@ -17,4 +16,3 @@ Command injection is a significant security concern, as it allows attackers to m
 ---
 
 See also:
-

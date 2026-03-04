@@ -1,4 +1,3 @@
-
 # Abstraction
 
 [[🏷️Programming]] [[🏷️Development]]

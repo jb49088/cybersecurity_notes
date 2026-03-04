@@ -1,4 +1,3 @@
-
 # Dynamic host configuration protocol (DHCP)
 
 [[🏷️Network protocol]]

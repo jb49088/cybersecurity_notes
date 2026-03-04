@@ -1,4 +1,3 @@
-
 # Key encryption key (KEK)
 
 A key encryption key (KEK) is used to encrypt other cryptographic keys, providing an additional layer of security in key management processes. KEKs ensure that sensitive keys, such as data encryption keys (DEKs), are protected while being stored or transmitted across a network.

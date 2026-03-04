@@ -1,4 +1,3 @@
-
 # Security guidelines in action
 
 Organizations often face an overwhelming amount of risk. Developing a security plan from the beginning that addresses all risk can be challenging. This makes security frameworks a useful option.

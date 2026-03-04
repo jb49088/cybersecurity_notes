@@ -1,4 +1,3 @@
-
 # Program virus
 
 [[🏷️Malware]] 
@@ -10,4 +9,3 @@ A **program virus** is a type of virus that attaches itself to executable files 
 See also:
 
 - [[Virus]]
-

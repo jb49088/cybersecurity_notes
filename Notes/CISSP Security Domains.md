@@ -1,4 +1,3 @@
-
 These eight domains categorize security analysts job duties. Security teams use them to organize daily tasks and identify gaps in security that could cause negative consequences for an organization, and to establish their [[Security posture|security posture]].
 
 # Security and Risk Management 

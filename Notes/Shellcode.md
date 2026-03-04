@@ -1,4 +1,3 @@
-
 # Shellcode
 
 Shellcode is a small piece of code used as the payload in a cyberattack, typically written in machine code or assembly language. It is designed to exploit vulnerabilities in a system, allowing an attacker to execute arbitrary commands, often by taking control of a running process. Shellcode gets its name because it often spawns a command shell, providing the attacker with access to the compromised system.

@@ -1,4 +1,3 @@
-
 # Identity and access management (IAM)
 
 Identity and access management (IAM) is a framework of policies and technologies that ensures the right individuals and entities have appropriate access to resources while maintaining security and compliance.

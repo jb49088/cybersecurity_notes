@@ -1,4 +1,3 @@
-
 # Research and development in advanced communications technologies in Europe (RACE)
 
 Research and development in advanced communications technologies in Europe (RACE) was a major initiative within the European Union aimed at advancing the development of communication technologies. The program was launched in the late 1980s and focused on driving research and innovation to create the foundation for future communication systems in Europe.

@@ -1,4 +1,3 @@
-
 # C2 Node
 
 A C2 (Command and Control) node is a system or server that communicates with compromised devices (often part of a botnet) to issue commands and control their activities. These nodes are typically used by attackers to remotely manage infected machines, directing them to perform tasks like launching attacks, stealing data, or spreading malware. The C2 node acts as the "brain" behind malicious operations, coordinating and maintaining control over the infected network.

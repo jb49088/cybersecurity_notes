@@ -1,4 +1,3 @@
-
 # Deep packet inspection (DPI)
 
 Deep packet inspection (DPI) is an advanced network analysis technique that examines the entire content of data packets, beyond the basic header information, to identify, analyze, or control traffic. This capability is used in security, network management, and traffic optimization applications.

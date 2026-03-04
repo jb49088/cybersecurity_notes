@@ -1,4 +1,3 @@
-
 # Intrusion prevention system (IPS)
 
 An intrusion prevention system (IPS) is a proactive security measure that monitors network traffic and actively blocks or mitigates potential threats. Unlike IDS, which only detects and alerts, an IPS can take immediate action to stop attacks.

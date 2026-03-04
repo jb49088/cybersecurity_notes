@@ -1,4 +1,3 @@
-
 # Pre-shared key (PSK)
 
 A pre-shared key (PSK) is a shared secret used for authentication between devices on a network, typically in wireless communications. It is a password or passphrase that is manually configured on both the client device and the access point (AP). When a device attempts to connect to the network, it must provide the correct PSK to gain access.

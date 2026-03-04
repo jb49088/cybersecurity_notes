@@ -1,4 +1,3 @@
-
 # Search methods with SIEM tools
 
 So far, you’ve learned about how you can use security information and event management (SIEM) tools to search for security events such as failed login attempts. Remember, SIEM is an application that collects and analyzes log data to monitor critical activities in an organization. In this reading, you’ll examine how SIEM tools like Splunk and Chronicle use different search methods to find, filter, and transform search results. 

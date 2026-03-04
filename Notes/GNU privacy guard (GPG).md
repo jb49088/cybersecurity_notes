@@ -1,4 +1,3 @@
-
 # GNU privacy guard (GPG)
 
 GNU privacy guard (GPG) is a free, open-source encryption software used for secure communication and data protection. It implements the OpenPGP standard and allows for encrypting, signing, and verifying the integrity of messages and files.

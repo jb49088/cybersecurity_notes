@@ -1,4 +1,3 @@
-
 # Backup
 
 Creating backups is an incredibly important process designed to ensure that important and valuable data can be recovered in the event of a disaster. A solid backup strategy is essential for minimizing data loss and ensuring business continuity. The implementation of backups can vary depending on several factors, including the total amount of data, the type of backup, the backup media used, storage location, and the backup and recovery software. Planning the frequency of backups is also key, whether it's done on a daily, weekly, or even hourly basis.

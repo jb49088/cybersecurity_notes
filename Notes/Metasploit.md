@@ -1,4 +1,3 @@
-
 # Metasploit
 
 Metasploit is a popular and powerful open-source framework used for penetration testing, security research, and vulnerability assessment. It provides tools and resources for security professionals to identify and exploit vulnerabilities in computer systems, networks, and applications. Here's a breakdown of what Metasploit does:

@@ -1,4 +1,3 @@
-
 # Session
 
 A session is a period of time during which a user interacts with an application or system, often involving the exchange of information between a client and server. In computing, sessions are used to maintain state across multiple interactions, enabling users to perform actions without having to re-authenticate or re-submit information during each request.
@@ -18,4 +17,3 @@ See also:
 
 - [[Session ID]]
 - [[Cookie]]
-

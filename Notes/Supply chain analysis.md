@@ -1,4 +1,3 @@
-
 # Supply chain analysis
 
 Supply chain analysis examines the system and processes involved in delivering a product or service, identifying inefficiencies and opportunities for improvement.

@@ -1,4 +1,3 @@
-
 # Visual Basic (VB)
 
 Visual Basic (VB) is a programming language developed by Microsoft that is designed for building Windows applications. It is known for its easy-to-learn syntax and rapid application development (RAD) features, allowing developers to quickly create graphical user interface (GUI)-based applications.

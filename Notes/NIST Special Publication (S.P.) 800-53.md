@@ -1,4 +1,3 @@
-
 # NIST Special Publication (S.P.) 800-53
 
 [[🏷️Framework]]

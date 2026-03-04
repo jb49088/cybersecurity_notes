@@ -1,4 +1,3 @@
-
 # Peer-to-Peer
 
 In a peer-to-peer network, the computers act as both service providers and service requestors. An example of a peer-to-peer resource model is shown in Figure 2.24.
@@ -14,4 +13,3 @@ Will this type of network meet the needs of the organization today and in the fu
 
 > [!info] Note 
 > A rule of thumb is that if you have no more than 10 computers and centralized security is not a key priority, a workgroup may be a good choice for you.
-

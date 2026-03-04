@@ -1,4 +1,3 @@
-
 # Serverless architecture
 
 Serverless architecture is a cloud computing model where applications are broken down into individual, autonomous functions, often referred to as Function as a Service (FaaS). This model abstracts the underlying infrastructure, allowing developers to focus solely on creating and deploying code without managing servers or operating systems.

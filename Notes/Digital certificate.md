@@ -1,4 +1,3 @@
-
 # Digital certificate
 
 [[🏷️Cryptography]]

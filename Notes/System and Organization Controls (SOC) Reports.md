@@ -1,4 +1,3 @@
-
 # System and Organization Controls (SOC) Reports
 
 [[🏷️Framework]]
@@ -16,6 +15,5 @@ There are different types of SOC reports, including SOC 1 and SOC 2, each servin
 	- **Focus:** Trust Service Criteria (TSC).
 	- **Users:** Relevant to a broad range of stakeholders, including management, regulators, and customers.
 	- **Standards:** Based on the AICPA's TSC.
-
 
 

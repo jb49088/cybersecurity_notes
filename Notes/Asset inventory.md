@@ -1,4 +1,3 @@
-
 # Asset inventory
 
 **Asset inventory** is the process of identifying, documenting, and maintaining a comprehensive list of all assets within an organization. These assets can include hardware, software, network components, data, and other critical resources. Maintaining an up-to-date asset inventory is essential for effective IT management, security, and compliance.

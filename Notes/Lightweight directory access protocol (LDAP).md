@@ -1,4 +1,3 @@
-
 # Lightweight directory access protocol (LDAP)
 
 [[🏷️Network protocol]]

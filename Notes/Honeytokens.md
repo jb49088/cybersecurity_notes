@@ -1,4 +1,3 @@
-
 # Honeytokens
 
 A honeytoken is a cybersecurity technique that involves embedding decoy data or credentials within a system, application, or network. These tokens are designed to attract attackers by appearing as valuable or legitimate information, such as fake usernames, passwords, API keys, or sensitive files. When an attacker attempts to use or steal a honeytoken, security teams are alerted to the unauthorized access or malicious activity.

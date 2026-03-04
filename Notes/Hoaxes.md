@@ -1,4 +1,3 @@
-
 # Hoaxes
 
 [[🏷️Social engineering]]
@@ -12,4 +11,3 @@ Hoaxes can lead to serious consequences, such as unnecessary panic, loss of trus
 See also:
 
 - [[Social engineering]]
-

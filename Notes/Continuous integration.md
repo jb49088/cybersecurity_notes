@@ -1,4 +1,3 @@
-
 # Continuous integration
 
 Continuous integration is a software development practice where code changes are frequently merged into a shared repository and automatically tested. CI helps identify and resolve issues early, improving code quality and accelerating development cycles.

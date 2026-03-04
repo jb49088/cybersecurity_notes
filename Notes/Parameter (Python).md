@@ -1,4 +1,3 @@
-
 # Parameter (Python)
 
 [[🏷️Python]]

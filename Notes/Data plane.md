@@ -1,4 +1,3 @@
-
 # Data plane
 
 The data plane, also known as the forwarding plane, is the component of a network or system responsible for the actual movement of data packets. It operates based on instructions received from the control plane.

@@ -1,4 +1,3 @@
-
 # New technology file system (NTFS)
 
 The new technology file system (NTFS) is a proprietary file system developed by Microsoft for its Windows operating systems. Introduced with Windows NT, NTFS has become the standard file system for modern Windows systems due to its advanced features, reliability, and support for large volumes and files.

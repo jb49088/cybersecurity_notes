@@ -1,4 +1,3 @@
-
 # Interpret network communications with packets
 
 If a packet capture is like intercepting an envelope in the mail, then packet analysis is like reading the letter inside of the envelope. Let's discuss how analyzing packets can help us interpret and understand network communications.

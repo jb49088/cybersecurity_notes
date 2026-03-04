@@ -1,4 +1,3 @@
-
 # System hardening
 
 System hardening is the process of enhancing the security of a system by reducing its attack surface and addressing potential vulnerabilities. It involves applying a series of best practices and configurations to minimize risks while maintaining system functionality.

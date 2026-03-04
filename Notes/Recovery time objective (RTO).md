@@ -1,4 +1,3 @@
-
 # Recovery time objective (RTO)
 
 Recovery time objective (RTO) is a critical metric in disaster recovery and business continuity planning that defines the maximum acceptable duration of downtime for a system, application, or process following a disruption. It represents the target time within which operations must be restored to avoid significant impact on business operations.

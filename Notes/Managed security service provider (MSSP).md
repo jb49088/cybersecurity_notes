@@ -1,4 +1,3 @@
-
 # Managed security service provider (MSSP)
 
 A managed security service provider (MSSP) is a third-party company that offers outsourced monitoring and management of an organization's security infrastructure. MSSPs provide a wide range of services, including threat detection, incident response, vulnerability management, and compliance support, to help organizations strengthen their security posture.

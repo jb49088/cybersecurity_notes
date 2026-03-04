@@ -1,4 +1,3 @@
-
 # Next-generation firewall (NGFW)
 
 [[🏷️Network security]]

@@ -1,4 +1,3 @@
-
 # Secure enclave
 
 [[🏷️Security hardware]]

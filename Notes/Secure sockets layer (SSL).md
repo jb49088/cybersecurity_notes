@@ -1,4 +1,3 @@
-
 # Secure sockets layer (SSL)
 
 [[🏷️Network protocol]]

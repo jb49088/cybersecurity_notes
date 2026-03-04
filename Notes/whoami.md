@@ -1,4 +1,3 @@
-
 # uname & whoami
 
 [[🏷️Linux command]]

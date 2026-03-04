@@ -1,4 +1,3 @@
-
 # Access badge cloning
 
 Access badge cloning is a security breach where an attacker copies the data from a legitimate access card, allowing them unauthorized access to restricted areas. This is typically done by capturing the RFID or magnetic strip data using specialized tools. Once cloned, the attacker can bypass access control systems without needing the original badge.

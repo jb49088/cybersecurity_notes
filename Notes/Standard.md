@@ -1,4 +1,3 @@
-
 # Standard
 
 A standard is a set of established guidelines or specifications that define how certain processes, products, or services should be designed, performed, or measured. Standards are commonly used in various industries, including technology, engineering, manufacturing, and communications, to ensure consistency, quality, and safety.

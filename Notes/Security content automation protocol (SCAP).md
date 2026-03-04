@@ -1,4 +1,3 @@
-
 # Security content automation protocol (SCAP)
 
 The Security Content Automation Protocol (SCAP), managed by the National Institute of Standards and Technology (NIST), standardizes security operations across various tools like Next-Generation Firewalls (NGFWs), Intrusion Prevention Systems (IPS), and vulnerability scanners. By using shared criteria, SCAP ensures interoperability, simplifies compliance, and enables automation in large, diverse environments.
@@ -17,7 +16,6 @@ See also:
 - [[Interoperability]]
 - [[Common vulnerabilities and exposures (CVE)]]
 - [[Open Vulnerability and Assessment Language (OVAL)]]
-
 
 
 

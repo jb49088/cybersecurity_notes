@@ -1,4 +1,3 @@
-
 # Backdoor
 
 A backdoor is a hidden method of bypassing normal authentication or encryption in a system, application, or device. Often created by attackers or malicious insiders, backdoors allow unauthorized access to systems without triggering security mechanisms.

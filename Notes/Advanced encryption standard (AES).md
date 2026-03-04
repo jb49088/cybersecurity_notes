@@ -1,4 +1,3 @@
-
 # Advanced encryption standard (AES)
 
 [[🏷️Symmetric encryption algorithm]]
@@ -17,4 +16,3 @@ See also:
 - [[Encryption]]
 - [[Block cipher]]
 - [[Galois counter mode (GCM)]]
-

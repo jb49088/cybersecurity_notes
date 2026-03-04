@@ -1,4 +1,3 @@
-
 # Simple mail transfer protocol (SMTP)
 
 [[🏷️Network protocol]]

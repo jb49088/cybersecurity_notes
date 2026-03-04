@@ -1,4 +1,3 @@
-
 # Vendor Management Policy
 
 [[🏷️Policy]]

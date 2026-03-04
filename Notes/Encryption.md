@@ -1,4 +1,3 @@
-
 # Encryption
 
 [[🏷️Cryptography]] [[🏷️Obfuscation]]

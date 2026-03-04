@@ -1,4 +1,3 @@
-
 # Plain old telephone service (POTS)
 
 Plain old telephone service (POTS) refers to the traditional analog telephone system that has been in use since the late 19th century. It operates over copper wire infrastructure and provides **basic voice communication** using circuit-switched technology.

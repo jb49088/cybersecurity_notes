@@ -1,4 +1,3 @@
-
 # Certificate of destruction
 
 A certificate of destruction is a formal document provided by a third-party service to confirm that sensitive data or media has been securely destroyed. This is essential for ensuring compliance with data protection regulations and maintaining a clear audit trail.

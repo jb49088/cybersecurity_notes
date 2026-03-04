@@ -1,4 +1,3 @@
-
 # Single loss expectancy (SLE)
 
 Single loss expectancy (SLE) is a metric used in risk management to estimate the potential financial loss associated with a single occurrence of a specific risk or threat. SLE helps organizations assess the cost of an incident should it happen, providing a basis for calculating broader financial impacts like the Annual Loss Expectancy (ALE).

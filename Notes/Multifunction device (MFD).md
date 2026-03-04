@@ -1,4 +1,3 @@
-
 # Multifunction device (MFD)
 
 A multifunction device (MFD) is a piece of hardware that integrates multiple functions into a single unit, commonly combining capabilities such as printing, scanning, copying, and faxing. Unlike a multifunction printer (MFP), which specifically focuses on print-related tasks, an MFD can include additional functionalities beyond document handling, such as telephony, networking, or data storage.

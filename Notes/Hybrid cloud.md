@@ -1,4 +1,3 @@
-
 # Hybrid cloud
 
 A hybrid cloud combines multiple cloud environments, such as public and private clouds, into a unified system. This approach offers flexibility and scalability but also introduces additional complexity in managing and securing the environment.

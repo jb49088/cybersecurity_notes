@@ -1,4 +1,3 @@
-
 # Ping of Death
 
 [[🏷️Network attack]]

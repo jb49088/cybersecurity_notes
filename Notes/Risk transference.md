@@ -1,4 +1,3 @@
-
 # Risk transference
 
 Risk transference is the practice of shifting the responsibility for certain risks to a third party to minimize the potential impact on an organization. One of the most common methods for risk transference is through cybersecurity insurance, which can cover damages from attacks, downtime, or data breaches. This has become especially popular with the rise in ransomware attacks, as it helps organizations recover from the financial losses incurred during such incidents.

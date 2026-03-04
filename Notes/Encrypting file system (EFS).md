@@ -1,4 +1,3 @@
-
 # Encrypting file system (EFS)
 
 Encrypting file system (EFS) is a Windows feature that offers file-level encryption to secure sensitive data. As part of the NTFS (New Technology File System), EFS allows users to encrypt specific files and folders on their storage drives, ensuring that only authorized individuals can access the protected data.

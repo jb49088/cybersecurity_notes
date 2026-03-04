@@ -1,4 +1,3 @@
-
 # TCP ⁄ IP model
 
 The TCP ⁄ IP model is a conceptual framework that defines a set of protocols used for communication over a network. It is the foundational model for the internet and most modern networking systems. Unlike the OSI model, which consists of seven layers, the TCP/IP model has four layers, each responsible for specific aspects of data communication.

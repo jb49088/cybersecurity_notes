@@ -1,4 +1,3 @@
-
 # Mandatory access control (MAC)
 
 [[🏷️Access control model]]

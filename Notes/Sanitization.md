@@ -1,4 +1,3 @@
-
 # Sanitization
 
 Sanitization is the process of securely removing or destroying data to prevent unauthorized access or recovery. It is a critical practice for maintaining data confidentiality, especially when disposing of or repurposing storage devices.

@@ -1,4 +1,3 @@
-
 # CEF (Common Event Format)
 
 **Common Event Format (CEF)** is a log format that uses key-value pairs to structure data and identify fields and their corresponding values. The CEF syntax is defined as containing the following fields:

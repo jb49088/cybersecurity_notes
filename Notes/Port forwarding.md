@@ -1,4 +1,3 @@
-
 # Port forwarding
 
 Port forwarding is a network configuration technique that allows external devices to access specific services or applications within a private local area network (LAN). It works by mapping an external port on a router or firewall to an internal IP address and port of a device within the network. This enables incoming traffic from the internet to be directed to the correct device on the local network, such as a web server, game server, or CCTV camera.

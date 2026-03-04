@@ -1,4 +1,3 @@
-
 # File transfer protocol secure (FTPS)
 
 [[🏷️Network protocol]]

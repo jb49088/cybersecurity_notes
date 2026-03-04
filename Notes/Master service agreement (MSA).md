@@ -1,4 +1,3 @@
-
 # Master service agreement (MSA)
 
 [[🏷️Business agreement]]

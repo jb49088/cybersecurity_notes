@@ -1,4 +1,3 @@
-
 # Alert
 
 An alert is a real-time notification generated in response to specific security events or anomalies detected within a system. Alerts are crucial for maintaining situational awareness and enabling prompt responses to potential threats or unusual activities.
@@ -16,4 +15,3 @@ By leveraging effective alerting mechanisms, organizations can enhance their abi
 ---
 
 See also:
-

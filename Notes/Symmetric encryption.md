@@ -1,4 +1,3 @@
-
 # Symmetric encryption
 
 Symmetric encryption is a type of encryption where the same key is used for both encrypting and decrypting data. It is a widely used method for securing sensitive information, ensuring that only authorized parties with the correct key can access the original data. The efficiency of symmetric encryption makes it suitable for large-scale data encryption.

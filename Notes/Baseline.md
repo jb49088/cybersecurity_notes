@@ -1,4 +1,3 @@
-
 # Baseline
 
 A baseline in the context of security refers to a reference point or standard for normal system behavior, network traffic, or user activity. It provides a foundation against which deviations can be measured to identify potential security threats or performance issues.

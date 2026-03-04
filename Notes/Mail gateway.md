@@ -1,4 +1,3 @@
-
 # Mail gateway
 
 A mail gateway acts as the gatekeeper for email communication, providing a secure barrier between an organization's email system and the outside world. It evaluates incoming and outgoing messages to ensure security and compliance, preventing malicious or unwanted content from reaching end users.

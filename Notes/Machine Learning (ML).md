@@ -1,4 +1,3 @@
-
 # Machine Learning (ML)
 
 **Machine Learning (ML)** is a subset of artificial intelligence (AI) that enables systems to learn and improve from experience without being explicitly programmed. By analyzing large amounts of data, machine learning algorithms identify patterns, make predictions, and improve performance over time.

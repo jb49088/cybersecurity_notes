@@ -1,4 +1,3 @@
-
 # Software development kit (SDK)
 
 A software development kit (SDK) is a collection of software tools, libraries, documentation, and sample code that developers use to create applications for specific platforms, frameworks, or services. SDKs provide everything needed to build, test, and deploy software applications, enabling developers to work more efficiently and integrate with third-party systems.

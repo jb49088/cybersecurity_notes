@@ -1,4 +1,3 @@
-
 # Replication
 
 Replication is a process that provides ongoing, almost real-time backup by continuously synchronizing data across multiple locations. This ensures that there is always an up-to-date copy of the data available, reducing the risk of data loss due to hardware failure or disasters. Replication allows data to be stored locally to all users, ensuring that remote sites can access a copy of the data without relying on a central location.

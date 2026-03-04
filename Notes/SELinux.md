@@ -1,4 +1,3 @@
-
 # SELinux
 
 Security-Enhanced Linux (SELinux) is a security architecture integrated into the Linux operating system, designed to provide enhanced access control and system security. It was developed by the National Security Agency (NSA) and is implemented as a set of kernel-level security patches.

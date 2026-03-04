@@ -1,4 +1,3 @@
-
 # Border gateway protocol (BGP)
 
 [[🏷️Network protocol]]
@@ -16,4 +15,3 @@ BGP is a critical component of the internet's infrastructure, but its complexity
 ---
 
 See also:
-

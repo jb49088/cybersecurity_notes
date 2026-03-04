@@ -1,4 +1,3 @@
-
 # Work with files in python
 
 You previously explored how to open files in Python as well as how to read them and write to them. You also examined how to adjust the structure of file contents through the `.split()` method. In this reading, you'll review the `.split()` method, and you'll also learn an additional method that can help you work with file contents.

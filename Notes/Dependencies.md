@@ -1,4 +1,3 @@
-
 # Dependencies
 
 Dependencies in cybersecurity and IT refer to systems, applications, or services that other components rely on for functionality. Understanding dependencies is crucial for risk management and system resilience.

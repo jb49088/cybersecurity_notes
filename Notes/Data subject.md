@@ -1,4 +1,3 @@
-
 # Data subject
 
 A data subject is any individual whose personal data is collected, processed, or stored. Essentially, it refers to anyone who can be identified or whose information can be linked to a specific person.

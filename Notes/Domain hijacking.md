@@ -1,4 +1,3 @@
-
 # Domain hijacking
 
 [[🏷️Network attack]]

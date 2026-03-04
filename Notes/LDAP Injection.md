@@ -1,4 +1,3 @@
-
 # LDAP Injection
 
 [[🏷️Injection attack]]

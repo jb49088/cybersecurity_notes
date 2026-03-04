@@ -1,4 +1,3 @@
-
 # Digital forensics
 
 Digital forensics involves the collection, preservation, and analysis of data to investigate cyber incidents. It plays a key role in understanding intrusions and supporting legal or regulatory actions.

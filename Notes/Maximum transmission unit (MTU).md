@@ -1,4 +1,3 @@
-
 # Maximum transmission unit (MTU)
 
 The maximum transmission unit (MTU) refers to the largest size of a data packet that can be transmitted over a network without being fragmented. It plays a key role in determining the efficiency and performance of network communications, as the size of data packets affects the transmission speed, reliability, and resource utilization.

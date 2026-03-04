@@ -1,4 +1,3 @@
-
 # Cipher
 
 An [[Algorithm|algorithm]] that [[Encryption|encrypts]] information.

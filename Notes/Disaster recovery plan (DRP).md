@@ -1,4 +1,3 @@
-
 # Disaster recovery plan (DRP)
 
 A disaster recovery plan (DRP) is a structured approach for responding to and recovering from disruptive events, such as cyberattacks, natural disasters, or hardware failures, to restore critical IT systems and business operations. The DRP is a key component of an organization’s broader business continuity plan (BCP) and focuses specifically on minimizing downtime and data loss.

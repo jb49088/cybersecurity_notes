@@ -1,4 +1,3 @@
-
 # Blowfish
 
 [[🏷️Symmetric encryption algorithm]]

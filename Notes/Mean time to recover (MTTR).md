@@ -1,4 +1,3 @@
-
 # Mean time to recover (MTTR)
 
 Mean time to recover (MTTR) measures the average time it takes to restore a system or component to its normal operating state after a failure has occurred. It is a critical metric in business continuity and disaster recovery planning, as it directly influences the amount of downtime experienced during an outage.

@@ -1,4 +1,3 @@
-
 # Policy
 
 A policy is a formal set of guidelines or rules established by an organization to govern its operations, ensure compliance, and protect its assets, data, and systems. Policies outline the principles, responsibilities, and acceptable behaviors to promote consistent decision-making and actions across the organization.

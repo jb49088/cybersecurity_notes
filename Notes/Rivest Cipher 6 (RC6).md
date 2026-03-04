@@ -1,4 +1,3 @@
-
 # Rivest Cipher 6 (RC6)
 
 [[🏷️Symmetric encryption algorithm]]

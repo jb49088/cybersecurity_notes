@@ -1,4 +1,3 @@
-
 # Mesh Topology
 
 [[🏷️Network topology]]

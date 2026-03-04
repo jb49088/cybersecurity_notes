@@ -1,4 +1,3 @@
-
 # NIST Risk Management Framework (RMF)
 
 [[🏷️Framework]]
@@ -47,4 +46,3 @@ The RMF consists of seven steps that guide organizations through the risk manage
     - Track and document changes to the information system.
     - Respond to incidents and vulnerabilities.
     - Report security status to organizational leaders.
-

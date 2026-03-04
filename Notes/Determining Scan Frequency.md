@@ -1,4 +1,3 @@
-
 # Determining Scan Frequency
 
 Cybersecurity professionals depend on automation to help them perform their duties in a efficient, effective manner. Vulnerability scanning tools allow the automated scheduling of scans to take the burden off administrators. Image 2.41 shows and example of how these scans might be configured in Tenable's Nessus product. Nessus was one of the first vulnerability scanners on the market and remains widely used today. Administrators may designate a schedule that meets their security, compliance, and business requirements.
@@ -18,4 +17,3 @@ Many different factors influence how often an organization decides to conduct vu
 - Licensing limitations may curtail the bandwidth consumed by the scanner or the number of scans that may be conducted simultaneously.
 
 Cybersecurity professionals must balance each of these considerations when planning a vulnerability scanning program. It is usually wise to begin small and slowly expand the scope and frequency of vulnerability scans over time to avoid overwhelming the scanning infrastructure or enterprise systems.
-

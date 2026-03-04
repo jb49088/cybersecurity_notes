@@ -1,4 +1,3 @@
-
 # Unified Extensible Firmware Interface (UEFI)
 
 UEFI stands for Unified Extensible Firmware Interface. It is a modern replacement for the traditional BIOS firmware found in most computers. UEFI provides several advanced features and improvements over BIOS, including:

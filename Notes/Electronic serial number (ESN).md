@@ -1,4 +1,3 @@
-
 # Electronic serial number (ESN)
 
 An electronic serial number (ESN) is a unique identifier assigned to electronic devices, typically used in mobile phones and other wireless communication devices. It is a serial number embedded in the hardware of the device that helps to identify and authenticate it on a network.

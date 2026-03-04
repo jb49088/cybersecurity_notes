@@ -1,4 +1,3 @@
-
 # Dark web intelligence
 
 Dark web intelligence involves gathering and analyzing information from hidden online networks where illicit activities often take place. These networks, accessible only through specialized software and configurations, are used by cybercriminals to trade, communicate, and collaborate.

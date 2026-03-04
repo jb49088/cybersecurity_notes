@@ -1,4 +1,3 @@
-
 # User provisioning
 
 User provisioning is the process of creating, managing, and removing user accounts in an IT environment. It ensures users have appropriate access to resources based on their roles and responsibilities.

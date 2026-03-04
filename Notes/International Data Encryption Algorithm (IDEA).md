@@ -1,4 +1,3 @@
-
 # International Data Encryption Algorithm (IDEA)
 
 [[🏷️Symmetric encryption algorithm]]

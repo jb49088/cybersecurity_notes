@@ -1,4 +1,3 @@
-
 # Data roles
 
 Each role plays a part in managing, protecting, and governing data within an organization. Here’s an overview of the roles in an intuitive order:

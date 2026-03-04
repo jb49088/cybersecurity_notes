@@ -1,4 +1,3 @@
-
 # Lighting
 
 [[🏷️Physical security]]

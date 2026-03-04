@@ -1,4 +1,3 @@
-
 # Network attached storage (NAS)
 
 Network attached storage (NAS) is a specialized file storage solution connected to a network, providing centralized data access to multiple users and devices. NAS allows for efficient file sharing, backup, and storage management across an organization or home network.

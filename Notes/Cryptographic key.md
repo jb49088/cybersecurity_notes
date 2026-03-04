@@ -1,4 +1,3 @@
-
 # Cryptographic Key
 
 A cryptographic key is a string of data used in conjunction with a cryptographic algorithm to encrypt or decrypt information. Keys are fundamental to the operation of encryption and decryption processes, ensuring that only authorized parties can access or modify data.

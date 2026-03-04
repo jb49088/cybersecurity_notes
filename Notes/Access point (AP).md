@@ -1,4 +1,3 @@
-
 # Access point (AP)
 
 [[🏷️Networking device]]

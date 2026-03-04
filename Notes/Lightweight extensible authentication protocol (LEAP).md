@@ -1,4 +1,3 @@
-
 # Lightweight extensible authentication protocol (LEAP)
 
 [[🏷️Network protocol]]

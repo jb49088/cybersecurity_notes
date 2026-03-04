@@ -1,4 +1,3 @@
-
 # Unshielded twisted pair (UTP)
 
 Unshielded twisted pair (UTP) is a type of copper cabling used in telecommunications and computer networks. It consists of pairs of insulated wires twisted together, which helps reduce electromagnetic interference (EMI). UTP cables are widely used for Ethernet networking, phone lines, and other data transmission applications due to their cost-effectiveness and ease of installation.

@@ -1,4 +1,3 @@
-
 # Telemetry
 
 Telemetry is the process of collecting and transmitting data from remote or distributed systems to a central location for monitoring, analysis, and decision-making. In technology and cybersecurity, telemetry allows organizations to gather insights about system performance, security events, and user activity to ensure optimal operation and identify potential issues.

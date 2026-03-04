@@ -1,4 +1,3 @@
-
 # Rules of engagement (RoE)
 
 The rules of engagement (RoE) is a critical document that outlines the parameters and guidelines for a penetration test or security assessment. It ensures all parties involved understand the scope, purpose, and boundaries of the test, minimizing risks and maximizing effectiveness.

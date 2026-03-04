@@ -1,4 +1,3 @@
-
 # IEEE 802.1X
 
 IEEE 802.1X is a standard for port-based network access control, commonly used in Ethernet and Wi-Fi networks to authenticate devices before granting them access to the network. It defines how devices (known as supplicants) must authenticate themselves with a network switch, wireless access point (AP), or other network access devices (known as authenticator) using a centralized authentication server (typically via the RADIUS protocol).

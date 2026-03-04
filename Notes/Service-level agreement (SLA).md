@@ -1,4 +1,3 @@
-
 # Service-level agreement (SLA)
 
 [[🏷️Business agreement]]

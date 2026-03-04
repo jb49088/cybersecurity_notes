@@ -1,4 +1,3 @@
-
 # Dictionary attack
 
 [[🏷️Password attack]]

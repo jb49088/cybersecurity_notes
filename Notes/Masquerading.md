@@ -1,4 +1,3 @@
-
 # Masquerading
 
 Masquerading refers to a tactic where attackers disguise malicious actions or code to appear as legitimate, trusted processes or users. The goal is to evade detection by blending in with normal system activities, making it difficult for security tools or administrators to spot the malicious behavior.

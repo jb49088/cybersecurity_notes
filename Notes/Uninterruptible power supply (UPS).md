@@ -1,4 +1,3 @@
-
 # Uninterruptible power supply (UPS)
 
 An uninterruptible power supply (UPS) is a device that provides backup power to electronic systems in the event of a power failure. It helps to ensure that devices such as computers, servers, and network equipment continue to operate smoothly without interruption when the main power source is disrupted.

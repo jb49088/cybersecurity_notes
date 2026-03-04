@@ -1,4 +1,3 @@
-
 # Privilege escalation
 
 Privilege escalation is the process of exploiting a vulnerability or weakness in a system to gain higher levels of access than what was originally granted. It typically occurs in two forms: vertical and horizontal.

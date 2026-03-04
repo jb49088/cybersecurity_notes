@@ -1,4 +1,3 @@
-
 # Discretionary access control (DAC)
 
 [[🏷️Access control model]]

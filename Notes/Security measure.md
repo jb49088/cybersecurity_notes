@@ -1,4 +1,3 @@
-
 # Security measure
 
 **Security measures** are the practical implementations or actions derived from security controls. They are the actual steps taken to enforce security controls in a specific context. These measures are designed to protect an organization's data, systems, and physical assets from threats, vulnerabilities, and unauthorized access.

@@ -1,4 +1,3 @@
-
 # Multimedia message service (MMS)
 
 Multimedia message service (MMS) is a communication protocol that allows users to send multimedia content, such as images, videos, audio files, and formatted text, over mobile networks. It extends the capabilities of short message service (SMS) by enabling richer media exchange.
@@ -18,4 +17,3 @@ See also:
 - [[Short message service (SMS)]]
 - [[Instant messaging (IM)]]
 - [[Internet relay chat (IRC)]]
-

@@ -1,4 +1,3 @@
-
 # Session Fixation
 
 [[🏷️Web application attack]]
@@ -15,4 +14,3 @@ See also:
 
 - [[Session ID]]
 - [[Session hijacking]]
-

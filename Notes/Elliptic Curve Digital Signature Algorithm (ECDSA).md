@@ -1,4 +1,3 @@
-
 # Elliptic Curve Digital Signature Algorithm (ECDSA)
 
 Elliptic Curve Digital Signature Algorithm (ECDSA) is a cryptographic method used to generate and verify digital signatures. Based on elliptic curve cryptography (ECC), ECDSA provides strong security with shorter key sizes compared to traditional algorithms like RSA.

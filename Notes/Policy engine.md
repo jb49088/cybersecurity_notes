@@ -1,4 +1,3 @@
-
 # Policy engine
 
 A policy engine is the core component responsible for processing and applying security policies in an access control system. It evaluates rules, conditions, and contextual factors to determine whether access should be granted or denied. The policy engine is often embedded within a policy decision point (PDP) to automate security decisions.
@@ -20,4 +19,3 @@ See also:
 - [[Policy enforcement point (PEP)]]
 - [[Policy decision point (PDP)]]
 - [[Policy administrator]]
-

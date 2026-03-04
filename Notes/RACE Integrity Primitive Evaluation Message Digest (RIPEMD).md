@@ -1,4 +1,3 @@
-
 # RACE Integrity Primitives Evaluation Message Digest (RIPEMD)
 
 [[🏷️Hash function]]

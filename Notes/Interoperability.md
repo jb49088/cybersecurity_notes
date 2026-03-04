@@ -1,4 +1,3 @@
-
 # Interoperability
 
 Interoperability in the context of authentication refers to the ability of different systems, protocols, and technologies to work together effectively. This is important for ensuring smooth communication between different components in a larger identity and access management (IAM) system.

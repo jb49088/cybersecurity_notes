@@ -1,4 +1,3 @@
-
 # Internet of Things (IoT)
 
 [[🏷️Networking]]

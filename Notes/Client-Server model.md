@@ -1,4 +1,3 @@
-
 # Client-Server
 
 The client-server model (also known as server-based model) is better than the peer-to-peer model for large networks (say, more than 10 computers) that need a more secure environment and centralized control. Server-based networks use one or more dedicated, centralized servers. All administrative functions and resource sharing are performed from this point. This makes it easier to share resources, perform backups, and support an almost unlimited number of users.
@@ -16,4 +15,3 @@ Client-server resource models are the desired models for companies that are cont
 > If you are looking for an inexpensive, simple network with little setup required, and there is no need for the company to grow in the future, then the peer-to-peer network is the way to go. If you are looking for a network to support many users (more than 10 computers), strong security, and centralized administration, consider the server- based network your only choice.
 
 Whatever you decide, always take the time to plan your network before installing it. A network is not something you can just throw together. You don’t want to find out a few months down the road that the type of network you chose does not meet the needs of the company—this could be a time-consuming and costly mistake.
-

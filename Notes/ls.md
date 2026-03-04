@@ -1,4 +1,3 @@
-
 # ls
 
 [[🏷️Linux command]]
@@ -12,5 +11,4 @@ As you can see in the above image, using the command by itself without any argum
 `ls` accepts a lot of options. One of my favorite combinations is `-al`. Try it:
 
 ![[Image 2.97.png]]
-
 

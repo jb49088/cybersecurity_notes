@@ -1,4 +1,3 @@
-
 # Business continuity plan (BCP)
 
 A business continuity plan (BCP) is a strategic framework designed to ensure that an organization can maintain critical operations or quickly resume them during and after a disruptive event. Disruptions may include natural disasters, cyberattacks, system failures, or other emergencies that impact normal business functions.

@@ -1,4 +1,3 @@
-
 # Cyclical redundancy check (CRC)
 
 Cyclical redundancy check (CRC) is an error-detection technique used to ensure the integrity of data during transmission or storage. It works by generating a checksum value based on the data being sent, which the receiver uses to verify the data's accuracy.

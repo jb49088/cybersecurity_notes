@@ -1,5 +1,3 @@
-
 # World-writable file
 
 A file that can be altered by anyone in the world.
- 

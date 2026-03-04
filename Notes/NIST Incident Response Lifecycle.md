@@ -1,4 +1,3 @@
-
 # NIST Incident Response Lifecycle
 
 [[🏷️Framework]]

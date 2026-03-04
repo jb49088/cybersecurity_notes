@@ -1,4 +1,3 @@
-
 # Over the air (OTA)
 
 Over the air (OTA) refers to the wireless transmission of data, updates, or communications to devices without requiring a physical connection. OTA technology is widely used in mobile networks, software updates, and IoT devices to deliver new features, security patches, and configuration changes remotely.

@@ -1,4 +1,3 @@
-
 # Memory (RAM)
 
 [[🏷️PC hardware]]

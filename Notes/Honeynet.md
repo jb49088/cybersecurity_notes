@@ -1,4 +1,3 @@
-
 # Honeynet
 
 A honeynet is a collection of interconnected honeypots, designed to simulate an entire network environment rather than just a single system. It is used in cybersecurity to attract, observe, and analyze attackers by providing a more realistic and complex decoy environment. The goal of a honeynet is to deceive attackers into interacting with multiple interconnected systems that appear to be a legitimate, vulnerable network while being carefully monitored and isolated from real systems.

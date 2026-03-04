@@ -1,4 +1,3 @@
-
 # Risk appetite
 
 [[🏷️Risk management]]

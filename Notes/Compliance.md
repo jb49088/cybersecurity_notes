@@ -1,4 +1,3 @@
-
 # Compliance
 
 Compliance refers to the adherence to laws, regulations, standards, and policies that govern how organizations manage data, operations, and security. In the context of cybersecurity and data protection, compliance ensures that an organization meets legal and regulatory requirements to protect sensitive information, maintain ethical practices, and avoid legal penalties.

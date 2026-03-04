@@ -1,4 +1,3 @@
-
 # Race condition
 
 A race condition occurs when a program's behavior depends on the timing of events, such as the order in which certain processes or threads are executed. This can lead to unpredictable results, especially if two or more operations happen simultaneously and interfere with one another. Race conditions are particularly problematic when the program is not designed to handle such concurrency, leading to unintended consequences like data corruption, security vulnerabilities, or system crashes.

@@ -1,4 +1,3 @@
-
 # Hybrid Topology
 
 [[🏷️Network topology]]

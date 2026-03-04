@@ -1,4 +1,3 @@
-
 # User
 
 Refers to any individual who interacts with a computer system, network, or application. 
@@ -12,4 +11,3 @@ There are several types of users::
 - **Superuser:** These users are a special type of privileged users with the highest level of access and control.
   <br>
 - **External Users:** Users who access the system from outside the organization, such as customers or remote employees.
-

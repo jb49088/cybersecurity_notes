@@ -1,4 +1,3 @@
-
 # Destination network address translation (DNAT)
 
 Destination network address translation (DNAT) is a technique used in networking to modify the destination IP address of incoming packets as they pass through a router or firewall. It is commonly used to route traffic from external sources to internal servers or devices within a private network, making them accessible from the internet while keeping internal IP addresses hidden.

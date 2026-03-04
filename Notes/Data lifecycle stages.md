@@ -1,4 +1,3 @@
-
 # Data lifecycle stages
 
 The data lifecycle encompasses the various stages that data goes through from creation to disposal. Understanding these stages is crucial for effective data management, security, and compliance. Here are the typical stages of the data lifecycle:

@@ -1,4 +1,3 @@
-
 # Failover
 
 A failover strategy is critical because system failures are often inevitable—it's not a matter of if but when. The goal is to ensure that services continue to operate smoothly even when one component fails.

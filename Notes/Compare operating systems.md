@@ -1,4 +1,3 @@
-
 # Compare operating systems
 
 You previously explored why operating systems are an important part of how a computer works.  In this reading, you’ll compare some popular operating systems used today. You’ll also focus on the risks of using legacy operating systems.

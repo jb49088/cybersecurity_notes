@@ -1,4 +1,3 @@
-
 # Backout plan
 
 A backout plan is a predefined strategy for reverting to a previous state in case a planned change or deployment fails. It is an essential part of change management and risk mitigation.

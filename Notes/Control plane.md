@@ -1,4 +1,3 @@
-
 # Control plane
 
 The control plane is the component of a network or system responsible for managing and directing traffic and operational decisions. It handles tasks such as routing, policy enforcement, and signaling.

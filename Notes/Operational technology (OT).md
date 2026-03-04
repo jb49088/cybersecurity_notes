@@ -1,4 +1,3 @@
-
 # Operational technology (OT)
 
 Operational technology (OT) refers to the hardware and software systems used to monitor and control physical processes, devices, and infrastructure in industries such as manufacturing, energy, transportation, and utilities. OT is distinct from information technology (IT) in that it focuses on managing industrial operations rather than data processing.

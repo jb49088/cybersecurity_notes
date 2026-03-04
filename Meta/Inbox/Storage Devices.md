@@ -1,4 +1,3 @@
-
 # Storage Devices
 
 What good is a computer without a place to put everything? Storage media hold the files that the operating system needs to operate and the data that users need to save. What about saving to the cloud? The computers that make up the cloud, rather than the local computer, hold the storage media. The many different types of storage media differ in terms of their capacity (how much they can store), access time (how fast the computer can access the information), and the physical type of media used. 

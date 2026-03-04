@@ -1,4 +1,3 @@
-
 # Service set identifier (SSID)
 
 A service set identifier (SSID) is a unique name assigned to a wireless local area network (WLAN). The SSID helps identify and distinguish one network from another, allowing devices to connect to the appropriate network. When an access point (AP) broadcasts its SSID, nearby devices can see the network and choose to connect, assuming they have the correct credentials (if needed).

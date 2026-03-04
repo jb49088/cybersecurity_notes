@@ -1,4 +1,3 @@
-
 # Responsible disclosure program
 
 A responsible disclosure program is a structured approach to handling the discovery and reporting of security vulnerabilities. It ensures that vulnerabilities are addressed properly before they are made public, minimizing the risk of exploitation.

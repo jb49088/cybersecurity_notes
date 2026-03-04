@@ -1,4 +1,3 @@
-
 # wget
 
 [[🏷️Linux command]]

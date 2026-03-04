@@ -1,4 +1,3 @@
-
 # Mean time to failure (MTTF)
 
 Mean time to failure (MTTF) refers to the average time a system or component is expected to operate before it fails. Unlike MTBF, MTTF is used for non-repairable systems, such as a hard drive that is disposed of after it fails. It is an important metric in predicting the lifespan of individual components.

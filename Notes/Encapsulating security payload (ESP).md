@@ -1,4 +1,3 @@
-
 # Encapsulating security payload (ESP)
 
 [[🏷️Network protocol]]

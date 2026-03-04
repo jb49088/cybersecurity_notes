@@ -1,4 +1,3 @@
-
 # Static code analyzers
 
 Static code analyzers are tools that scan source code for potential security flaws and vulnerabilities without executing the program. They are commonly used in security testing to identify weaknesses early in the development process, helping to prevent security issues before the software is deployed.

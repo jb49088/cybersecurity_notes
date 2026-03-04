@@ -1,4 +1,3 @@
-
 # Adware
 
 [[🏷️Malware]] 

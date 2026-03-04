@@ -1,4 +1,3 @@
-
 # Shoulder Surfing
 
 [[🏷️Social engineering]]

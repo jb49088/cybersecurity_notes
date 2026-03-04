@@ -1,4 +1,3 @@
-
 # Subscriber identity module (SIM)
 
 A subscriber identity module (SIM) is a small, removable card used in mobile devices to securely store information that identifies and authenticates a subscriber on a cellular network. It enables users to connect to their carrier’s network for voice, text, and data services.
@@ -18,7 +17,6 @@ See also:
 
 - [[Mobile device management (MDM)]]
 - [[IEEE 802.11 (Wi-Fi)]]
-
 
 
 

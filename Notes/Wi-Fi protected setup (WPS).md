@@ -1,4 +1,3 @@
-
 # Wi-Fi protected setup (WPS)
 
 [[🏷️Networking]] [[🏷️Network security]]

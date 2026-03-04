@@ -1,4 +1,3 @@
-
 # Software-defined networking (SDN)
 
 Software-defined networking (SDN) is an approach to networking that separates the data plane, control plane, and management plane to provide more flexibility, scalability, and centralized control over the network infrastructure. This separation allows for the centralization of network management, which is ideal for dynamic environments like the cloud.

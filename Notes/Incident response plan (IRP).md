@@ -1,4 +1,3 @@
-
 # Incident response plan (IRP)
 
 [[🏷️Risk management]]

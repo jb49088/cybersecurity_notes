@@ -1,4 +1,3 @@
-
 # Compliance reporting
 
 Compliance reporting involves documenting and communicating an organization’s adherence to internal policies and external regulations. This ensures accountability, transparency, and compliance with legal or industry standards.

@@ -1,4 +1,3 @@
-
 # Tactics, techniques, and procedures (TTP)
 
 Tactics, techniques, and procedures (TTP) describe the methods used by threat actors to conduct cyber attacks. understanding TTP helps organizations anticipate, detect, and defend against security threats by analyzing how attackers operate.

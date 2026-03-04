@@ -1,4 +1,3 @@
-
 # Zero trust
 
 [[🏷️Principle]]

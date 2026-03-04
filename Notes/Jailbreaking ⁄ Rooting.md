@@ -1,4 +1,3 @@
-
 # Jailbreaking ⁄ Rooting
 
 Jailbreaking and rooting refer to processes that remove software restrictions imposed by the operating system on mobile devices. While they allow users to gain full administrative control (root access) over their devices, these processes also introduce significant security and stability risks.

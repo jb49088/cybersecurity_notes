@@ -1,4 +1,3 @@
-
 # AND
 
 [[🏷️SQL]]
@@ -23,4 +22,3 @@ WHERE supportrepid = 5 AND country = 'USA';
 | Julia     | Barnett  | jubarnett@gmail.com     | USA     |            5 |
 +-----------+----------+-------------------------+---------+--------------+
 ```
-

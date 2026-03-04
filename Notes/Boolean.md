@@ -1,4 +1,3 @@
-
 # Boolean
 
 [[🏷️Data type]]

@@ -1,4 +1,3 @@
-
 # Indicators of compromise (IoC)
 
 Indicators of compromise (IoC) are artifacts or patterns found in system logs, files, or network traffic that suggest a security breach or malicious activity has occurred. These can include things like unusual login activity, resource spikes, or missing logs, and they help security teams detect, analyze, and respond to potential threats.

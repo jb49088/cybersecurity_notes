@@ -1,4 +1,3 @@
-
 # Sideloading
 
 Sideloading is the process of installing applications on a device from sources other than its official app store, such as Apple's App Store or Google Play. It allows users to bypass platform restrictions and obtain apps that may not be available through official channels. While it provides flexibility, sideloading introduces significant security risks.

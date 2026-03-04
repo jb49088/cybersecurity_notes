@@ -1,4 +1,3 @@
-
 # Containerization
 
 Containerization is a technology that packages an application and its dependencies into a single, standardized unit of software called a container. This self-contained environment ensures the application can run consistently across various computing environments, from development to production.

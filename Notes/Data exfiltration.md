@@ -1,4 +1,3 @@
-
 # Data exfiltration
 
 Unauthorized transmission of [[Data|data]] from a system.

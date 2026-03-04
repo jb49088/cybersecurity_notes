@@ -1,4 +1,3 @@
-
 # Pass-the-Hash (PtH) attack
 
 [[🏷️Password attack]]

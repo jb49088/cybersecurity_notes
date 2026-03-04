@@ -1,4 +1,3 @@
-
 # Control objectives
 
 **Control objectives** are specific goals or outcomes that an organization aims to achieve through its internal controls, policies, and procedures. These objectives are designed to ensure that the organization’s operations are effective, compliant with regulations, and aligned with business goals. Control objectives focus on reducing risks, maintaining security, ensuring operational efficiency, and protecting assets.

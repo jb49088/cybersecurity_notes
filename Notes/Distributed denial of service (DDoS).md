@@ -1,4 +1,3 @@
-
 # Distributed Denial of Service (DDoS)
 
 [[🏷️Network attack]]

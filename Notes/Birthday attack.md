@@ -1,4 +1,3 @@
-
 # Birthday attack
 
 [[🏷️Cryptographic attack]]

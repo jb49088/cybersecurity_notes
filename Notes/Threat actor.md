@@ -1,4 +1,3 @@
-
 # Threat actor
 
 A threat actor is any individual, group, or organization that poses a threat to an organization’s security, systems, or data. Threat actors can originate from inside or outside the organization and have varying levels of skill and intent. Understanding the types and motivations of threat actors is critical for designing effective defenses.

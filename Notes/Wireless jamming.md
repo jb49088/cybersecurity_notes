@@ -1,4 +1,3 @@
-
 # Wireless jamming
 
 [[🏷️Network attack]]

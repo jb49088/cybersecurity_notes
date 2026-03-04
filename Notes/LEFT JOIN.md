@@ -1,4 +1,3 @@
-
 # LEFT JOIN
 
 [[🏷️SQL]]

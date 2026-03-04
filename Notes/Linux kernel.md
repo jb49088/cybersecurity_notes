@@ -1,4 +1,3 @@
-
 # Linux kernel
 
 [[🏷️OS component]]

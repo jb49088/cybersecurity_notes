@@ -1,4 +1,3 @@
-
 # Vishing
 
 [[🏷️Social engineering]]

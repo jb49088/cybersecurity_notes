@@ -1,4 +1,3 @@
-
 # Classless Inter-Domain Routing (CIDR)
 
 CIDR, or Classless Inter-Domain Routing, is a method for allocating IP addresses and routing Internet Protocol packets. It allows for more efficient use of IP addresses compared to the older classful network design.

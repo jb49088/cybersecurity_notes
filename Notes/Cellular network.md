@@ -1,4 +1,3 @@
-
 # Cellular network
 
 Cellular networks provide wireless communication by dividing geographical areas into smaller "cells," each served by its own antenna that transmits and receives signals within a specific frequency range. These networks enable mobile devices, such as smartphones, to communicate over long distances, supporting technologies like 4G and 5G, which offer high-speed internet and voice services.

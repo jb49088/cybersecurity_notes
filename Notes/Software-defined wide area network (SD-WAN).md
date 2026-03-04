@@ -1,4 +1,3 @@
-
 # Software-defined wide area network (SD-WAN)
 
 Software-defined wide area network (SD-WAN) is a networking technology that uses software-based controllers to manage and optimize wide area network (WAN) connections. SD-WAN enables organizations to enhance the performance, reliability, and security of their WAN by intelligently directing traffic across multiple connections, such as broadband, MPLS, and LTE.

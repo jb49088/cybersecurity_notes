@@ -1,4 +1,3 @@
-
 # Global positioning system (GPS)
 
 The Global positioning system (GPS) is a satellite-based navigation system that allows for precise location tracking and time synchronization anywhere on Earth. Originally developed by the U.S. Department of Defense, GPS is now widely used in consumer devices, vehicles, smartphones, and various industrial applications for navigation, mapping, and geolocation services.

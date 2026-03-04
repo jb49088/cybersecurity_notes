@@ -1,4 +1,3 @@
-
 # Resource reuse
 
 Resource reuse refers to the practice of allocating the same physical or virtual resources, such as memory, CPU, or storage, to different users or processes over time. While efficient for maximizing system utilization, improper management of resource reuse can lead to security risks, including data leakage and privilege escalation.

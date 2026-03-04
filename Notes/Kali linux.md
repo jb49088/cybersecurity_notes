@@ -1,4 +1,3 @@
-
 # Kali linux
 
 [[🏷️Linux distribution]]

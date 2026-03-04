@@ -1,4 +1,3 @@
-
 # More on filters with AND, OR, and NOT
 
 Previously, you explored how to add filters containing the `AND`, `OR`, and `NOT` operators to your SQL queries. In this reading, you'll continue to explore how these operators can help you refine your queries.

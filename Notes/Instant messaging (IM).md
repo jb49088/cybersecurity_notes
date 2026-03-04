@@ -1,4 +1,3 @@
-
 # Instant messaging (IM)
 
 Instant messaging (IM) is a real-time communication method that allows individuals or groups to send text-based messages over the internet. IM provides a fast, direct, and convenient way to communicate, often used for both personal and business communication.

@@ -1,4 +1,3 @@
-
 # Exposure factor (EF)
 
 [[🏷️Risk management]]

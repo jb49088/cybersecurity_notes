@@ -1,4 +1,3 @@
-
 # macOS
 
 [[🏷️Operating system]]

@@ -1,4 +1,3 @@
-
 # Bollards
 
 [[🏷️Physical security]]
@@ -12,4 +11,3 @@ While their primary function is to stop vehicles, bollards are designed to allow
 ---
 
 See also:
-

@@ -1,4 +1,3 @@
-
 # Fuzzing
 
 Fuzzing is a software testing technique that involves sending random, unexpected, or invalid input to an application to uncover vulnerabilities or weaknesses. This process helps identify flaws that could lead to crashes, errors, or security issues.

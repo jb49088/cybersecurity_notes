@@ -1,4 +1,3 @@
-
 # Initialization vector (IV)
 
 An Initialization Vector (IV) is a random or pseudorandom value used in cryptographic algorithms to ensure that identical plaintexts produce different ciphertexts when encrypted. The IV adds an element of unpredictability to encryption processes, enhancing security by preventing attackers from recognizing patterns in encrypted data.

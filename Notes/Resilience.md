@@ -1,4 +1,3 @@
-
 # Resilience
 
 Resilience refers to a system’s ability to maintain availability and recover quickly when something goes wrong. While no system is completely immune to failures, being resilient means having the capability to withstand disruptions and continue functioning as much as possible.

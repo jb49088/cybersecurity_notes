@@ -1,4 +1,3 @@
-
 # Penetration testing strategies
 
 There are three common penetration testing strategies: 

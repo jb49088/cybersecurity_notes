@@ -1,4 +1,3 @@
-
 # Domain name system (DNS)
 
 [[🏷️Network protocol]]

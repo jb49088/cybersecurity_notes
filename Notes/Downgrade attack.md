@@ -1,4 +1,3 @@
-
 # Downgrade attack
 
 [[🏷️Cryptographic attack]]

@@ -1,4 +1,3 @@
-
 # Relational database
 
 A relational database is a type of database model that stores and organizes data in tables, or "relations," that are linked by predefined relationships. In this model, data is structured into rows and columns, with each table representing a specific entity or concept. Each row, known as a **record**, contains data related to a single item, while each column, known as an **attribute**, contains data related to specific characteristics of that item. Relationships between tables are established through **foreign keys**, which reference primary keys in other tables.

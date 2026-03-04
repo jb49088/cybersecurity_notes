@@ -1,4 +1,3 @@
-
 # Federation
 
 [[🏷️Authentication methods]]

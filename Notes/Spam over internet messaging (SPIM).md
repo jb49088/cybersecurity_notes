@@ -1,4 +1,3 @@
-
 # Spam over internet messaging (SPIM)
 
 Spam over internet messaging (SPIM) refers to the practice of sending unsolicited, usually irrelevant or harmful, messages through instant messaging (IM) platforms. Similar to email spam, SPIM is typically used for advertising, phishing attempts, or spreading malware.

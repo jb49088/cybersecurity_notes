@@ -1,4 +1,3 @@
-
 # Data inventory
 
 A data inventory is a comprehensive listing of all the data that an organization stores, manages, or processes. It is a critical step in understanding data flows, ensuring compliance, and maintaining security.

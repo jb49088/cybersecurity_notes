@@ -1,4 +1,3 @@
-
 # Cybersecurity insurance
 
 Cybersecurity insurance is a type of coverage designed to protect organizations from financial losses resulting from cyberattacks, data breaches, and other security incidents. It can help cover various costs associated with a breach, such as recovery and legal expenses.

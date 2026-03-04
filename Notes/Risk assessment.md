@@ -1,4 +1,3 @@
-
 # Risk assessment
 
 Risk assessment is the process of identifying, analyzing, and prioritizing potential risks to an organization’s assets, operations, and objectives. It helps in determining the likelihood and impact of threats and guides decisions on mitigating those risks effectively.

@@ -1,4 +1,3 @@
-
 # Threat
 
 A **threat** in refers to any potential event or action that can exploit a vulnerability to cause harm to a computer system, network, or data. Threats can come in various forms, such as cyberattacks, natural disasters, or human error. They can be intentional (e.g., hacking or malware) or unintentional (e.g., accidental data loss or system misconfigurations). Understanding the nature of threats is crucial for developing strategies to protect systems and mitigate risks.

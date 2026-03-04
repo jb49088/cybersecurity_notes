@@ -1,4 +1,3 @@
-
 # Self-encrypting drives (SED)
 
 Self-encrypting drives (SED) are storage devices that automatically encrypt data at the hardware level, providing built-in security without requiring user intervention. SEDs use encryption algorithms to protect data at rest, ensuring that even if a drive is stolen or removed, its contents remain inaccessible without proper authentication.

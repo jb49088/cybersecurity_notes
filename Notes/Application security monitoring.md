@@ -1,4 +1,3 @@
-
 # Application security monitoring
 
 Application security monitoring involves tracking and analyzing application activity to identify potential security threats and ensure the application operates securely. It provides valuable insights into real-time activity, blocked threats, and unusual behavior.

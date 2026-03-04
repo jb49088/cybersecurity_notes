@@ -1,4 +1,3 @@
-
 # Vendor monitoring
 
 Vendor monitoring involves the continuous management and evaluation of vendor relationships to ensure that they meet contractual obligations and align with organizational standards. Effective vendor monitoring helps mitigate risks, maintain service quality, and adapt to changes over time.

@@ -1,4 +1,3 @@
-
 # Data types
 
 Data comes in various types, each with unique characteristics and security requirements. Understanding these types is essential for effective protection.

@@ -1,4 +1,3 @@
-
 # Application programming interface (API)
 
 An application programming interface (API) is a set of rules and protocols that allow different software applications to communicate with each other. APIs define how requests and responses should be structured, enabling developers to integrate external services, retrieve data, and automate processes without needing to understand the internal workings of a system.
@@ -14,6 +13,5 @@ APIs are essential for modern software development, enabling seamless integratio
 ---
 
 See also:
-
 
 

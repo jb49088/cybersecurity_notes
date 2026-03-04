@@ -1,4 +1,3 @@
-
 # Cloud-managed access points
 
 [[🏷️Networking]]

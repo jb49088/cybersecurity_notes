@@ -1,4 +1,3 @@
-
 # The OWASP Top 10
 
 To prepare for future risks, security professionals need to stay informed. Previously, you learned about the CVE® list, an openly accessible dictionary of known vulnerabilities and exposures. The CVE® list is an important source of information that the global security community uses to share information with each other.

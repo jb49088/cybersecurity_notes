@@ -1,4 +1,3 @@
-
 # Security guards
 
 [[🏷️Physical security]]
@@ -12,4 +11,3 @@ In addition to deterring unauthorized access, security guards play a proactive r
 --- 
 
 See also:
-

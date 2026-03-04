@@ -1,4 +1,3 @@
-
 # Internet protocol (IP)
 
 [[🏷️Network protocol]]

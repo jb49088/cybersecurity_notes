@@ -1,4 +1,3 @@
-
 # Message Digest 5 (MD5)
 
 [[🏷️Hash function]]

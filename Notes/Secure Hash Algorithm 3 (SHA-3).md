@@ -1,4 +1,3 @@
-
 # Secure Hash Algorithm 3 (SHA-3)
 
 [[🏷️Hash function]]

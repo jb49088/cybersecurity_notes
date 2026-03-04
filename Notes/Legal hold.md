@@ -1,4 +1,3 @@
-
 # Legal hold
 
 A legal hold is a process used to preserve relevant information for legal purposes, typically in anticipation of litigation. It ensures that potentially important data is not altered or destroyed during an investigation or legal proceedings.

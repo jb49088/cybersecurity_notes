@@ -1,4 +1,3 @@
-
 # Jump server
 
 [[🏷️Networking]] [[🏷️Network security]]
@@ -24,4 +23,3 @@ See also:
 - [[Virtual private network (VPN)]]
 - [[Secure shell (SSH)]]
 - [[Remote desktop protocol (RDP)]]
-

@@ -1,4 +1,3 @@
-
 # Smurf attack
 
 [[🏷️Network attack]]
@@ -17,4 +16,3 @@ See also:
 - [[Internet Control Message Protocol (ICMP)]]
 - [[Amplification attack]]
 - [[Reflection attack]]
-

@@ -1,4 +1,3 @@
-
 # Indicators of attack (IoA)
 
 **Indicators of attack** (**IoA**) are the series of observed events that indicate a real-time incident.  IoAs focus on identifying the behavioral evidence of an attacker, including their methods and intentions.

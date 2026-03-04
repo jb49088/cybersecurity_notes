@@ -1,4 +1,3 @@
-
 # Network access control (NAC)
 
 Network access control (NAC) is a security solution that enforces policies for device access to a network. It helps ensure that only authorized and compliant devices can connect to the network, enhancing security by preventing unauthorized access.

@@ -1,4 +1,3 @@
-
 # Switched port analyzer (SPAN)
 
 Switched port analyzer (SPAN) is a feature found in network switches that allows for the monitoring of network traffic. It enables the duplication (or mirroring) of network traffic from one or more ports to another port, where it can be analyzed without affecting the original traffic flow. SPAN is typically used for network monitoring, performance analysis, and troubleshooting.

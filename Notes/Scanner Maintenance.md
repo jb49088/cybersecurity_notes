@@ -1,4 +1,3 @@
-
 # Scanner Maintenance
 
 As with any technology product, vulnerability management solutions require maintenance. Administrators should conduct regular maintenance of their vulnerability scanner to ensure that the scanning software and vulnerability feeds remain up-to-date.
@@ -17,6 +16,5 @@ Scanning systems themselves aren't immune from vulnerabilities. As shown in Imag
 Security researchers discover new vulnerabilities every week, and vulnerability scanners can only be effective against these vulnerabilities if they receive frequent updates to their plug-ins. Administrators should configure their scanners to retrieve new plug-ins on a regular basis, preferably daily. Fortunately, as shown in Image 2.48, this process is easily automated.
 
 ![[Image 2.48.png]]
-
 
 

@@ -1,4 +1,3 @@
-
 # Internet message access protocol secure (IMAPS)
 
 [[🏷️Network protocol]]

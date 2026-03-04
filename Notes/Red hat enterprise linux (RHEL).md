@@ -1,4 +1,3 @@
-
 # Red hat enterprise linux (RHEL)
 
 [[🏷️Linux distribution]]

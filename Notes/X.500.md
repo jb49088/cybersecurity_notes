@@ -1,4 +1,3 @@
-
 # X.500
 
 X.500 is a set of standards defined by the International Telecommunication Union (ITU) for directory services. It establishes a framework for organizing and accessing directory information using a hierarchical structure.

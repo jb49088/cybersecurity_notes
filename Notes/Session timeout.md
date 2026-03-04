@@ -1,4 +1,3 @@
-
 # Session Timeout
 
 Session timeout is a security feature used to automatically end a user's session after a specified period of inactivity. This reduces the risk of unauthorized access if a user leaves their device unattended or forgets to log out. When the session timeout period is reached, the user is typically logged out or required to re-authenticate before continuing their activity.

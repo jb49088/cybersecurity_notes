@@ -1,4 +1,3 @@
-
 # Brand impersonation
 
 [[🏷️Social engineering]]

@@ -1,4 +1,3 @@
-
 # DNS poisoning
 
 [[🏷️Network attack]]
@@ -15,4 +14,3 @@ See also:
 - [[Domain hijacking]]
 - [[On-path attack]]
 - [[DNS over HTTPS (DoH)]]
-

@@ -1,4 +1,3 @@
-
 # Managed service provider (MSP)
 
 A managed service provider (MSP) is a third-party organization that remotely manages an organization's IT infrastructure, systems, and end-user services. MSPs provide ongoing support, monitoring, and maintenance to ensure optimal performance, security, and reliability of IT systems. They help businesses streamline operations, reduce downtime, and focus on their core functions by outsourcing IT needs.

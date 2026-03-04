@@ -1,4 +1,3 @@
-
 # Separation of duties (SoD)
 
 [[🏷️Principle]]

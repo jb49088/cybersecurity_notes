@@ -1,4 +1,3 @@
-
 # Star topology
 
 [[🏷️Network topology]]

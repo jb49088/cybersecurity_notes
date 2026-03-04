@@ -1,4 +1,3 @@
-
 # Remote Access Trojan (RAT)
 
 [[🏷️Malware]] 

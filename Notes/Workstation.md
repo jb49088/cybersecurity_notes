@@ -1,4 +1,3 @@
-
 # Workstations
 
 Workstations are the computers on which the network users do their work, performing activities such as word processing, database design, graphic design, email, and other office or personal tasks. A workstation is basically an everyday computer, except for the fact that it is connected to a network that offers additional resources. Workstations can range from diskless computer systems to desktops or laptops. In network terms, workstations are also known as client computers. As clients, they are allowed to communicate with the servers in the network to use the network’s resources.
@@ -31,6 +30,5 @@ To the client, the server may be nothing more than just another drive letter. Ho
 > >
 >
 > The moral of the story? Don’t assume a computer’s role simply by looking at it. You need to understand what is on it and its role on the network to make that determination.
-
 
 

@@ -1,5 +1,4 @@
 
-
 # Phases of pen tests
 
 Penetration testing is a systematic approach to evaluating the security of systems and networks by simulating attacks. This process is divided into three key phases: reconnaissance, running the test, and cleaning up.

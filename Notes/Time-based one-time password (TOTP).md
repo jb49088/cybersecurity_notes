@@ -1,4 +1,3 @@
-
 # Time-based one-time password (TOTP)
 
 Time-based one-time password (TOTP) is a security mechanism used for two-factor authentication (2FA) that generates a unique, temporary code based on the current time and a shared secret key. It enhances security by requiring users to enter a time-sensitive code in addition to their standard login credentials.

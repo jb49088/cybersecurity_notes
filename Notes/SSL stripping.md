@@ -1,4 +1,3 @@
-
 # SSL stripping
 
 [[🏷️Cryptographic attack]]

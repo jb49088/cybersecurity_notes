@@ -1,4 +1,3 @@
-
 # Certificate authority (CA)
 
 [[🏷️Cryptography]]

@@ -1,4 +1,3 @@
-
 # Recovery testing
 
 Recovery testing is a crucial aspect of disaster recovery planning, where organizations test their systems and processes to ensure they can recover from a disaster or disruptive event. This proactive approach helps identify potential weaknesses and ensure that response protocols are effective when an actual incident occurs.

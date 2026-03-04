@@ -1,4 +1,3 @@
-
 # URL scanning
 
 URL scanning is a method used to control access to online content by analyzing and categorizing Uniform Resource Locators (URLs), also referred to as Uniform Resource Identifiers (URIs). It is a fundamental feature in modern network security tools.
@@ -18,4 +17,3 @@ See also:
 - [[Uniform resource identifier (URI)]]
 - [[Content filtering]]
 - [[DNS filtering]]
-

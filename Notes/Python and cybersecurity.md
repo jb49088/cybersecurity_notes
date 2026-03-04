@@ -1,4 +1,3 @@
-
 # Python and cybersecurity
 
 Security professionals use a variety of tools. One of those tools is computer programming. Programming is used to create a specific set of instructions for a computer to execute tasks.

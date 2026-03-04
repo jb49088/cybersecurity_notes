@@ -1,4 +1,3 @@
-
 # Domain-based message authentication, reporting, and conformance (DMARC)
 
 [[🏷️Network protocol]]

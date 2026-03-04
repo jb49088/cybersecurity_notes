@@ -1,4 +1,3 @@
-
 # Annual loss expectancy (ALE)
 
 Annual loss expectancy (ALE) is a risk management metric used to estimate the potential financial loss an organization may face due to specific risks or threats over the course of a year. ALE helps organizations assess the cost of security incidents, enabling them to prioritize resources and implement effective mitigation strategies.

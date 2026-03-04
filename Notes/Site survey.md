@@ -1,4 +1,3 @@
-
 # Site survey
 
 Site surveys are crucial for understanding the current wireless environment and ensuring effective network deployment. The goal is to evaluate existing conditions and make informed decisions to optimize wireless coverage, avoid interference, and plan for future needs.

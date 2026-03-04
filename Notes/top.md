@@ -1,4 +1,3 @@
-
 # top
 
 [[🏷️Linux command]]
@@ -31,5 +30,4 @@ The `top` command in Linux is a system monitoring tool that displays real-time i
 > This will display a single summary screen of system resource usage.
 
 It’s a powerful and flexible tool for monitoring system activity and troubleshooting performance issues.
-
 

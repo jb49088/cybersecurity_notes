@@ -1,4 +1,3 @@
-
 # Sender policy framework (SPF)
 
 [[🏷️Network protocol]]

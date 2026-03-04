@@ -1,4 +1,3 @@
-
 # Security assertion markup language (SAML)
 
 [[🏷️Network protocol]]

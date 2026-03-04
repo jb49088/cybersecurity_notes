@@ -1,4 +1,3 @@
-
 # Ransomware
 
 [[🏷️Malware]] 
@@ -11,4 +10,3 @@ See also:
 
 - [[Malware]]
 - [[Trojan Horse]]
-

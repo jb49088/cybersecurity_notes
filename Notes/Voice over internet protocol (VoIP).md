@@ -1,4 +1,3 @@
-
 # Voice over Internet Protocol (VoIP)
 
 [[🏷️Network protocol]]

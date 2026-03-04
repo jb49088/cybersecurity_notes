@@ -1,4 +1,3 @@
-
 # OCSP stapling
 
 OCSP stapling is a method used to improve the efficiency and scalability of certificate revocation checking during SSL/TLS handshakes. Normally, the online certificate status protocol (OCSP) requires a client to query the certificate authority (CA) directly to check if a certificate is still valid. However, this can become inefficient, especially for high-traffic websites.
@@ -13,5 +12,4 @@ See also:
 - [[Certificate authority (CA)]]
 - [[Digital certificate]]
 - [[Certificate revocation list (CRL)]]
-
 

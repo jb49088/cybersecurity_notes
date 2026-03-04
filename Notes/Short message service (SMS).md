@@ -1,4 +1,3 @@
-
 # Short message service (SMS)
 
 Short message service (SMS) is a text messaging protocol that allows users to send and receive short text-based messages over mobile networks. It is one of the most widely used forms of communication and operates independently of internet access.

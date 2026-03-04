@@ -1,4 +1,3 @@
-
 # User acceptance testing (UAT)
 
 User acceptance testing (UAT) is the final phase of the software testing process, where end users validate whether a system meets business requirements and is ready for deployment. UAT ensures that the software functions as intended in real-world scenarios before it is officially released.

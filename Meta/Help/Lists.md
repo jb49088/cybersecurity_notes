@@ -1,4 +1,3 @@
-
 - First list item
 - Second list item
 - Third list item
@@ -20,4 +19,3 @@
 	- [ ] Subtask 1
 - [ ] Task item 2
 	- [ ] Subtask 1
-

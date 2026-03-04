@@ -1,4 +1,3 @@
-
 # False rejection rate (FRR)
 
 The false rejection rate (FRR) is a performance metric used in biometric systems that measures the likelihood of an authorized user being incorrectly denied access. It refers to the probability that the system will falsely reject a valid biometric input, mistakenly identifying it as an unauthorized or invalid entry. In simpler terms, FRR indicates how often a legitimate user is wrongly rejected by the system.

@@ -1,4 +1,3 @@
-
 # Data packet
 
 A data packet is a fundamental unit of information that travels across a network from one device to another. When data is transmitted, it's encapsulated in a packet that includes details on its origin, destination, and content. This information is specified through a port number, which helps computers manage and prioritize network traffic.

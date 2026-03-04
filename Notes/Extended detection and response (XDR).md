@@ -1,4 +1,3 @@
-
 # Extended detection and response (XDR)
 
 Extended detection and response (XDR) is an advanced evolution of endpoint detection and response (EDR) that improves the scope and effectiveness of threat detection and response across multiple security layers. XDR integrates data from endpoints, networks, and the cloud to provide more comprehensive threat intelligence and faster incident response.

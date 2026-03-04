@@ -1,4 +1,3 @@
-
 # Virtual private cloud (VPC)
 
 A virtual private cloud (VPC) is a secure, isolated section of a public cloud where users can deploy resources, such as virtual machines, storage, and databases, with full control over networking and security settings. VPCs provide the benefits of cloud computing while maintaining a high level of privacy and customization.

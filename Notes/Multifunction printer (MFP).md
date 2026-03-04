@@ -1,4 +1,3 @@
-
 # Multifunction printer (MFP)
 
 A multifunction printer (MFP) is a device that combines multiple document-handling capabilities, such as printing, scanning, copying, and faxing, into a single unit. MFPs are widely used in offices and homes to consolidate equipment, reduce costs, and improve workflow efficiency.

@@ -1,4 +1,3 @@
-
 # Rivest Cipher 5 (RC5)
 
 [[🏷️Symmetric encryption algorithm]]

@@ -1,4 +1,3 @@
-
 # Annual rate of occurrence (ARO)
 
 Annual rate of occurrence (ARO) is a metric used to estimate how often a specific risk or threat is likely to occur within a year. ARO helps organizations determine the frequency of certain incidents, which is a crucial factor in calculating the **Annual Loss Expectancy (ALE)** and understanding the potential financial impact of risks.

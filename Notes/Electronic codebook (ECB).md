@@ -1,4 +1,3 @@
-
 # Electronic codebook (ECB)
 
 Electronic codebook (ECB) is a mode of operation for block ciphers in cryptography. It is the simplest and most widely used mode for encrypting data in fixed-size blocks. In ECB mode, the plaintext is divided into blocks of equal size, and each block is encrypted independently using the same encryption key.

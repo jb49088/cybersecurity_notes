@@ -1,4 +1,3 @@
-
 # Bridge
 
 [[🏷️Networking device]]

@@ -1,4 +1,3 @@
-
 # Exclusive or (XOR)
 
 Exclusive OR (XOR) is a logical operation that outputs true or 1 only when the two input values are different. If both inputs are the same, the result is false or 0. XOR is commonly used in cryptography, error detection, and digital circuits due to its properties that provide useful functionality for various applications.

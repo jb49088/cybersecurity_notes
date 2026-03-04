@@ -1,4 +1,3 @@
-
 # Platform as a service (PaaS)
 
 Platform as a service (PaaS) is a cloud computing model that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the underlying infrastructure. PaaS is designed to simplify the process of developing and deploying applications by providing pre-configured environments and tools needed to build, test, deploy, and update software applications.

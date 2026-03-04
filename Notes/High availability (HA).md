@@ -1,4 +1,3 @@
-
 # High availability (HA)
 
 High availability (HA) refers to systems or services designed to remain operational and accessible at all times, minimizing downtime and ensuring continuity. It goes beyond simple redundancy by aiming for seamless failover and uninterrupted access.

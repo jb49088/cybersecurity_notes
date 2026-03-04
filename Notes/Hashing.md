@@ -1,4 +1,3 @@
-
 # Hashing
 
 [[🏷️Cryptography]] [[🏷️Password security]]
@@ -22,4 +21,3 @@ See also:
 - [[Digital signature]]
 - [[Checksum]]
 - [[Salting]]
-

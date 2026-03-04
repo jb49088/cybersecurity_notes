@@ -1,4 +1,3 @@
-
 # Pretty good privacy (PGP)
 
 Pretty good privacy (PGP) is an encryption program that provides secure communication and data storage. It uses a combination of symmetric and asymmetric cryptography to protect email messages, files, and other sensitive information.

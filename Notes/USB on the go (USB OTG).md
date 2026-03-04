@@ -1,4 +1,3 @@
-
 # USB on the go (USB OTG)
 
 USB on the go (USB OTG) is a specification that allows USB devices, such as smartphones and tablets, to act as a host and communicate directly with other USB peripherals, such as flash drives, keyboards, or game controllers. Unlike standard USB connections, which typically require a computer as the host, USB OTG enables devices to switch between host and peripheral roles dynamically.

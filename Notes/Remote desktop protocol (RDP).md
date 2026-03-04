@@ -1,4 +1,3 @@
-
 # Remote desktop protocol (RDP)
 
 [[🏷️Network protocol]]

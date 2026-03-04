@@ -1,4 +1,3 @@
-
 # Key management system (KMS)
 
 A key management system (KMS) is a system used to securely generate, store, manage, and track encryption keys throughout their lifecycle. KMS ensures that keys are kept safe, rotated regularly, and associated with the appropriate users and resources. Key management is crucial for maintaining the security of encrypted data and preventing unauthorized access.

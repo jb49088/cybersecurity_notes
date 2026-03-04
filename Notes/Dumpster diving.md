@@ -1,4 +1,3 @@
-
 # Dumpster Diving
 
 [[🏷️Social engineering]]

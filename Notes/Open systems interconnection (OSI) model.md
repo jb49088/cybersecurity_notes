@@ -1,4 +1,3 @@
-
 # Open systems interconnection (OSI) model
 
 The open systems interconnection (OSI) model is a conceptual framework used to understand and describe how different network protocols interact within a communication system. It divides the process of communication into seven distinct layers, each of which handles specific tasks related to network operations. The OSI model helps standardize networking functions to enable interoperability between different systems and technologies.

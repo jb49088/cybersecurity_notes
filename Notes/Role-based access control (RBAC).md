@@ -1,4 +1,3 @@
-
 # Role-based access control (RBAC)
 
 [[🏷️Access control model]]

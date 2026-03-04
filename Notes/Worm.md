@@ -1,4 +1,3 @@
-
 # Worm
 
 [[🏷️Malware]] 

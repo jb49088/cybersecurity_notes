@@ -1,4 +1,3 @@
-
 # Business partners agreement (BPA)
 
 [[🏷️Business agreement]]

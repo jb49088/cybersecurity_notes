@@ -1,4 +1,3 @@
-
 # Data retention
 
 Data retention involves managing and storing data for specified periods to meet organizational, regulatory, and operational requirements. A robust data retention strategy ensures data availability while balancing storage efficiency and compliance.

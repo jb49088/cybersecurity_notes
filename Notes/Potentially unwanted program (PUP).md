@@ -1,4 +1,3 @@
-
 # Potentially unwanted program (PUP)
 
 A potentially unwanted program (PUP) refers to software that, while not necessarily malicious, can negatively impact the performance or user experience of a device. PUPs typically include adware, toolbars, or other programs that users may unintentionally install, often bundled with other software during downloads. While these programs may not be outright harmful like viruses or malware, they can lead to unwanted behavior, such as slowing down the system, displaying intrusive ads, or changing browser settings.

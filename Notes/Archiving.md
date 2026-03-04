@@ -1,4 +1,3 @@
-
 # Archiving
 
 Archiving involves the long-term storage of data to ensure accessibility and compliance with legal, regulatory, or organizational requirements. Proper archiving practices are critical for supporting operations, maintaining records, and mitigating risks associated with data breaches or loss.

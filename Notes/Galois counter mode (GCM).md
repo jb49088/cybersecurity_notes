@@ -1,4 +1,3 @@
-
 # Galois counter mode (GCM)
 
 Galois counter mode (GCM) is a mode of operation used in symmetric-key cryptography to provide both data confidentiality and integrity. GCM combines the CTM (Counter Mode) of encryption with the Galois Message Authentication Code (GMAC) to provide authenticated encryption. This mode is commonly used in protocols such as TLS (Transport Layer Security) and IPsec to secure communication over the internet.

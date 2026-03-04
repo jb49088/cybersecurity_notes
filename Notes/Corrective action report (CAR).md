@@ -1,4 +1,3 @@
-
 # Corrective action report (CAR)
 
 A corrective action report (CAR) is a formal document used to address and resolve non-conformities, problems, or issues identified during audits, inspections, or assessments. The CAR process ensures that root causes are identified and corrective actions are implemented to prevent the recurrence of the same issue.
@@ -19,5 +18,4 @@ See also:
 - [[Root cause analysis (RCA)]]
 - [[Security Audits]]
 - 
-
 

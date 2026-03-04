@@ -1,4 +1,3 @@
-
 # Memorandum of agreement (MOA)
 
 [[🏷️Business agreement]]

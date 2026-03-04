@@ -1,4 +1,3 @@
-
 # Information privacy∶ Regulations and compliance
 
 Security and privacy have a close relationship. As you may recall, people have the right to control how their personal data is collected and used. Organizations also have a responsibility to protect the information they are collecting from being compromised or misused. As a security professional, you will be highly involved in these efforts.

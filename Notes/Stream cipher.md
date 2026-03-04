@@ -1,4 +1,3 @@
-
 # Stream cipher
 
 A stream cipher is a symmetric encryption method that encrypts data one bit or byte at a time. Instead of processing fixed-size blocks like block ciphers, stream ciphers generate a continuous keystream that is XORed with the plaintext to produce ciphertext.

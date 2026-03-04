@@ -1,4 +1,3 @@
-
 # Crossover error rate (CER)
 
 The crossover error rate (CER) is a performance metric used in the evaluation of biometric systems, specifically referring to the point where the false acceptance rate (FAR) and false rejection rate (FRR) are equal. In other words, CER represents the error rate at which a biometric system is equally likely to incorrectly accept an unauthorized user (false acceptance) as it is to incorrectly reject an authorized user (false rejection).

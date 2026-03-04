@@ -1,4 +1,3 @@
-
 # Shim
 
 A shim refers to a small piece of code used to alter the behavior of a software application or system, typically by modifying how the software interacts with other components or libraries. Shims are often used to fix compatibility issues, implement new features, or redirect function calls without altering the underlying codebase.

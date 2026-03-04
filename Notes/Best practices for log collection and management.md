@@ -1,4 +1,3 @@
-
 # Best practices for log collection and management
 
 In this reading, you’ll examine some best practices related to log management, storage, and protection. Understanding the best practices related to log collection and management will help improve log searches and better support your efforts in identifying and resolving security incidents.

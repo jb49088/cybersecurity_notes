@@ -1,4 +1,3 @@
-
 # Secure socket tunneling protocol (SSTP)
 
 [[🏷️Network protocol]]

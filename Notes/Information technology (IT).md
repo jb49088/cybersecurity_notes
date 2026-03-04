@@ -1,4 +1,3 @@
-
 # Information technology (IT)
 
 Information technology (IT) refers to the use of computers, networks, software, and other digital systems to process, store, and transmit data. IT is a critical component of modern businesses, governments, and daily life, enabling communication, automation, and data management across various industries.

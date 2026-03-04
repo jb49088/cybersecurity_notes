@@ -1,4 +1,3 @@
-
 # Attack surface
 
 The attack surface of a system refers to the total number of potential entry points or vulnerabilities through which an attacker can exploit the system. Just like how a house has various entry points, such as doors, windows, and basements, a system can have multiple pathways that could be targeted by malicious actors.

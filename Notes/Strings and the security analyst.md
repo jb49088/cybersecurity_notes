@@ -1,4 +1,3 @@
-
 # Strings and the security analyst
 
 The ability to work with strings is important in the cybersecurity profession. Previously, you were introduced to several ways to work with strings, including functions and methods. You also learned how to extract elements in strings using bracket notation and indices. This reading reviews these concepts and explains more about using the `.index()` method. It also highlights examples of string data you might encounter in a security setting.
@@ -135,4 +134,3 @@ The `.index()` method returns the index `7` because it's where the substring `"t
 
 > [!Note]
 > When using the `.index()` method to search for substrings, you need to be careful. In the previous example, you want to locate the instance of `"tshah"`. If you search for just `"ts"`, Python will return `0` instead of `7` because `"ts"` is also a substring of `"tsnow"`.
-

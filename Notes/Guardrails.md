@@ -1,4 +1,3 @@
-
 # Guardrails
 
 Guardrails refer to predefined boundaries or constraints designed to keep actions, processes, or systems within safe and acceptable limits. In the context of cybersecurity, IT infrastructure, or even business operations, guardrails are implemented to reduce risk, prevent mistakes, and ensure compliance by providing automated or manual oversight.

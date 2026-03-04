@@ -1,4 +1,3 @@
-
 # Non-disclosure agreement (NDA)
 
 [[🏷️Business agreement]]
@@ -15,4 +14,3 @@ NDAs are commonly used in business negotiations, partnerships, and employment ag
 ---
 
 See also:
-

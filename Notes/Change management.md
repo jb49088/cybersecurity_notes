@@ -1,4 +1,3 @@
-
 # Change management
 
 [[🏷️Risk management]]

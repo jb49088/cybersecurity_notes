@@ -1,4 +1,3 @@
-
 # Capacity planning
 
 Capacity planning is the process of aligning available resources with anticipated demand to ensure that an organization can meet its operational needs without over-provisioning or under-resourcing. It involves forecasting future demand for services or products and determining the appropriate infrastructure to handle that demand.

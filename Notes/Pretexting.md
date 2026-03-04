@@ -1,4 +1,3 @@
-
 # Pretexting
 
 [[🏷️Social engineering]]

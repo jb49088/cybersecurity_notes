@@ -1,4 +1,3 @@
-
 # Content management system (CMS)
 
 A content management system (CMS) is a software application that enables users to create, manage, and publish digital content, typically for websites. CMS platforms provide a user-friendly interface, allowing individuals without technical expertise to manage content efficiently.

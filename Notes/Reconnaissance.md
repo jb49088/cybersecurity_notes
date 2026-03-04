@@ -1,4 +1,3 @@
-
 # Reconnaissance
 
 Reconnaissance is the process of gathering information about a target system, network, or organization, typically as the first step in the planning phase of a cyber attack or security assessment. It involves collecting data to understand the target’s vulnerabilities, network architecture, and potential entry points. Reconnaissance can be divided into two primary types: passive reconnaissance and active reconnaissance.

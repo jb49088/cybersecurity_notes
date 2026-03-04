@@ -1,4 +1,3 @@
-
 # Mean time between failures (MTBF)
 
 [[🏷️Risk management]]

@@ -1,4 +1,3 @@
-
 # Counter mode (CTM)
 
 Counter mode (CTM) is a mode of operation used in symmetric-key encryption algorithms, such as AES, to convert a block cipher into a stream cipher. In CTM, encryption is performed by generating a sequence of "counter" values, which are then encrypted and XORed with the plaintext to produce the ciphertext. This approach allows for parallelization and high performance, making it ideal for use in high-speed networks or systems requiring low latency.

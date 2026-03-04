@@ -1,4 +1,3 @@
-
 # Secure Hash Algorithm 2 (SHA-2)
 
 [[🏷️Hash function]]

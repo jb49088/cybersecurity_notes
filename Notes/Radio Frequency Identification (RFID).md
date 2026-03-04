@@ -1,4 +1,3 @@
-
 # Radio Frequency Identification (RFID)
 
 Radio Frequency Identification (RFID) is a technology that uses electromagnetic fields to wirelessly transfer data between a tag (or badge) and a reader. It is commonly used for access control, asset tracking, and identification purposes. While RFID offers convenience and efficiency, it can also be vulnerable to certain security risks.

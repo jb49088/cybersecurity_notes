@@ -1,4 +1,3 @@
-
 # Multipartite virus
 
 [[🏷️Malware]] 
@@ -10,4 +9,3 @@ A multipartite virus is a type of virus that can infect a system through multipl
 See also:
 
 - [[Virus]]
-

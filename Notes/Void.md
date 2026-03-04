@@ -1,4 +1,3 @@
-
 # Void
 
 [[🏷️Data type]]

@@ -1,4 +1,3 @@
-
 # Port address translation (PAT)
 
 Port address translation (PAT) is a technique used in networking to map multiple private IP addresses to a single public IP address or a few public IP addresses. It is commonly used in conjunction with network address translation (NAT) to allow devices on a local network to access the internet while using a limited number of public IP addresses.

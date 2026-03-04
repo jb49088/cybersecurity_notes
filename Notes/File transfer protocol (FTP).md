@@ -1,4 +1,3 @@
-
 # File transfer protocol (FTP)
 
 [[🏷️Network protocol]]

@@ -1,4 +1,3 @@
-
 # Risk identification
 
 Risk identification is the first step in the risk management process, where potential threats or vulnerabilities are discovered and assessed. This process helps organizations understand the risks they face, enabling them to take proactive measures to mitigate or eliminate them before they result in significant harm.

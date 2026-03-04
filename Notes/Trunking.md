@@ -1,4 +1,3 @@
-
 # Trunking
 
 Trunking is a networking technique used to carry multiple types of traffic between switches or routers over a single network link. It is particularly common in scenarios where multiple Virtual Local Area Networks (VLANs) need to communicate across a network. Rather than creating separate physical links for each VLAN, trunking allows a single physical connection to carry traffic from multiple VLANs by using tagging to differentiate the traffic.

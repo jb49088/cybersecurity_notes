@@ -1,4 +1,3 @@
-
 # PKCS 12 (P12)
 
 PKCS 12 (Public-Key Cryptography Standards #12), commonly referred to as P12, is a binary file format used to store cryptographic objects, including private keys, public key certificates, and certificate chains in a single, secure container. It is widely used for securely exchanging cryptographic credentials between systems.

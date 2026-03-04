@@ -1,4 +1,3 @@
-
 # Ticket granting ticket (TGT)
 
 A ticket granting ticket (TGT) is a key component of the Kerberos authentication protocol, used to authenticate users securely without repeatedly requesting their credentials. When a user logs in, the authentication server (AS) issues a TGT, which serves as proof of authentication and allows the user to request access to various network services without needing to re-enter credentials.
@@ -19,5 +18,4 @@ See also:
 
 - [[Kerberos]]
 - [[Single sign-on (SSO)]]
-
 

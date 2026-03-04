@@ -1,4 +1,3 @@
-
 # Key rotation
 
 Key rotation is the practice of periodically replacing cryptographic keys to enhance security and reduce the risk of key compromise. This proactive approach ensures that even if a key is exposed, its usefulness is limited to a short time frame, mitigating potential damage from breaches or unauthorized access.

@@ -1,4 +1,3 @@
-
 # Digital subscriber line (DSL)
 
 Digital Subscriber Line (DSL) is a high-speed internet connection technology that uses existing telephone lines to transmit digital data. Unlike traditional dial-up connections, DSL allows for simultaneous voice and data transmission over the same line, offering faster speeds and more reliable connections.

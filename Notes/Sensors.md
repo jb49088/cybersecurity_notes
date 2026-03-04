@@ -1,4 +1,3 @@
-
 # Sensors
 
 [[🏷️Physical security]]
@@ -17,4 +16,3 @@ These sensors are often integrated into broader security systems, such as alarm 
 ---
 
 See also:
-

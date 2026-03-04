@@ -1,4 +1,3 @@
-
 # Password policy
 
 [[🏷️Policy]]
@@ -10,6 +9,5 @@ A password policy is a set of rules and guidelines that define how passwords sho
 See also:
 
 - [[Password]]
-
 
 

@@ -1,4 +1,3 @@
-
 # Honeyfiles
 
 A honeyfile is a cybersecurity technique that involves placing decoy files on a system or network with the intention of luring attackers into interacting with them. These files are designed to appear valuable or interesting to cybercriminals, yet they are carefully monitored and isolated to prevent any actual damage. Honeyfiles are commonly used to detect unauthorized access or malicious activity, especially in environments where sensitive data is stored.

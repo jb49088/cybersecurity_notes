@@ -1,4 +1,3 @@
-
 # Perfect forward secrecy (PFS)
 
 Perfect forward secrecy (PFS) is a cryptographic feature that ensures the security of encrypted communications by generating unique session keys for each exchange. Even if the server’s private key is compromised, past communications remain secure because the session keys cannot be retroactively decrypted.

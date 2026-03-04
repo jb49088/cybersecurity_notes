@@ -1,4 +1,3 @@
-
 # Structured exception handler (SEH)
 
 Structured exception handler (SEH) is a mechanism used in programming, particularly in Windows environments, to manage errors or exceptions that occur during program execution. SEH enables developers to define structured responses to different types of errors, providing more robust error handling and ensuring the program can recover or terminate gracefully.

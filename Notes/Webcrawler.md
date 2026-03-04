@@ -1,4 +1,3 @@
-
 # Webcrawler
 
 A webcrawler is a tool used to automatically browse and index websites, mapping out their structure and identifying various resources. In security contexts, webcrawlers are employed to scan websites for potential vulnerabilities, misconfigurations, and other risks. By crawling a site, these tools can help identify areas that may be prone to common attacks such as SQL injection or Cross-Site Scripting (XSS).

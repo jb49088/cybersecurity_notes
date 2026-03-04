@@ -1,4 +1,3 @@
-
 # Universal resource locator (URL)
 
 A universal resource locator (URL) is a reference used to locate a resource on the internet. It specifies the protocol, domain, and path required to access a web page or other resource.

@@ -1,4 +1,3 @@
-
 # Process of Attack Simulation and Threat Analysis (PASTA)
 
 [[🏷️Framework]]

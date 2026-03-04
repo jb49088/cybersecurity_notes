@@ -1,4 +1,3 @@
-
 # Tailgating
 
 [[🏷️Social engineering]]

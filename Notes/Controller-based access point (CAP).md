@@ -1,4 +1,3 @@
-
 # Controller-based access point (CAP)
 
 [[🏷️Networking device]] [[🏷️Networking]]

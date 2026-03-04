@@ -1,4 +1,3 @@
-
 # Zombie
 
 In cybersecurity, a zombie refers to a compromised computer or device that is controlled remotely by an attacker, often without the knowledge of the device's legitimate user. Zombies are typically part of a botnet, a network of infected machines used for malicious purposes such as launching Distributed Denial of Service (DDoS) attacks, spreading malware, or sending spam.

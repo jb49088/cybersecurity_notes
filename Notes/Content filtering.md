@@ -1,4 +1,3 @@
-
 # Content filtering
 
 Content filtering is a security process used to regulate and monitor the flow of data, ensuring compliance with policies and protecting users from inappropriate or malicious content.

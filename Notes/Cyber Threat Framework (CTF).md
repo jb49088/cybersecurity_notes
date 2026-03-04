@@ -1,4 +1,3 @@
-
 # Cyber Threat Framework (CTF)
 
 [[🏷️Framework]]
@@ -26,4 +25,3 @@ The Cyber Threat Framework, developed by the U.S. Office of the Director of Nati
 	- **Exfiltration:** Stealing sensitive data from the target environment.
 	- **Impact:** Disrupting, degrading, or destroying target systems or data, often through techniques like ransomware, data wiping, or denial-of-service attacks.
 	- **Execution:** Carrying out specific commands or actions to achieve the intended effect on the target.
-

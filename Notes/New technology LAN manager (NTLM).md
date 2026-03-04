@@ -1,4 +1,3 @@
-
 # New technology LAN manager (NTLM)
 
 [[🏷️Network protocol]]

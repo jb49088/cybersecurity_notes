@@ -1,4 +1,3 @@
-
 # Bluesnarfing
 
 Bluesnarfing is a type of Bluetooth attack where an attacker gains unauthorized access to a device, such as a smartphone or laptop, to steal data. This can include contacts, messages, emails, and other sensitive information. Bluesnarfing exploits vulnerabilities in poorly secured Bluetooth connections, often targeting devices with outdated security settings.

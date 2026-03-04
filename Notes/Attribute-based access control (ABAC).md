@@ -1,4 +1,3 @@
-
 # Attribute-based access control (ABAC)
 
 [[🏷️Access control model]]
@@ -21,4 +20,3 @@ See also:
 - [[Mandatory access control (MAC)]]
 - [[Role-based access control (RBAC)]]
 - [[Rule-based access control (RBAC)]]
-

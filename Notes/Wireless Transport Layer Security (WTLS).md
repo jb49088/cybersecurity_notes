@@ -1,4 +1,3 @@
-
 # Wireless Transport Layer Security (WTLS)
 
 [[🏷️Network protocol]]

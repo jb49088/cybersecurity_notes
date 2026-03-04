@@ -1,4 +1,3 @@
-
 # Secure the cloud
 
 [[Cloud computing]] is a model for allowing convenient and on-demand network access to a shared pool of configurable computing resources. These resources can be configured and released with minimal management effort or interaction with the service provider.

@@ -1,4 +1,3 @@
-
 # The value of documentation
 
 Hi there. Previously, you learned how an incident handler's journal is used for documenting the 5 W's of an incident: who, what, where, when, and why an incident occurred. In this section, we'll continue our discussion on documentation by exploring the different types of documentation, the importance of effective documentation, and we'll finish off with the discussion on documentation tools.

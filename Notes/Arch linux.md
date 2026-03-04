@@ -1,4 +1,3 @@
-
 # Arch linux
 
 [[🏷️Linux distribution]]

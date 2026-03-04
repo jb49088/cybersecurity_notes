@@ -1,4 +1,3 @@
-
 # Security orchestration, automation, response (SOAR)
 
 Security orchestration, automation, and response (SOAR) is a set of technologies and processes that enable organizations to streamline and automate security operations. SOAR platforms integrate multiple security tools, workflows, and data sources to improve response times, reduce manual effort, and enhance overall security efficiency.

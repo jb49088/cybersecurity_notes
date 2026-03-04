@@ -1,4 +1,3 @@
-
 # Internet relay chat (IRC)
 
 Internet relay chat (IRC) is an early real-time text-based communication protocol that allows users to join channels or chat rooms to exchange messages. IRC provides a platform for group discussions or private conversations across the internet, enabling people to connect instantly in a shared space.

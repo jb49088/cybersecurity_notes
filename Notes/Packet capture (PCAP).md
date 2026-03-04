@@ -1,4 +1,3 @@
-
 # Packet capture (PCAP)
 
 Packet capture (PCAP) is a valuable tool for analyzing network traffic, helping to identify issues, verify security measures, and troubleshoot applications.

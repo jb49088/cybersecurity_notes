@@ -1,4 +1,3 @@
-
 # Integrity
 
 [[🏷️Principle]]

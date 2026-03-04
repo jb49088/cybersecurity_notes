@@ -1,4 +1,3 @@
-
 # Incident Response Policy
 
 [[🏷️Policy]]

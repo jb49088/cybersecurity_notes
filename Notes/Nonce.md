@@ -1,4 +1,3 @@
-
 # Nonce
 
 A nonce (short for "number used once") is a random or unique value that is used in cryptographic operations to ensure security by preventing replay attacks, ensuring freshness, and adding randomness to computations. A nonce is typically used only once in a specific context and often has no inherent meaning outside of its role in securing communications.

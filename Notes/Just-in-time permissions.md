@@ -1,4 +1,3 @@
-
 # Just-in-time permissions
 
 Just-in-time permissions are a security strategy that grants users elevated access rights only for a limited time. This approach reduces the risks associated with persistent administrative privileges, aligning with the principle of least privilege and narrowing the scope of potential security breaches.

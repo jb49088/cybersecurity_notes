@@ -1,4 +1,3 @@
-
 # Linux architecture
 
 Understanding the Linux architecture is important for a security analyst. When you understand how a system is organized, it makes it easier to understand how it functions. In this reading, you’ll learn more about the individual components in the Linux architecture. A request to complete a task starts with the user and then flows through applications, the shell, the Filesystem Hierarchy Standard, the kernel, and the hardware.
@@ -28,4 +27,3 @@ The kernel is the component of the Linux OS that manages processes and memory. I
 ## Hardware
 
 The hardware is the physical components of a computer. You might be familiar with some hardware components, such as hard drives or CPUs. Hardware is categorized as either peripheral or internal.
-

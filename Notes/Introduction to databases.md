@@ -1,4 +1,3 @@
-
 # Introduction to databases
 
 Our modern world is filled with data and that data almost always guides us in making important decisions. When working with large amounts of data, we need to know how to store it, so it's organized and quick to access and process. The solution to this is through databases, and that's what we're exploring in this video!

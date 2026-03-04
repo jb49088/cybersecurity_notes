@@ -1,4 +1,3 @@
-
 # Layer 2 tunneling protocol (L2TP)
 
 [[🏷️Network protocol]]

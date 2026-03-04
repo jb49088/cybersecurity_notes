@@ -1,4 +1,3 @@
-
 # FULL OUTER JOIN
 
 [[🏷️SQL]]

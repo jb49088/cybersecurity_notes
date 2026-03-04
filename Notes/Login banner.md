@@ -1,4 +1,3 @@
-
 # Login banner
 
 A login banner is a message displayed to users before they authenticate into a system or network. It typically appears on the login screen or terminal interface and serves as an important communication tool for organizations. Login banners are often used to inform users of the system's usage policies, legal disclaimers, or security reminders. Login banners serve a few purposes:

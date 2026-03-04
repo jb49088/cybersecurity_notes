@@ -1,4 +1,3 @@
-
 # Digital signature algorithm (DSA)
 
 The Digital Signature Algorithm (DSA) is a cryptographic algorithm used for creating digital signatures. It ensures the authenticity and integrity of a message, file, or transaction by providing proof that the message was signed by a legitimate entity and has not been altered. DSA is widely used in various security protocols, including SSL/TLS and digital certificates.

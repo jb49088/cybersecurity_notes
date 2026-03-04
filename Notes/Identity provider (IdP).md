@@ -1,4 +1,3 @@
-
 # Identity provider (IdP)
 
 An identity provider (IdP) is a service or system that manages and authenticates user identities and provides authorization information to other services or applications. The IdP stores user credentials and is responsible for validating user identity before granting access to protected resources.

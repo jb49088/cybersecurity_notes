@@ -1,4 +1,3 @@
-
 # Simultaneous authentication of equals (SAE)
 
 [[🏷️Key exchange protocol]]

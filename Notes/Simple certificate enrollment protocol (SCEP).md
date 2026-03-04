@@ -1,4 +1,3 @@
-
 # Simple certificate enrollment protocol (SCEP)
 
 [[🏷️Network protocol]]

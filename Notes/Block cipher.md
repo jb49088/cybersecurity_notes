@@ -1,4 +1,3 @@
-
 # Block cipher
 
 A block cipher is a symmetric encryption method that processes data in fixed-size blocks, typically 64 or 128 bits, rather than one bit or byte at a time. It encrypts each block of plaintext using the same key to produce a corresponding block of ciphertext.

@@ -1,4 +1,3 @@
-
 # Infrastructure as a service (IaaS)
 
 Infrastructure as a service (IaaS) is a cloud computing model that provides virtualized computing resources over the internet. IaaS delivers computing infrastructure, including servers, storage, networking, and other essential components, as an on-demand service. This eliminates the need for businesses to own and maintain physical servers, data centers, and other hardware, providing a more flexible, scalable, and cost-effective solution for managing IT infrastructure.

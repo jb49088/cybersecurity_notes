@@ -1,4 +1,3 @@
-
 # Registration authority (RA)
 
 A registration authority (RA) is an entity in a public key infrastructure (PKI) responsible for verifying the identity of individuals or organizations requesting digital certificates. It acts as an intermediary between certificate applicants and a certification authority (CA), ensuring that only authorized entities receive certificates.

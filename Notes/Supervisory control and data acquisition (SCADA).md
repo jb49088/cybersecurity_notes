@@ -1,4 +1,3 @@
-
 # Supervisory control and data acquisition (SCADA)
 
 SCADA is a control system architecture used to monitor and manage industrial processes, infrastructure, and facilities. It integrates hardware and software components to collect real-time data, process it, and provide actionable insights for operators. SCADA systems are essential for automating processes in industries such as manufacturing, energy, water treatment, and transportation.

@@ -1,4 +1,3 @@
-
 # Microservice architecture
 
 Microservice architecture is a software design model that breaks an application into a collection of smaller, independent services. Each microservice handles a specific function and communicates with others through Application Programming Interfaces (APIs), which act as the "glue" binding the services together into a cohesive application.

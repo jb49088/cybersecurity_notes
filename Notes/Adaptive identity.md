@@ -1,4 +1,3 @@
-
 # Adaptive identity
 
 Adaptive identity refers to a dynamic approach to managing and authenticating user identities based on contextual factors. It leverages real-time analytics and machine learning to adjust authentication requirements or access levels.

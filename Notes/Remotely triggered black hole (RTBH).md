@@ -1,4 +1,3 @@
-
 # Remotely triggered black hole (RTBH)
 
 Remotely triggered black hole (RTBH) is a network security technique used to mitigate distributed denial-of-service (DDoS) attacks by redirecting malicious traffic away from a targeted network. RTBH allows network administrators to quickly filter or "blackhole" harmful traffic, preventing it from reaching the victim's infrastructure.

@@ -1,4 +1,3 @@
-
 # Software as a service (SaaS)
 
 Software as a service (SaaS) is a cloud computing model in which software applications are delivered over the internet as a service. Instead of installing and maintaining software on local machines or servers, users access the software through a web browser. This eliminates the need for organizations or individuals to worry about installation, maintenance, updates, and infrastructure management.

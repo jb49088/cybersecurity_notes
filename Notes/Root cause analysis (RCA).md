@@ -1,4 +1,3 @@
-
 # Root cause analysis (RCA)
 
 Root cause analysis (RCA) is a methodical approach used to identify the underlying cause(s) of a problem or issue. It focuses on finding the root cause, rather than just addressing the symptoms, to ensure that corrective actions are effective and long-lasting. RCA is commonly used in problem-solving, incident management, and continuous improvement processes across various industries.

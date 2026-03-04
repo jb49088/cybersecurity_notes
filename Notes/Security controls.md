@@ -1,4 +1,3 @@
-
 # Security controls
 
 Security controls are measures or mechanisms put in place to mitigate risks and protect the confidentiality, integrity, and availability of information systems and data. 

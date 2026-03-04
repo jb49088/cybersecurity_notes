@@ -1,4 +1,3 @@
-
 # Key Derivation Function (KDF)
 
 A Key Derivation Function (KDF) is a cryptographic algorithm used to generate one or more secret keys from an initial input, such as a password, passphrase, or master key. KDFs enhance the security of the derived keys by introducing additional computational complexity and randomness, making it harder for attackers to guess or brute-force the original input.

@@ -1,4 +1,3 @@
-
 # Risk report
 
 [[🏷️Risk management]]

@@ -1,4 +1,3 @@
-
 # Power Supply
 
 [[🏷️PC hardware]]

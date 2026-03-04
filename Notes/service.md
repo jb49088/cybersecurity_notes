@@ -1,4 +1,3 @@
-
 # service
 
 [[🏷️Linux command]]
@@ -19,4 +18,3 @@ As you can see in the image, the `ssh` server is running on our system.
 
 > [!info] Note
 > The `service` command can behave differently depending on the init system in use. Various init systems, such as `systemd`, `SysVinit`, `Upstart`, and `runit`, have their own commands and methods for managing services. While `service` provides a convenient interface on some systems, always check the specific documentation for the init system you are working with for accurate command usage.
-

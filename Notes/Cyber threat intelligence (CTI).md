@@ -1,4 +1,3 @@
-
 # Cyber threat intelligence (CTI)
 
 Cyber threat intelligence (CTI) is the process of collecting, analyzing, and applying information about cyber threats to improve security decision-making. CTI helps organizations anticipate, detect, and respond to threats more effectively by understanding attacker tactics, motives, and capabilities.

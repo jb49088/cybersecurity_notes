@@ -1,4 +1,3 @@
-
 # Wireless Local Area Network (WLAN)
 
 [[🏷️Network type]]

@@ -1,4 +1,3 @@
-
 # Generator
 
 A generator provides long-term power backup during outages, ensuring continued operation of essential systems. It operates by converting stored fuel, such as diesel or gas, into electricity. However, generators require proper fuel storage and maintenance to function effectively.

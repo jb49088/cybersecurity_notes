@@ -1,4 +1,3 @@
-
 # Secure web gateway (SWG)
 
 [[🏷️Network security]]

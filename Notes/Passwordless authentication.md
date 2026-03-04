@@ -1,4 +1,3 @@
-
 # Passwordless authentication
 
 Passwordless authentication is a method of verifying a user's identity without requiring a traditional password. By eliminating the need for passwords, this approach addresses many security issues related to poor password practices, such as weak passwords, password reuse, and insecure implementations.
@@ -16,5 +15,4 @@ See also:
 
 - [[Password]]
 - [[Authentication]]
-
 

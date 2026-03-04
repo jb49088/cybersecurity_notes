@@ -1,4 +1,3 @@
-
 # Snapshot
 
 A snapshot is a backup technique that has gained popularity, particularly in virtual machine (VM) environments, and is highly useful in cloud environments. It allows for the capture of an instant backup of an entire system, preserving its current configuration and data at a specific moment in time. This process provides an efficient way to safeguard the system and its settings without the need for a full backup.

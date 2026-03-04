@@ -1,4 +1,3 @@
-
 # Recovery point objective (RPO)
 
 [[🏷️Risk management]]

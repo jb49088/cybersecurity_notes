@@ -1,4 +1,3 @@
-
 # whereis & whatis
 
 [[🏷️Linux command]]

@@ -1,4 +1,3 @@
-
 # Metamorphic virus
 
 [[🏷️Malware]] 
@@ -11,4 +10,3 @@ See also:
 
 - [[Virus]]
 - [[Polymorphic virus]]
-

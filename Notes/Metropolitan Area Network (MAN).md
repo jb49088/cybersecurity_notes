@@ -1,4 +1,3 @@
-
 # Metropolitan Area Network (MAN)
 
 [[🏷️Network type]]

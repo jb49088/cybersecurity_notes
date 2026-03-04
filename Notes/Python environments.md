@@ -1,4 +1,3 @@
-
 # Python environments
 
 You can run Python through a variety of environments. These environments include notebooks, integrated development environments (IDEs), and the command line. This reading will introduce you to these environments. It will focus primarily on notebooks because this is how you'll interact with Python in this course.

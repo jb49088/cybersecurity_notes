@@ -1,4 +1,3 @@
-
 # Boot sector virus
 
 [[🏷️Malware]] 

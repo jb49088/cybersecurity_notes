@@ -1,4 +1,3 @@
-
 # Web application firewall (WAF)
 
 [[🏷️Web application security]]

@@ -1,4 +1,3 @@
-
 # Recovery agent (RA)
 
 [[🏷️Risk management]] [[🏷️Cryptography]]

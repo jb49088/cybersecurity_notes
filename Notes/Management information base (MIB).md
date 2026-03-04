@@ -1,4 +1,3 @@
-
 # Management information base (MIB)
 
 A management information base (MIB) is a collection of objects or variables that are managed by network management protocols like SNMP (Simple Network Management Protocol). It serves as a structured database that defines the data points, metrics, and statistics of devices on a network, such as routers, switches, servers, and other networked devices. The MIB organizes this information into a hierarchical format and allows network administrators to access and manage device data effectively.

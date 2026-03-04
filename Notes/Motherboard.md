@@ -1,4 +1,3 @@
-
 # Motherboard
 
 [[🏷️PC hardware]]

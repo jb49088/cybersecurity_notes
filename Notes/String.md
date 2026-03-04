@@ -1,4 +1,3 @@
-
 # String
 
 [[🏷️Data type]]

@@ -1,4 +1,3 @@
-
 # AAA Server
 
 An AAA (Authentication, Authorization, and Accounting) server is a network server responsible for managing access control to network resources. It provides a centralized method for validating users, determining their permissions, and logging their activities. The AAA framework is commonly used in conjunction with protocols like RADIUS or TACACS+ to ensure secure and efficient access management in corporate and service provider environments.

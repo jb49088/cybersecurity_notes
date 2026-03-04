@@ -1,4 +1,3 @@
-
 # Aggregate functions
 
 [[🏷️SQL]]

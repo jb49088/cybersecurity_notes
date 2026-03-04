@@ -1,5 +1,4 @@
 
-
 # Network security applications
 
 This section of the course covers the topic of network hardening and monitoring. Each device, tool, or security strategy put in place by security analysts further protects—or hardens—the network until the network owner is satisfied with the level of security. This approach of adding layers of security to a network is referred to as [[Defense in depth|defense in depth]].

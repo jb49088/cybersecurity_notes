@@ -1,4 +1,3 @@
-
 # Artificial Intelligence (AI)
 
 **Artificial Intelligence (AI)** refers to the simulation of human intelligence in machines that are programmed to think, learn, and perform tasks that typically require human cognition. AI systems use algorithms and data to analyze information, recognize patterns, make decisions, and improve their performance over time.

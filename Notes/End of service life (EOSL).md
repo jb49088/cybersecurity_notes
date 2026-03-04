@@ -1,4 +1,3 @@
-
 # End of service life (EOSL)
 
 End of service life (EOSL) is the point at which a manufacturer or provider stops offering all forms of support for a product, including maintenance, updates, and technical assistance. EOSL follows end of life (EOL) and marks the complete cessation of service. Hardware and software products at this stage are considered fully unsupported.

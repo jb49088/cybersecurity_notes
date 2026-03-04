@@ -1,4 +1,3 @@
-
 # Public key cryptography standards (PKCS)
 
 Public key cryptography standards (PKCS) are a set of cryptographic standards developed by RSA Security to ensure interoperability in public key infrastructure (PKI) implementations. These standards define protocols for encryption, digital signatures, and key management, enabling secure communication and data protection.

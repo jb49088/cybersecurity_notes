@@ -1,4 +1,3 @@
-
 # Server clustering
 
 Server clustering is a technology that combines two or more servers into a unified system that appears and operates as a single large server. This setup enhances capacity, availability, and reliability, making it an essential feature in environments requiring high-performance computing or uninterrupted service. To end users, the cluster appears as a single device, abstracting the complexity of its multiple components.

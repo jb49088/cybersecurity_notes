@@ -1,4 +1,3 @@
-
 # Object identifier (OID)
 
 An object identifier (OID) is a globally unique identifier used to name objects in a hierarchical structure. OIDs are primarily used in digital security certificates, network management protocols, and directory services to uniquely identify entities such as attributes, objects, and protocols.
@@ -19,4 +18,3 @@ See also:
 - [[Public key Infrastructure (PKI)]]
 - [[Simple network management protocol (SNMP)]]
 - [[Management information base (MIB)]]
-

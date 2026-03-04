@@ -1,4 +1,3 @@
-
 # Spear Phishing
 
 [[🏷️Social engineering]]

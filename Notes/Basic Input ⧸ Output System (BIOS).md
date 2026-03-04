@@ -1,4 +1,3 @@
-
 # Basic Input ⧸ Output System (BIOS)
 
 BIOS stands for Basic Input/Output System. It is firmware embedded on a motherboard chip in a computer. The BIOS performs several crucial functions during the startup process, including:

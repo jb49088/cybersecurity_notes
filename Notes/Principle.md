@@ -1,4 +1,3 @@
-
 # Principle
 
 A principle is a fundamental truth, rule, or belief that serves as the foundation for behavior, decision-making, and actions within an organization or system. In the context of security, ethics, or governance, principles guide individuals and organizations in achieving goals, managing risks, and maintaining integrity. Principles are often the starting point for creating policies, strategies, and procedures that govern an organization’s operations.

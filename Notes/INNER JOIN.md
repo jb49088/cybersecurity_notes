@@ -1,4 +1,3 @@
-
 # INNER JOIN
 
 [[🏷️SQL]]
@@ -38,5 +37,4 @@ ON employees.device_id = machines.device_id;
 
 > [!note]
 > In the example query, `username` and `operating_system` only appear in one of the two tables, so they are written with just the column name. On the other hand, because `device_id` appears in both tables, it's necessary to indicate which one to return by specifying both the table and column name (`employees.device_id`).
-
 

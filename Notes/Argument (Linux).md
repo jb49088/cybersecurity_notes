@@ -1,4 +1,3 @@
-
 # Argument (Linux)
 
 Specific information needed by a [[Command|command]].

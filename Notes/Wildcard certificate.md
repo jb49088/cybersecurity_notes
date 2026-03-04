@@ -1,4 +1,3 @@
-
 # Wildcard certificate
 
 A wildcard certificate is an SSL/TLS certificate that secures a domain and all of its subdomains using a single certificate. Instead of requiring separate certificates for each subdomain, a wildcard certificate simplifies management and reduces costs.

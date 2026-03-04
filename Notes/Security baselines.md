@@ -1,4 +1,3 @@
-
 # Security baselines
 
 Security baselines establish the foundational security requirements for an application or environment, ensuring consistency and protection across all instances. They define critical parameters such as firewall settings, patch levels, and operating system file versions. These baselines are vital for maintaining a secure environment and often require frequent updates to address emerging threats.

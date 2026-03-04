@@ -1,5 +1,4 @@
 
-
 # Policy administrator
 
 A policy administrator is responsible for defining, managing, and updating access control policies in an organization. This role ensures that security policies align with business requirements, compliance standards, and risk management strategies.
@@ -21,5 +20,4 @@ See also:
 - [[Policy enforcement point (PEP)]]
 - [[Policy decision point (PDP)]]
 - [[Policy engine]]
-
 

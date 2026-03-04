@@ -1,4 +1,3 @@
-
 # Near field communication (NFC)
 
 Near Field Communication (NFC) is a short-range wireless technology that enables devices to exchange data when brought close together, typically within a range of 4 inches (10 cm). NFC operates at high frequencies (13.56 MHz) and is commonly used for contactless payments, public transportation, ticketing systems, and pairing devices.

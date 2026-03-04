@@ -1,4 +1,3 @@
-
 # Logic bomb
 
 [[🏷️Malware]] 

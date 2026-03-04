@@ -1,4 +1,3 @@
-
 # Adversarial tactics, techniques, and common knowledge (ATT&CK)
 
 Adversarial tactics, techniques, and common knowledge (ATT&CK) is a framework created by MITRE to document and categorize the behaviors, tactics, and techniques used by cyber adversaries. It provides a structured way to understand, detect, and respond to cyber threats, helping organizations strengthen their defenses against real-world attacks.

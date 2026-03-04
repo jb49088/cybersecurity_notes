@@ -1,4 +1,3 @@
-
 # One-Time Password (OTP)
 
 [[🏷️Authentication methods]]
@@ -25,5 +24,4 @@ In addition to application and hardware tokens, a third common implementation of
 In situations where hardware and software tokens as well as SMS aren't suitable, some organizations will implement a phone call–based push notification. Push notifications are messages sent to a user to inform them of an event, in this case an authentication attempt. If users respond to the phone call with the requested validation— typically by pushing a specific button on the keypad—the authentication can proceed. Phone calls suffer from a number of issues as an authentication factor, including lower speed, which can cause issues with login timeouts; the potential for hijacking of calls via a variety of means; and additional costs for the implementing organization due to phone call costs. 
 
 Although one-time passwords that are dynamically generated as they are needed are more common, at times, there is a need for a one-time password that does not require a device or connectivity. In those cases, static codes remain a useful option. Static codes are also algorithmically generated like other one-time passwords but are pre- generated and often printed or stored in a secure location. This creates a new risk model, which is that the paper they are printed on could be stolen, or if they are stored electronically, the file they're stored in could be lost or accessed. This would be equivalent to losing a button- press activated token or an unlocked smartphone, so static codes can be dangerous if they are not secured properly.
-
 

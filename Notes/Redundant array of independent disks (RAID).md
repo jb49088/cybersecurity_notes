@@ -1,4 +1,3 @@
-
 # Redundant array of independent disks (RAID)
 
 Redundant array of independent disks (RAID) is a data storage technology that combines multiple physical disk drives into a single logical unit to improve performance, redundancy, and/or capacity. RAID uses various techniques like data striping, mirroring, and parity to enhance data availability, fault tolerance, and overall storage efficiency.

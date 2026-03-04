@@ -1,4 +1,3 @@
-
 # Warm site
 
 A warm site is a disaster recovery solution that offers a balance between the minimal setup of a cold site and the fully operational readiness of a hot site. It provides enough infrastructure to enable relatively quick recovery while being more cost-effective than a hot site.

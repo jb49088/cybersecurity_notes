@@ -1,4 +1,3 @@
-
 # Ubuntu
 
 [[🏷️Linux distribution]]

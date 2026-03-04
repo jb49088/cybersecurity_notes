@@ -1,4 +1,3 @@
-
 # Statement of work (SOW)
 
 [[🏷️Business agreement]]

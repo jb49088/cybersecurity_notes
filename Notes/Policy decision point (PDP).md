@@ -1,4 +1,3 @@
-
 # Policy decision point (PDP)
 
 A policy decision point (PDP) is a security component responsible for evaluating access requests and determining whether they should be allowed or denied based on predefined policies. The PDP acts as the "brain" of a policy-based security model by analyzing rules, attributes, and contextual information to make real-time access control decisions.
@@ -20,5 +19,4 @@ See also:
 - [[Policy enforcement point (PEP)]]
 - [[Policy engine]]
 - [[Policy administrator]]
-
 

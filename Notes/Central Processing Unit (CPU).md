@@ -1,4 +1,3 @@
-
 # Central Processing Unit (CPU)
 
 [[🏷️PC hardware]]

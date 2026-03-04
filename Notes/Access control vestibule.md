@@ -1,4 +1,3 @@
-
 # Access control vestibule
 
 [[🏷️Physical security]]

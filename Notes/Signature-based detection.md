@@ -1,4 +1,3 @@
-
 # Signature-based detection
 
 Signatures are specific patterns or characteristics used to detect known threats in cybersecurity. These patterns could be based on known malware, attacks, or vulnerabilities, and they play a key role in identifying threats by matching incoming data or activity to a database of known attack signatures.

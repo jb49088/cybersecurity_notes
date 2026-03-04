@@ -1,4 +1,3 @@
-
 # Main distribution frame (MDF)
 
 A main distribution frame (MDF) is a central point in a building’s telecommunications infrastructure where all the network and communication wiring converge. It serves as the primary connection hub for external and internal communication lines, distributing signals to different areas within a facility.

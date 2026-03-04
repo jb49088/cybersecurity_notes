@@ -1,4 +1,3 @@
-
 # Asset tracking
 
 Asset tracking involves maintaining a detailed inventory of all physical and digital assets within an organization to ensure accurate management, security, and lifecycle monitoring.

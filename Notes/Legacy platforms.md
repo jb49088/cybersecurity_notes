@@ -1,4 +1,3 @@
-
 # Legacy platforms
 
 Legacy platforms refer to outdated systems, applications, or technologies that are still in use but are no longer supported or updated. These platforms may be essential for an organization’s operations, but they often pose significant security, performance, and compatibility risks.

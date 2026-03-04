@@ -1,4 +1,3 @@
-
 # Insecure protocols
 
 Insecure protocols are communication methods that lack adequate security measures, exposing data to potential interception, tampering, or unauthorized access. Common examples include using HTTP instead of HTTPS, or older protocols like FTP or Telnet, which transmit information in plaintext without encryption.

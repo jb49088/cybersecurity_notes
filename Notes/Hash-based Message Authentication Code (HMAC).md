@@ -1,4 +1,3 @@
-
 # Hash-based Message Authentication Code (HMAC)
 
 Hash-based Message Authentication Code (HMAC) is a cryptographic method that ensures data integrity and authenticity. HMAC combines a cryptographic hash function (such as SHA-256 or SHA-3) with a secret key to produce a fixed-length output, called the MAC (Message Authentication Code).

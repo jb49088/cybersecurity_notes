@@ -1,4 +1,3 @@
-
 # End-to-End Encryption (E2EE)
 
 End-to-End Encryption (E2EE) is a method of data transmission where only the sender and the intended recipient can read the contents of the communication. In E2EE, the data is encrypted on the sender's device and only decrypted on the recipient's device, ensuring that no third parties, including service providers or potential attackers, can access the unencrypted data.

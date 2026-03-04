@@ -1,4 +1,3 @@
-
 # Certificate signing request (CSR)
 
 A certificate signing request (CSR) is a message sent from an applicant to a Certificate Authority (CA) to apply for a digital certificate. It contains information about the organization or individual requesting the certificate, including the public key that will be used in the certificate.
@@ -18,5 +17,4 @@ See also:
 - [[Digital signature]]
 - [[Public key]]
 - [[Private key]]
-
 

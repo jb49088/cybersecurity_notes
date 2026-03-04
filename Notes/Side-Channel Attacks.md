@@ -1,4 +1,3 @@
-
 # Side-Channel Attacks
 
 [[🏷️Cryptographic attack]]

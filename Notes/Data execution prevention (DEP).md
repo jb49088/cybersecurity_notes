@@ -1,4 +1,3 @@
-
 # Data execution prevention (DEP)
 
 Data execution prevention (DEP) is a security feature that helps protect systems from malicious attacks by preventing the execution of code in certain regions of memory that are not meant to execute program instructions. DEP helps mitigate exploits such as buffer overflow attacks, which attempt to inject malicious code into executable regions of memory.

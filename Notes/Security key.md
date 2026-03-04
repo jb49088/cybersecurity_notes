@@ -1,4 +1,3 @@
-
 # Security key
 
 A security key is a physical device used for two-factor authentication (2FA) or multi-factor authentication (MFA). It provides an additional layer of security beyond a password, ensuring that only authorized users can access systems or services by requiring possession of the physical key.

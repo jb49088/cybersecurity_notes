@@ -1,4 +1,3 @@
-
 # Impersonation
 
 [[🏷️Social engineering]]

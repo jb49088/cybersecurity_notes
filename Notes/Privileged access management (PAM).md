@@ -1,4 +1,3 @@
-
 # Privileged access management (PAM)
 
 Privileged access management (PAM) is a security framework designed to control and monitor access to critical systems and sensitive data by users with elevated privileges. PAM helps organizations mitigate the risks associated with privileged accounts, such as insider threats, credential theft, and unauthorized access.

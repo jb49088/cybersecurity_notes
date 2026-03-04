@@ -1,4 +1,3 @@
-
 # Policy-based access control (PBAC)
 
 [[🏷️Access control model]]

@@ -1,4 +1,3 @@
-
 # Tabletop exercise
 
 A tabletop exercise is a discussion-based simulation where team members walk through the steps of responding to a hypothetical incident or crisis scenario. It’s designed to evaluate the effectiveness of an organization’s response plans, identify gaps, and improve coordination among different departments.

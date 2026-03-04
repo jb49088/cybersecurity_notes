@@ -1,4 +1,3 @@
-
 # Whaling
 
 [[🏷️Social engineering]]

@@ -1,4 +1,3 @@
-
 # Crowdsourcing
 
 Crowdsourcing in cybersecurity involves leveraging the collective efforts and knowledge of a distributed group of individuals, organizations, or systems to gather, analyze, and share information about threats, vulnerabilities, and malicious activities. This collaborative approach enhances the speed and accuracy of threat detection and enables a more proactive defense against evolving cyber threats.

@@ -1,4 +1,3 @@
-
 # Authentication 
 
 When a subject wants to claim an identity, they need to prove that the identity is theirs. That means they need to authenticate. Authentication technologies like authentication protocols, servers, and standards all serve to ensure that the subject is who they claim that they are, that the authentication process remains safe and secure, and that capabilities like the ability to use single sign-on (SSO) work.
@@ -24,4 +23,3 @@ See also:
 - [[Multi-factor authentication (MFA)]]
 - [[Authorization]]
 - [[Passwordless authentication]]
-

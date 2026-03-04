@@ -1,4 +1,3 @@
-
 # Local Area Network (LAN)
 
 [[🏷️Network type]]

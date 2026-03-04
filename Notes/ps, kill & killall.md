@@ -1,4 +1,3 @@
-
 # ps, kill & killall
 
 [[🏷️Linux command]]

@@ -1,4 +1,3 @@
-
 # Packet captures with tcpdump
 
 Tcpdump is a popular network analyzer. It's pre-installed on many Linux distributions and can be installed on most Unix-like operating systems, like macOS. You can easily capture and monitor network traffic such as TCP, IP, ICMP, and many more.

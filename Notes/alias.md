@@ -1,4 +1,3 @@
-
 # alias
 
 [[🏷️Linux command]]

@@ -1,4 +1,3 @@
-
 # Data loss prevention (DLP)
 
 Data loss prevention (DLP) is a security framework designed to protect sensitive information from unauthorized access, leakage, or loss. By monitoring and controlling the movement of data across systems, DLP helps organizations safeguard critical assets like financial information, personal identifiers, and intellectual property.
@@ -17,5 +16,4 @@ DLP is a critical security tool for protecting sensitive data, ensuring complian
 --- 
 
 See also:
-
 

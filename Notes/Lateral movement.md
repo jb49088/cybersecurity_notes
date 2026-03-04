@@ -1,4 +1,3 @@
-
 # Lateral Movement
 
 Lateral movement refers to the technique used by attackers to move through a network after gaining initial access, typically from one compromised system to others. The goal is to escalate privileges, gain more control, and ultimately reach sensitive data or systems. Attackers use various tools and methods to navigate through the network, such as exploiting vulnerabilities, leveraging credentials, or using tools like Windows Management Instrumentation (WMI) and Remote Desktop Protocol (RDP).

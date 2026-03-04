@@ -1,4 +1,3 @@
-
 # Directory traversal
 
 [[🏷️Web application attack]]
@@ -10,4 +9,3 @@ This vulnerability can arise from web server software flaws that don't properly 
 ---
 
 See also:
-

@@ -1,4 +1,3 @@
-
 # Continuous learning in SQL
 
 You've explored a lot about SQL, including applying filters to SQL queries and joining multiple tables together in a query.  There's still more that you can do with SQL. This reading will explore an example of something new you can add to your SQL toolbox: aggregate functions. You'll then focus on how you can continue learning about this and other SQL topics on your own.
@@ -65,4 +64,3 @@ Most importantly, approach new tasks with curiosity and a willingness to find ne
 Fortunately, SQL is one of the most important tools for working with databases and analyzing data, so you'll find a lot of support in trying to learn SQL online. First, try searching for the concepts you've already learned and practiced to find resources that have accurate easy-to-follow explanations. When you identify these resources, you can use them to extend your knowledge.
 
 Continuing your practical experience with SQL is also important. You can also search for new databases that allow you to perform SQL queries using what you've learned.
-

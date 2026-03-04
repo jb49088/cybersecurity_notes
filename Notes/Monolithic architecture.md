@@ -1,4 +1,3 @@
-
 # Monolithic architecture
 
 Monolithic architecture refers to a software design model where all components of an application are unified into a single, cohesive unit. This approach consolidates the user interface, business logic, and data input/output processes into one application that performs all necessary functions.

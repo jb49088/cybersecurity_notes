@@ -1,4 +1,3 @@
-
 # Bootkit
 
 [[🏷️Malware]] 
@@ -19,4 +18,3 @@ See also:
 - [[Operating system (OS)]]
 - [[Rootkit]]
 - [[Secure boot]]
-

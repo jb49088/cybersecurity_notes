@@ -1,4 +1,3 @@
-
 # Computer emergency response team (CERT)
 
 A Computer emergency response team (CERT) is a specialized group that handles cybersecurity incidents, such as malware outbreaks, data breaches, and system vulnerabilities. CERTs are responsible for coordinating incident responses, mitigating risks, and ensuring the security of information systems within an organization or a broader community.

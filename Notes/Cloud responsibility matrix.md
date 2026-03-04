@@ -1,4 +1,3 @@
-
 # Cloud responsibility matrix
 
 The cloud responsibility matrix defines the allocation of security and management responsibilities between cloud service providers (CSPs) and their customers. The division of responsibilities depends on the cloud service model being used: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), or Software as a Service (SaaS). This matrix ensures clarity and accountability for securing the cloud environment.

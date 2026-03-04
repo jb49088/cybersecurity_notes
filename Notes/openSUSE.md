@@ -1,4 +1,3 @@
-
 # openSUSE
 
 [[🏷️Linux distribution]]

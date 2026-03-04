@@ -1,4 +1,3 @@
-
 # Virtual Local Area Networks (VLAN)
 
 A Virtual Local Area Network (VLAN) is a logical segmentation of a network that enables devices to be grouped together regardless of their physical location. VLANs operate at Layer 2 of the OSI model, allowing network administrators to segment broadcast domains in a way that improves performance, security, and management without the need for separate physical infrastructure.

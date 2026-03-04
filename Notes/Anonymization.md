@@ -1,4 +1,3 @@
-
 # Anonymization
 
 Anonymization is the process of removing or modifying personal or sensitive information from data to protect individual identities while maintaining the utility of the data for analysis or other purposes. It is a key technique in data privacy and security.

@@ -1,4 +1,3 @@
-
 # On-path browser attack
 
 [[🏷️Web application attack]]

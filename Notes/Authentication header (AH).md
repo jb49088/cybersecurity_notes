@@ -1,4 +1,3 @@
-
 # Authentication header (AH)
 
 Authentication header (AH) is a component of the IPsec (Internet Protocol Security) suite that provides data integrity, authentication, and optional anti-replay protection for IP packets. Unlike encryption protocols, AH does not provide confidentiality; instead, it ensures that the data has not been tampered with and verifies the authenticity of the sender.

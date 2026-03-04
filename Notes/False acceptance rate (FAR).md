@@ -1,4 +1,3 @@
-
 # False acceptance rate (FAR)
 
 The false acceptance rate (FAR) is a performance metric used in biometric systems that measures the likelihood of an unauthorized user being incorrectly granted access. It refers to the probability that the system will falsely accept a biometric input that does not match the enrolled data. In simpler terms, FAR indicates how often a system mistakenly recognizes an unauthorized individual as a valid user.
@@ -16,4 +15,3 @@ See also:
 - [[Biometrics]]
 - [[False rejection rate (FRR)]]
 - [[Crossover error rate (CER)]]
-

@@ -1,4 +1,3 @@
-
 # Demilitarized zone (DMZ)
 
 A demilitarized zone (DMZ) is a physical or logical subnetwork that separates an internal network from an untrusted network, typically the internet. It serves as a buffer zone that limits direct access between the internal systems of an organization and external networks, enhancing the security of the internal infrastructure.

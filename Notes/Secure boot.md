@@ -1,4 +1,3 @@
-
 # Secure boot
 
 Secure boot is a security feature that ensures a device boots using only trusted software. It helps protect against bootkit and rootkit attacks by validating the bootloader and operating system (OS) during startup. If the system firmware (UEFI) detects any unsigned or unauthorized code, the boot process is halted to prevent malicious software from running.

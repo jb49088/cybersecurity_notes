@@ -1,4 +1,3 @@
-
 # Dynamic-link library (DLL)
 
 A dynamic-link library (DLL) is a file format used by Microsoft Windows that contains code and data which can be shared by multiple programs simultaneously. This allows different applications to access common functions or resources without duplicating the code, improving memory efficiency and simplifying updates.

@@ -1,4 +1,3 @@
-
 # Port mirroring
 
 Port mirroring is a technique used in networking to copy network traffic from one port or multiple ports on a network switch to another port for monitoring or analysis. This allows network administrators to observe the traffic passing through specific parts of the network without disrupting normal operations.

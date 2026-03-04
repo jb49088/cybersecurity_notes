@@ -1,4 +1,3 @@
-
 # Ease of deployment
 
 Ease of deployment refers to how smoothly and quickly an application or system can be deployed, considering all the components that need to work together, such as web servers, databases, caching servers, and firewalls. The process of deployment can range from complex to simple, depending on various factors like available hardware resources, cloud budgets, and the need for change control.

@@ -1,4 +1,3 @@
-
 # Wi-Fi Protected Access II (WPA2)
 
 [[🏷️Network protocol]]

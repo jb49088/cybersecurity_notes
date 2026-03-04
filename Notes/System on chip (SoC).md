@@ -1,4 +1,3 @@
-
 # System on chip (SoC)
 
 A system on chip (SoC) is an integrated circuit that combines multiple components of a computer or electronic system into a single chip. SoCs typically include a processor, memory, input/output interfaces, and other essential hardware needed for a complete computing system. They are commonly used in mobile devices, embedded systems, and Internet of Things (IoT) devices due to their compact size and power efficiency.

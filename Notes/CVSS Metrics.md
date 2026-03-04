@@ -1,4 +1,3 @@
-
 # CVSS Metrics
 
 CVSS metrics are designed to evaluate and quantify the severity of vulnerabilities. Here’s a breakdown of the key metrics
@@ -51,4 +50,3 @@ The availability metric (A) describes the type of disruption that might occur if
 The scope metric (S) describes whether the vulnerability can affect system components beyond the scope of the vulnerability. The scope metric is assigned according to the criteria in Table 5.8. Note that the scope metric table does not contain score information. The value of the scope metric is reflected in the values for the privileges required metric, shown earlier in Table 1.19.
 
 ![[Table 1.19]]
-

@@ -1,4 +1,3 @@
-
 # General data protection regulation (GDPR)
 
 [[🏷️Regulation]]
@@ -17,7 +16,6 @@ See also:
 
 - [[Regulation]]
 - [[Data subject]]
-
 
 
 

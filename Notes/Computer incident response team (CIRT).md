@@ -1,4 +1,3 @@
-
 # Computer incident response team (CIRT)
 
 A computer incident response team (CIRT) is a group of cybersecurity professionals responsible for managing and responding to cybersecurity incidents. Their primary goal is to detect, contain, and mitigate threats to minimize damage and restore normal operations as quickly as possible.

@@ -1,4 +1,3 @@
-
 # Basic filters on SQL queries
 
 One of the most powerful features of SQL is its ability to filter. In this video, we're going to learn how this helps us make better queries and select more specific pieces of data from a database.

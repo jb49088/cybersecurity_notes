@@ -1,4 +1,3 @@
-
 # E-discovery
 
 E-discovery, or electronic discovery, is the process of collecting, preparing, reviewing, interpreting, and producing electronic documents for legal proceedings. It plays a crucial role in obtaining data required for litigation or regulatory compliance.

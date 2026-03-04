@@ -1,4 +1,3 @@
-
 # Attestation
 
 Attestation refers to the process where an independent entity verifies and confirms that an organization's security practices, systems, or processes meet specific standards or requirements. It provides a formal declaration of compliance and security, building trust by demonstrating the integrity of data, software, or hardware.

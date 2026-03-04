@@ -1,4 +1,3 @@
-
 # Biometrics
 
 [[🏷️Authentication methods]]
@@ -14,7 +13,6 @@ Biometric factors are an example of the “something you are” factor, and they
 - Gait analysis measures how a person walks to identify them.
 
 Biometric technologies are assessed based on four major measures. The first is Type I errors, or the false rejection rate (FRR). False rejection errors mean that a legitimate biometric measure was presented and the system rejected it. Type II errors, or false acceptance errors, are measured as the false acceptance rate (FAR). These occur when a biometric factor is presented and is accepted when it shouldn't be. These are compared using a measure called the receiver operating characteristic (ROC). The ROC compares the FRR against the FAR of a system, typically as a graph. For most systems, as you decrease the likelihood of false rejection, you will increase the rate of false acceptance, and determining where the accuracy of a system should be set to minimize false acceptance and prevent false rejection is an important element in the configuration of biometric systems.
-
 
 
 

@@ -1,4 +1,3 @@
-
 # Telnet
 
 [[🏷️Network protocol]]

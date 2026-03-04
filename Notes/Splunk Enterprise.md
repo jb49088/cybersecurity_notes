@@ -1,4 +1,3 @@
-
 # Splunk Enterprise
 
 A self-hosted [[30-39 Educational/38 Incident Response & Forensics/0 Meta/Archive/Security information and event management (SIEM)|Security information and event management (SIEM)]] tool created by [[Splunk|Splunk]], used to collect, search, and monitor [[Log data|log data]].

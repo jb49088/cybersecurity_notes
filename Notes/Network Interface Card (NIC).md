@@ -1,4 +1,3 @@
-
 # Network Interface Card (NIC)
 
 [[🏷️Networking device]]

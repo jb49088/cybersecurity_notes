@@ -1,4 +1,3 @@
-
 # Out-of-bounds write
 
 An out-of-bounds write occurs when a program writes data beyond the allocated boundaries of a buffer or memory region. This can result in memory corruption, crashes, or the execution of malicious code, posing significant security risks.
@@ -17,4 +16,3 @@ See also:
 
 - [[Buffer overflow]]
 - [[Code injection]]
-

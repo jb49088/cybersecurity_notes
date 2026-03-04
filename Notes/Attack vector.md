@@ -1,4 +1,3 @@
-
 # Attack vector
 
 An attack vector is a method or pathway used by cybercriminals to gain unauthorized access to a system or network, exploit vulnerabilities, or launch malicious activities. Attack vectors can take many forms, including technical, social, or physical methods that allow the attacker to bypass security measures and reach the target.

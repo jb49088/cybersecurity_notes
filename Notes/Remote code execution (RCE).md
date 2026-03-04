@@ -1,4 +1,3 @@
-
 # Remote code execution (RCE)
 
 Remote code execution (RCE) is a critical security vulnerability that allows an attacker to execute arbitrary code on a target system from a remote location. Exploiting RCE vulnerabilities enables attackers to take control of a system, steal sensitive data, deploy malware, or disrupt operations.

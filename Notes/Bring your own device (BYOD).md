@@ -1,4 +1,3 @@
-
 # Bring your own device (BYOD)
 
 [[🏷️Policy]]

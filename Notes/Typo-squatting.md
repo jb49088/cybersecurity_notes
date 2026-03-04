@@ -1,4 +1,3 @@
-
 # Typo-squatting
 
 [[🏷️Social engineering]]

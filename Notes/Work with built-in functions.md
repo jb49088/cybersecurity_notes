@@ -1,4 +1,3 @@
-
 # Work with built-in functions
 
 Previously, you explored built-in functions in Python, including `print()`, `type()`, `max()`, and `sorted()`. Built-in functions are functions that exist within Python and can be called directly. In this reading, you’ll explore these further and also learn about the `min()` function. In addition, you'll review how to pass the output of one function into another function.

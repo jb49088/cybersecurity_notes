@@ -1,4 +1,3 @@
-
 # Package monitoring
 
 Package monitoring involves verifying the integrity and security of software packages, particularly those distributed as part of open-source projects or external supply chains. Ensuring package legitimacy is essential to maintaining supply chain security and preventing the introduction of vulnerabilities.

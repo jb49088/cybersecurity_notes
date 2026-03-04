@@ -1,4 +1,3 @@
-
 # CentOS
 
 [[🏷️Linux distribution]]

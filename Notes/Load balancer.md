@@ -1,4 +1,3 @@
-
 # Load balancer
 
 [[🏷️Networking device]]

@@ -1,4 +1,3 @@
-
 # Least privilege
 
 [[🏷️Principle]]

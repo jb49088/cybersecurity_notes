@@ -1,4 +1,3 @@
-
 # Command line interface (CLI)
 
 A command line interface (CLI) is a text-based interface used to interact with an operating system or software by typing commands. Unlike graphical user interfaces (GUIs), which rely on visual elements like icons and menus, CLIs allow users to execute commands directly, making them a powerful tool for system administration, automation, and troubleshooting.

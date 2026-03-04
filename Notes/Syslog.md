@@ -1,4 +1,3 @@
-
 # Syslog
 
 Syslog is a standard for logging and transmitting data. It can be used to refer to any of its three different capabilities: 
@@ -45,4 +44,3 @@ The priority (PRI) field indicates the urgency of the logged event and is contai
 
 > [!Note]
 > Syslog headers can be combined with JSON, and XML formats. Custom log formats also exist.
-

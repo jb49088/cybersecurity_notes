@@ -1,4 +1,3 @@
-
 # Wired Equivalent Privacy (WEP)
 
 [[🏷️Network protocol]]

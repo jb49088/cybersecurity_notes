@@ -1,4 +1,3 @@
-
 # Salting
 
 [[🏷️Cryptography]] [[🏷️Password security]]

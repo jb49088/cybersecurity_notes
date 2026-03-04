@@ -1,4 +1,3 @@
-
 # Interpreting the CVSS Vector
 
 The CVSS vector uses a single-line format to convey the ratings of a vulnerability on all eight of the metrics. For example, see the CVSS vector for the vulnerability

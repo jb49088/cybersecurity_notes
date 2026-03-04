@@ -1,4 +1,3 @@
-
 # Rivest shamir adleman (RSA)
 
 [[🏷️Asymmetric encryption algorithm]]

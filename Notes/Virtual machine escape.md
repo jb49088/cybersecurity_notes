@@ -1,4 +1,3 @@
-
 # Virtual machine escape
 
 Virtual machine escape is a critical security vulnerability that occurs when a malicious actor exploits a flaw in the virtualization software to break out of a virtual machine (VM) and gain access to the host system or other VMs running on the same host. This compromises the isolation that virtualization provides, allowing attackers to access sensitive data or control resources beyond the intended boundaries.

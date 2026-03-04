@@ -1,4 +1,3 @@
-
 # Types of joins
 
 Welcome back. I hope you enjoyed working on inner joins. In the previous video and exercises, we saw how inner joins can be useful by only returning records that share a value in specify columns. However, in some situations, we might need all of the entries from one or both of our tables. This is where we need to use outer joins.

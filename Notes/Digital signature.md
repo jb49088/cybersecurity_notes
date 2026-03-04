@@ -1,4 +1,3 @@
-
 # Digital signature
 
 A digital signature is a cryptographic technique used to verify the authenticity and integrity of digital messages or documents. It functions similarly to a handwritten signature, providing assurance that a message or document has not been altered in transit and confirming the identity of the sender. Digital signatures use public-key cryptography to create a unique, verifiable signature that can be used to ensure non-repudiation in digital communication.

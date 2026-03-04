@@ -1,4 +1,3 @@
-
 # Data classifications
 
 Security professionals classify data into various categories to ensure that the right protections are applied to each type. Proper data classification is crucial for safeguarding organizations from potential cyber threats and minimizing risks that could disrupt business operations.
@@ -19,5 +18,4 @@ See also:
 - [[Sensitive personally identifiable information (SPII)]]
 - [[Protected health information (PHI)]]
 - [[Non-disclosure agreement (NDA)]]
-
 

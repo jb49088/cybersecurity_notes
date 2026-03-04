@@ -1,4 +1,3 @@
-
 # Pluggable authentication modules (PAM)
 
 Pluggable authentication modules (PAM) provide a flexible authentication framework used in Unix-based operating systems to manage authentication mechanisms dynamically. PAM allows system administrators to configure authentication policies without modifying individual applications.

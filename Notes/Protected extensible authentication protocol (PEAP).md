@@ -1,4 +1,3 @@
-
 # Protected extensible authentication protocol (PEAP)
 
 [[🏷️Network protocol]]

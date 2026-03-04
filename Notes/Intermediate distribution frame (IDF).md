@@ -1,4 +1,3 @@
-
 # Intermediate distribution frame (IDF)
 
 An intermediate distribution frame (IDF) is a wiring frame used to connect and manage telecommunications and network cables between devices or systems within a building or facility. It acts as an intermediary between the main distribution frame (MDF) and end-user equipment, helping organize and route signals across different locations.

@@ -1,4 +1,3 @@
-
 # Closed-circuit television (CCTV)
 
 [[🏷️Physical security]]

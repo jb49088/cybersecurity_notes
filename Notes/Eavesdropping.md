@@ -1,4 +1,3 @@
-
 # Eavesdropping
 
 [[🏷️Social engineering]]
@@ -12,4 +11,3 @@ Eavesdropping can be a serious violation of privacy, often used for malicious pu
 See also:
 
 - [[Social engineering]]
-

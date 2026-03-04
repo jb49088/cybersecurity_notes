@@ -1,4 +1,3 @@
-
 # Industrial control system (ICS)
 
 Industrial control systems (ICS) are integrated hardware and software solutions designed to monitor, control, and automate industrial processes. They are widely used in industries like manufacturing, energy, water management, transportation, and critical infrastructure.

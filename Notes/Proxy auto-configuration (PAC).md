@@ -1,4 +1,3 @@
-
 # Proxy auto-configuration (PAC)
 
 Proxy Auto-Configuration (PAC) is a mechanism used to automatically determine which proxy server, if any, a web browser should use to access the internet. PAC files help manage network traffic by directing client requests to the appropriate proxy servers based on the URL or other criteria.

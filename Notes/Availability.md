@@ -1,4 +1,3 @@
-
 # Availability
 
 Availability refers to the uptime of a system, meaning the ability to access data, complete transactions, and ensure continuous service. It is one of the fundamental aspects of IT security, as users must be able to reliably access resources when needed. Ensuring high availability often involves balancing between providing access to legitimate users while protecting against unauthorized access.

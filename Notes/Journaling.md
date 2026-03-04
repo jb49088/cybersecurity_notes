@@ -1,4 +1,3 @@
-
 # Journaling
 
 Journaling is a technique used to prevent data corruption in case of unexpected power loss or system crashes while writing data to storage. When power is lost during a write operation, the stored data is often left in a corrupted state, making recovery a complicated process. This typically requires removing corrupted files and restoring the data from a backup.

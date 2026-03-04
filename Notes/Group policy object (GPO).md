@@ -1,4 +1,3 @@
-
 # Group policy object (GPO)
 
 A group policy object (GPO) is a feature in Microsoft Windows environments used to manage and configure settings for users and computers within an active directory (AD) domain. GPOs allow administrators to enforce security policies, configure user environment settings, and manage system behavior across an organization's network.

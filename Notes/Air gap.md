@@ -1,4 +1,3 @@
-
 # Air gap
 
 An air gap is a security measure where devices or systems are physically isolated from each other, ensuring no direct connection exists between them. This separation creates a secure barrier, preventing unauthorized access or data mixing across networks or systems.

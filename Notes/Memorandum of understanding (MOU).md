@@ -1,4 +1,3 @@
-
 # Memorandum of understanding (MOU)
 
 [[🏷️Business agreement]]

@@ -1,4 +1,3 @@
-
 # Asset
 
 An asset refers to any resource, item, or component that holds value to an organization. In IT and cybersecurity, assets typically include hardware, software, data, networks, and systems that are critical for operations. Proper identification and management of assets are essential for ensuring security, efficiency, and compliance.

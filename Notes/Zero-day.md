@@ -1,4 +1,3 @@
-
 # Zero-day
 
 A zero-day refers to a vulnerability in software, hardware, or firmware that is unknown to the vendor or the public, leaving no opportunity for a patch or mitigation before exploitation. Zero-days are highly sought after by attackers due to their ability to bypass defenses and target systems without warning.

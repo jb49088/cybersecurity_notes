@@ -1,4 +1,3 @@
-
 # LIKE
 
 [[🏷️SQL]]
@@ -24,4 +23,3 @@ WHERE title LIKE 'IT%';
 ```
 
 This query returns all records with values in the `title` column that start with the pattern of `'IT'`. This means both `'IT Staff'` and `'IT Manager'` are returned.
-

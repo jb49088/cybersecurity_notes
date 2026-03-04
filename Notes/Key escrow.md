@@ -1,4 +1,3 @@
-
 # Key escrow
 
 Key escrow is a security practice where a cryptographic key (usually a private key) is stored by a trusted third party, known as the escrow agent, so that it can be retrieved under certain circumstances. The goal of key escrow is to ensure that encrypted data can be accessed if needed, such as during legal investigations, data recovery, or system failure, without compromising the security of the data in normal operations.

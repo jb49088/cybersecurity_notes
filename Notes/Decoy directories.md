@@ -1,4 +1,3 @@
-
 # Decoy directories
 
 Decoy directories are a cybersecurity technique used to mislead attackers by creating fake directories or paths on a system, network, or web application. These directories appear legitimate but are intentionally designed to trap and monitor unauthorized access attempts. When attackers attempt to navigate through or exploit these decoy directories, their actions can be detected, tracked, and analyzed to understand their tactics.

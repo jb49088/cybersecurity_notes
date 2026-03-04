@@ -1,4 +1,3 @@
-
 # Access badge
 
 [[🏷️Authentication methods]]

@@ -1,4 +1,3 @@
-
 # Lists and the security analyst
 
 Previously, you examined how to use bracket notation to access and change elements in a list and some fundamental methods for working with lists. This reading will review these concepts with new examples, introduce the `.index()` method as it applies to lists, and highlight how lists are used in a cybersecurity context.

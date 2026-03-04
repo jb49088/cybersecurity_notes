@@ -1,4 +1,3 @@
-
 # Splunk Cloud
 
 A cloud-hosted [[30-39 Educational/38 Incident Response & Forensics/0 Meta/Archive/Security information and event management (SIEM)|SIEM tool]] created by Splunk, used to collect, search, and monitor log data.

@@ -1,4 +1,3 @@
-
 # Unified endpoint management (UEM)
 
 Unified endpoint management (UEM) is a comprehensive approach to managing and securing a wide range of devices used in an organization, including smartphones, tablets, laptops, desktops, and IoT devices. UEM combines mobile device management (MDM), enterprise mobility management (EMM), and other endpoint management tools into a single platform to provide centralized control, security, and monitoring across all endpoints.

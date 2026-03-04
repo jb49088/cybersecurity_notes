@@ -1,4 +1,3 @@
-
 # Cipher block chaining (CBC)
 
 Cipher block chaining (CBC) is a mode of operation for block ciphers that provides enhanced security by chaining together encrypted blocks of data. CBC is widely used in symmetric key encryption algorithms, such as advanced encryption standard (AES), to ensure that identical plaintext blocks are encrypted into different ciphertext blocks, even if they appear multiple times in the data stream.
@@ -17,6 +16,5 @@ See also:
 
 - [[Block cipher]]
 - [[Advanced encryption standard (AES)]]
-
 
 

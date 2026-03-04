@@ -1,4 +1,3 @@
-
 # Simple object access protocol (SOAP)
 
 [[🏷️Network protocol]]

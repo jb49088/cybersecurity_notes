@@ -1,4 +1,3 @@
-
 **Bold text**
 *Italic text*
 ~~Striked out text~~

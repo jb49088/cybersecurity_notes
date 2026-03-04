@@ -1,4 +1,3 @@
-
 # Key distribution center (KDC)
 
 A key distribution center (KDC) is a critical component in symmetric-key cryptography systems, particularly in protocols like Kerberos. It is responsible for distributing encryption keys to ensure secure communication between users and services within a network. The KDC plays a central role in the authentication and session key management process.

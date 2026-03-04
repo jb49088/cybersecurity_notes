@@ -1,4 +1,3 @@
-
 # Peer to peer (P2P)
 
 Peer-to-peer (P2P) is a decentralized network model where devices, or "peers," communicate directly with each other without relying on a central server. P2P networks distribute tasks, storage, and bandwidth across multiple participants, making them scalable and resilient.

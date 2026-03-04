@@ -1,4 +1,3 @@
-
 # Identity proofing
 
 Identity proofing is the process of verifying that an individual or entity is who they claim to be within an Identity and Access Management (IAM) framework. It establishes trust in the authenticity of a user’s identity before granting access to systems or resources.

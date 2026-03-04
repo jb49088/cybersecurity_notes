@@ -1,4 +1,3 @@
-
 # BlueBorne
 
 BlueBorne is a set of cyber threats targeting Bluetooth devices and communications. It exploits vulnerabilities in the Bluetooth protocol to gain unauthorized access, spread malware, and compromise systems without requiring physical proximity or user interaction. The name "BlueBorne" comes from the combination of "Bluetooth" and "borne," indicating how the threat spreads through Bluetooth connections.

@@ -1,4 +1,3 @@
-
 # ssh
 
 [[🏷️Linux command]]
@@ -19,4 +18,3 @@ This command establishes an `ssh` connection to the `remote-server` using the `u
 > - Configuring port forwarding
 > - Configuring X11 forwarding
 > - Configuring SSH keys
-

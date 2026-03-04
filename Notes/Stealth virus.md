@@ -1,4 +1,3 @@
-
 # Stealth virus
 
 [[🏷️Malware]] 
@@ -10,4 +9,3 @@ A **stealth virus** is a type of virus that actively hides its presence from ant
 See also:
 
 - [[Virus]]
-

@@ -1,4 +1,3 @@
-
 # Policy enforcement point (PEP)
 
 A policy enforcement point (PEP) is a security component that enforces access control decisions by allowing, blocking, or modifying user and system requests based on predefined policies. PEPs act as the gatekeepers of resources, ensuring that only authorized users or systems can access sensitive data or services.
@@ -20,4 +19,3 @@ See also:
 - [[Policy decision point (PDP)]]
 - [[Policy engine]]
 - [[Policy administrator]]
-

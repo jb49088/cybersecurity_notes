@@ -1,4 +1,3 @@
-
 # Hot site
 
 [[🏷️Risk management]]

@@ -1,4 +1,3 @@
-
 # Network segmentation
 
 [[🏷️Networking]]
@@ -18,5 +17,4 @@ See also:
 - [[Air gap]]
 - [[Virtual Local Area Networks (VLAN)]]
 - [[Software-defined networking (SDN)]]
-
 

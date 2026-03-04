@@ -1,4 +1,3 @@
-
 # Function (Python)
 
 [[🏷️Python]]

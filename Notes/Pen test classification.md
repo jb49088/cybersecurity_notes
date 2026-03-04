@@ -1,4 +1,3 @@
-
 # Pen test classification
 
 There are four major categories of penetration testing:
@@ -16,5 +15,4 @@ Once the type of assessment is known, one of the first things to decide about a 
 
 > [!info] Note
 > Be sure that you can differentiate and explain the four major categories and three classification types of penetration testing. The categories are physical penetration testing, offensive penetration testing, defensive penetration testing, and integrated penetration testing. The classification types are known environment tests, unknown environment tests, and partially known environment tests. You should be able to read a scenario describing a test and identify the type(s) of test being discussed. 
-
 

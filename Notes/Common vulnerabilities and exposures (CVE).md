@@ -1,4 +1,3 @@
-
 # Common vulnerabilities and exposures (CVE)
 
 CVE is a system used to catalog and identify publicly disclosed cybersecurity vulnerabilities and exposures in software or hardware. Each CVE entry contains a unique identifier, enabling easier reference and tracking of vulnerabilities across different platforms and systems.

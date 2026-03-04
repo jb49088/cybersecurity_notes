@@ -1,4 +1,3 @@
-
 # Challenge handshake authentication protocol (CHAP)
 
 [[🏷️Network protocol]]

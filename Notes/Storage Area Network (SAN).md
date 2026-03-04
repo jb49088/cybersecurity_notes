@@ -1,4 +1,3 @@
-
 # Storage Area Network (SAN)
 
 [[🏷️Network type]]
@@ -26,6 +25,5 @@ Block storage allows a file to be broken into more manageable chunks rather than
 One of the first common use cases for block storage was for databases, and it remains the best choice for large, structured databases today. Block storage is also used for storage area networks (SANs). 
 
 The downsides to SANs are that they are a bit complicated to set up and can be more expensive to run than non- SAN storage solutions. For huge networks that need to get data to large numbers of users, though, they’re a good choice.
-
 
 

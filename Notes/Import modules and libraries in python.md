@@ -1,4 +1,3 @@
-
 # Import modules and libraries in python
 
 Previously, you explored libraries and modules. You learned that a module is a Python file that contains additional functions, variables, classes, and any kind of runnable code. You also learned that a library is a collection of modules that code users can access in their programs. You were introduced to a few modules in the Python Standard Library and a couple of external libraries. In this reading, you'll learn how to import a module that exists in the Python Standard Library and use its functions. You'll also expand your understanding of external libraries.

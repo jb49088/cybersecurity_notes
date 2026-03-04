@@ -1,4 +1,3 @@
-
 # More about regular expressions
 
 You were previously introduced to regular expressions and a couple of symbols that you can use to construct regular expression patterns. In this reading, you'll explore additional regular expression symbols that can be used in a cybersecurity context. You'll also learn more about the `re` module and its `re.findall()` function.
@@ -153,4 +152,3 @@ It outputs:
 
 > [!Note]
 > Working with regular expressions can carry the risk of returning unneeded information or excluding strings that you want to return. Therefore, it's useful to test your regular expressions.
-

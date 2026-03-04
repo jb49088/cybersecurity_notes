@@ -1,4 +1,3 @@
-
 # Ad hoc assessment
 
 Ad hoc assessments are situational risk evaluations performed as needed, often in response to specific events or concerns. They are not part of a formal, ongoing risk assessment process but serve to address immediate issues.

@@ -1,4 +1,3 @@
-
 # Armor virus
 
 [[🏷️Malware]] 
@@ -10,4 +9,3 @@ An armor virus is a type of virus that is specifically designed to protect itsel
 See also:
 
 - [[Virus]]
-

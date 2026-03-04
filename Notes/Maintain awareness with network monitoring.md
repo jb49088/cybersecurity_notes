@@ -1,4 +1,3 @@
-
 # Maintain awareness with network monitoring
 
 Network communication can be noisy! Events like sending an email, streaming a video, or visiting a website all produce network communications in the form of network traffic and network data. As a reminder, network traffic is the amount of data that moves across a network. It can also include the type of data that is transferred, such as HTTP. Network data is the data that's transmitted between devices on a network.

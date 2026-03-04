@@ -1,4 +1,3 @@
-
 # Business continuity considerations
 
 Previously, you learned about how security teams develop incident response plans to help ensure that there is a prepared and consistent process to quickly respond to security incidents. In this reading, you'll explore the importance that business continuity planning has in recovering from incidents.

@@ -1,4 +1,3 @@
-
 # Secure/multipurpose internet mail extensions (S/MIME)
 
 Secure/multipurpose internet mail extensions (S/MIME) is a standard for securing email communication through encryption and digital signatures. S/MIME enhances the security of email by ensuring confidentiality, integrity, and authenticity of the message content. It is widely used to protect sensitive information in email communications and is supported by most modern email clients.

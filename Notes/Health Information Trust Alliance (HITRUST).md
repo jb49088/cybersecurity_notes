@@ -1,4 +1,3 @@
-
 # Health Information Trust Alliance (HITRUST)
 
 [[🏷️Framework]]

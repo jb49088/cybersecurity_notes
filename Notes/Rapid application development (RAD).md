@@ -1,4 +1,3 @@
-
 # Rapid application development (RAD)
 
 Rapid application development (RAD) is a software development methodology that emphasizes quick prototyping, iterative design, and user feedback over traditional, rigid development cycles. RAD focuses on speed and flexibility, allowing developers to quickly create functional software while continuously refining it based on user input.

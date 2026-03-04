@@ -1,4 +1,3 @@
-
 # Encrypted virus
 
 [[🏷️Malware]] 
@@ -10,4 +9,3 @@ An **encrypted virus** is a type of virus that uses encryption techniques to hid
 See also:
 
 - [[Virus]]
-

@@ -1,4 +1,3 @@
-
 # Threat intelligence 
 
 Threat intelligence involves gathering, analyzing, and utilizing information about potential threats and threat actors to strengthen an organization’s security posture. It provides valuable insights into emerging risks and helps inform strategic decisions.
@@ -17,4 +16,3 @@ See also:
 
 - [[Open-source intelligence (OSINT)]]
 - [[Proprietary intelligence]]
-

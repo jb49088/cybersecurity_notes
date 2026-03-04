@@ -1,4 +1,3 @@
-
 # Operators for filtering dates and numbers
 
 Previously, you examined operators like less than (`<`) or greater than (`>`) and explored how they can be used in filtering numeric and date and time data types. This reading summarizes what you learned and provides new examples of using operators in filters.

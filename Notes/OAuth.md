@@ -1,4 +1,3 @@
-
 # OAuth
 
 OAuth is an authorization framework that enables secure, third-party access to a user's resources without sharing their credentials. It allows users to grant access to specific data or actions without exposing their passwords.

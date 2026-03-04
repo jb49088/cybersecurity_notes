@@ -1,4 +1,3 @@
-
 # ln
 
 [[🏷️Linux command]]

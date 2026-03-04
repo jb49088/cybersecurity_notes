@@ -1,4 +1,3 @@
-
 # cal
 
 [[🏷️Linux command]]
@@ -14,4 +13,3 @@ The `cal` command displays a well-presented calendar on the terminal. Just enter
 ![[Image 3.25.png]]
 
 Although we don’t need it often, it’s a great addition! It’s an amazing option for terminal fans.
-

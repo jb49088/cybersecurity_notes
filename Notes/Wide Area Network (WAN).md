@@ -1,4 +1,3 @@
-
 # Wide Area Network (WAN)
 
 [[🏷️Network type]]
@@ -8,4 +7,3 @@ By the late 1980s, networks were expanding to cover large geographical areas and
 Generally speaking, it’s safe to think of a WAN as multiple dispersed LANs connected together. Historically, only larger corporations used WANs, but many smaller companies with remote locations now use them as well. The networks of today and tomorrow are no longer limited by the inability of LANs to cover distance and handle mobility. WANs play an important role in the future development of corporate networks worldwide. Image 2.20 depicts a simple WAN. 
 
 ![[Image 2.20.png|center]]
-

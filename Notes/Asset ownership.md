@@ -1,4 +1,3 @@
-
 # Asset ownership
 
 Asset ownership refers to the legal or recognized possession of a tangible or intangible asset by an individual, organization, or entity. Ownership conveys the right to use, control, or transfer the asset, as well as the responsibility for its maintenance and associated risks.

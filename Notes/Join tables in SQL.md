@@ -1,4 +1,3 @@
-
 # Join tables in SQL
 
 You've already learned a lot about SQL queries and filters. Nice work! The last concept we're introducing in this section is joining tables when querying a database. This is helpful when you need information from two different tables in a database. Let's say we have two tables: one that tells us about security vulnerabilities of different operating systems, and one about different machines in our company, including their operating systems. Having the ability to combine them gives us a list of vulnerable machines. That's pretty cool, right?

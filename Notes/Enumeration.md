@@ -1,4 +1,3 @@
-
 # Enumeration
 
 Enumeration is the process of systematically identifying and gathering information about networked systems, services, and user accounts. In cybersecurity, attackers and security professionals use enumeration to map out targets, discover vulnerabilities, and assess security risks. It typically follows the reconnaissance phase in an attack or security assessment.

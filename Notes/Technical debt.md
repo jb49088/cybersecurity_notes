@@ -1,4 +1,3 @@
-
 # Technical debt
 
 Technical debt refers to the long-term cost incurred by choosing an easy or quick solution in the short term, instead of investing in a more robust and maintainable one. Over time, this "debt" accumulates, leading to challenges such as decreased efficiency, increased maintenance costs, and difficulty in implementing new features.

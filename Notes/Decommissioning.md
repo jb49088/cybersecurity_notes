@@ -1,4 +1,3 @@
-
 # Decommissioning
 
 Decommissioning refers to the process of securely retiring systems, particularly storage devices, to ensure that sensitive data is not exposed or recoverable by unauthorized parties. It is a critical step in maintaining data security and preventing inadvertent leaks.
@@ -16,4 +15,3 @@ See also:
 - [[Storage Devices]]
 - [[Asset tracking]]
 - [[Certificate of destruction]]
-

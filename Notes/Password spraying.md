@@ -1,4 +1,3 @@
-
 # Password spraying
 
 [[🏷️Password attack]]

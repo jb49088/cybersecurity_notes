@@ -1,4 +1,3 @@
-
 # Spyware
 
 [[🏷️Malware]] 

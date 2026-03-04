@@ -1,4 +1,3 @@
-
 # Certificate revocation list (CRL)
 
 A certificate revocation list (CRL) is a list maintained by a Certificate Authority (CA) that contains digital certificates that have been revoked before their expiration date. These revocations can occur for various reasons, such as a compromised private key or changes in the certificate holder's status.
@@ -13,4 +12,3 @@ See also:
 - [[Digital certificate]]
 - [[Online certificate status protocol (OCSP)]]
 - [[OCSP stapling]]
-

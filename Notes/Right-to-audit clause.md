@@ -1,4 +1,3 @@
-
 # Right-to-audit clause
 
 A right-to-audit clause ensures an organization has the ability to verify the security and compliance of third-party partners.

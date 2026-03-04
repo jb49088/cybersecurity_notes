@@ -1,4 +1,3 @@
-
 # Multi-protocol label switching (MPLS)
 
 Multi-protocol label switching (MPLS) is a high-performance routing technique used in modern networks to improve speed and efficiency by directing data packets using labels instead of traditional IP-based routing. It is commonly used in enterprise networks, data centers, and service provider infrastructures to enhance traffic management and optimize network performance.
@@ -18,4 +17,3 @@ See also:
 
 - [[Quality of service (QoS)]]
 - [[Software-defined wide area network (SD-WAN)]]
-

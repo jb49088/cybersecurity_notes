@@ -1,4 +1,3 @@
-
 # BlueSmack
 
 BlueSmack is a type of cyber attack that targets Bluetooth-enabled devices by exploiting vulnerabilities in Bluetooth communication protocols. Unlike other Bluetooth-based attacks that may require user interaction or physical proximity, BlueSmack uses specially crafted packets to flood a vulnerable device, causing it to become unresponsive, crash, or even suffer permanent damage.

@@ -1,4 +1,3 @@
-
 # Macro virus
 
 [[🏷️Malware]] 
@@ -10,4 +9,3 @@ A **macro virus** is a type of virus that targets the macros (small scripts) in 
 See also:
 
 - [[Virus]]
-

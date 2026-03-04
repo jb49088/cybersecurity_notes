@@ -1,4 +1,3 @@
-
 # Elliptic-curve cryptography (ECC)
 
 [[🏷️Asymmetric encryption algorithm]]

@@ -1,4 +1,3 @@
-
 # df & mount
 
 [[🏷️Linux command]]

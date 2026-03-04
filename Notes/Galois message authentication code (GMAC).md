@@ -1,4 +1,3 @@
-
 # Galois message authentication code (GMAC)
 
 Galois message authentication code (GMAC) is a cryptographic algorithm used to verify the integrity and authenticity of data. GMAC is based on the Galois field, which is a mathematical structure used in many cryptographic protocols. It provides a method for generating a message authentication tag that ensures the data has not been tampered with during transmission.

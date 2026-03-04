@@ -1,4 +1,3 @@
-
 # Session hijacking
 
 [[🏷️Web application attack]]
@@ -20,4 +19,3 @@ See also:
 - [[Cookie]]
 - [[Cross-site scripting (XSS)]]
 - [[On-path attack]]
-

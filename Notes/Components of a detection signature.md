@@ -1,4 +1,3 @@
-
 # Components of a detection signature
 
 As a security analyst, you may be tasked with writing, customizing, or testing signatures. To do this, you'll use IDS tools. So in this section, we'll examine signature syntax and by the end, you'll be able to read a signature.

@@ -1,4 +1,3 @@
-
 # Virtual desktop infrastructure (VDI)
 
 Virtual desktop infrastructure (VDI) is a technology that hosts desktop operating systems on a centralized server, allowing users to access virtual desktops remotely. VDI provides a secure, scalable, and efficient way to manage desktop environments, commonly used in enterprise and remote work settings.

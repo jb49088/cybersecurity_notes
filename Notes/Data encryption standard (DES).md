@@ -1,4 +1,3 @@
-
 # Data encryption standard (DES)
 
 [[🏷️Symmetric encryption algorithm]]

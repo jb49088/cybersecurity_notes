@@ -1,4 +1,3 @@
-
 # Internet message access protocol (IMAP)
 
 [[🏷️Network protocol]]

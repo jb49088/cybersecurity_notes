@@ -1,4 +1,3 @@
-
 # Lightweight directory access protocol secure (LDAPS)
 
 [[🏷️Network protocol]]

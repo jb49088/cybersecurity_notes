@@ -1,4 +1,3 @@
-
 # Quality of service (QoS)
 
 Quality of service (QoS) refers to the ability of a network to manage and prioritize traffic to ensure optimal performance for critical applications. QoS helps prevent issues like latency, jitter, and packet loss by allocating bandwidth and prioritizing certain types of network traffic over others.

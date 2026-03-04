@@ -1,4 +1,3 @@
-
 # Operating system (OS)
 
 An operating system (OS) is a foundational platform that powers computers and devices, making it an essential part of daily operations. Its importance also makes it a prime target for cyberattacks.

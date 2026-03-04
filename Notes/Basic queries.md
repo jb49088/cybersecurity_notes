@@ -1,4 +1,3 @@
-
 # Basic queries
 
 In this video, we're going to be running our very first SQL query! This query will be based on a common work task that you might encounter as a security analyst. We're going to determine which computer has been assigned to a certain employee. Let's say we have access to the employees table. 

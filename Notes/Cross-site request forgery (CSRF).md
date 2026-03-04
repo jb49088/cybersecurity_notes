@@ -1,4 +1,3 @@
-
 # Cross-site request forgery (CSRF)
 
 [[🏷️Web application attack]]

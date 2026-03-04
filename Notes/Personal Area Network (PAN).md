@@ -1,4 +1,3 @@
-
 # Personal Area Network (PAN)
 
 [[🏷️Network type]]

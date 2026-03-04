@@ -1,4 +1,3 @@
-
 # Combining operators
 
 [[🏷️SQL]]

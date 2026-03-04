@@ -1,4 +1,3 @@
-
 # Password authentication protocol (PAP)
 
 [[🏷️Network protocol]]

@@ -1,4 +1,3 @@
-
 # Dark web
 
 The dark web is a part of the internet that is intentionally hidden and requires specialized software, configurations, or access protocols to reach. It operates on overlay networks, such as Tor, and provides a platform for anonymous communication and activity.

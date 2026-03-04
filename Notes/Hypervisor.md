@@ -1,4 +1,3 @@
-
 # Hypervisor
 
 A hypervisor allows multiple operating systems to run on a single physical machine by creating and managing virtual machines. It divides and allocates the hardware resources, like CPU, memory, and storage, to each virtual machine, so they can operate independently. 

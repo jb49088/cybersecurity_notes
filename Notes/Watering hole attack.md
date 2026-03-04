@@ -1,4 +1,3 @@
-
 # Watering hole attack
 
 [[🏷️Web application attack]]

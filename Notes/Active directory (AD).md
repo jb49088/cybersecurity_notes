@@ -1,4 +1,3 @@
-
 # Active directory (AD)
 
 Active directory (AD) is a centralized directory service primarily used in Windows-based environments to manage and organize network resources.

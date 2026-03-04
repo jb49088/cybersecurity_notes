@@ -1,4 +1,3 @@
-
 # Address space layout randomization (ASLR)
 
 Address space layout randomization (ASLR) is a security technique used to prevent attackers from predicting the memory addresses used by processes in a system. By randomly arranging the memory address space of a process, ASLR makes it significantly harder for an attacker to exploit vulnerabilities such as buffer overflow attacks, where an attacker tries to execute malicious code at a known address.

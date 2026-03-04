@@ -1,4 +1,3 @@
-
 # Dynamic page generation
 
 [[🏷️Web application security]]

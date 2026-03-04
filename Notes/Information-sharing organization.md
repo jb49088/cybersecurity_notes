@@ -1,4 +1,3 @@
-
 # Information-sharing organization
 
 An information-sharing organization facilitates the exchange of critical security details and threat intelligence among its members. These groups aim to improve collective security by disseminating real-time, high-quality information about cyber threats.

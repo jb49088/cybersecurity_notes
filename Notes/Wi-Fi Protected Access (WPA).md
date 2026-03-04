@@ -1,4 +1,3 @@
-
 # Wi-Fi Protected Access (WPA)
 
 [[🏷️Network protocol]]
@@ -23,4 +22,3 @@ See also:
 
 - [[Wi-Fi Protected Access II (WPA2)]]
 - [[Wi-Fi Protected Access III (WPA3)]]
-

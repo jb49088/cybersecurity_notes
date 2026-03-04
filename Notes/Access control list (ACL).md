@@ -1,4 +1,3 @@
-
 # Access control list (ACL)
 
 An access control list (ACL) is a security mechanism used to regulate access to resources by specifying which users, systems, or processes are allowed or denied specific actions. ACLs play a key role in enforcing security policies across networks, systems, and applications, ensuring that only authorized entities can access sensitive data or perform specific operations.

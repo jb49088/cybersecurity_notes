@@ -1,4 +1,3 @@
-
 # WireGuard
 
 [[🏷️Network protocol]]

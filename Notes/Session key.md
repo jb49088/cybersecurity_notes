@@ -1,4 +1,3 @@
-
 # Session key
 
 A session key is a temporary encryption key used to secure a single communication session between two parties. This symmetric key encrypts and decrypts all messages exchanged during the session, ensuring confidentiality and integrity. Once the session ends, the session key is discarded, minimizing the risk of long-term key compromise.

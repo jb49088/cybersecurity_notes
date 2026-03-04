@@ -1,4 +1,3 @@
-
 # Permission commands (Linux)
 
 Previously, you explored file permissions and the commands that you can use to display and change them.  In this reading, you’ll review these concepts and also focus on an example of how these commands work together when putting the principle of least privilege into practice.

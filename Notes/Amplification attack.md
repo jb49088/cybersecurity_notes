@@ -1,4 +1,3 @@
-
 # Amplification attack
 
 [[🏷️Network attack]]

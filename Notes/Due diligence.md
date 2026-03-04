@@ -1,4 +1,3 @@
-
 # Due diligence
 
 Due diligence is the process of thoroughly investigating and assessing risks before making a business decision. in cybersecurity, due diligence ensures that organizations evaluate security practices, compliance requirements, and potential vulnerabilities before engaging with vendors, acquiring technology, or entering partnerships.

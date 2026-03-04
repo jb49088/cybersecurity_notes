@@ -1,4 +1,3 @@
-
 # Communicate effectively with stakeholders
 
 You previously learned about security stakeholders and their significance in an organization. In this reading, you’ll learn the importance of clearly communicating to stakeholders to ensure they have a thorough understanding of the information you’re sharing and why it’s meaningful to the organization. 

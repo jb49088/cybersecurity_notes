@@ -1,4 +1,3 @@
-
 # Trusted platform module (TPM)
 
 [[🏷️Security hardware]]

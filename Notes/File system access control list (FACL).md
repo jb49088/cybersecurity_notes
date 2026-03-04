@@ -1,4 +1,3 @@
-
 # File system access control list (FACL)
 
 A file system access control list (FACL) is a security feature used to manage and control access to files and directories within a file system. It is a list of rules that specify the permissions granted to various users or groups, defining who can read, write, or execute files and directories.

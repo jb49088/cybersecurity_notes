@@ -1,4 +1,3 @@
-
 # Secure access service edge (SASE)
 
 Secure Access Service Edge (SASE) is an advanced networking and security architecture designed to securely connect users to cloud-based services from virtually any location. As organizations increasingly adopt cloud services and enable remote work, SASE emerges as a modern solution that integrates network security and connectivity into a single, streamlined framework.
@@ -18,4 +17,3 @@ See also:
 - [[Wide Area Network (WAN)]]
 - [[Software-defined wide area network (SD-WAN)]]
 - [[Cloud access security broker (CASB)]]
-

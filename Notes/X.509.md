@@ -1,4 +1,3 @@
-
 # X.509
 
 X.509 is a widely used standard for defining digital certificates, which are used to authenticate the identity of users, devices, or services in various security protocols, including SSL/TLS for secure web browsing. It specifies the format for public key certificates, including the structure and fields required for secure communications.

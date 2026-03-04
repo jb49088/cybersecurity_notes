@@ -1,4 +1,3 @@
-
 # Risk
 
 Risk refers to the possibility of an adverse outcome that can affect an organization's ability to achieve its objectives. Understanding different categories and types of risk helps organizations prepare and respond effectively to potential challenges.

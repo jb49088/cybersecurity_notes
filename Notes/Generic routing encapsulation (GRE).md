@@ -1,4 +1,3 @@
-
 # Generic routing encapsulation (GRE)
 
 [[🏷️Network protocol]]

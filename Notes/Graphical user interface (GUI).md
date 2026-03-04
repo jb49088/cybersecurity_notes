@@ -1,4 +1,3 @@
-
 # Graphical user interface (GUI)
 
 A graphical user interface (GUI) is a visual-based interface that allows users to interact with a system through graphical elements such as windows, icons, buttons, and menus. Unlike command line interfaces (CLIs), which require users to type commands, GUIs provide an intuitive and accessible way to navigate and control software using a mouse, touchscreen, or other input devices.

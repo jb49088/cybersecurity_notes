@@ -1,4 +1,3 @@
-
 # Personal electronic device (PED)
 
 A personal electronic device (PED) refers to any portable electronic device designed for individual use. These devices include smartphones, tablets, laptops, smartwatches, e-readers, and other handheld computing or communication tools. PEDs are widely used for personal, professional, and entertainment purposes.

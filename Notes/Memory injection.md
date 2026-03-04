@@ -1,4 +1,3 @@
-
 # Memory injection
 
 [[🏷️Injection attack]]

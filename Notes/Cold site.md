@@ -1,4 +1,3 @@
-
 # Cold site
 
 A cold site is a disaster recovery solution that provides a basic facility without any pre-installed hardware, software, or data. It serves as a backup location where an organization can set up operations in the event of a disaster, but it requires significant time and resources to become operational.

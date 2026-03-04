@@ -1,4 +1,3 @@
-
 # Continuity of operations planning (COOP)
 
 [[🏷️Risk management]]

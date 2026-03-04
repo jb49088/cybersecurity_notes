@@ -1,4 +1,3 @@
-
 # Quid Pro Quo Phishing
 
 [[🏷️Social engineering]]

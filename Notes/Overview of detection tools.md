@@ -1,4 +1,3 @@
-
 # Overview of detection tools
 
 Previously, you explored intrusion detection system (IDS) and intrusion prevention system (IPS) technologies. In this reading, you’ll compare and contrast these tools and learn about endpoint detection and response (EDR). As a security analyst, you'll likely work with these different tools, so it's important to understand their functions.

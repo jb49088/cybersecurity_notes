@@ -1,4 +1,3 @@
-
 # Subject alternative name (SAN)
 
 Subject alternative name (SAN) is an extension to the X.509 specification that allows additional identities to be associated with a digital certificate. While a standard SSL/TLS certificate identifies a single domain or hostname, SAN enables a certificate to secure multiple domains, subdomains, IP addresses, or email addresses under a single certificate.

@@ -1,4 +1,3 @@
-
 # Application allow list ⁄ deny list
 
 An application allow list and deny list control which applications can run on a system, helping protect against malicious software and vulnerabilities. Applications can be exploited through vulnerabilities, trojan horses, or malware, making it essential to limit which programs are permitted.

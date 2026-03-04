@@ -1,4 +1,3 @@
-
 # Cipher lock
 
 A cipher lock is a type of mechanical locking system that operates using a rotating dial or series of buttons, where a specific combination or code must be entered to gain access. Unlike traditional key locks, cipher locks do not rely on physical keys. Instead, they use a numeric or alphanumeric code entered through rotating dials, push-button keypads, or similar mechanisms.

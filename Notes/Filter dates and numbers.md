@@ -1,4 +1,3 @@
-
 # Filter dates and numbers
 
 In this video, we're going to continue using SQL queries and filters, but now we're going to apply them to new data types. First, let's explore the three common data types that you will find in databases: string, numeric, and date and time. String data is data consisting of an ordered sequence of characters. These characters could be numbers, letters, or symbols. For example, you'll encounter string data in user names, such as a user name: analyst10. Numeric data is data consisting of numbers, such as a count of log-in attempts. Unlike strings, mathematical operations can be used on numeric data, like multiplication or addition. Date and time data refers to data representing a date and/or time.

@@ -1,4 +1,3 @@
-
 # Simple network management protocol (SNMP)
 
 [[🏷️Network protocol]]

@@ -1,4 +1,3 @@
-
 # Gap analysis
 
 Gap analysis is a process used to identify the difference between an organization’s current security posture and its desired state. It highlights areas that need improvement to meet security goals, industry standards, or compliance requirements.

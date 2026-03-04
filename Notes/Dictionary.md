@@ -1,4 +1,3 @@
-
 # Dictionary
 
 [[🏷️Data structure]]

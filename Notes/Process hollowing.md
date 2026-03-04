@@ -1,4 +1,3 @@
-
 # Process Hollowing
 
 Process hollowing is a technique used by attackers to inject malicious code into the memory space of a legitimate, running process. The attacker first creates a new process in a suspended state, then removes (or "hollows out") the legitimate code in memory and replaces it with malicious code. After this, the process is resumed, executing the attacker's code while appearing as a legitimate process to the operating system and security software.

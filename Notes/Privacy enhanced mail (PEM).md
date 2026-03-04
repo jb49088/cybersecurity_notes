@@ -1,4 +1,3 @@
-
 # Privacy enhanced mail (PEM)
 
 Privacy enhanced mail (PEM) is an email security standard that provides encryption, authentication, and message integrity for email communications. Originally developed by the Internet Engineering Task Force (IETF), PEM was designed to enhance email privacy by using cryptographic techniques to protect messages from interception, tampering, and unauthorized access.

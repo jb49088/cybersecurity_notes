@@ -1,4 +1,3 @@
-
 ```mermaid
 flowchart LR
     Hosts["Hosts"] --- LAN["LAN"]
@@ -10,5 +9,4 @@ flowchart LR
 
     classDef highlight fill:#003366,stroke:#003366,stroke-width:2px,color:#ffffff;
 ```
-
 

@@ -1,4 +1,3 @@
-
 # Real-time transport protocol (RTP)
 
 [[🏷️Network protocol]]

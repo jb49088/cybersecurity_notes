@@ -1,4 +1,3 @@
-
 # Python functions in cybersecurity
 
 Previously, you explored how to define and call your own functions. In this reading, you’ll revisit what you learned about functions and examine how functions can improve efficiency in a cybersecurity setting.

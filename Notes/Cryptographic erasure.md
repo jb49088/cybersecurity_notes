@@ -1,4 +1,3 @@
-
 # Cryptographic erasure
 
 [[🏷️Cryptography]]

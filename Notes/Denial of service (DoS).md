@@ -1,4 +1,3 @@
-
 # Denial of Service (DoS)
 
 [[🏷️Network attack]]
@@ -20,4 +19,3 @@ While DoS attacks originate from a single source, they are often distinguished f
 See also:
 
 - [[Distributed denial of service (DDoS)]]
-

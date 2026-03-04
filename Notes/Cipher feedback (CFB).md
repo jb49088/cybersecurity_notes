@@ -1,4 +1,3 @@
-
 # Cipher feedback (CFB)
 
 [[🏷️Cryptography]]

@@ -1,4 +1,3 @@
-
 # Automated indicator sharing (AIS)
 
 [[🏷️Threat intelligence]]

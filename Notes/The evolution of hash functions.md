@@ -1,4 +1,3 @@
-
 # The evolution of hash functions
 
 Hash functions are important controls that are part of every company's security strategy. Hashing is widely used for [[Authentication|authentication]] and [[Non-repudiation|non-repudiation]], the concept that the authenticity of information can’t be denied.

@@ -1,4 +1,3 @@
-
 # Transaction signature (TSIG)
 
 Transaction signature (TSIG) is a security mechanism used in DNS to authenticate and secure communications between DNS servers. It ensures the integrity and authenticity of DNS messages by using shared secret keys and cryptographic hashing. TSIG is commonly used for securing zone transfers, dynamic DNS (DDNS) updates, and other DNS transactions that require authentication.

@@ -1,4 +1,3 @@
-
 # Video teleconferencing (VTC)
 
 Video teleconferencing (VTC) is a communication technology that enables real-time audio and video interaction between multiple participants in different locations. It is widely used for remote meetings, training sessions, and collaborative work, allowing individuals and teams to connect visually and verbally over a network.

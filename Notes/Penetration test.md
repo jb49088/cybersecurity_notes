@@ -1,4 +1,3 @@
-
 # Penetration test
 
 A penetration test (pentest) simulates a cyberattack to identify and exploit vulnerabilities within a system, network, or application. Unlike vulnerability scanning, which only identifies weaknesses, a pentest actively attempts to exploit these vulnerabilities to assess the real-world risk they pose.

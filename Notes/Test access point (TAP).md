@@ -1,4 +1,3 @@
-
 # Test access point (TAP)
 
 A test access point (TAP) is a hardware device used in network environments to capture, monitor, and analyze wireless traffic. It provides a way to intercept and examine the data being transmitted over a wireless network without affecting the performance or security of the network itself. TAPs are commonly used for troubleshooting, performance monitoring, and security analysis.

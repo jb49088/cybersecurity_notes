@@ -1,4 +1,3 @@
-
 # Pyramid of pain
 
 The Pyramid of Pain is a conceptual framework used in cybersecurity to describe the levels of difficulty that attackers face when trying to bypass detection and mitigation efforts. The model is often used to guide threat hunters, incident responders, and security professionals in identifying and countering various forms of cyber threats based on the complexity of the attack techniques. The pyramid illustrates that as security measures increase in sophistication, the level of difficulty for an attacker also rises.

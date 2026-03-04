@@ -1,4 +1,3 @@
-
 # Health Insurance Portability and Accountability Act (HIPAA)
 
 [[🏷️Regulation]]
@@ -15,5 +14,4 @@ See also:
 
 - [[Health Information Trust Alliance (HITRUST)]]
 - [[Protected health information (PHI)]]
-
 

@@ -1,4 +1,3 @@
-
 # Twofish
 
 [[🏷️Symmetric encryption algorithm]]

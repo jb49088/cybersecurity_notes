@@ -1,4 +1,3 @@
-
 # Functions and variables
 
 Previously, you focused on working with multiple parameters and arguments in functions and returning information from functions. In this reading, you’ll review these concepts. You'll also be introduced to a new concept: global and local variables.

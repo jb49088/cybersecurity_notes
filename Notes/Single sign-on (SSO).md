@@ -1,4 +1,3 @@
-
 # Single sign-on (SSO)
 
 [[🏷️Authentication methods]]

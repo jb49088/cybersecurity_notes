@@ -1,4 +1,3 @@
-
 # Code signing
 
 Code signing is the process of digitally signing an application or software code to verify its authenticity and integrity before it is deployed. This ensures that users can trust the application they are running and that it has not been tampered with during deployment.

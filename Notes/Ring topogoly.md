@@ -1,4 +1,3 @@
-
 # Ring Topology
 
 [[🏷️Network topology]]

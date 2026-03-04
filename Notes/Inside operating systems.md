@@ -1,4 +1,3 @@
-
 # Inside operating systems
 
 Previously, you learned about what operating systems are. Now, let's discuss how they work. In this video, you'll learn what happens with an operating system, or OS, when someone uses a computer for a task. 

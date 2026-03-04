@@ -1,4 +1,3 @@
-
 # The WHERE clause and basic operators
 
 Previously, you focused on how to refine your SQL queries by using the `WHERE` clause to filter results. In this reading, you’ll further explore how to use the `WHERE` clause, the LIKE operator and the percentage sign (`%`) wildcard. You’ll also be introduced to the underscore (`_`), another wildcard that can help you filter queries.

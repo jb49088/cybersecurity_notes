@@ -1,4 +1,3 @@
-
 # NixOS
 
 [[🏷️Linux distribution]]

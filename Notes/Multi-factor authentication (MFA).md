@@ -1,4 +1,3 @@
-
 # Multi-factor authentication (MFA)
 
 [[🏷️Authentication methods]]
@@ -17,4 +16,3 @@ MFA improves security by combining multiple authentication factors, making it mo
 See also:
 
 - [[Authentication]]
-

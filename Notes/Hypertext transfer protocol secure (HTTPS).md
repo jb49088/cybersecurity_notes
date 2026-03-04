@@ -1,4 +1,3 @@
-
 # Hypertext transfer protocol secure (HTTPS)
 
 [[🏷️Network protocol]]

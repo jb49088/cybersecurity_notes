@@ -1,4 +1,3 @@
-
 # Endpoint
 
 An endpoint is any device that connects to a network, serving as an entry or exit point for data. Common examples include desktops, laptops, smartphones, tablets, servers, and IoT devices. Endpoints are critical in IT infrastructure, as they directly interface with users and are often the target of cyberattacks.

@@ -1,4 +1,3 @@
-
 # Monitoring as a service (MaaS)
 
 Monitoring as a Service (MaaS) is a cloud-based solution that provides organizations with tools and services to monitor their infrastructure, applications, and networks in real-time. By leveraging MaaS, businesses can gain visibility into the performance and health of their IT environments without the need to deploy or maintain complex on-premise monitoring systems.

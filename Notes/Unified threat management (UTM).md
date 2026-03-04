@@ -1,4 +1,3 @@
-
 # Unified threat management (UTM)
 
 Unified threat management (UTM) is an all-in-one security solution that integrates multiple network security and management functions into a single device or platform. It is widely used to simplify and centralize security operations for organizations.

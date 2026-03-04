@@ -1,4 +1,3 @@
-
 # Rainbow table
 
 [[🏷️Password attack]]
@@ -16,4 +15,3 @@ See also:
 - [[Hashing]]
 - [[Brute force attack]]
 - [[Dictionary attack]]
-

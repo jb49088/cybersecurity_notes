@@ -1,4 +1,3 @@
-
 # Wildcard (SQL)
 
 [[🏷️SQL]]

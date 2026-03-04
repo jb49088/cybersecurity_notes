@@ -1,4 +1,3 @@
-
 # Non-repudiation and hashing
 
 Security professionals are always thinking about vulnerabilities. It's how we stay ahead of threats.

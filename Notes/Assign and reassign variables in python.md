@@ -1,4 +1,3 @@
-
 # Assign and reassign variables in python
 
 Previously, you've explored variables and how to assign and reassign them in Python. In this reading, you'll expand your understanding of these topics. You’ll also learn about the general practice of naming variables so that you can avoid syntax errors and improve code readability.

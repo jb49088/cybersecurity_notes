@@ -1,4 +1,3 @@
-
 # Parallel processing
 
 Parallel processing involves splitting a process across multiple CPUs to improve performance and recovery. This can be done within a single computer with multiple CPU cores or across multiple physical computers working together.

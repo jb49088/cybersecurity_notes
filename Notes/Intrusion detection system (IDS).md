@@ -1,4 +1,3 @@
-
 # Intrusion detection system (IDS)
 
 An intrusion detection system (IDS) is a security tool that monitors network or system activities for malicious activity or policy violations. It alerts administrators when suspicious behavior is detected but does not take direct action to prevent it.

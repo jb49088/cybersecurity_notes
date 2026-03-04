@@ -1,4 +1,3 @@
-
 # Package manager
 
 [[🏷️OS component]]
@@ -14,4 +13,3 @@ Package managers are essential tools for maintaining efficient and secure system
 ---
 
 See also:
-

@@ -1,4 +1,3 @@
-
 # End of life (EOL)
 
 End of life (EOL) is the stage in a product’s lifecycle when the manufacturer or developer stops providing active updates and feature development but may still offer limited support. This designation applies to both hardware and software products. Once a product reaches EOL, it typically transitions toward end of service life (EOSL), at which point all forms of support cease.
@@ -13,4 +12,3 @@ See also:
 
 - [[End of service life (EOSL)]]
 - [[Software update]]
-

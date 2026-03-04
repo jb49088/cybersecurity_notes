@@ -1,4 +1,3 @@
-
 # Address resolution protocol (ARP)
 
 [[🏷️Network protocol]]

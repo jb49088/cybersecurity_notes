@@ -1,4 +1,3 @@
-
 # Field programmable gate array (FPGA)
 
 A field programmable gate array (FPGA) is an integrated circuit that can be programmed or reconfigured after manufacturing to perform a wide range of tasks. FPGAs are commonly used in applications that require hardware customization, such as digital signal processing, telecommunications, and embedded systems.

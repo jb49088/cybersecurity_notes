@@ -1,4 +1,3 @@
-
 # Wi-Fi Protected Access III (WPA3)
 
 [[🏷️Network protocol]]

@@ -1,4 +1,3 @@
-
 # Software development lifecycle (SDLC)
 
 The software development lifecycle (SDLC), also known as the systems development lifecycle, provides a structured approach to creating applications or systems. It ensures that development processes meet customer requirements, stay within budget, and adhere to timelines.

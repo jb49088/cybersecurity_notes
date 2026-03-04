@@ -1,4 +1,3 @@
-
 # NetFlow
 
 NetFlow is a network traffic analysis technology developed by Cisco that collects and analyzes traffic flow data. It provides valuable insights into network activity by tracking the flow of data between devices, including information like source and destination IP addresses, ports, and the amount of data transferred. NetFlow helps administrators monitor network performance, optimize traffic management, and identify potential security issues by capturing detailed traffic statistics.

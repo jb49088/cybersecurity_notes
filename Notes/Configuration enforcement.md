@@ -1,4 +1,3 @@
-
 # Configuration enforcement
 
 Configuration enforcement ensures that devices comply with security policies before gaining full access to a network. This process is critical for maintaining a secure environment and preventing non-compliant devices from introducing vulnerabilities.

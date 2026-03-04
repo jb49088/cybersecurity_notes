@@ -1,4 +1,3 @@
-
 # Risk register
 
 A risk register is a critical tool for documenting and managing risks associated with projects or organizational activities. It serves as a centralized repository for identifying, assessing, and tracking risks, enabling effective mitigation and monitoring.

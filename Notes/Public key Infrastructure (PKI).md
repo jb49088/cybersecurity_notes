@@ -1,4 +1,3 @@
-
 # Public Key Infrastructure (PKI)
 
 Public Key Infrastructure (PKI) is a framework that enables secure communication and data exchange through the use of public key cryptography. PKI manages the creation, distribution, storage, and revocation of digital certificates, which are used to authenticate identities and establish trust between entities in a networked environment.

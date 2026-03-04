@@ -1,4 +1,3 @@
-
 # Firewall
 
 [[🏷️Network security]]
@@ -21,5 +20,4 @@ See also:
 - [[Next-generation firewall (NGFW)]]
 - [[Web application firewall (WAF)]]
 - [[Network-based firewall]]
-
 

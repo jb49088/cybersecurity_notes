@@ -1,4 +1,3 @@
-
 # Point-to-point tunneling protocol (PPTP)
 
 [[🏷️Network protocol]]

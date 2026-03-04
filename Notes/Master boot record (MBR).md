@@ -1,4 +1,3 @@
-
 # Master boot record (MBR)
 
 The master boot record (MBR) is a special type of boot sector located at the beginning of a storage device, such as a hard drive. It contains the necessary information for the system to boot the operating system (OS) and manage the partitions on the drive. The MBR is crucial for initiating the boot process of legacy systems that use BIOS firmware.
@@ -20,4 +19,3 @@ See also:
 - [[Unified Extensible Firmware Interface (UEFI)]]
 - [[Bootloader]]
 - [[Operating system (OS)]]
-

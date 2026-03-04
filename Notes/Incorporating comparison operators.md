@@ -1,4 +1,3 @@
-
 # Incorporating comparison operators
 
 [[🏷️SQL]]

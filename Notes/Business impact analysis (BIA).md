@@ -1,4 +1,3 @@
-
 # Business impact analysis (BIA)
 
 A business impact analysis (BIA) is a systematic process used to identify and evaluate the potential effects of disruptions on an organization’s operations. It provides critical insights for prioritizing recovery efforts, allocating resources, and developing effective continuity plans.

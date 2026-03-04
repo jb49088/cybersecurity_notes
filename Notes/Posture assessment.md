@@ -1,4 +1,3 @@
-
 # Posture assessment
 
 Posture assessment is a security process that ensures devices connecting to a network are properly configured and compliant with security standards. This is particularly important in environments with diverse devices, such as Bring Your Own Device (BYOD) scenarios, where personal devices may introduce security risks.

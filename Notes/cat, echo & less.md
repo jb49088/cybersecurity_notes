@@ -1,4 +1,3 @@
-
 # cat, echo & less
 
 [[🏷️Linux command]]
@@ -30,4 +29,3 @@ The simple way to do this is with the use of the pipe operator (`|`).
 > Using `less` with the pipe operator can be useful in many different situations. Here are a few examples:
 > - Viewing the output of a long-running command, such as `top` or `htop`.
 > - Searching for specific text in the output of a command, such as `grep` or `cat` .
-

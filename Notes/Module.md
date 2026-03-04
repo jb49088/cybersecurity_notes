@@ -1,7 +1,5 @@
-
 # Module
 
 [[🏷️Python]]
 
 A Python file that contains additional functions, variables, classes, and any kind of runnable code
-

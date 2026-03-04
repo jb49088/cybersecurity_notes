@@ -1,4 +1,3 @@
-
 # Hardening
 
 Hardening refers to the process of securing systems, devices, and environments by reducing vulnerabilities and configuring them beyond their default settings. This involves applying tailored guidelines and updates to ensure optimal security, often using guides from manufacturers or trusted online sources.

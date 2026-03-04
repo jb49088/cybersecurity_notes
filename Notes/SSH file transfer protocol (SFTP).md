@@ -1,4 +1,3 @@
-
 # SSH file transfer protocol (SFTP)
 
 [[🏷️Network protocol]]

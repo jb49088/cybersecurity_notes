@@ -1,4 +1,3 @@
-
 # Business Email Compromise (BEC)
 
 [[🏷️Social engineering]]

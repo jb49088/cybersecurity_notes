@@ -1,4 +1,3 @@
-
 # Web application
 
 A web application is a software program that runs on a web server rather than being installed on a local computer. Accessible through a web browser, web applications allow users to interact with the software over the internet. They are designed to be platform-independent, meaning they can be used on various devices and operating systems as long as there is a browser and an internet connection.
