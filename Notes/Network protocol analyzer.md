@@ -1,8 +1,6 @@
 
 # Network protocol analyzer
 
-[[🏷️Cybersecurity tool]]
-
 Also known as a packet sniffer, a tool designed to capture and analyze [[Data traffic|data traffic]] within a [[Network|network]]. This means that the tool keeps a record of all [[Data|data]] that a computer within an organization's [[Network|network]] encounters.
 
 ## Common uses
