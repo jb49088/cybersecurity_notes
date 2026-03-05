@@ -1,6 +1,6 @@
 # cybersecurity_notes
 
-1,000+ interconnected cybersecurity notes built in Obsidian, complete with links, tags, and scripts. Designed for both learning and long-term knowledge management.
+1,000+ interconnected cybersecurity notes built in Neovim, complete with links, tags, and scripts. Designed for both learning and long-term knowledge management.
 
 <!-- CODE_STATISTICS_START -->
 
@@ -9,10 +9,9 @@
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Markdown                      1166           9260              4          17792
-Python                           3             31             36            103
+Markdown                      1164           9262              4          17408
 -------------------------------------------------------------------------------
-SUM:                          1169           9291             40          17895
+SUM:                          1164           9262              4          17408
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -47,13 +46,7 @@ cybersecurity_notes
 │   │   │   └── Research and development in advanced communications technologies in Europe (RACE).md
 │   │   └── Storage Devices.md
 │   ├── Prompts
-│   │   ├── Categorizer (threat archive).md
-│   │   ├── Categorizer (top level).md
 │   │   └── Page writer.md
-│   ├── Scripts
-│   │   ├── find-unused-diagrams.py
-│   │   ├── find-unused-images.py
-│   │   └── find-unused-tables.py
 │   ├── Tags
 │   │   ├── 🏷️Access control model.md
 │   │   ├── 🏷️Asymmetric encryption algorithm.md
@@ -1321,6 +1314,6 @@ cybersecurity_notes
 │   └── Zombie.md
 └── README.md
 
-11 directories, 1288 files
+10 directories, 1283 files
 ```
 <!-- PROJECT_STRUCTURE_END -->
