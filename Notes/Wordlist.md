@@ -1,4 +1,4 @@
-# wordlist
+# Wordlist
 
 A wordlist is a plain text file containing a collection of words, phrases, usernames, passwords, or directory names used as input for security tools during penetration testing and security assessments. Wordlists are fundamental to many brute-force and enumeration attacks, as they define the scope and effectiveness of automated guessing attempts.
 
@@ -20,3 +20,4 @@ See also:
 - [[Enumeration]]
 - [[gobuster]]
 - [[John The Ripper]]
+- [[Default credentials]]
