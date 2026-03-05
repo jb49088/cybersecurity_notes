@@ -11,5 +11,4 @@ Privilege escalation is a critical concern for system administrators because onc
 
 See also:
 
-- [[Memory injection]]
-- [[Malware]]
+- [[Lateral movement]]

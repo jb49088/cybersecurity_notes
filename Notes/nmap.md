@@ -1,4 +1,4 @@
-# Nmap
+# nmap
 
 [[🏷️Cybersecurity tool]]
 
@@ -21,3 +21,5 @@ Nmap is an essential tool for network security, offering powerful scanning capab
 See also:
 
 - [[Port]]
+- [[Enumeration]]
+- [[Reconnaissance]]

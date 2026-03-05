@@ -14,5 +14,5 @@ By default, the `ln` command will make hard links instead of symbolic or soft li
 
 > [!note]
 > Say you have a text file. If you make a symbolic link to that file, the link is only a pointer to the original file. If you delete the original file, the link will be broken, as it no longer has anything to point to.
-> 
+>
 > A hard link is a mirror copy of an original file with the exact same contents. Like symbolic links, if you edit the contents of the original file, those changes will be reflected in the hard link. If you delete the original file, though, the hard link will still work, and you can view and edit it as you would a normal copy of the original file.

@@ -17,7 +17,7 @@ WPA3 (Wi-Fi Protected Access III) was introduced in 2018 as the latest security 
 5. **Easy Connect**: This feature simplifies the process of connecting devices to a Wi-Fi network, particularly for IoT devices, by allowing users to scan a QR code or use NFC.
    <br>
 6. **Robust Security for High-Density Environments**: WPA3 is designed to provide improved performance and security in environments with many connected devices, like stadiums and airports.
-   
+
 WPA3 aims to provide a more secure wireless experience, addressing vulnerabilities and improving user authentication. While it’s gradually being adopted, many devices still use WPA2, and WPA3 is designed to be backward compatible with WPA2 networks.
 
 ---

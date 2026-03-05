@@ -9,10 +9,10 @@
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Markdown                      1259           9215              4          19165
+Markdown                      1266           9258              4          19285
 Python                           3             31             36            103
 -------------------------------------------------------------------------------
-SUM:                          1262           9246             40          19268
+SUM:                          1269           9289             40          19388
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -321,7 +321,6 @@ cybersecurity_notes
 │   │   ├── Cables and Connectors.md
 │   │   ├── Cooling Systems.md
 │   │   ├── Expansion Cards.md
-│   │   ├── Filesystem hierarchy standard (FHS).md
 │   │   ├── Passkey.md
 │   │   ├── Standards & Standard Bodies
 │   │   │   ├── Center for Internet Security (CIS).md
@@ -711,6 +710,7 @@ cybersecurity_notes
 │   ├── Cryptography.md
 │   ├── Cryptojacking.md
 │   ├── CSO Online.md
+│   ├── curl.md
 │   ├── CVE Numbering Authority (CNA).md
 │   ├── CVSS Metrics.md
 │   ├── CyberHAC.md
@@ -831,6 +831,7 @@ cybersecurity_notes
 │   ├── Enterprise resource planning (ERP).md
 │   ├── Enumeration.md
 │   ├── Enum.md
+│   ├── Environment variable.md
 │   ├── Eric Parker.md
 │   ├── Escalation.md
 │   ├── Escalation Policy.md
@@ -863,6 +864,7 @@ cybersecurity_notes
 │   ├── Fileless exploits.md
 │   ├── Fileless malware.md
 │   ├── File system access control list (FACL).md
+│   ├── Filesystem hierarchy standard (FHS).md
 │   ├── File transfer protocol (FTP).md
 │   ├── File transfer protocol secure (FTPS).md
 │   ├── Filter content in Linux.md
@@ -892,6 +894,7 @@ cybersecurity_notes
 │   ├── Global positioning system (GPS).md
 │   ├── GNU.md
 │   ├── GNU privacy guard (GPG).md
+│   ├── gobuster.md
 │   ├── Graphical user interface (GUI).md
 │   ├── grep.md
 │   ├── Group policy object (GPO).md
@@ -1000,6 +1003,7 @@ cybersecurity_notes
 │   ├── Investigate packet details.md
 │   ├── IP address.md
 │   ├── IP spoofing.md
+│   ├── iptables.md
 │   ├── Iterative statement.md
 │   ├── Jailbreaking ⁄ Rooting.md
 │   ├── JavaScript.md
@@ -1142,12 +1146,13 @@ cybersecurity_notes
 │   ├── New technology file system (NTFS).md
 │   ├── New technology LAN manager (NTLM).md
 │   ├── Next-generation firewall (NGFW).md
+│   ├── nftables.md
 │   ├── NIST Cybersecurity Framework (CSF).md
 │   ├── NIST Incident Response Lifecycle.md
 │   ├── NIST Risk Management Framework (RMF).md
 │   ├── NIST Special Publication (S.P.) 800-53.md
 │   ├── NixOS.md
-│   ├── Nmap.md
+│   ├── nmap.md
 │   ├── Nonce.md
 │   ├── Non-disclosure agreement (NDA).md
 │   ├── Non-repudiation and hashing.md
@@ -1210,6 +1215,7 @@ cybersecurity_notes
 │   ├── Password policy.md
 │   ├── Password spraying.md
 │   ├── Password vault.md
+│   ├── Path hijacking.md
 │   ├── Payment Card Industry Data Security Standard (PCI DSS).md
 │   ├── Peer-to-Peer model.md
 │   ├── Peer to peer (P2P).md
@@ -1581,7 +1587,6 @@ cybersecurity_notes
 │   ├── Typo-squatting.md
 │   ├── Ubuntu.md
 │   ├── UDP Flood.md
-│   ├── ufw & iptables.md
 │   ├── Unauthorized access.md
 │   ├── Uncontrolled Zone.md
 │   ├── Unified access points.md
@@ -1614,6 +1619,7 @@ cybersecurity_notes
 │   ├── Video teleconferencing (VTC).md
 │   ├── Virtual desktop environment (VDE).md
 │   ├── Virtual desktop infrastructure (VDI).md
+│   ├── Virtual hosting.md
 │   ├── Virtualization.md
 │   ├── Virtual Local Area Networks (VLAN).md
 │   ├── Virtual machine escape.md
@@ -1660,6 +1666,7 @@ cybersecurity_notes
 │   ├── Wireless Local Area Network (WLAN).md
 │   ├── Wireless Transport Layer Security (WTLS).md
 │   ├── Wireshark.md
+│   ├── Wordlist.md
 │   ├── Work order (WO).md
 │   ├── Workstation.md
 │   ├── Work with built-in functions.md
@@ -1678,6 +1685,6 @@ cybersecurity_notes
 │   └── Zombie.md
 └── README.md
 
-15 directories, 1641 files
+15 directories, 1648 files
 ```
 <!-- PROJECT_STRUCTURE_END -->

@@ -12,4 +12,3 @@ See also:
 
 - [[Application programming interface (API)]]
 - [[Encryption]]
-
