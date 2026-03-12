@@ -8,4 +8,4 @@ Geofencing can be applied in various contexts, including mobile device managemen
 
 See also:
 
-- [[Data sovereignty]]
+- [[data_sovereignty]]

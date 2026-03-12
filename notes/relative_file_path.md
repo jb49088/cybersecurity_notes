@@ -1,3 +1,3 @@
 # Relative file path
 
-A [[File path|file path]] that starts from the [[User|user's]] current [[Directory|directory]].
+A [[file_path|file_path]] that starts from the [[user|user's]] current [[directory|directory]].

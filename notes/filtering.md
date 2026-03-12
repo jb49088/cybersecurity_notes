@@ -1,3 +1,3 @@
 # Filtering
 
-Selecting [[Data|data]] that match a certain condition.
+Selecting [[data|data]] that match a certain condition.

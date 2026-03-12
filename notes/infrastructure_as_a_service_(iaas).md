@@ -17,7 +17,7 @@ Popular IaaS providers include Amazon Web Services (AWS), Microsoft Azure, and G
 
 See also:
 
-- [[Cloud computing]]
-- [[Cloud Service Provider (CSP)]]
-- [[Platform as a service (PaaS)]]
-- [[Software as a service (SaaS)]]
+- [[cloud_computing]]
+- [[cloud_service_provider_(csp)]]
+- [[platform_as_a_service_(paas)]]
+- [[software_as_a_service_(saas)]]

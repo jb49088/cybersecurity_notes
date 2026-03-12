@@ -1,15 +1,15 @@
 # Recovery
 
-Restoring systems and [[Data|data]] to a secure state after an [[main/Incident Response & Forensics|incident]], minimizing downtime and ensuring [[Business continuity|buisness continuity]].
+Restoring systems and [[data|data]] to a secure state after an [[main/incident_response_&_forensics|incident]], minimizing downtime and ensuring [[business_continuity|buisness_continuity]].
 
 ## Business continuity
 
-An organization's ability to maintain their everyday productivity by establishing [[Disaster recovery plan (DRP)|disaster recovery plans]].
+An organization's ability to maintain their everyday productivity by establishing [[disaster_recovery_plan_(drp)|disaster_recovery_plans]].
 
 ### BCP
 
-A document that outlines the [[Procedures|procedures]] to sustain [[Business continuity|buisness continuity]] during and after a significant disruption.
+A document that outlines the [[procedures|procedures]] to sustain [[business_continuity|buisness_continuity]] during and after a significant disruption.
 
 ### Disaster recovery plan
 
-A plan that allows an organization’s security team to outline the steps needed to minimize the impact of an [[main/Incident Response & Forensics|incident]].
+A plan that allows an organization’s security team to outline the steps needed to minimize the impact of an [[main/incident_response_&_forensics|incident]].

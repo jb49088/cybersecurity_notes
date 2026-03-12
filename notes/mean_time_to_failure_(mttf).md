@@ -8,5 +8,5 @@ MTTF can help organizations assess the longevity of products and components, all
 
 See also:
 
-- [[Mean time between failures (MTBF)]]
-- [[Mean time to recover (MTTR)]]
+- [[mean_time_between_failures_(mtbf)]]
+- [[mean_time_to_recover_(mttr)]]

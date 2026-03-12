@@ -16,5 +16,5 @@ SPIM is a form of cyber threat that can disrupt communication, expose users to s
 
 See also:
 
-- [[Instant messaging (IM)]]
-- [[Phishing]]
+- [[instant_messaging_(im)]]
+- [[phishing]]

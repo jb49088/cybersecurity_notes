@@ -13,5 +13,5 @@ Data comes in various types, each with unique characteristics and security requi
 
 See also:
 
-- [[Data]]
-- [[Data classifications]]
+- [[data]]
+- [[data_classifications]]

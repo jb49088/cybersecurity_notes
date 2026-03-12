@@ -20,4 +20,4 @@ Reducing the attack surface helps lower the risk of successful attacks by limiti
 
 See also:
 
-- [[Attack vector]]
+- [[attack_vector]]

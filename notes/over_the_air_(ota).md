@@ -14,5 +14,5 @@ By eliminating the need for physical access, OTA technology provides a convenien
 
 See also:
 
-- [[Internet of Things (IoT)]]
-- [[Mobile device management (MDM)]]
+- [[internet_of_things_(iot)]]
+- [[mobile_device_management_(mdm)]]

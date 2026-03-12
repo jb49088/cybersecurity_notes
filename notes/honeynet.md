@@ -10,6 +10,6 @@ Honeynets provide an effective way to understand the tactics and strategies of a
 
 See also:
 
-- [[Honeypot]]
-- [[Honeyfiles]]
-- [[Honeytokens]]
+- [[honeypot]]
+- [[honeyfiles]]
+- [[honeytokens]]

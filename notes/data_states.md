@@ -9,4 +9,4 @@ Data can exist in different states throughout its lifecycle, each requiring spec
 
 See also:
 
-- [[Data lifecycle stages]]
+- [[data_lifecycle_stages]]

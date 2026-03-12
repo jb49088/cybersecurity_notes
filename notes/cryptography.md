@@ -6,5 +6,5 @@ Cryptography secures information by converting it into unreadable formats for un
 
 See also:
 
-- [[Encryption]]
-- [[Decryption]]
+- [[encryption]]
+- [[decryption]]

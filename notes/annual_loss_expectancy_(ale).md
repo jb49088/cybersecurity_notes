@@ -14,6 +14,6 @@ ALE is an important tool for decision-making in the context of business continui
 
 See also:
 
-- [[Single loss expectancy (SLE)]]
-- [[Exposure factor (EF)]]
-- [[Annual rate of occurrence (ARO)]]
+- [[single_loss_expectancy_(sle)]]
+- [[exposure_factor_(ef)]]
+- [[annual_rate_of_occurrence_(aro)]]

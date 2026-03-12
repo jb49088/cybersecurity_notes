@@ -1,7 +1,5 @@
 # Deep packet inspection (DPI)
 
-[[🏷️Network security]]
-
 Deep packet inspection (DPI) is a network traffic analysis technique that examines the contents of packets beyond just their headers. Unlike traditional packet filtering, which only evaluates source/destination IP addresses and port numbers, DPI inspects the actual payload of packets to identify protocols, applications, and threats in real time.
 
 - **Application identification:** DPI can identify the true application or protocol being used regardless of port number, meaning SSH disguised as HTTP traffic on port 80 can still be detected and blocked.
@@ -17,8 +15,8 @@ DPI is a powerful tool for both defenders and a well-understood obstacle for att
 
 See also:
 
-- [[Firewall]]
-- [[Next-generation firewall (NGFW)]]
-- [[Intrusion detection system (IDS)]]
-- [[Intrusion prevention system (IPS)]]
-- [[Transport layer security (TLS)]]
+- [[firewall]]
+- [[next-generation_firewall_(ngfw)]]
+- [[intrusion_detection_system_(ids)]]
+- [[intrusion_prevention_system_(ips)]]
+- [[transport_layer_security_(tls)]]

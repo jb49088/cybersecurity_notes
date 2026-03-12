@@ -13,4 +13,4 @@ Threat hunting strengthens an organization’s defense by actively seeking and n
 
 See also:
 
-- [[Incident response plan (IRP)]]
+- [[incident_response_plan_(irp)]]

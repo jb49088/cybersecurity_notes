@@ -10,5 +10,5 @@ However, there are security concerns related to cellular networks. These include
 
 See also:
 
-- [[Subscriber identity module (SIM)]]
-- [[Mobile device management (MDM)]]
+- [[subscriber_identity_module_(sim)]]
+- [[mobile_device_management_(mdm)]]

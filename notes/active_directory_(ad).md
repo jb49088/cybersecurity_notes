@@ -13,5 +13,5 @@ Active Directory provides a robust framework for managing users, devices, and re
 
 See also:
 
-- [[Windows]]
-- [[Group policy object (GPO)]]
+- [[windows]]
+- [[group_policy_object_(gpo)]]

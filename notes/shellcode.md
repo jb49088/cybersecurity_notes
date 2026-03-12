@@ -10,4 +10,4 @@ Given its small and efficient nature, shellcode is particularly useful in scenar
 
 See also:
 
-- [[Malware]]
+- [[malware]]

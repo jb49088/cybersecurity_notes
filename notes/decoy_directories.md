@@ -8,5 +8,5 @@ Decoy directories are typically part of a broader deception strategy, such as ho
 
 See also:
 
-- [[Honeypot]]
-- [[Honeytokens]]
+- [[honeypot]]
+- [[honeytokens]]

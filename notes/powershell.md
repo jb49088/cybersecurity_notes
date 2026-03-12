@@ -14,5 +14,5 @@ PowerShell has become a standard tool for system administrators and developers a
 
 See also:
 
-- [[Script]]
-- [[Windows]]
+- [[script]]
+- [[windows]]

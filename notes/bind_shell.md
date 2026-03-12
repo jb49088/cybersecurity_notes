@@ -14,8 +14,8 @@ Bind shells are a foundational concept in understanding remote access techniques
 
 See also:
 
-- [[Reverse shell]]
-- [[Remote code execution (RCE)]]
-- [[Netcat]]
-- [[Firewall]]
-- [[Network address translation (NAT)]]
+- [[reverse_shell]]
+- [[remote_code_execution_(rce)]]
+- [[netcat]]
+- [[firewall]]
+- [[network_address_translation_(nat)]]

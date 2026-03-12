@@ -1,7 +1,5 @@
 # File transfer protocol (FTP)
 
-[[🏷️Network protocol]]
-
 File Transfer Protocol (FTP) is a standard network protocol used for transferring files between computers over a TCP/IP network. It allows users to upload, download, and manage files on remote servers, commonly used in web development, file sharing, and system administration.
 
 - **Port numbers:** FTP uses port 21 for the control connection (commands) and port 20 for the data connection (file transfers).
@@ -18,6 +16,6 @@ FTP is widely used for transferring files but lacks encryption, which can be a s
 
 See also:
 
-- [[SSH file transfer protocol (SFTP)]]
-- [[File transfer protocol secure (FTPS)]]
-- [[Trivial File Transfer Protocol (TFTP)]]
+- [[ssh_file_transfer_protocol_(sftp)]]
+- [[file_transfer_protocol_secure_(ftps)]]
+- [[trivial_file_transfer_protocol_(tftp)]]

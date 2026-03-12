@@ -14,5 +14,5 @@ By participating in these organizations, entities across sectors can strengthen 
 
 See also:
 
-- [[Threat intelligence]]
-- [[Proprietary intelligence]]
+- [[threat_intelligence]]
+- [[proprietary_intelligence]]

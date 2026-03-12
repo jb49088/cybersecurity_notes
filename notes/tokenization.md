@@ -1,7 +1,5 @@
 # Tokenization
 
-[[🏷️Obfuscation]]
-
 Tokenization is a security technique used to protect sensitive data by replacing it with a unique identifier, known as a "token." These tokens are used in place of the actual data, such as credit card numbers or personal identification information, within a system. The original sensitive data is stored securely in a separate database, known as a token vault, while the token itself has no exploitable value.
 
 Unlike encryption, tokenization does not require complex mathematical operations to protect data; instead, it relies on a one-to-one mapping between the sensitive data and the token. This makes tokenization an effective way to minimize the exposure of sensitive information, especially in environments where compliance with privacy regulations (e.g., PCI DSS for payment card data) is required.
@@ -12,8 +10,8 @@ Tokenization is commonly used in payment processing, healthcare, and financial s
 
 See also:
 
-- [[Obfuscation]]
-- [[Steganography]]
-- [[Data masking]]
-- [[Payment Card Industry Data Security Standard (PCI DSS)]]
-- [[Personally identifiable information (PII)]]
+- [[obfuscation]]
+- [[steganography]]
+- [[data_masking]]
+- [[payment_card_industry_data_security_standard_(pci_dss)]]
+- [[personally_identifiable_information_(pii)]]

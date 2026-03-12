@@ -14,4 +14,4 @@ Though IRC has been largely replaced by more modern messaging platforms, it rema
 
 See also:
 
-- [[Instant messaging (IM)]]
+- [[instant_messaging_(im)]]

@@ -14,5 +14,5 @@ These systems are integral to modern technology, offering precise and efficient 
 
 See also:
 
-- [[Real-time operating system (RTOS)]]
-- [[Industrial control system (ICS)]]
+- [[real-time_operating_system_(rtos)]]
+- [[industrial_control_system_(ics)]]

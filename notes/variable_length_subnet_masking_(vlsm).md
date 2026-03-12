@@ -1,7 +1,5 @@
 # Variable length subnet masking (VLSM)
 
-[[🏷️Networking]]
-
 Variable length subnet masking (VLSM) is a subnetting technique that allows different subnet masks to be assigned within the same network, optimizing IP address allocation. Unlike traditional fixed-length subnetting, VLSM enables more efficient use of IP address space by allocating subnet sizes based on actual need rather than a fixed structure.
 
 - **Efficient IP allocation:** Reduces wasted addresses by assigning subnet masks based on host requirements.
@@ -16,7 +14,7 @@ VLSM is widely used in enterprise networks and service provider environments to 
 
 See also:
 
-- [[Subnetting]]
-- [[Routing Information Protocol Version 2 (RIPv2)]]
-- [[Open shortest path first (OSPF)]]
-- [[Enhanced Interior Gateway Routing Protocol (EIGRP)]]
+- [[subnetting]]
+- [[routing_information_protocol_version_2_(ripv2)]]
+- [[open_shortest_path_first_(ospf)]]
+- [[enhanced_interior_gateway_routing_protocol_(eigrp)]]

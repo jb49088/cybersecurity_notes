@@ -16,7 +16,7 @@ The main benefits of a UPS include maintaining system uptime, preventing data lo
 
 See also:
 
-- [[Generator]]
-- [[Availability]]
-- [[High availability (HA)]]
-- [[Disaster recovery plan (DRP)]]
+- [[generator]]
+- [[availability]]
+- [[high_availability_(ha)]]
+- [[disaster_recovery_plan_(drp)]]

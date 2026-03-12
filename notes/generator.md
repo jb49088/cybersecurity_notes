@@ -8,7 +8,7 @@ Generators are capable of powering an entire building or specific essential syst
 
 See also:
 
-- [[Uninterruptible power supply (UPS)]]
-- [[Disaster recovery plan (DRP)]]
-- [[Availability]]
-- [[High availability (HA)]]
+- [[uninterruptible_power_supply_(ups)]]
+- [[disaster_recovery_plan_(drp)]]
+- [[availability]]
+- [[high_availability_(ha)]]

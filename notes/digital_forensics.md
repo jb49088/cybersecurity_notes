@@ -13,6 +13,6 @@ Digital forensics is critical for uncovering the full scope of an incident and e
 
 See also:
 
-- [[Legal hold]]
-- [[Chain of custody]]
-- [[E-discovery]]
+- [[legal_hold]]
+- [[chain_of_custody]]
+- [[e-discovery]]

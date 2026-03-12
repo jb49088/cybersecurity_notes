@@ -24,6 +24,6 @@ Applications of PKI include:
 
 See also:
 
-- [[Digital certificate]]
-- [[Certificate authority (CA)]]
-- [[Asymmetric encryption]]
+- [[digital_certificate]]
+- [[certificate_authority_(ca)]]
+- [[asymmetric_encryption]]

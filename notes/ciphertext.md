@@ -1,3 +1,3 @@
 # Ciphertext
 
-The result of [[Encryption|encryption]], which is encoded information.
+The result of [[encryption|encryption]], which is encoded information.

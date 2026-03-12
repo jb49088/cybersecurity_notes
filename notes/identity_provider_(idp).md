@@ -14,8 +14,8 @@ By centralizing authentication, IdPs improve user convenience and enhance securi
 
 See also:
 
-- [[Single sign-on (SSO)]]
-- [[OAuth]]
-- [[Security assertion markup language (SAML)]]
-- [[OpenID Connect]]
-- [[Federation]]
+- [[single_sign-on_(sso)]]
+- [[oauth]]
+- [[security_assertion_markup_language_(saml)]]
+- [[openid_connect]]
+- [[federation]]

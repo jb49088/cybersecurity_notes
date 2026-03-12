@@ -19,4 +19,4 @@ AI is applied across numerous fields, such as healthcare, finance, manufacturing
 
 See also:
 
-- [[Machine Learning (ML)]]
+- [[machine_learning_(ml)]]

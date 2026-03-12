@@ -14,5 +14,5 @@ CRC is widely used in network protocols, file systems, and error-checking system
 
 See also:
 
-- [[Integrity]]
-- [[Checksum]]
+- [[integrity]]
+- [[checksum]]

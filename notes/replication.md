@@ -8,6 +8,6 @@ In the event of a disaster or system failure, the replicated data is easily reco
 
 See also:
 
-- [[Backup]]
-- [[Disaster recovery plan (DRP)]]
-- [[High availability (HA)]]
+- [[backup]]
+- [[disaster_recovery_plan_(drp)]]
+- [[high_availability_(ha)]]

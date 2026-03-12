@@ -1,7 +1,5 @@
 # pipe
 
-[[🏷️Linux command]]
-
 The pipe (`|`) is a powerful command-line feature in Linux that allows the output of one command to be passed directly as input to another. It enables users to build complex command sequences by connecting simple tools together in a streamlined workflow. Pipes are essential for effective use of the Unix philosophy—doing one thing well and chaining tools to perform more complex tasks.
 
 - **Command chaining:** The pipe connects the standard output (stdout) of one command to the standard input (stdin) of another. This allows users to process data step by step without creating intermediate files.
@@ -18,7 +16,7 @@ Pipes are fundamental to shell scripting and interactive command-line use, enabl
 
 See also:
 
-- [[Standard input (stdin)]]
-- [[Standard output (stdout)]]
-- [[Redirection (Linux)]]
-- [[Shell scripting]]
+- [[standard_input_(stdin)]]
+- [[standard_output_(stdout)]]
+- [[redirection_(linux)]]
+- [[shell_scripting]]

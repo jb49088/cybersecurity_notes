@@ -14,5 +14,5 @@ PGP is widely used in secure communications and has been adopted in standards li
 
 See also:
 
-- [[Encryption]]
-- [[Digital signature]]
+- [[encryption]]
+- [[digital_signature]]

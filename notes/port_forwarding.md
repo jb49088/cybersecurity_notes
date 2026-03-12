@@ -12,6 +12,6 @@ However, since port forwarding opens specific ports to the internet, it can expo
 
 See also:
 
-- [[Port triggering]]
-- [[Network address translation (NAT)]]
-- [[Firewall]]
+- [[port_triggering]]
+- [[network_address_translation_(nat)]]
+- [[firewall]]

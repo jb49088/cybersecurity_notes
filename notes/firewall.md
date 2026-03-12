@@ -1,7 +1,5 @@
 # Firewall
 
-[[🏷️Network security]]
-
 A firewall is a fundamental component of network security, designed to control the flow of traffic between trusted and untrusted networks. Firewalls are widely used in homes, offices, and integrated into operating systems to safeguard systems from unauthorized access and malicious threats.
 
 - **Traffic Control**: Firewalls monitor and regulate network traffic, ensuring that only permitted data flows in and out of the network.
@@ -17,6 +15,6 @@ Firewalls play a crucial role in both personal and corporate environments, provi
 
 See also:
 
-- [[Next-generation firewall (NGFW)]]
-- [[Web application firewall (WAF)]]
-- [[Network-based firewall]]
+- [[next-generation_firewall_(ngfw)]]
+- [[web_application_firewall_(waf)]]
+- [[network-based_firewall]]

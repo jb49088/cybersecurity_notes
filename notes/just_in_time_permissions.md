@@ -15,4 +15,4 @@ Just-in-time permissions enhance security by minimizing the duration and scope o
 
 See also:
 
-- [[Least privilege]]
+- [[least_privilege]]

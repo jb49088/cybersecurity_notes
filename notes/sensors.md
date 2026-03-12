@@ -1,7 +1,5 @@
 # Sensors
 
-[[🏷️Physical security]]
-
 Sensors are devices used in physical security systems to detect changes in the environment and trigger alerts or actions in response. They play a crucial role in intrusion detection, monitoring perimeters, and safeguarding critical assets. Different types of sensors are employed depending on the specific security requirements and environmental conditions, each with unique capabilities and applications.
 
 ## Types of sensors used in security:

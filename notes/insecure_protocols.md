@@ -20,8 +20,8 @@ Regular audits and enforcement of secure communication standards help protect ag
 
 See also:
 
-- [[Encryption]]
-- [[Hypertext transfer protocol secure (HTTPS)]]
-- [[SSH file transfer protocol (SFTP)]]
-- [[Transport Layer Security (TLS)]]
-- [[Man-in-the-middle (MITM)]]
+- [[encryption]]
+- [[hypertext_transfer_protocol_secure_(https)]]
+- [[ssh_file_transfer_protocol_(sftp)]]
+- [[transport_layer_security_(tls)]]
+- [[man-in-the-middle_(mitm)]]

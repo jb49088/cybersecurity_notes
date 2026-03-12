@@ -6,9 +6,9 @@ Security and privacy have a close relationship. As you may recall, people have t
 
 Security and privacy are two terms that often get used interchangeably outside of this field. Although the two concepts are connected, they represent specific functions:
 
-- [[Information privacy]] refers to the protection of unauthorized access and distribution of data.
+- [[information_privacy]] refers to the protection of unauthorized access and distribution of data.
   <br>
-- [[Information Security (InfoSec)]] refers to the practice of keeping data in all states away from unauthorized users.
+- [[information_security_(infosec)]] refers to the practice of keeping data in all states away from unauthorized users.
 
 The key difference: Privacy is about providing people with control over their personal information and how it's shared. Security is about protecting people’s choices and keeping their information safe from potential threats.
 
@@ -36,9 +36,9 @@ Businesses are required to abide by certain laws to operate. As you might recall
 
 Three of the most influential industry regulations that every security professional should know about are:
 
-- [[General data protection regulation (GDPR)]]
-- [[Payment Card Industry Data Security Standard (PCI DSS)]]
-- [[Health Insurance Portability and Accountability Act (HIPAA)]]
+- [[general_data_protection_regulation_(gdpr)]]
+- [[payment_card_industry_data_security_standard_(pci_dss)]]
+- [[health_insurance_portability_and_accountability_act_(hipaa)]]
 
 > [!info] Note
 > These regulations influence data handling at many organizations around the world even though they were developed by specific nations.
@@ -51,10 +51,10 @@ Businesses should comply with important regulations in their industry. Doing so 
 
 Meeting compliance standards is usually a continual, two-part process of security audits and assessments:
 
-- A [[Security Audits|security audit]] is a review of an organization's security controls, policies, and procedures against a set of expectations.
-- A [[Security assessment|security assessment]] is a check to determine how resilient current security implementations are against threats.
+- A [[security_audits|security_audit]] is a review of an organization's security controls, policies, and procedures against a set of expectations.
+- A [[security_assessment|security_assessment]] is a check to determine how resilient current security implementations are against threats.
 
-For example, if a regulation states that [[Multi-factor authentication (MFA)|multi-factor authentication (MFA)]] must be enabled for all administrator accounts, an audit might be conducted to check those user accounts for compliance. After the audit, the internal team might perform a security assessment that determines many users are using weak passwords. Based on their assessment, the team could decide to enable MFA on all user accounts to improve their overall [[Security posture|security posture]].
+For example, if a regulation states that [[multi-factor_authentication_(mfa)|multi-factor_authentication_(mfa)]] must be enabled for all administrator accounts, an audit might be conducted to check those user accounts for compliance. After the audit, the internal team might perform a security assessment that determines many users are using weak passwords. Based on their assessment, the team could decide to enable MFA on all user accounts to improve their overall [[security_posture|security_posture]].
 
 > [!info] Note
 > Compliance with legal regulations, such as GDPR, can be determined during audits.

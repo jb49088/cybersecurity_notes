@@ -14,5 +14,5 @@ Bug bounty programs help organizations improve their security posture by leverag
 
 See also:
 
-- [[Responsible disclosure program]]
-- [[Penetration test]]
+- [[responsible_disclosure_program]]
+- [[penetration_test]]

@@ -15,9 +15,9 @@ Algorithms like Diffie-Hellman and Elliptic Curve Diffie-Hellman (ECDH) enable t
 
 See also:
 
-- [[Asymmetric encryption]]
-- [[Symmetric encryption]]
-- [[Diffie-Hellman (DH)]]
-- [[Elliptic Curve Diffie-Hellman (ECDH)]]
-- [[Public key Infrastructure (PKI)]]
-- [[Session key]]
+- [[asymmetric_encryption]]
+- [[symmetric_encryption]]
+- [[diffie-hellman_(dh)]]
+- [[elliptic_curve_diffie-hellman_(ecdh)]]
+- [[public_key_infrastructure_(pki)]]
+- [[session_key]]

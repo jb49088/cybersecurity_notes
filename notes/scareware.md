@@ -1,7 +1,5 @@
 # Scareware
 
-[[🏷️Malware]]
-
 Scareware is a type of malicious software designed to deceive users into thinking their computer is infected with a virus or other critical problem, often through alarming pop-ups or fake system alerts. The goal of scareware is to scare users into purchasing fake security software or providing personal information by exploiting their fear of a non-existent issue.
 
 Scareware typically involves tactics such as:
@@ -18,7 +16,7 @@ While scareware isn't usually destructive like other types of malware, it can le
 
 See also:
 
-- [[Malware]]
-- [[Spyware]]
-- [[Ransomware]]
-- [[Phishing]]
+- [[malware]]
+- [[spyware]]
+- [[ransomware]]
+- [[phishing]]

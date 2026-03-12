@@ -13,7 +13,7 @@ Tabletop exercises are valuable for enhancing preparedness, strengthening team c
 
 See also:
 
-- [[Simulation]]
-- [[Disaster recovery plan (DRP)]]
-- [[Business continuity plan (BCP)]]
-- [[Incident response plan (IRP)]]
+- [[simulation]]
+- [[disaster_recovery_plan_(drp)]]
+- [[business_continuity_plan_(bcp)]]
+- [[incident_response_plan_(irp)]]

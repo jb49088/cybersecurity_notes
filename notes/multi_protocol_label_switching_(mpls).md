@@ -15,5 +15,5 @@ MPLS remains a widely used networking technology for businesses and service prov
 
 See also:
 
-- [[Quality of service (QoS)]]
-- [[Software-defined wide area network (SD-WAN)]]
+- [[quality_of_service_(qos)]]
+- [[software-defined_wide_area_network_(sd-wan)]]

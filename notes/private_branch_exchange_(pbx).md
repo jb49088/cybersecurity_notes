@@ -15,4 +15,4 @@ PBX systems remain a critical component of business communications, especially i
 
 See also:
 
-- [[Voice over internet protocol (VoIP)]]
+- [[voice_over_internet_protocol_(voip)]]

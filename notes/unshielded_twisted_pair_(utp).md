@@ -14,4 +14,4 @@ UTP remains a popular choice for both residential and commercial networking due 
 
 See also:
 
-- [[Ethernet]]
+- [[ethernet]]

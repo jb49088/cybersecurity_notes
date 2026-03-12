@@ -1,7 +1,5 @@
 # Python
 
-[[🏷️Python]] [[🏷️Interpreter]]
-
 Python is a high-level, interpreted programming language known for its readability, simplicity, and extensive standard library. Created by Guido van Rossum and first released in 1991, Python has become one of the most widely used programming languages across system administration, web development, data science, and security tooling. Its combination of rapid development, cross-platform support, and rich ecosystem makes it a dominant language in both offensive and defensive security work.
 
 - **Interpreted and dynamic:** Python executes code line by line through an interpreter rather than compiling to a binary. This makes it well suited for rapid prototyping, interactive exploration, and scripting, at the cost of raw execution speed compared to compiled languages.
@@ -21,5 +19,5 @@ Python's combination of simplicity, power, and ubiquity makes it an essential la
 
 See also:
 
-- [[Bourne Again SHell (Bash)]]
-- [[Reverse shell]]
+- [[bourne_again_shell_(bash)]]
+- [[reverse_shell]]

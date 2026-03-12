@@ -1,3 +1,3 @@
 # String concatenation
 
-The process of joining two [[20-29 Cybersecurity/26 Programming & Databases/0 Meta/Archive/String|strings]] together
+The process of joining two [[20-29_cybersecurity/26_programming_&_databases/0_meta/archive/string|strings]] together

@@ -1,7 +1,5 @@
 # Business Email Compromise (BEC)
 
-[[🏷️Social engineering]]
-
 Business Email Compromise (BEC) is a type of cybercrime in which attackers use fraudulent emails to impersonate a legitimate business or employee in order to deceive organizations into transferring money, sensitive data, or other resources. BEC attacks typically involve sophisticated techniques such as email spoofing, social engineering, and advanced research into the target organization to craft convincing messages. Unlike traditional phishing, BEC usually targets specific individuals within a company, such as executives, financial officers, or employees who handle sensitive transactions.
 
 BEC attacks can take various forms, including:
@@ -20,6 +18,6 @@ Because BEC often relies on email accounts and messages that appear legitimate, 
 
 See also:
 
-- [[Phishing]]
-- [[Malware]]
-- [[Social engineering]]
+- [[phishing]]
+- [[malware]]
+- [[social_engineering]]

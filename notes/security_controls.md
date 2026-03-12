@@ -38,6 +38,6 @@ CompTIA classifies security controls based on their desired effect:
 
 See also:
 
-- [[Confidentiality]]
-- [[Integrity]]
-- [[Availability]]
+- [[confidentiality]]
+- [[integrity]]
+- [[availability]]

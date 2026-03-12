@@ -6,5 +6,5 @@ SPII is a specific type of PII that falls under stricter handling guidelines. Th
 
 See also:
 
-- [[Personally identifiable information (PII)]]
-- [[Protected health information (PHI)]]
+- [[personally_identifiable_information_(pii)]]
+- [[protected_health_information_(phi)]]

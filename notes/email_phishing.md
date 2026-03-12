@@ -1,7 +1,5 @@
 # Email Phishing
 
-[[🏷️Social engineering]]
-
 Email phishing is a form of cyberattack in which malicious actors use deceptive emails to trick individuals into revealing sensitive information, such as usernames, passwords, or financial details. These emails often appear to come from trusted sources, such as banks, popular online services, or even colleagues. The goal is to convince the recipient to click on fraudulent links, download malicious attachments, or respond with personal information.
 
 Phishing emails typically employ tactics such as:
@@ -20,5 +18,5 @@ It is crucial to exercise caution when receiving unsolicited emails, especially 
 
 See also:
 
-- [[Phishing]]
-- [[Malware]]
+- [[phishing]]
+- [[malware]]

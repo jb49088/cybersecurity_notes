@@ -1,7 +1,5 @@
 # Biometrics
 
-[[🏷️Authentication methods]]
-
 Biometric factors are an example of the “something you are” factor, and they rely on the unique physiology of the user to validate their identity. Some biometric technologies also count as one of the factors that the Security+ exam outline describes, because they are something you are, like a voice print or gait. Some of the most common biometric technologies include the following:
 
 - Fingerprints, which check the unique patterns of ridges and valleys on your fingertips using either optical, ultrasonic, or capacitive scanners. Fingerprint scanning has been broadly deployed within both Windows, using fingerprint scanners on laptops, and Android and Apple devices that use fingerprint readers.

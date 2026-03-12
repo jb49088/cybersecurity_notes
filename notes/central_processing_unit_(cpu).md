@@ -1,7 +1,5 @@
 # Central Processing Unit (CPU)
 
-[[🏷️PC hardware]]
-
 The role of the CPU, or central processing unit, is to control and direct all the activities of the computer using both external and internal buses. From a technical perspective, the job of the CPU is to process, or do math, on large strings of binary numbers—0s and 1s. It is a processor chip consisting of an array of millions of transistors. Intel and Advanced Micro Devices, Inc. (AMD) are the two largest PC-compatible CPU manufacturers. Their chips were featured in Table 1.1 during the discussion of the sockets into which they fit.
 
 Today’s AMD and Intel CPUs should be compatible with every PC-based operating system and application in the market. It’s possible that you could run into an app that doesn’t work quite right on an AMD chip, but those cases are exceedingly rare. From a compatibility standpoint, the most important thing to remember is that the motherboard and processor need to be made for each other. The rest of the hardware plugs into the motherboard and will be CPU brand agnostic.

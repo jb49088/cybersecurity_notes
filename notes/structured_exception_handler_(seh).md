@@ -16,4 +16,4 @@ SEH helps in creating more resilient applications by offering structured error h
 
 See also:
 
-- [[Buffer overflow]]
+- [[buffer_overflow]]

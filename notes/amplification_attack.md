@@ -1,7 +1,5 @@
 # Amplification attack
 
-[[🏷️Network attack]]
-
 An amplification attack is a type of denial-of-service (DoS) attack where an attacker exploits a vulnerability in a third-party system to increase the volume of traffic directed at a target, overwhelming it. The goal of an amplification attack is to consume the target's resources (such as bandwidth or processing power) with minimal effort from the attacker.
 
 - **Exploiting vulnerable services**: Attackers send a small request to a vulnerable service, which responds with a much larger reply, often in the form of data. Common protocols used in amplification attacks include DNS, NTP, and SNMP.
@@ -16,4 +14,4 @@ Amplification attacks are a serious threat to network security because they can 
 
 See also:
 
-- [[Smurf attack]]
+- [[smurf_attack]]

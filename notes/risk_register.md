@@ -14,5 +14,5 @@ A well-maintained risk register fosters proactive risk management, enhancing cla
 
 See also:
 
-- [[Risk]]
-- [[Risk assessment]]
+- [[risk]]
+- [[risk_assessment]]

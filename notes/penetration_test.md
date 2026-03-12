@@ -12,6 +12,6 @@ Penetration testing is an essential component of a comprehensive security strate
 
 See also:
 
-- [[Rules of engagement (RoE)]]
-- [[Reconnaissance]]
-- [[Vulnerability scanning]]
+- [[rules_of_engagement_(roe)]]
+- [[reconnaissance]]
+- [[vulnerability_scanning]]

@@ -1,7 +1,5 @@
 # Address resolution protocol (ARP)
 
-[[🏷️Network protocol]]
-
 The Address Resolution Protocol (ARP) is a network protocol used to map an IP address to a physical machine address, also known as a Media Access Control (MAC) address, within a local network. ARP is crucial for ensuring that data packets are correctly delivered to the appropriate devices on a network, as IP addresses alone cannot directly identify devices on the data link layer.
 
 - **IP to MAC mapping**: ARP resolves an IP address to a MAC address by broadcasting a request packet to the network, asking "Who has this IP address?" The device with the matching IP address replies with its MAC address.
@@ -18,6 +16,6 @@ ARP plays a vital role in network communication, ensuring that devices can ident
 
 See also:
 
-- [[Media access control (MAC)]]
-- [[MAC address]]
-- [[ARP poisoning]]
+- [[media_access_control_(mac)]]
+- [[mac_address]]
+- [[arp_poisoning]]

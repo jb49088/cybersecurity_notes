@@ -10,7 +10,7 @@ Organizations determine RTO based on the criticality of systems and processes, b
 
 See also:
 
-- [[Recovery point objective (RPO)]]
-- [[Business continuity plan (BCP)]]
-- [[Disaster recovery plan (DRP)]]
-- [[Business impact analysis (BIA)]]
+- [[recovery_point_objective_(rpo)]]
+- [[business_continuity_plan_(bcp)]]
+- [[disaster_recovery_plan_(drp)]]
+- [[business_impact_analysis_(bia)]]

@@ -14,6 +14,6 @@ By combining orchestration, automation, and response, SOAR platforms significant
 
 See also:
 
-- [[Security information and event management (SIEM)]]
-- [[Incident response plan (IRP)]]
-- [[Endpoint detection and response (EDR)]]
+- [[security_information_and_event_management_(siem)]]
+- [[incident_response_plan_(irp)]]
+- [[endpoint_detection_and_response_(edr)]]

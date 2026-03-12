@@ -14,6 +14,6 @@ The use of an IV is crucial for maintaining the confidentiality and integrity of
 
 See also:
 
-- [[Cipher block chaining (CBC)]]
-- [[Exclusive or (XOR)]]
-- [[Advanced encryption standard (AES)]]
+- [[cipher_block_chaining_(cbc)]]
+- [[exclusive_or_(xor)]]
+- [[advanced_encryption_standard_(aes)]]

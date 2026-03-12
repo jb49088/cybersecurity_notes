@@ -10,6 +10,6 @@ While MICs help protect against tampering, they do not provide confidentiality. 
 
 See also:
 
-- [[Integrity]]
-- [[Hashing]]
-- [[Checksum]]
+- [[integrity]]
+- [[hashing]]
+- [[checksum]]

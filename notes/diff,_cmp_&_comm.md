@@ -1,7 +1,5 @@
 # diff, cmp & comm
 
-[[🏷️Linux command]]
-
 The `diff`, `comm`, and `cmp` commands are all used to compare files in Linux and Unix-based operating systems. These commands can be used to identify differences between two files, merge changes, and perform other file comparison tasks.
 
 `diff <file 1> <file 2>`

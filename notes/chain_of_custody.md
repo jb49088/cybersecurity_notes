@@ -13,6 +13,6 @@ A well-maintained chain of custody ensures that evidence can be trusted in legal
 
 See also:
 
-- [[Digital forensics]]
-- [[Legal hold]]
-- [[E-discovery]]
+- [[digital_forensics]]
+- [[legal_hold]]
+- [[e-discovery]]

@@ -1,7 +1,5 @@
 # Storage Area Network (SAN)
 
-[[🏷️Network type]]
-
 A storage area network (SAN) is designed to do exactly what it says, which is to store information. Although a SAN can be implemented a few different ways, imagine a network (or network segment) that holds nothing but networked storage devices, whether they be network- attached storage (NAS) hard drives or servers with lots of disk space dedicated solely to storage. This network won’t have client computers or other types of servers on it. It’s for storage only. Image 2.22 shows what a SAN could look like.
 
 Perhaps you’re thinking, why would someone create a network solely for storage? It’s a great question, and there are several benefits to having a SAN.

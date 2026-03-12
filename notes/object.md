@@ -4,4 +4,4 @@ A fundamental building block that represents a single, identifiable unit within 
 
 ### Immutable
 
-An [[Object|object]] that cannot be changed after it is created and assigned a value.
+An [[object|object]] that cannot be changed after it is created and assigned a value.

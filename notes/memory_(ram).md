@@ -1,7 +1,5 @@
 # Memory (RAM)
 
-[[🏷️PC hardware]]
-
 "More memory, more memory, I don’t have enough memory!" Adding memory is one of the most popular, easy, and inexpensive ways to upgrade a computer. As the computer’s CPU works, it stores data and instructions in the computer’s memory. Contrary to what you might expect from an inexpensive solution, memory upgrades tend to afford the greatest performance increase as well, up to a point. Motherboards have memory limits; operating systems have memory limits; CPUs have memory limits.
 
 To identify memory visually within a computer, look for several thin rows of small circuit boards sitting vertically, potentially packed tightly together near the processor. In situations where only one memory stick is installed, it will be that stick and a few empty slots that are tightly packed together. Figure 1.30 shows where memory is located in a system—in this case, all four banks are full.

@@ -1,3 +1,3 @@
 # User interface
 
-A program that allows the [[User|user]] to control the functions of the [[Operating system (OS)|operating system]].
+A program that allows the [[user|user]] to control the functions of the [[operating_system_(os)|operating_system]].

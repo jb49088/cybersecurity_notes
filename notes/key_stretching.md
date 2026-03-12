@@ -12,5 +12,5 @@ Key stretching is widely used in password storage systems to ensure that even if
 
 See also:
 
-- [[Hashing]]
-- [[Salting]]
+- [[hashing]]
+- [[salting]]

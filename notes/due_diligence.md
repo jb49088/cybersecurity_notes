@@ -14,4 +14,4 @@ By conducting due diligence, organizations can make informed decisions, mitigate
 
 See also:
 
-- [[Supply chain analysis]]
+- [[supply_chain_analysis]]

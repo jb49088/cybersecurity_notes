@@ -1,9 +1,9 @@
 
 # Network security applications
 
-This section of the course covers the topic of network hardening and monitoring. Each device, tool, or security strategy put in place by security analysts further protects—or hardens—the network until the network owner is satisfied with the level of security. This approach of adding layers of security to a network is referred to as [[Defense in depth|defense in depth]].
+This section of the course covers the topic of network hardening and monitoring. Each device, tool, or security strategy put in place by security analysts further protects—or hardens—the network until the network owner is satisfied with the level of security. This approach of adding layers of security to a network is referred to as [[defense_in_depth|defense_in_depth]].
 
-In this reading, you are going to learn about the role of four devices used to secure a network—[[Firewall|firewalls]], [[Intrusion detection system (IDS)|IDSs]], [[Intrusion prevention system (IPS)|IPSs]], and [[30-39 Educational/38 Incident Response & Forensics/0 Meta/Archive/Security information and event management (SIEM)|SIEM tools]]. Network security professionals have the choice to use any or all of these devices and tools depending on the level of security that they hope to achieve.
+In this reading, you are going to learn about the role of four devices used to secure a network—[[firewall|firewalls]], [[intrusion_detection_system_(ids)|idss]], [[intrusion_prevention_system_(ips)|ipss]], and [[30-39_educational/38_incident_response_&_forensics/0_meta/archive/security_information_and_event_management_(siem)|siem_tools]]. Network security professionals have the choice to use any or all of these devices and tools depending on the level of security that they hope to achieve.
 
 This reading will discuss the benefits of layered security. Each tool mentioned is an additional layer of defense that can incrementally harden a network, starting with the minimum level of security (provided by just a firewall), to the highest level of security (provided by combining a firewall, an intrusion detection and prevention device, and security event monitoring).
 

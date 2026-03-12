@@ -1,9 +1,9 @@
 # Improper usage
 
-**Improper usage:** An [[main/Incident Response & Forensics|incident]] type that occurs when an employee of an organization violates the organization’s acceptable use [[Policies|policies]].
+**Improper usage:** An [[main/incident_response_&_forensics|incident]] type that occurs when an employee of an organization violates the organization’s acceptable use [[policies|policies]].
 
 ---
 
 See also:
 
-- [[Unauthorized access]]
+- [[unauthorized_access]]

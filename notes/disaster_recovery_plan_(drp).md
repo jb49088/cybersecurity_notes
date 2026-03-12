@@ -14,7 +14,7 @@ A DRP reduces downtime, mitigates financial losses, and ensures a swift return t
 
 See also:
 
-- [[Business continuity plan (BCP)]]
-- [[Recovery time objective (RTO)]]
-- [[Recovery point objective (RPO)]]
-- [[Incident response plan (IRP)]]
+- [[business_continuity_plan_(bcp)]]
+- [[recovery_time_objective_(rto)]]
+- [[recovery_point_objective_(rpo)]]
+- [[incident_response_plan_(irp)]]

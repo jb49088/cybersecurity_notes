@@ -15,5 +15,5 @@ Attestation is a critical element of maintaining secure and trustworthy systems,
 
 See also:
 
-- [[Security Audits]]
-- [[Right-to-audit clause]]
+- [[security_audits]]
+- [[right-to-audit_clause]]

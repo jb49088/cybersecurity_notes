@@ -14,5 +14,5 @@ Threat intelligence is utilized by researchers, security operations teams, and o
 
 See also:
 
-- [[Open-source intelligence (OSINT)]]
-- [[Proprietary intelligence]]
+- [[open-source_intelligence_(osint)]]
+- [[proprietary_intelligence]]

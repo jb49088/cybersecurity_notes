@@ -14,5 +14,5 @@ A CASB is essential for organizations adopting cloud services, as it helps bridg
 
 See also:
 
-- [[Cloud computing]]
-- [[Data loss prevention (DLP)]]
+- [[cloud_computing]]
+- [[data_loss_prevention_(dlp)]]

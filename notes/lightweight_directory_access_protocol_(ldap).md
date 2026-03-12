@@ -1,7 +1,5 @@
 # Lightweight directory access protocol (LDAP)
 
-[[🏷️Network protocol]]
-
 Lightweight directory access protocol (LDAP) is an open protocol used to access and manage directory services over a network. It is commonly used for authentication, user management, and centralized access control in enterprise environments.
 
 - **Port number and protocol type:** LDAP typically operates on port 389 for both TCP and UDP, while port 636 is used for TCP to provide secure communications via LDAPS.
@@ -17,9 +15,9 @@ LDAP is widely used for managing user access in enterprise networks, supporting 
 
 See also:
 
-- [[Lightweight directory access protocol secure (LDAPS)]]
-- [[X.500]]
-- [[Active directory (AD)]]
-- [[Security assertion markup language (SAML)]]
-- [[Remote authentication dial-in user service (RADIUS)]]
-- [[Terminal access controller access control system plus (TACACS+)]]
+- [[lightweight_directory_access_protocol_secure_(ldaps)]]
+- [[x.500]]
+- [[active_directory_(ad)]]
+- [[security_assertion_markup_language_(saml)]]
+- [[remote_authentication_dial-in_user_service_(radius)]]
+- [[terminal_access_controller_access_control_system_plus_(tacacs+)]]

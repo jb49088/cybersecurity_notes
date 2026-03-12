@@ -6,5 +6,5 @@ Accountability ensures that actions within a system are traceable to specific us
 
 See also:
 
-- [[Authentication]]
-- [[Authorization]]
+- [[authentication]]
+- [[authorization]]

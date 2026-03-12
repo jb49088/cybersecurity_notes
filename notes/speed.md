@@ -1,3 +1,3 @@
 # Speed
 
-The rate at which a device sends and receives [[Data|data]], measured by bits per second.
+The rate at which a device sends and receives [[data|data]], measured by bits per second.

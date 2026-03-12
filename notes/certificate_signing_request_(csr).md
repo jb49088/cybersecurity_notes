@@ -10,8 +10,8 @@ Once validated, the CA digitally signs the certificate with its private key. The
 
 See also:
 
-- [[Certificate authority (CA)]]
-- [[Digital certificate]]
-- [[Digital signature]]
-- [[Public key]]
-- [[Private key]]
+- [[certificate_authority_(ca)]]
+- [[digital_certificate]]
+- [[digital_signature]]
+- [[public_key]]
+- [[private_key]]

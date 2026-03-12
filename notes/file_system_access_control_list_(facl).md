@@ -14,6 +14,6 @@ FACLs are a key tool for managing file access in environments where multiple use
 
 See also:
 
-- [[Access control list (ACL)]]
-- [[New technology file system (NTFS)]]
-- [[Filesystem hierarchy standard (FHS)]]
+- [[access_control_list_(acl)]]
+- [[new_technology_file_system_(ntfs)]]
+- [[filesystem_hierarchy_standard_(fhs)]]

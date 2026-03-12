@@ -1,3 +1,3 @@
 # Method
 
-A [[Function|function]] that belongs to a specific [[Data|data]] type.
+A [[function|function]] that belongs to a specific [[data|data]] type.

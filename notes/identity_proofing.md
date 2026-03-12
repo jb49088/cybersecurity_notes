@@ -14,5 +14,5 @@ Identity proofing is a critical step in securing access, protecting sensitive in
 
 See also:
 
-- [[Identity]]
-- [[Authentication]]
+- [[identity]]
+- [[authentication]]

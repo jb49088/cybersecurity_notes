@@ -14,5 +14,5 @@ Backdoors can be intentionally created during software development for troublesh
 
 See also:
 
-- [[Malware]]
-- [[Remote Access Trojan (RAT)]]
+- [[malware]]
+- [[remote_access_trojan_(rat)]]

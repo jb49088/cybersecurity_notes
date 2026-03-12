@@ -16,9 +16,9 @@ CTFs are widely regarded as one of the best ways to build the hands-on technical
 
 See also:
 
-- [[Bug bounty]]
-- [[Reverse engineering]]
-- [[Steganography]]
-- [[Open-source intelligence (OSINT)]]
-- [[HackTheBox]]
-- [[TryHackMe]]
+- [[bug_bounty]]
+- [[reverse_engineering]]
+- [[steganography]]
+- [[open-source_intelligence_(osint)]]
+- [[hackthebox]]
+- [[tryhackme]]

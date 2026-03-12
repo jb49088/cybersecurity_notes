@@ -1,7 +1,5 @@
 # Tuple
 
-[[🏷️Data structure]]
-
 **Tuple data** is a data structure that consists of a collection of data that cannot be changed. Like lists, tuples can contain elements of varying data types.
 
 A difference between tuple data and list data is that it is possible to change the elements in a list, but it is not possible to change the elements in a tuple. This could be useful in a cybersecurity context. For example, if software identifiers are stored in a tuple to ensure that they will not be altered, this can provide assurance that an access control list will only block the intended software.

@@ -6,5 +6,5 @@ An **incident** is any event that threatens confidentiality, integrity, and avai
 
 See also:
 
-- [[Escalation]]
+- [[escalation]]
 - [[meme]]

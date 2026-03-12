@@ -15,4 +15,4 @@ MFPs streamline document management by offering multiple functions in a single d
 
 See also:
 
-- [[Multifunction device (MFD)]]
+- [[multifunction_device_(mfd)]]

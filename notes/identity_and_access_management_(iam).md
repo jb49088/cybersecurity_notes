@@ -17,6 +17,6 @@ IAM is essential for securing modern IT environments, supporting operational eff
 
 See also:
 
-- [[Authentication]]
-- [[Authorization]]
-- [[User provisioning]]
+- [[authentication]]
+- [[authorization]]
+- [[user_provisioning]]

@@ -12,5 +12,5 @@ By clearly outlining these parameters, the RoE helps ensure that the test is con
 
 See also:
 
-- [[Penetration test]]
-- [[Reconnaissance]]
+- [[penetration_test]]
+- [[reconnaissance]]

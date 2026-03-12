@@ -1,7 +1,5 @@
 # Temporal key integrity protocol (TKIP)
 
-[[🏷️Network protocol]]
-
 Temporal key integrity protocol (TKIP) is a security protocol used in Wi-Fi networks to enhance encryption and protect data transmissions. It was introduced as part of the IEEE 802.11i standard to improve the security of the original Wired Equivalent Privacy (WEP) encryption, addressing its vulnerabilities while maintaining compatibility with older hardware.
 
 TKIP was later replaced by more secure encryption protocols, such as AES in WPA2, due to emerging security weaknesses.
@@ -18,7 +16,7 @@ Although TKIP was a significant improvement over WEP, it is now considered insec
 
 See also:
 
-- [[Wired Equivalent Privacy (WEP)]]
-- [[Advanced encryption standard (AES)]]
-- [[Wi-Fi Protected Access II (WPA2)]]
-- [[Wi-Fi Protected Access III (WPA3)]]
+- [[wired_equivalent_privacy_(wep)]]
+- [[advanced_encryption_standard_(aes)]]
+- [[wi-fi_protected_access_ii_(wpa2)]]
+- [[wi-fi_protected_access_iii_(wpa3)]]

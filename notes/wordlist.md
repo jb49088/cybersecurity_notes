@@ -15,9 +15,9 @@ Wordlists are a foundational resource in offensive security, and their quality d
 
 See also:
 
-- [[Brute force attack]]
-- [[Credential stuffing]]
-- [[Enumeration]]
+- [[brute_force_attack]]
+- [[credential_stuffing]]
+- [[enumeration]]
 - [[gobuster]]
-- [[John The Ripper]]
-- [[Default credentials]]
+- [[john_the_ripper]]
+- [[default_credentials]]

@@ -1,7 +1,5 @@
 # DNS filtering
 
-[[🏷️Network security]]
-
 DNS filtering is a security measure that controls internet access by filtering domain name system (DNS) queries, blocking connections to malicious or inappropriate sites before a connection is established.
 
 - **DNS Lookup**: Before connecting to a website, DNS filtering intercepts the DNS query to resolve the domain name into an IP address.
@@ -15,5 +13,5 @@ By intercepting and analyzing DNS queries, DNS filtering provides a proactive la
 
 See also:
 
-- [[Content filtering]]
-- [[URL scanning]]
+- [[content_filtering]]
+- [[url_scanning]]

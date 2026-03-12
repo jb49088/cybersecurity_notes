@@ -18,7 +18,7 @@ While jailbreaking or rooting may provide customization and additional functiona
 
 See also:
 
-- [[Sideloading]]
-- [[Mobile device management (MDM)]]
-- [[Corporate owned, personally enabled (COPE)]]
-- [[Bring your own device (BYOD)]]
+- [[sideloading]]
+- [[mobile_device_management_(mdm)]]
+- [[corporate_owned,_personally_enabled_(cope)]]
+- [[bring_your_own_device_(byod)]]

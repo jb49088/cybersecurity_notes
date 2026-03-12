@@ -1,7 +1,5 @@
 # ifconfig & traceroute
 
-[[🏷️Linux command]]
-
 The `ifconfig` and `traceroute` commands manage network interfaces and trace the route of network packets in Linux.
 
 The `ifconfig` command will give you the list of all the network interfaces along with the IP addresses, MAC addresses and other information about the interface.

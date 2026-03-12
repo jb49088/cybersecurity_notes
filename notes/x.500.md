@@ -17,5 +17,5 @@ X.500 serves as the foundation for various directory service protocols, includin
 
 See also:
 
-- [[Lightweight directory access protocol (LDAP)]]
-- [[Active directory (AD)]]
+- [[lightweight_directory_access_protocol_(ldap)]]
+- [[active_directory_(ad)]]

@@ -12,8 +12,8 @@ Policy engines play a crucial role in policy-based access control (PBAC) and zer
 
 See also:
 
-- [[Zero trust]]
-- [[Policy-based access control (PBAC)]]
-- [[Policy enforcement point (PEP)]]
-- [[Policy decision point (PDP)]]
-- [[Policy administrator]]
+- [[zero_trust]]
+- [[policy-based_access_control_(pbac)]]
+- [[policy_enforcement_point_(pep)]]
+- [[policy_decision_point_(pdp)]]
+- [[policy_administrator]]

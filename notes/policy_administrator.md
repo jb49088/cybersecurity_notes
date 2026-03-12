@@ -13,8 +13,8 @@ Policy administrators play a critical role in maintaining a secure and adaptable
 
 See also:
 
-- [[Zero trust]]
-- [[Policy-based access control (PBAC)]]
-- [[Policy enforcement point (PEP)]]
-- [[Policy decision point (PDP)]]
-- [[Policy engine]]
+- [[zero_trust]]
+- [[policy-based_access_control_(pbac)]]
+- [[policy_enforcement_point_(pep)]]
+- [[policy_decision_point_(pdp)]]
+- [[policy_engine]]

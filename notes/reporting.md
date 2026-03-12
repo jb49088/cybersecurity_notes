@@ -15,8 +15,8 @@ Effective reporting helps in making informed decisions and responding quickly to
 
 See also:
 
-- [[Simple network management protocol (SNMP)]]
-- [[NetFlow]]
-- [[Security information and event management (SIEM)]]
-- [[Vulnerability scanning]]
-- [[Firewall]]
+- [[simple_network_management_protocol_(snmp)]]
+- [[netflow]]
+- [[security_information_and_event_management_(siem)]]
+- [[vulnerability_scanning]]
+- [[firewall]]

@@ -14,4 +14,4 @@ IDFs are essential in larger buildings or campuses, providing a reliable method 
 
 See also:
 
-- [[Main distribution frame (MDF)]]
+- [[main_distribution_frame_(mdf)]]

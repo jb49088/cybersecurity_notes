@@ -8,6 +8,6 @@ By monitoring and analyzing the activities of attackers within a honeypot, secur
 
 See also:
 
-- [[Honeyfiles]]
-- [[Honeynet]]
-- [[Honeytokens]]
+- [[honeyfiles]]
+- [[honeynet]]
+- [[honeytokens]]

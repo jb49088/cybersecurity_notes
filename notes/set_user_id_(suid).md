@@ -15,6 +15,6 @@ SUID files are a foundational concept in Linux privilege escalation and are amon
 
 See also:
 
-- [[Linux]]
-- [[Privilege escalation]]
-- [[GTFOBins]]
+- [[linux]]
+- [[privilege_escalation]]
+- [[gtfobins]]

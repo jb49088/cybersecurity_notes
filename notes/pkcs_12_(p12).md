@@ -14,6 +14,6 @@ PKCS 12 is a crucial format for managing and distributing cryptographic keys sec
 
 See also:
 
-- [[Public key Infrastructure (PKI)]]
-- [[Digital certificate]]
-- [[X.509]]
+- [[public_key_infrastructure_(pki)]]
+- [[digital_certificate]]
+- [[x.509]]

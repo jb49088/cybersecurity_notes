@@ -13,5 +13,5 @@ Passwordless authentication offers a secure and convenient alternative to tradit
 
 See also:
 
-- [[Password]]
-- [[Authentication]]
+- [[password]]
+- [[authentication]]

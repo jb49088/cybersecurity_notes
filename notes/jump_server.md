@@ -1,7 +1,5 @@
 # Jump server
 
-[[🏷️Networking]] [[🏷️Network security]]
-
 A jump server is a secure server that acts as a gateway or intermediary to access a restricted network or systems. It is commonly used in environments where direct access to sensitive or critical systems must be controlled or monitored.
 
 Jump servers are often employed to access systems in a secure network (such as a private data center or cloud environment) from an external or less-secure network. The idea is to reduce the attack surface by providing a single, controlled point of entry for administrative or authorized users.
@@ -18,8 +16,8 @@ Jump servers are crucial for maintaining secure access control, especially when 
 
 See also:
 
-- [[Network segmentation]]
-- [[Demilitarized zone (DMZ)]]
-- [[Virtual private network (VPN)]]
-- [[Secure shell (SSH)]]
-- [[Remote desktop protocol (RDP)]]
+- [[network_segmentation]]
+- [[demilitarized_zone_(dmz)]]
+- [[virtual_private_network_(vpn)]]
+- [[secure_shell_(ssh)]]
+- [[remote_desktop_protocol_(rdp)]]

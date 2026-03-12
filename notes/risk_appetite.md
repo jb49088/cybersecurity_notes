@@ -1,7 +1,5 @@
 # Risk appetite
 
-[[🏷️Risk management]]
-
 Risk appetite refers to the amount of risk an organization is willing to accept in pursuit of its objectives. It represents the level of uncertainty or potential loss that an organization is prepared to tolerate while striving to achieve its goals. Risk appetite helps guide decision-making and sets boundaries for acceptable risks within the organization.
 
 Key elements of risk appetite:
@@ -16,6 +14,6 @@ An effective risk appetite framework allows organizations to balance opportuniti
 
 See also:
 
-- [[Risk tolerance]]
-- [[Risk assessment]]
-- [[Risk management]]
+- [[risk_tolerance]]
+- [[risk_assessment]]
+- [[risk_management]]

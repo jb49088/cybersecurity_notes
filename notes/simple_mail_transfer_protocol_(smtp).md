@@ -1,7 +1,5 @@
 # Simple mail transfer protocol (SMTP)
 
-[[🏷️Network protocol]]
-
 Simple mail transfer protocol (SMTP) is an Internet standard communication protocol used for sending and receiving email messages between email servers. It is responsible for routing and delivering email messages across networks.
 
 - **Port numbers:** SMTP typically uses port 25 for communication between mail servers, port 587 for secure submission of emails (with STARTTLS), and port 465 for secure email transmission over SSL/TLS.
@@ -17,8 +15,8 @@ SMTP is a critical protocol for email delivery and is widely used across the int
 
 See also:
 
-- [[Simple main transfer protocol secure (SMTPS)]]
-- [[Post office protocol (POP)]]
-- [[Post office protocol version 3 secure (POP3S)]]
-- [[Internet message access protocol (IMAP)]]
-- [[Internet message access protocol secure (IMAPS)]]
+- [[simple_main_transfer_protocol_secure_(smtps)]]
+- [[post_office_protocol_(pop)]]
+- [[post_office_protocol_version_3_secure_(pop3s)]]
+- [[internet_message_access_protocol_(imap)]]
+- [[internet_message_access_protocol_secure_(imaps)]]

@@ -14,8 +14,8 @@ CCMP replaced the flawed TKIP (Temporal Key Integrity Protocol) in WPA and is co
 
 See also:
 
-- [[Wi-Fi Protected Access II (WPA2)]]
-- [[Wi-Fi Protected Access III (WPA3)]]
-- [[Counter mode (CTM)]]
-- [[Cipher block chaining (CBC)]]
-- [[Message Authentication Code (MAC)]]
+- [[wi-fi_protected_access_ii_(wpa2)]]
+- [[wi-fi_protected_access_iii_(wpa3)]]
+- [[counter_mode_(ctm)]]
+- [[cipher_block_chaining_(cbc)]]
+- [[message_authentication_code_(mac)]]

@@ -1,7 +1,5 @@
 # Next-generation firewall (NGFW)
 
-[[🏷️Network security]]
-
 Next-generation firewalls (NGFWs) are advanced security solutions designed to provide deep insight and control over network traffic. Unlike traditional firewalls, NGFWs operate at the OSI Application Layer, allowing them to analyze and categorize all data in every packet for enhanced protection.
 
 Key Features:
@@ -17,9 +15,9 @@ NGFWs enhance network security by combining traditional firewall features with a
 
 See also:
 
-- [[Firewall]]
-- [[Network-based firewall]]
-- [[Intrusion prevention system (IPS)]]
-- [[Intrusion detection system (IDS)]]
-- [[Deep packet inspection (DPI)]]
-- [[Web application firewall (WAF)]]
+- [[firewall]]
+- [[network-based_firewall]]
+- [[intrusion_prevention_system_(ips)]]
+- [[intrusion_detection_system_(ids)]]
+- [[deep_packet_inspection_(dpi)]]
+- [[web_application_firewall_(waf)]]

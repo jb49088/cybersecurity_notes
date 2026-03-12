@@ -10,6 +10,6 @@ While stream ciphers can be efficient, they are highly sensitive to key reuse an
 
 See also:
 
-- [[Block cipher]]
-- [[Symmetric encryption]]
-- [[Rivest Cipher 4 (RC4)]]
+- [[block_cipher]]
+- [[symmetric_encryption]]
+- [[rivest_cipher_4_(rc4)]]

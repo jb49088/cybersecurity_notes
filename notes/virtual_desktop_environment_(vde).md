@@ -14,5 +14,5 @@ VDE is commonly used in enterprises, educational institutions, and remote work e
 
 See also:
 
-- [[Virtual desktop infrastructure (VDI)]]
-- [[Cloud computing]]
+- [[virtual_desktop_infrastructure_(vdi)]]
+- [[cloud_computing]]

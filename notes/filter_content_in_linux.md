@@ -16,7 +16,7 @@ Let’s look at another example: `grep error time_logs.txt`. Here grep is used t
 
 ## Piping
 
-The pipe command is accessed using the pipe character (`|`). Piping sends the [[Standard output (stdout)|standard output]] of one command as [[Standard input (stdin)|standard input]] to another command for further processing.
+The pipe command is accessed using the pipe character (`|`). Piping sends the [[standard_output_(stdout)|standard_output]] of one command as [[standard_input_(stdin)|standard_input]] to another command for further processing.
 
 When used with `grep`, the pipe can help you find directories and files containing a specific word in their names. For example, `ls /home/analyst/reports | grep users` returns the file and directory names in the reports directory that contain `users`. Before the pipe, `ls` indicates to list the names of the files and directories in `reports`. Then, it sends this output to the command after the pipe. In this case, `grep users` returns all of the file or directory names containing `users` from the input it received.
 

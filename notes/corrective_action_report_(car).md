@@ -15,6 +15,6 @@ The CAR is used across various industries such as manufacturing, healthcare, and
 
 See also:
 
-- [[Root cause analysis (RCA)]]
-- [[Security Audits]]
+- [[root_cause_analysis_(rca)]]
+- [[security_audits]]
 -

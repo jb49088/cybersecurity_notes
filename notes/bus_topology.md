@@ -1,7 +1,5 @@
 # Bus Topology
 
-[[🏷️Network topology]]
-
 A bus topology is the simplest. It consists of a single cable that runs to every workstation, as shown in Figure 2.26. This topology uses the least amount of cabling. Each computer shares the same data and address path. With a bus topology, messages pass through the trunk, and each workstation checks to see if a message is addressed to it. If the address of the message matches the workstation’s address, the network adapter retrieves it. If not, the message is ignored.
 
 - **Figure 2.26** The bus topology

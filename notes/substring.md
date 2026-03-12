@@ -1,5 +1,3 @@
 # Substring
 
-[[🏷️Programming]]
-
-A continuous sequence of characters within a [[20-29 Cybersecurity/26 Programming & Databases/0 Meta/Archive/String|string]].
+A continuous sequence of characters within a [[20-29_cybersecurity/26_programming_&_databases/0_meta/archive/string|string]].

@@ -1,7 +1,5 @@
 # New technology LAN manager (NTLM)
 
-[[🏷️Network protocol]]
-
 New technology LAN manager (NTLM) is a suite of authentication protocols used by Microsoft Windows systems to provide authentication, integrity, and confidentiality within local area networks (LANs). NTLM was introduced to replace the older LAN Manager (LM) authentication system and is still in use today, although it is largely superseded by more secure protocols like Kerberos.
 
 - **Authentication process:** NTLM uses a challenge-response mechanism to verify the identity of users. It relies on a hashed password to ensure the security of user credentials during the authentication process.
@@ -16,6 +14,6 @@ While NTLM is still used in some environments, its limitations and vulnerabiliti
 
 See also:
 
-- [[Kerberos]]
-- [[Active directory (AD)]]
-- [[Windows]]
+- [[kerberos]]
+- [[active_directory_(ad)]]
+- [[windows]]

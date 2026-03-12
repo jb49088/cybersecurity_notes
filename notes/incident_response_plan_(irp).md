@@ -1,7 +1,5 @@
 # Incident response plan (IRP)
 
-[[🏷️Risk management]]
-
 An incident response plan (IRP) is a structured approach to handling and managing security incidents, cyberattacks, and data breaches. The goal of an IRP is to mitigate damage, reduce recovery time and costs, and minimize the impact on business operations. A well-prepared IRP ensures that organizations can effectively respond to incidents in a coordinated and efficient manner.
 
 - **Preparation**: Establishing a strong security foundation, including creating the IRP, assembling an incident response team, and conducting training and simulations.
@@ -17,8 +15,8 @@ A robust incident response plan (IRP) is essential for minimizing disruption dur
 
 See also:
 
-- [[Incident]]
-- [[Disaster recovery plan (DRP)]]
-- [[Business continuity plan (BCP)]]
-- [[Recovery time objective (RTO)]]
-- [[Recovery point objective (RPO)]]
+- [[incident]]
+- [[disaster_recovery_plan_(drp)]]
+- [[business_continuity_plan_(bcp)]]
+- [[recovery_time_objective_(rto)]]
+- [[recovery_point_objective_(rpo)]]

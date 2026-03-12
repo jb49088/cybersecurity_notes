@@ -15,6 +15,6 @@ Base16 is one of the most universally encountered encodings in technical securit
 
 See also:
 
-- [[Encoding]]
-- [[Base64]]
-- [[Wireshark]]
+- [[encoding]]
+- [[base64]]
+- [[wireshark]]

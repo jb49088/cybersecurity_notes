@@ -11,4 +11,4 @@ Because of this complexity, keeping an OS secure requires constant vigilance, pa
 
 See also:
 
-- [[Software update]]
+- [[software_update]]

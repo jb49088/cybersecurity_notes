@@ -1,7 +1,5 @@
 # Asset lifecycle management
 
-[[🏷️Risk management]]
-
 Asset lifecycle management is the process of managing an asset throughout its entire lifecycle, from acquisition to disposal. It ensures that assets are effectively monitored, maintained, and utilized to maximize their value, optimize performance, and reduce costs. This approach applies to hardware, software, data, and other organizational resources.
 
 The stages of asset lifecycle management typically include:
@@ -24,5 +22,5 @@ Automated tools, such as asset management software, are often used to streamline
 
 See also:
 
-- [[Asset inventory]]
+- [[asset_inventory]]
 -

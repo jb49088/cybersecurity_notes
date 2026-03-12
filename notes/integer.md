@@ -1,7 +1,5 @@
 # Integer
 
-[[🏷️Data type]]
-
 In Python, **integer data** is data consisting of a number that does not include a decimal point. These are all examples of integer data:
 
 - `-100` 

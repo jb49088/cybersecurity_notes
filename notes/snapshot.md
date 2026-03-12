@@ -10,6 +10,6 @@ This ability to roll back to previous system states while maintaining the integr
 
 See also:
 
-- [[Backup]]
-- [[Virtual machine (VM)]]
-- [[Virtualization]]
+- [[backup]]
+- [[virtual_machine_(vm)]]
+- [[virtualization]]

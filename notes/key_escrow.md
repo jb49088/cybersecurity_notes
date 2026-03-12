@@ -10,5 +10,5 @@ Key escrow has been controversial, especially regarding privacy concerns. Critic
 
 See also:
 
-- [[Encryption]]
-- [[Public key Infrastructure (PKI)]]
+- [[encryption]]
+- [[public_key_infrastructure_(pki)]]

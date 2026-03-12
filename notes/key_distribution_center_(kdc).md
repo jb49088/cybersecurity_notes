@@ -14,5 +14,5 @@ The KDC is an essential part of cryptographic systems that require secure key ex
 
 See also:
 
-- [[Kerberos]]
-- [[Symmetric encryption]]
+- [[kerberos]]
+- [[symmetric_encryption]]

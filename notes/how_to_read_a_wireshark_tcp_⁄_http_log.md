@@ -11,7 +11,7 @@ This Wireshark TCP log section provided to you starts at log entry number (No.) 
 The source and destination columns contain the source IP address of the machine that is sending a packet and the intended destination IP address of the packet. In this log file, the IP address 192.0.2.1 belongs to the company’s web server. The range of IP addresses in 198.51.100.0/24 belong to the employees’ computers.
 
 > [!Note]
-> The statement "The range of IP addresses in 198.51.100.0/24 belong to the employees' computers" refers to the subnet that includes all IP addresses from `198.51.100.0` to `198.51.100.255`. See: [[Classless Inter-Domain Routing (CIDR)]] for more information.
+> The statement "The range of IP addresses in 198.51.100.0/24 belong to the employees' computers" refers to the subnet that includes all IP addresses from `198.51.100.0` to `198.51.100.255`. See: [[classless_inter-domain_routing_(cidr)]] for more information.
 
 ## Protocol type and related information
 

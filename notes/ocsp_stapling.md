@@ -8,7 +8,7 @@ With OCSP stapling, the certificate holder's server retrieves and stores the OCS
 
 See also:
 
-- [[Online certificate status protocol (OCSP)]]
-- [[Certificate authority (CA)]]
-- [[Digital certificate]]
-- [[Certificate revocation list (CRL)]]
+- [[online_certificate_status_protocol_(ocsp)]]
+- [[certificate_authority_(ca)]]
+- [[digital_certificate]]
+- [[certificate_revocation_list_(crl)]]

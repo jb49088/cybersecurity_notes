@@ -14,6 +14,6 @@ Effective policies help organizations align operations with their strategic goal
 
 See also:
 
-- [[Information Security Policy]]
-- [[Acceptable use policy (AUP)]]
-- [[Incident Response Policy]]
+- [[information_security_policy]]
+- [[acceptable_use_policy_(aup)]]
+- [[incident_response_policy]]

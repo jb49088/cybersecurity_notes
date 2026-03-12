@@ -1,7 +1,5 @@
 # Rule-based access control (RBAC)
 
-[[🏷️Access control model]]
-
 Rule-based access control (RBAC) manages access based on predefined system-enforced rules. These rules consider conditions beyond the identity of the user, providing a dynamic and adaptable access control model.
 
 - **Follows system-defined rules:** Access is determined by conditions set by administrators, not end-users.
@@ -16,7 +14,7 @@ Rule-based access control provides flexibility in managing permissions and suppo
 
 See also:
 
-- [[Attribute-based access control (ABAC)]]
-- [[Discretionary access control (DAC)]]
-- [[Mandatory access control (MAC)]]
-- [[Role-based access control (RBAC)]]
+- [[attribute-based_access_control_(abac)]]
+- [[discretionary_access_control_(dac)]]
+- [[mandatory_access_control_(mac)]]
+- [[role-based_access_control_(rbac)]]

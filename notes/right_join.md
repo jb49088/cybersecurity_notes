@@ -1,7 +1,5 @@
 # RIGHT JOIN
 
-[[🏷️SQL]]
-
 When joining two tables, `RIGHT JOIN` returns all of the records of the second table, but only returns rows from the first table that match on a specified column.
 
 The following query demonstrates the syntax for `RIGHT JOIN`:

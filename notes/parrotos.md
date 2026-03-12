@@ -1,7 +1,5 @@
 # ParrotOS
 
-[[🏷️Linux distribution]]
-
 ParrotOS is a Debian-based Linux distribution designed for penetration testing, digital forensics, reverse engineering, and privacy-focused computing. Developed by the Parrot Security team, it offers a lightweight yet powerful alternative to Kali Linux, with additional tools for software development and anonymous browsing.
 
 - **Security-focused toolkit**: Includes a comprehensive set of penetration testing tools for vulnerability assessment, cryptography, network analysis, and digital forensics.

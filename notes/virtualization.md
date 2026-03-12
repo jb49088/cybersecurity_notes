@@ -8,5 +8,5 @@ Each application instance operates with its own dedicated OS, which provides iso
 
 See also:
 
-- [[Hypervisor]]
-- [[Containerization]]
+- [[hypervisor]]
+- [[containerization]]

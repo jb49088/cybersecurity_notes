@@ -1,7 +1,5 @@
 # mkdir
 
-[[🏷️Linux command]]
-
 The `mkdir` command allows you to create directories from within the terminal.
 
 `mkdir <folder name>`

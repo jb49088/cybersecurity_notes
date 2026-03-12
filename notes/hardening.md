@@ -16,6 +16,6 @@ Hardening refers to the process of securing systems, devices, and environments b
 
 See also:
 
-- [[Software update]]
-- [[Configuration enforcement]]
-- [[Endpoint]]
+- [[software_update]]
+- [[configuration_enforcement]]
+- [[endpoint]]

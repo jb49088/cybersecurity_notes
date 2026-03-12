@@ -1,7 +1,5 @@
 # tar, zip & unzip
 
-[[🏷️Linux command]]
-
 The `tar` command in Linux is used to create and extract archived files. We can extract multiple different archive files using the `tar` command.
 
 To create an archive, we use the `-c` parameter, and to extract an archive, we use the `-x` parameter. Let’s see how it works.

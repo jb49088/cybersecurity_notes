@@ -1,7 +1,5 @@
 # OR
 
-[[🏷️SQL]]
-
 The `OR` operator connects two conditions, but `OR` specifies that either condition can be met. It returns results where the first condition, the second condition, or both are met.
 
 For example, if you are responsible for finding all customers who are either in the USA or Canada so that you can communicate information about a security update, you can use an `OR` operator to find all the needed records. As the following query demonstrates, you should place the two conditions on either side of the `OR` operator in the `WHERE` clause:

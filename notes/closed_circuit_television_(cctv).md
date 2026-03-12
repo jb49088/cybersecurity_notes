@@ -1,7 +1,5 @@
 # Closed-circuit television (CCTV)
 
-[[🏷️Physical security]]
-
 Closed-circuit television (CCTV) is a vital component of modern security systems, used to monitor, record, and analyze activities in both real-time and retrospectively. By providing continuous surveillance, CCTV deters unauthorized access, supports incident response, and aids in post-incident investigations.
 
 CCTV systems can include a variety of camera types, such as fixed-position cameras for consistent monitoring of specific areas and pan-tilt-zoom (PTZ) cameras that offer dynamic movement and zoom capabilities. PTZ cameras are particularly beneficial, allowing operators to remotely adjust the camera's view, follow moving subjects, or zoom in for detailed analysis, enhancing overall situational awareness.

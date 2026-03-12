@@ -8,5 +8,5 @@ This architecture offers scalability by allowing individual services to be scale
 
 See also:
 
-- [[Monolithic architecture]]
-- [[Application programming interface (API)]]
+- [[monolithic_architecture]]
+- [[application_programming_interface_(api)]]

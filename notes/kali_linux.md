@@ -1,7 +1,5 @@
 # Kali linux
 
-[[🏷️Linux distribution]]
-
 Kali linux is a Debian-based Linux distribution designed for penetration testing, digital forensics, and ethical hacking. Developed by Offensive Security, Kali comes preloaded with a vast array of security tools used by cybersecurity professionals.
 
 - **Penetration testing tools**: Kali includes tools for network analysis, exploitation, password cracking, forensics, and reverse engineering, such as Metasploit, Nmap, and John the Ripper.
@@ -17,4 +15,4 @@ Kali linux is a powerful toolset for cybersecurity professionals, but due to its
 
 See also:
 
-- [[Linux]]
+- [[linux]]

@@ -12,5 +12,5 @@ A TAP can be deployed at various points within a network to provide visibility i
 
 See also:
 
-- [[Switched port analyzer (SPAN)]]
-- [[Port mirroring]]
+- [[switched_port_analyzer_(span)]]
+- [[port_mirroring]]

@@ -16,4 +16,4 @@ USB has become a crucial part of everyday computing, providing a universal and r
 
 See also:
 
-- [[Peripheral devices]]
+- [[peripheral_devices]]

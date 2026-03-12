@@ -13,5 +13,5 @@ By implementing structured vendor monitoring practices, organizations can ensure
 
 See also:
 
-- [[Right-to-audit clause]]
-- [[Supply chain analysis]]
+- [[right-to-audit_clause]]
+- [[supply_chain_analysis]]

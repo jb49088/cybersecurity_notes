@@ -1,7 +1,5 @@
 # Ubuntu
 
-[[🏷️Linux distribution]]
-
 Ubuntu is one of the most popular Linux distributions, known for its ease of use, community support, and broad application in both desktop and server environments. Developed by Canonical Ltd., it is based on Debian and provides a user-friendly experience with a focus on simplicity and accessibility.
 
 - **Desktop and server editions**: Ubuntu is available in various flavors, including **Ubuntu Desktop**, **Ubuntu Server**, and specialized versions like **Ubuntu Core** for IoT devices.

@@ -13,5 +13,5 @@ By implementing package monitoring, organizations can maintain supply chain inte
 
 See also:
 
-- [[Package]]
-- [[Software update]]
+- [[package]]
+- [[software_update]]

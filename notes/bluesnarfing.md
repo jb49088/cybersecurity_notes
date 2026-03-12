@@ -14,5 +14,5 @@ Bluesnarfing is less common today due to improved Bluetooth security protocols, 
 
 See also:
 
-- [[BlueSmack]]
-- [[BlueBorne]]
+- [[bluesmack]]
+- [[blueborne]]

@@ -6,8 +6,8 @@ A database is an organized collection of structured information or data, typical
 
 See also:
 
-- [[Hierarchical database]]
-- [[Network database]]
-- [[Relational database]]
-- [[Relational database management system (RDBMS)]]
-- [[Database administrator (DBA)]]
+- [[hierarchical_database]]
+- [[network_database]]
+- [[relational_database]]
+- [[relational_database_management_system_(rdbms)]]
+- [[database_administrator_(dba)]]

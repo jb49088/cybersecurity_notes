@@ -1,7 +1,5 @@
 # Encryption
 
-[[🏷️Cryptography]] [[🏷️Obfuscation]]
-
 Encryption is the process of converting data into a coded form to prevent unauthorized access, ensuring data confidentiality and integrity. There are various types of encryption that protect data at different levels of a system, each offering unique benefits based on the security needs.
 
 ## Types of encryption
@@ -19,8 +17,8 @@ Each of these encryption methods plays a vital role in safeguarding data across 
 
 See also:
 
-- [[Plaintext]]
-- [[Ciphertext]]
-- [[Algorithm]]
-- [[Confidentiality]]
-- [[Advanced encryption standard (AES)]]
+- [[plaintext]]
+- [[ciphertext]]
+- [[algorithm]]
+- [[confidentiality]]
+- [[advanced_encryption_standard_(aes)]]

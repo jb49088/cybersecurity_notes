@@ -13,6 +13,6 @@ Ensuring interoperability is key for integrating new technologies and services i
 
 See also:
 
-- [[Identity and access management (IAM)]]
-- [[Federation]]
-- [[OAuth]]
+- [[identity_and_access_management_(iam)]]
+- [[federation]]
+- [[oauth]]

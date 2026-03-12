@@ -8,7 +8,7 @@ Represents whole numbers without a fractional component. Examples include 0, 1, 
 
 ## Float
 
-[[Data|Data]] consisting of a number with a decimal point.
+[[data|data]] consisting of a number with a decimal point.
 
 ## Character
 
@@ -16,7 +16,7 @@ Represents whole numbers without a fractional component. Examples include 0, 1, 
 
 ## Boolean
 
-[[Data|Data]] that can only be one of two values: either True or False. Boolean variables are often used in conditional statements and logical operations.
+[[data|data]] that can only be one of two values: either True or False. Boolean variables are often used in conditional statements and logical operations.
 
 ## Array
 

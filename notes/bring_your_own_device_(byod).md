@@ -1,7 +1,5 @@
 # Bring your own device (BYOD)
 
-[[🏷️Policy]]
-
 Bring your own device (BYOD) allows employees to use personal devices—such as smartphones, tablets, and laptops—for work. This offers flexibility and convenience but introduces challenges in security and data management, as these devices are used for both personal and work tasks.
 
 Although employees own the devices, they must meet company security requirements, such as installing necessary software, enforcing strong passwords, and ensuring data encryption. Securing these devices is complex because they serve dual purposes, increasing potential vulnerabilities.
@@ -14,6 +12,6 @@ BYOD provides benefits like cost savings and increased satisfaction but requires
 
 See also:
 
-- [[Mobile device management (MDM)]]
-- [[Choose your own device (CYOD)]]
-- [[Corporate owned, personally enabled (COPE)]]
+- [[mobile_device_management_(mdm)]]
+- [[choose_your_own_device_(cyod)]]
+- [[corporate_owned,_personally_enabled_(cope)]]

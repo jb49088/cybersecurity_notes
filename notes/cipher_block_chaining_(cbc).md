@@ -14,5 +14,5 @@ While CBC is a secure encryption method, it does have some limitations, includin
 
 See also:
 
-- [[Block cipher]]
-- [[Advanced encryption standard (AES)]]
+- [[block_cipher]]
+- [[advanced_encryption_standard_(aes)]]

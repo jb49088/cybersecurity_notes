@@ -14,6 +14,6 @@ Perfect forward secrecy is an essential feature for securing sensitive communica
 
 See also:
 
-- [[Diffie-Hellman Ephemeral (DHE)]]
-- [[Elliptic-curve diffie-hellman ephemeral (ECDHE)]]
-- [[Transport Layer Security (TLS)]]
+- [[diffie-hellman_ephemeral_(dhe)]]
+- [[elliptic-curve_diffie-hellman_ephemeral_(ecdhe)]]
+- [[transport_layer_security_(tls)]]

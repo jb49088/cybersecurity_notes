@@ -1,6 +1,6 @@
 # Cipher
 
-An [[Algorithm|algorithm]] that [[Encryption|encrypts]] information.
+An [[algorithm|algorithm]] that [[encryption|encrypts]] information.
 
 ---
 

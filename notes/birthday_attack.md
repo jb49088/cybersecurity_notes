@@ -1,7 +1,5 @@
 # Birthday attack
 
-[[🏷️Cryptographic attack]]
-
 A birthday attack is a type of cryptographic attack that exploits the mathematics of the birthday paradox to find collisions in hash functions. In cryptographic terms, a collision occurs when two different inputs produce the same hash value.
 
 The birthday paradox reveals that the probability of two randomly chosen items sharing a common attribute (e.g., the same birthday) is higher than intuitively expected. Similarly, in hash functions, finding two distinct inputs that hash to the same output can require significantly fewer attempts than one might expect.
@@ -12,4 +10,4 @@ For a hash function that produces an output of a certain length (for example, a 
 
 See also:
 
-- [[Hash collision]]
+- [[hash_collision]]

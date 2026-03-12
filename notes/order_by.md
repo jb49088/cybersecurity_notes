@@ -1,7 +1,5 @@
 # ORDER BY
 
-[[🏷️SQL]]
-
 `ORDER BY` sequences the records returned by a query based on a specified column or columns. This can be in either ascending or descending order.
 
 ## Sorting in ascending order

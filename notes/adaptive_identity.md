@@ -14,6 +14,6 @@ Adaptive Identity is commonly used in Zero Trust architectures to balance securi
 
 See also:
 
-- [[Authentication]]
-- [[Zero trust]]
-- [[Identity and access management (IAM)]]
+- [[authentication]]
+- [[zero_trust]]
+- [[identity_and_access_management_(iam)]]

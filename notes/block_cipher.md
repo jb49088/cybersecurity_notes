@@ -10,8 +10,8 @@ Popular block ciphers include AES, DES, and RC6. Due to their robustness and fle
 
 See also:
 
-- [[Stream cipher]]
-- [[Symmetric encryption]]
-- [[Advanced encryption standard (AES)]]
-- [[Data encryption standard (DES)]]
-- [[Rivest Cipher 6 (RC6)]]
+- [[stream_cipher]]
+- [[symmetric_encryption]]
+- [[advanced_encryption_standard_(aes)]]
+- [[data_encryption_standard_(des)]]
+- [[rivest_cipher_6_(rc6)]]

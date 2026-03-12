@@ -1,3 +1,3 @@
 # Query
 
-A request for [[Data|data]] from a [[Database|database]] table or a combination of tables.
+A request for [[data|data]] from a [[database|database]] table or a combination of tables.

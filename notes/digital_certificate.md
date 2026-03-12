@@ -1,7 +1,5 @@
 # Digital certificate
 
-[[🏷️Cryptography]]
-
 A digital certificate is a public key certificate that binds a public key with the identity of its holder through a digital signature. These certificates are used to establish trust in digital communications, enabling secure data exchange between parties. By incorporating a digital signature, they authenticate the identity of the certificate holder and verify the integrity of transmitted data.
 
 Public key infrastructure (PKI) commonly relies on certificate authorities (CAs) to issue and manage digital certificates, adding an extra layer of trust. Alternatively, a web of trust approach uses endorsements from other users to verify identities. Certificates can be created using built-in operating system tools, such as windows domain services, or by employing third-party solutions.
@@ -24,12 +22,12 @@ Digital certificates play a critical role in enabling secure web communication, 
 
 See also:
 
-- [[X.509]]
-- [[Certificate signing request (CSR)]]
-- [[Certificate revocation list (CRL)]]
-- [[Certificate authority (CA)]]
-- [[Registration authority (RA)]]
-- [[Digital signature]]
-- [[Self-signed certificate]]
-- [[Wildcard certificate]]
-- [[Online certificate status protocol (OCSP)]]
+- [[x.509]]
+- [[certificate_signing_request_(csr)]]
+- [[certificate_revocation_list_(crl)]]
+- [[certificate_authority_(ca)]]
+- [[registration_authority_(ra)]]
+- [[digital_signature]]
+- [[self-signed_certificate]]
+- [[wildcard_certificate]]
+- [[online_certificate_status_protocol_(ocsp)]]

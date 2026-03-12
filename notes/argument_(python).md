@@ -1,7 +1,5 @@
 # Argument (Python)
 
-[[🏷️Python]]
-
 In Python, an argument is the data brought into a function when it is called. When calling `remaining_login_attempts` in the following example, the integers `3` and `2` are considered arguments:
 
 `remaining_login_attempts(3, 2)`

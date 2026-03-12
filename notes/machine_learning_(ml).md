@@ -14,4 +14,4 @@ Machine learning is used in various applications, including recommendation syste
 
 See also:
 
-- [[Artificial Intelligence (AI)]]
+- [[artificial_intelligence_(ai)]]

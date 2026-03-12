@@ -1,7 +1,5 @@
 # Arch linux
 
-[[🏷️Linux distribution]]
-
 Arch linux is a lightweight and flexible Linux distribution that follows a rolling-release model. It is known for its simplicity, minimalism, and emphasis on user control. Unlike many other distributions, Arch does not come with a preconfigured desktop environment or unnecessary packages, allowing users to build their system from the ground up.
 
 - **Rolling release**: Arch Linux continuously updates its software, ensuring users always have the latest versions without needing to reinstall or upgrade to a new release.
@@ -17,4 +15,4 @@ Arch Linux is favored by advanced users who appreciate its simplicity, rolling u
 
 See also:
 
-- [[Linux]]
+- [[linux]]

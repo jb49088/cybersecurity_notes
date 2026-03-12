@@ -14,4 +14,4 @@ CERTs play a critical role in maintaining cybersecurity resilience by proactivel
 
 See also:
 
-- [[Computer incident response team (CIRT)]]
+- [[computer_incident_response_team_(cirt)]]

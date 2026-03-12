@@ -13,7 +13,7 @@ Packet captures are essential for network troubleshooting and enhancing the secu
 
 See also:
 
-- [[Wireshark]]
+- [[wireshark]]
 - [[tcpdump]]
-- [[Log]]
-- [[Security information and event management (SIEM)]]
+- [[log]]
+- [[security_information_and_event_management_(siem)]]

@@ -1,7 +1,5 @@
 # Network segmentation
 
-[[🏷️Networking]]
-
 Network segmentation is the practice of dividing a computer network into smaller, isolated segments to improve performance, security, and compliance. It involves creating boundaries within the network to limit traffic flow between different parts, ensuring better control over how data and resources are accessed.
 
 - **Physical Segmentation:** Involves creating separate physical networks for different parts of an organization. This is typically done by using different hardware such as routers, switches, or firewalls to divide traffic between isolated network segments.
@@ -14,6 +12,6 @@ Network segmentation is a crucial practice for optimizing network performance, s
 
 See also:
 
-- [[Air gap]]
-- [[Virtual Local Area Networks (VLAN)]]
-- [[Software-defined networking (SDN)]]
+- [[air_gap]]
+- [[virtual_local_area_networks_(vlan)]]
+- [[software-defined_networking_(sdn)]]

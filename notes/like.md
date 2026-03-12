@@ -1,7 +1,5 @@
 # LIKE
 
-[[🏷️SQL]]
-
 To apply wildcards, you need to use the `LIKE` operator instead of an equals sign (`=`). `LIKE` is used with `WHERE` to search for a pattern in a column.
 
 For instance, if you want to email employees with a title of either `'IT Staff'` or `'IT Manager'`, you can use `LIKE` operator combined with the `%` wildcard:

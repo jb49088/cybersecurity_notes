@@ -20,4 +20,4 @@ By identifying and understanding threat actors, organizations can better anticip
 
 See also:
 
--  [[Advanced Persistent Threat (APT)]]
+-  [[advanced_persistent_threat_(apt)]]

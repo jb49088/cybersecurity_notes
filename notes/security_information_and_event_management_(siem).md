@@ -16,4 +16,4 @@ SIEM systems play a crucial role in enhancing an organization's security posture
 
 See also:
 
-- [[Log]]
+- [[log]]

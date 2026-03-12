@@ -14,6 +14,6 @@ Despite the rise of internet-based messaging apps, SMS remains a crucial communi
 
 See also:
 
-- [[Multimedia message service (MMS)]]
-- [[Instant messaging (IM)]]
-- [[Internet relay chat (IRC)]]
+- [[multimedia_message_service_(mms)]]
+- [[instant_messaging_(im)]]
+- [[internet_relay_chat_(irc)]]

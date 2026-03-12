@@ -1,7 +1,5 @@
 # cal
 
-[[🏷️Linux command]]
-
 Have you ever wanted to view the calendar in the terminal? There apparently are people who want it to happen, and well, here it is.
 
 The `cal` command displays a well-presented calendar on the terminal. Just enter the command `cal` on your terminal prompt.

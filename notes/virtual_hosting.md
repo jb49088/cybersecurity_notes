@@ -1,7 +1,5 @@
 # Virtual hosting
 
-[[🏷️Networking]]
-
 Virtual hosting is a method that allows a single web server to host multiple websites or web applications on the same physical machine and IP address. By examining information in the HTTP request, the server determines which site or application the client is attempting to reach and responds accordingly, making the distinction invisible to the end user.
 
 - **Name-based virtual hosting:** The most common form of virtual hosting, where the server uses the Host header in the HTTP request to determine which site to serve. Multiple domain names resolve to the same IP address, and the server differentiates between them using this header value.
@@ -16,11 +14,11 @@ Virtual hosting is a foundational web infrastructure concept that bug bounty hun
 
 See also:
 
-- [[IP address]]
-- [[Internet protocol (IP)]]
-- [[Domain name system (DNS)]]
-- [[Hypertext transfer protocol (HTTP)]]
-- [[Hypertext transfer protocol secure (HTTPS)]]
+- [[ip_address]]
+- [[internet_protocol_(ip)]]
+- [[domain_name_system_(dns)]]
+- [[hypertext_transfer_protocol_(http)]]
+- [[hypertext_transfer_protocol_secure_(https)]]
 - [[gobuster]]
 - [[curl]]
-- [[Host header injection]]
+- [[host_header_injection]]

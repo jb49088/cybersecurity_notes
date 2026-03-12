@@ -1,7 +1,5 @@
 # Hypertext transfer protocol secure (HTTPS)
 
-[[🏷️Network protocol]]
-
 Hypertext transfer protocol secure (HTTPS) is an extension of HTTP that provides a secure communication channel over the internet. It uses encryption to protect the integrity and privacy of data exchanged between clients and servers, ensuring confidentiality and preventing eavesdropping and tampering. HTTPS is commonly used for online transactions, login forms, and any sensitive data exchanges.
 
 - **Port number and protocol type:** HTTPS operates over TCP port 443 and uses SSL/TLS encryption to secure the data in transit.
@@ -16,5 +14,5 @@ HTTPS ensures a secure and trusted connection between users and websites, provid
 
 See also:
 
-- [[Hypertext transfer protocol (HTTP)]]
-- [[Digital certificate]]
+- [[hypertext_transfer_protocol_(http)]]
+- [[digital_certificate]]

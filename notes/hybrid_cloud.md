@@ -10,5 +10,5 @@ One significant risk in hybrid cloud environments is data leakage. Data often mo
 
 See also:
 
-- [[Cloud computing]]
-- [[Cloud Service Provider (CSP)]]
+- [[cloud_computing]]
+- [[cloud_service_provider_(csp)]]

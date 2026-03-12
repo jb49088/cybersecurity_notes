@@ -1,7 +1,5 @@
 # iptables
 
-[[🏷️Linux command]]
-
 iptables is a command-line utility on Linux systems that allows administrators to configure, manage, and inspect the packet filtering rules of the Linux kernel firewall. It acts as the primary interface for defining how network traffic is handled, including which packets are accepted, dropped, or forwarded based on defined rules.
 
 - **Chains:** iptables organizes rules into chains, which represent different points in the packet processing pipeline. The three default chains are INPUT (incoming traffic), OUTPUT (outgoing traffic), and FORWARD (traffic being routed through the system).
@@ -17,6 +15,6 @@ iptables is a foundational tool for network security on Linux systems, enabling 
 
 See also:
 
-- [[Firewall]]
+- [[firewall]]
 - [[nftables]]
-- [[Linux]]
+- [[linux]]

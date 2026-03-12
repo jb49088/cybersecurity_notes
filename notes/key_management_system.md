@@ -17,6 +17,6 @@ By managing keys securely and centrally, KMS helps organizations maintain the co
 
 See also:
 
-- [[Encryption]]
-- [[Key rotation]]
-- [[Public key Infrastructure (PKI)]]
+- [[encryption]]
+- [[key_rotation]]
+- [[public_key_infrastructure_(pki)]]

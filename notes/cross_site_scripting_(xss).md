@@ -1,7 +1,5 @@
 # Cross-site scripting (XSS)
 
-[[🏷️Web application attack]]
-
 Cross-site scripting (XSS) is a common and dangerous web application vulnerability that exploits the trust users have in a website. Despite its name, XSS does not involve Cascading Style Sheets (CSS)—it originated from early browser security flaws that allowed malicious interactions between websites. Today, XSS remains a significant threat to online security.
 
 XSS vulnerabilities allow attackers to inject malicious scripts, often using JavaScript, into web pages viewed by other users. These scripts can steal sensitive information such as session cookies, credentials, or other personal data without the user's knowledge.
@@ -28,8 +26,8 @@ Persistent XSS attacks are more potent and widespread. These attacks occur when 
 
 See also:
 
-- [[Injection attack]]
-- [[JavaScript]]
-- [[Web application]]
-- [[Input sanitization]]
-- [[Input validation]]
+- [[injection_attack]]
+- [[javascript]]
+- [[web_application]]
+- [[input_sanitization]]
+- [[input_validation]]

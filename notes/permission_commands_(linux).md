@@ -36,13 +36,13 @@ There are additional options you can add to the `ls` command to make your comman
 
 ## Changing permissions
 
-The [[Least privilege|principle of least privilege]] is the concept of granting only the minimal access and authorization required to complete a task or function. In other words, users should not have privileges that are beyond what is necessary. Not following the principle of least privilege can create security risks.
+The [[least_privilege|principle_of_least_privilege]] is the concept of granting only the minimal access and authorization required to complete a task or function. In other words, users should not have privileges that are beyond what is necessary. Not following the principle of least privilege can create security risks.
 
 The `chmod` command can help you manage this authorization. The `chmod` command changes permissions on files and directories.
 
 ### Using chmod
 
-The `chmod` command requires two [[Argument (Linux)|arguments]]. The first argument indicates how to change permissions, and the second argument indicates the file or directory that you want to change permissions for.  For example, the following command would add all permissions to `login_sessions.txt`:
+The `chmod` command requires two [[argument_(linux)|arguments]]. The first argument indicates how to change permissions, and the second argument indicates the file or directory that you want to change permissions for.  For example, the following command would add all permissions to `login_sessions.txt`:
 
 `chmod u+rwx,g+rwx,o+rwx login_sessions.txt`
 

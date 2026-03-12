@@ -16,6 +16,6 @@ A well-configured DMZ can significantly enhance network security by providing an
 
 See also:
 
-- [[Firewall]]
-- [[Network segmentation]]
-- [[Jump server]]
+- [[firewall]]
+- [[network_segmentation]]
+- [[jump_server]]

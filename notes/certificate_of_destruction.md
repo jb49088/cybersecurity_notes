@@ -8,5 +8,5 @@ Destruction is often performed by specialized third-party services, as most orga
 
 See also:
 
-- [[Storage Devices]]
-- [[Decommissioning]]
+- [[storage_devices]]
+- [[decommissioning]]

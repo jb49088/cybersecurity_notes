@@ -16,6 +16,6 @@ A well-crafted BCP reduces financial losses, protects organizational reputation,
 
 See also:
 
-- [[Disaster recovery plan (DRP)]]
-- [[Incident response plan (IRP)]]
-- [[Business impact analysis (BIA)]]
+- [[disaster_recovery_plan_(drp)]]
+- [[incident_response_plan_(irp)]]
+- [[business_impact_analysis_(bia)]]

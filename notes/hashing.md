@@ -1,7 +1,5 @@
 # Hashing
 
-[[🏷️Cryptography]] [[🏷️Password security]]
-
 Hashing is a process that transforms input data (such as a file, password, or message) into a fixed-length string of characters, known as a hash value or hash code. The output is typically a sequence that appears random but is consistently derived from the input data. Hashing is deterministic, meaning the same input will always produce the same output. It also generates a fixed-length result regardless of the input size, and it is a one-way process, making it computationally infeasible to reverse the hash and retrieve the original data.
 
 ## Common uses of hashing
@@ -17,7 +15,7 @@ Hash functions like SHA-256, SHA-3, and BLAKE2 are considered secure and widely 
 
 See also:
 
-- [[Integrity]]
-- [[Digital signature]]
-- [[Checksum]]
-- [[Salting]]
+- [[integrity]]
+- [[digital_signature]]
+- [[checksum]]
+- [[salting]]

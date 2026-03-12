@@ -1,3 +1,3 @@
 # Search Processing Language (SPL)
 
-Splunk's [[Query|query]] language.
+Splunk's [[query|query]] language.

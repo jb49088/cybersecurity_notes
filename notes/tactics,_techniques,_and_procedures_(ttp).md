@@ -12,6 +12,6 @@ By studying TTPs, security teams can improve threat intelligence, enhance detect
 
 see also:
 
-- [[Cyber threat intelligence (CTI)]]
-- [[Adversarial tactics, techniques, and common knowledge (ATT&CK)]]
-- [[Indicators of compromise (IoC)]]
+- [[cyber_threat_intelligence_(cti)]]
+- [[adversarial_tactics,_techniques,_and_common_knowledge_(att&ck)]]
+- [[indicators_of_compromise_(ioc)]]

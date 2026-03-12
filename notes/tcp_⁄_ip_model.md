@@ -15,5 +15,5 @@ The TCP/IP model is essential for understanding how data travels through a netwo
 
 See also:
 
-- [[Open systems interconnection (OSI) model]]
-- [[Network Protocol]]
+- [[open_systems_interconnection_(osi)_model]]
+- [[network_protocol]]

@@ -14,4 +14,4 @@ Cybersecurity insurance helps organizations mitigate financial risks associated 
 
 See also:
 
-- [[Risk management]]
+- [[risk_management]]

@@ -10,5 +10,5 @@ While PSK is easy to set up, it has some security limitations. If the key is sha
 
 See also:
 
-- [[IEEE 802.11 (Wi-Fi)]]
-- [[Access point (AP)]]
+- [[ieee_802.11_(wi-fi)]]
+- [[access_point_(ap)]]

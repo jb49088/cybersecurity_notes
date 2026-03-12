@@ -1,7 +1,5 @@
 # Combining operators
 
-[[🏷️SQL]]
-
 Logical operators can be combined in filters. For example, if you know that both the USA and Canada are not affected by a cybersecurity issue, you can combine operators to return customers in all countries besides these two. In the following query, `NOT` is placed before the first condition, it's joined to a second condition with `AND`, and then `NOT` is also placed before that second condition. You can run it to explore what it returns:
 
 ```sql

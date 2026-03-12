@@ -1,7 +1,5 @@
 # DomainKeys identified mail (DKIM)
 
-[[🏷️Network protocol]]
-
 DomainKeys identified mail (DKIM) is an email authentication method designed to detect email spoofing and prevent unauthorized use of a domain in email messages. DKIM uses public-key cryptography to sign outgoing email messages with a cryptographic signature that is verified by the receiving mail server. This allows the recipient to confirm that the message was indeed sent by the domain owner and that it has not been altered in transit.
 
 In DKIM, the sending mail server generates a unique signature for each email message by hashing certain parts of the message (e.g., headers and body) and encrypting this hash with a private key. This signature is then attached to the email as a DKIM-Signature header. The receiving mail server, using the public key published in the DNS record of the sending domain, can verify the authenticity of the signature.
@@ -18,7 +16,7 @@ DKIM is often used in conjunction with other authentication methods, such as Sen
 
 See also:
 
-- [[Sender policy framework (SPF)]]
-- [[Domain-based message authentication, reporting, and conformance (DMARC)]]
-- [[Domain name system (DNS)]]
-- [[Mail gateway]]
+- [[sender_policy_framework_(spf)]]
+- [[domain-based_message_authentication,_reporting,_and_conformance_(dmarc)]]
+- [[domain_name_system_(dns)]]
+- [[mail_gateway]]

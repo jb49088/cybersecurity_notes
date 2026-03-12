@@ -10,8 +10,8 @@ This encryption method is particularly effective for safeguarding sensitive data
 
 See also:
 
-- [[Windows]]
-- [[New technology file system (NTFS)]]
-- [[Encryption]]
-- [[Public key Infrastructure (PKI)]]
-- [[Asymmetric encryption]]
+- [[windows]]
+- [[new_technology_file_system_(ntfs)]]
+- [[encryption]]
+- [[public_key_infrastructure_(pki)]]
+- [[asymmetric_encryption]]

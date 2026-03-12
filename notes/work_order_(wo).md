@@ -1,7 +1,5 @@
 # Work order (WO)
 
-[[🏷️Business agreement]]
-
 A work order (WO) is a document that authorizes and details specific tasks to be performed, often in maintenance, service, or project-based work. It provides instructions on the scope of work, resources required, and expected completion time, ensuring that tasks are executed efficiently and according to requirements.
 
 - **Work description**: Specifies the task or service to be performed.
@@ -17,5 +15,5 @@ Work orders are commonly used in industries such as manufacturing, facilities ma
 
 See also:
 
-- [[Statement of work (SOW)]]
-- [[Master service agreement (MSA)]]
+- [[statement_of_work_(sow)]]
+- [[master_service_agreement_(msa)]]

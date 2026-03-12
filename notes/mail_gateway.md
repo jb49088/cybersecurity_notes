@@ -13,6 +13,6 @@ Mail gateways are essential for maintaining secure and efficient email communica
 
 See also:
 
-- [[Sender policy framework (SPF)]]
-- [[DomainKeys identified mail (DKIM)]]
-- [[Domain-based message authentication, reporting, and conformance (DMARC)]]
+- [[sender_policy_framework_(spf)]]
+- [[domainkeys_identified_mail_(dkim)]]
+- [[domain-based_message_authentication,_reporting,_and_conformance_(dmarc)]]

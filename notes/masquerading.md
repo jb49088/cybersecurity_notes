@@ -10,6 +10,6 @@ Masquerading is often used in conjunction with other techniques like privilege e
 
 See also:
 
-- [[Malware]]
-- [[Privilege escalation]]
-- [[Living off the Land]]
+- [[malware]]
+- [[privilege_escalation]]
+- [[living_off_the_land]]

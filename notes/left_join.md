@@ -1,7 +1,5 @@
 # LEFT JOIN
 
-[[🏷️SQL]]
-
 When joining two tables, `LEFT JOIN` returns all the records of the first table, but only returns rows of the second table that match on a specified column.
 
 ## The syntax of a left outer join

@@ -1,7 +1,5 @@
 # df & mount
 
-[[🏷️Linux command]]
-
 When working with Linux, the `df` and `mount` commands are very efficient utilities to mount filesystems and get details of the file system.
 
 The `df` command is used to display the amount of disk space used and available on the file systems, and the `mount` command is used to mount a file system or device to a specific directory.

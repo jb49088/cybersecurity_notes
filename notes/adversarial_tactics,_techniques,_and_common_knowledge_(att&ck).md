@@ -13,6 +13,6 @@ The ATT&CK framework is widely used for threat modeling, red teaming, and optimi
 
 See also:
 
-- [[Threat intelligence]]
-- [[Cyber threat intelligence (CTI)]]
-- [[Tactics, techniques, and procedures (TTP)]]
+- [[threat_intelligence]]
+- [[cyber_threat_intelligence_(cti)]]
+- [[tactics,_techniques,_and_procedures_(ttp)]]

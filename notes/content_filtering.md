@@ -13,5 +13,5 @@ Content filtering plays a vital role in maintaining a secure, policy-compliant n
 
 See also:
 
-- [[DNS filtering]]
-- [[URL scanning]]
+- [[dns_filtering]]
+- [[url_scanning]]

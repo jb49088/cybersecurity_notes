@@ -14,4 +14,4 @@ Maintaining security baselines is an ongoing process. While many baselines remai
 
 See also:
 
-- [[Anomaly-based detection]]
+- [[anomaly-based_detection]]

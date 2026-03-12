@@ -10,5 +10,5 @@ TOCTOU vulnerabilities are challenging to detect because the exploit occurs in a
 
 See also:
 
-- [[Race condition]]
-- [[Privilege escalation]]
+- [[race_condition]]
+- [[privilege_escalation]]

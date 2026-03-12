@@ -15,5 +15,5 @@ Session management is a key component in web and application security, ensuring 
 
 See also:
 
-- [[Session ID]]
-- [[Cookie]]
+- [[session_id]]
+- [[cookie]]

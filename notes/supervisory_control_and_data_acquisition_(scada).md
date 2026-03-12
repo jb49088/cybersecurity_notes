@@ -15,6 +15,6 @@ SCADA systems enhance efficiency, minimize downtime, and ensure safe and reliabl
 
 See also:
 
-- [[Industrial control system (ICS)]]
-- [[Real-time operating system (RTOS)]]
-- [[Embedded systems]]
+- [[industrial_control_system_(ics)]]
+- [[real-time_operating_system_(rtos)]]
+- [[embedded_systems]]

@@ -1,7 +1,5 @@
 # Real-time transport protocol (RTP)
 
-[[🏷️Network protocol]]
-
 Real-time transport protocol (RTP) is a network protocol used for delivering real-time audio, video, and other time-sensitive data over IP networks. It is widely used in applications such as VoIP (Voice over IP), video conferencing, streaming media, and telephony services.
 
 - **Port number and protocol type:** RTP typically operates over dynamic UDP port ranges, often starting at 5004, to ensure low-latency data transmission.
@@ -16,5 +14,5 @@ RTP is a core protocol in real-time communication applications, ensuring smooth 
 
 See also:
 
-- [[Secure real-time transport protocol (SRTP)]]
-- [[Voice over internet protocol (VoIP)]]
+- [[secure_real-time_transport_protocol_(srtp)]]
+- [[voice_over_internet_protocol_(voip)]]

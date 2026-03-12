@@ -13,9 +13,9 @@ Detection is the process of identifying potential security incidents or threats 
 
 Anomaly detection is a method used to identify deviations from normal behavior or patterns within systems or networks, which may indicate potential threats or incidents.
 
-- **Requires baseline definition:** Anomaly-based analysis depends on establishing a clear [[Security baselines|baseline image]] of normal behavior for the system or network. This baseline is built by monitoring activity over a period of time.
+- **Requires baseline definition:** Anomaly-based analysis depends on establishing a clear [[security_baselines|baseline_image]] of normal behavior for the system or network. This baseline is built by monitoring activity over a period of time.
 
-- **Detects novel threats:** Anomaly-based analysis can be effective in detecting [[Exploits#Zero-day exploits|zero-day exploits]]. This is because it doesn't rely on predefined attack [[Analysis#Signature|signatures]].
+- **Detects novel threats:** Anomaly-based analysis can be effective in detecting [[exploits#zero-day_exploits|zero-day_exploits]]. This is because it doesn't rely on predefined attack [[analysis#signature|signatures]].
 
 - **Complementary approach:** Anomaly-based analysis is often combined with signature analysis for a more comprehensive security posture. This layered approach helps to identify both known and unknown threats.
 

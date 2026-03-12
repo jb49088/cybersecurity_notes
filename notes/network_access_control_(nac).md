@@ -13,7 +13,7 @@ NAC helps protect network resources by limiting exposure to threats and ensuring
 
 See also:
 
-- [[IEEE 802.1X]]
-- [[AAA server]]
-- [[Pre-shared key (PSK)]]
-- [[Posture assessment]]
+- [[ieee_802.1x]]
+- [[aaa_server]]
+- [[pre-shared_key_(psk)]]
+- [[posture_assessment]]

@@ -10,5 +10,5 @@ Effective endpoint management ensures that these devices are compliant with orga
 
 See also:
 
-- [[Endpoint detection and response (EDR)]]
-- [[Operating system (OS)]]
+- [[endpoint_detection_and_response_(edr)]]
+- [[operating_system_(os)]]

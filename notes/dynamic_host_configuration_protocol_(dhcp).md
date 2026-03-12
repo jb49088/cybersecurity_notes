@@ -1,7 +1,5 @@
 # Dynamic host configuration protocol (DHCP)
 
-[[🏷️Network protocol]]
-
 Dynamic host configuration protocol (DHCP) is a network management protocol used to automatically assign IP addresses and other network configuration parameters to devices (clients) on a network. It reduces the need for manual configuration and helps maintain consistent network settings across devices.
 
 - **Port numbers:** DHCP uses UDP port 67 for communication from the client to the server, and UDP port 68 for communication from the server to the client.
@@ -17,4 +15,4 @@ DHCP simplifies network administration by automating IP address assignment, ensu
 
 See also:
 
-- [[Internet protocol (IP)]]
+- [[internet_protocol_(ip)]]

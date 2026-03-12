@@ -1,7 +1,5 @@
 # sort
 
-[[🏷️Linux command]]
-
 The `sort` command is used to sort lines in a text file or standard input in Linux and Unix-based operating systems. It can be used to sort lines in ascending or descending order and to perform other sorting operations, such as sorting by fields or using a custom sorting order.
 
 The basic syntax of the `sort` command is:

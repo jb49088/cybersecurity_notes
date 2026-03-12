@@ -12,5 +12,5 @@ SPAN can be configured to monitor a single port (ingress or egress) or a range o
 
 See also:
 
-- [[Test access point (TAP)]]
-- [[Port mirroring]]
+- [[test_access_point_(tap)]]
+- [[port_mirroring]]

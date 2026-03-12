@@ -1,7 +1,5 @@
 # passwd
 
-[[🏷️Linux command]]
-
 Now that you know how to create new users, let’s also set the password for them. The `passwd` command lets you set the password for your own account, or if you have the permissions, set the password for other accounts.
 
 Here are some examples of using the `passwd` command:

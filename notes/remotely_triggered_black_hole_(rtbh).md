@@ -16,4 +16,4 @@ RTBH is a valuable tool for quickly mitigating large-scale DDoS attacks, improvi
 
 See also:
 
-- [[Distributed denial of service (DDoS)]]
+- [[distributed_denial_of_service_(ddos)]]

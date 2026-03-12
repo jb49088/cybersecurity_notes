@@ -1,7 +1,5 @@
 # General data protection regulation (GDPR)
 
-[[🏷️Regulation]]
-
 The General data protection regulation (GDPR) is a European Union regulation designed to protect the privacy and personal data of individuals within the EU. It sets strict guidelines for the collection, processing, and storage of personal data to ensure privacy rights are upheld.
 
 - **European Union regulation**: The GDPR applies to all entities operating within the EU and any organization that processes data of EU citizens. It governs the protection of various personal data types, such as names, addresses, photos, email addresses, medical information, and even online identifiers like IP addresses.
@@ -14,5 +12,5 @@ The GDPR aims to give individuals more control over their personal data and how 
 
 See also:
 
-- [[Regulation]]
-- [[Data subject]]
+- [[regulation]]
+- [[data_subject]]

@@ -1,10 +1,10 @@
 # Playbook
 
-Playbooks provide a predefined and up-to-date list of steps to perform when responding to an event. Playbooks are frequently updated if a failure is identified, there is a change in industry [[Standards|standards]], or the [[Cyber Threats|threat landscape]] changes.
+Playbooks provide a predefined and up-to-date list of steps to perform when responding to an event. Playbooks are frequently updated if a failure is identified, there is a change in industry [[standards|standards]], or the [[cyber_threats|threat_landscape]] changes.
 
-Each organization has a different set of playbook tools, methodologies, protocols, and procedures that they adhere to. However, there may be government-imposed laws and regulations such as notification requirements. These requirements are subject to change based on where the [[main/Incident Response & Forensics|incident]] originated and the type of [[Data|data]] affected.
+Each organization has a different set of playbook tools, methodologies, protocols, and procedures that they adhere to. However, there may be government-imposed laws and regulations such as notification requirements. These requirements are subject to change based on where the [[main/incident_response_&_forensics|incident]] originated and the type of [[data|data]] affected.
 
-Playbooks sometimes cover specific [[main/Incident Response & Forensics|incidents]] and [[Vulnerability|vulnerabilities]]. These might include [[Ransomware|ransomware]], [[Vishing|vishing]], [[Business Email Compromise (BEC)|Business Email Compromise (BEC)]], and more.
+Playbooks sometimes cover specific [[main/incident_response_&_forensics|incidents]] and [[vulnerability|vulnerabilities]]. These might include [[ransomware|ransomware]], [[vishing|vishing]], [[business_email_compromise_(bec)|business_email_compromise_(bec)]], and more.
 
 An incident response playbook is a guide with six phases used to help mitigate and manage security incidents from beginning to end. Let's discuss each phase.
 

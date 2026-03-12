@@ -8,5 +8,5 @@ Organizations can use bogus DNS as part of their defense strategy, creating deco
 
 See also:
 
-- [[Domain name system (DNS)]]
-- [[Honeypot]]
+- [[domain_name_system_(dns)]]
+- [[honeypot]]

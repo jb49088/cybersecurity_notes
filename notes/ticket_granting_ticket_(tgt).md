@@ -16,5 +16,5 @@ TGTs play a crucial role in Kerberos-based authentication, improving both securi
 
 See also:
 
-- [[Kerberos]]
-- [[Single sign-on (SSO)]]
+- [[kerberos]]
+- [[single_sign-on_(sso)]]

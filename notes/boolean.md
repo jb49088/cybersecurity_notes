@@ -1,7 +1,5 @@
 # Boolean
 
-[[🏷️Data type]]
-
 Boolean data is data that can only be one of two values: either `True` or `False`.
 
 You should not place Boolean values in quotation marks. When you run the following code, it displays the Boolean value of `True`:

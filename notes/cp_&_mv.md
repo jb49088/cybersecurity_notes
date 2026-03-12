@@ -1,7 +1,5 @@
 # cp & mv
 
-[[🏷️Linux command]]
-
 The `cp` and `mv` commands are equivalent to the copy-paste and cut-paste commands in Windows. But since Linux doesn’t really have a command for renaming files, we also use the `mv` command to rename files and folders.
 
 `cp <source> <destination>`

@@ -17,6 +17,6 @@ By implementing MDM, organizations can ensure the security and proper management
 
 See also:
 
-- [[Bring your own device (BYOD)]]
-- [[Corporate owned, personally enabled (COPE)]]
-- [[Choose your own device (CYOD)]]
+- [[bring_your_own_device_(byod)]]
+- [[corporate_owned,_personally_enabled_(cope)]]
+- [[choose_your_own_device_(cyod)]]

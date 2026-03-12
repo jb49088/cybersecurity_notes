@@ -14,5 +14,5 @@ Effective user provisioning is essential for maintaining security, streamlining 
 
 See also:
 
-- [[Identity and access management (IAM)]]
-- [[Authentication]]
+- [[identity_and_access_management_(iam)]]
+- [[authentication]]

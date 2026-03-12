@@ -1,7 +1,5 @@
 # SSH file transfer protocol (SFTP)
 
-[[🏷️Network protocol]]
-
 SSH file transfer protocol (SFTP) is a secure file transfer protocol that operates over the secure shell (SSH) protocol. It provides a secure and encrypted method for transferring files between a client and a server, ensuring data integrity and confidentiality.
 
 - **Port number:** SFTP operates over port 22, the same port used by SSH.
@@ -18,5 +16,5 @@ SFTP is the secure alternative to FTP, offering a reliable solution for secure f
 
 See also:
 
-- [[Secure shell (SSH)]]
-- [[File transfer protocol (FTP)]]
+- [[secure_shell_(ssh)]]
+- [[file_transfer_protocol_(ftp)]]

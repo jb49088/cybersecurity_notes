@@ -8,8 +8,8 @@ C2 nodes are crucial in the structure of botnets, and they often operate in a de
 
 See also:
 
-- [[Botnet]]
-- [[Malware]]
-- [[Distributed denial of service (DDoS)]]
-- [[Command and control (C2)]]
-- [[Zombie]]
+- [[botnet]]
+- [[malware]]
+- [[distributed_denial_of_service_(ddos)]]
+- [[command_and_control_(c2)]]
+- [[zombie]]

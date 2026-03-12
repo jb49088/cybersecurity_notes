@@ -8,4 +8,4 @@ One common type of race condition is the time-of-check to time-of-use (TOCTOU) a
 
 See also:
 
-- [[Time-of-check to time-of-use (TOCTOU)]]
+- [[time-of-check_to_time-of-use_(toctou)]]

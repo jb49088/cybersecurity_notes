@@ -17,7 +17,7 @@ By conducting regular risk assessments, organizations can proactively address th
 
 See also:
 
-- [[Risk]]
-- [[Ad hoc assessment]]
-- [[Risk management]]
-- [[Risk appetite]]
+- [[risk]]
+- [[ad_hoc_assessment]]
+- [[risk_management]]
+- [[risk_appetite]]

@@ -1,7 +1,5 @@
 # Network time protocol (NTP)
 
-[[🏷️Network protocol]]
-
 Network time protocol (NTP) is one of the oldest internet protocols still in widespread use, designed to synchronize the clocks of computers and network devices to a common time reference. Accurate timekeeping is a fundamental dependency for a surprising number of critical systems and security mechanisms, making NTP a quiet but essential part of network infrastructure.
 
 - **How it works:** NTP operates in a hierarchical structure of time sources called strata. Stratum 0 devices are highly precise reference clocks such as atomic clocks or GPS receivers. Stratum 1 servers synchronize directly to stratum 0 devices, stratum 2 servers synchronize to stratum 1, and so on. Each level of the hierarchy introduces a small amount of additional latency and potential drift.
@@ -17,8 +15,8 @@ NTP is a foundational protocol that operates largely invisibly until something g
 
 See also:
 
-- [[User datagram protocol (UDP)]]
-- [[Kerberos]]
-- [[Active directory (AD)]]
-- [[Amplification attack]]
-- [[Incident response plan (IRP)]]
+- [[user_datagram_protocol_(udp)]]
+- [[kerberos]]
+- [[active_directory_(ad)]]
+- [[amplification_attack]]
+- [[incident_response_plan_(irp)]]

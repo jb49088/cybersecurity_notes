@@ -19,5 +19,5 @@ By understanding the ARO, organizations can make more informed decisions about r
 
 See also:
 
-- [[Single loss expectancy (SLE)]]
-- [[Annual loss expectancy (ALE)]]
+- [[single_loss_expectancy_(sle)]]
+- [[annual_loss_expectancy_(ale)]]

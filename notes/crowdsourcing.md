@@ -14,4 +14,4 @@ Examples of crowdsourcing in cybersecurity include open threat intelligence plat
 
 See also:
 
-- [[Threat intelligence]]
+- [[threat_intelligence]]

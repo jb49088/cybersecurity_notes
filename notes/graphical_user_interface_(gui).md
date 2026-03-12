@@ -15,4 +15,4 @@ GUIs enhance usability by making digital interactions more intuitive, but they m
 
 See also:
 
-- [[Command line interface (CLI)]]
+- [[command_line_interface_(cli)]]

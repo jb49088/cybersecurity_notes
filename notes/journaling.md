@@ -8,5 +8,5 @@ To mitigate this risk, journaling involves creating a journal entry before data 
 
 See also:
 
-- [[Backup]]
-- [[Integrity]]
+- [[backup]]
+- [[integrity]]

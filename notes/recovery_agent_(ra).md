@@ -1,7 +1,5 @@
 # Recovery agent (RA)
 
-[[🏷️Risk management]] [[🏷️Cryptography]]
-
 A recovery agent (RA) is a designated user or system role that is responsible for recovering encrypted data in the event that the original encryption key is lost or inaccessible. The RA plays a critical role in data protection and security, especially in systems that rely on encryption for confidentiality and integrity.
 
 In the context of public key infrastructure (PKI), the RA is involved in the key recovery process, ensuring that authorized individuals can still access encrypted data even if key management issues arise.
@@ -18,5 +16,5 @@ Recovery agents are essential for ensuring business continuity and mitigating ri
 
 See also:
 
-- [[Public key Infrastructure (PKI)]]
-- [[Certificate authority (CA)]]
+- [[public_key_infrastructure_(pki)]]
+- [[certificate_authority_(ca)]]

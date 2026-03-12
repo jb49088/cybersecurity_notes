@@ -1,7 +1,5 @@
 # BETWEEN
 
-[[🏷️SQL]]
-
 `BETWEEN` filters for numbers or dates within a range. For example, if you want to find the first and last names of all employees hired between January 1, 2002 and January 1, 2003, you can use the `BETWEEN` operator as follows:
 
 ```sql

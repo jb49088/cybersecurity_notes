@@ -14,5 +14,5 @@ Symmetric encryption is an essential technique for maintaining data confidential
 
 See also:
 
-- [[Asymmetric encryption]]
-- [[Public key Infrastructure (PKI)]]
+- [[asymmetric_encryption]]
+- [[public_key_infrastructure_(pki)]]

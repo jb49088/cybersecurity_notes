@@ -14,5 +14,5 @@ This analysis provides a structured approach to improving supply chain efficienc
 
 See also:
 
-- [[Right-to-audit clause]]
-- [[Risk assessment]]
+- [[right-to-audit_clause]]
+- [[risk_assessment]]

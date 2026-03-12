@@ -1,7 +1,5 @@
 # nmap
 
-[[🏷️Cybersecurity tool]]
-
 Nmap is an open-source network scanning tool used for discovering hosts, services, and vulnerabilities on a network. It is widely used by system administrators and security professionals for network auditing and penetration testing.
 
 - **Port scanning:** Nmap scans open ports on a target system, helping identify running services and potential vulnerabilities.
@@ -18,6 +16,6 @@ Nmap is an essential tool for network security, offering powerful scanning capab
 
 See also:
 
-- [[Port]]
-- [[Enumeration]]
-- [[Reconnaissance]]
+- [[port]]
+- [[enumeration]]
+- [[reconnaissance]]

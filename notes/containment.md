@@ -1,6 +1,6 @@
 # Containment
 
-The act of limiting and preventing additional damage caused by an [[main/Incident Response & Forensics|incident]].
+The act of limiting and preventing additional damage caused by an [[main/incident_response_&_forensics|incident]].
 
 ## Protecting and preserving evidence
 
@@ -8,8 +8,8 @@ The process of properly working with fragile and volatile digital evidence.
 
 ## Chain of custody
 
-The process of documenting evidence possession and control during an [[main/Incident Response & Forensics|incident]] lifecycle.
+The process of documenting evidence possession and control during an [[main/incident_response_&_forensics|incident]] lifecycle.
 
 ### Broken chain of custody
 
-Inconsistencies in the collection and [[Logging|logging]] of evidence in the [[Chain of custody|chain of custody]].
+Inconsistencies in the collection and [[logging|logging]] of evidence in the [[chain_of_custody|chain_of_custody]].

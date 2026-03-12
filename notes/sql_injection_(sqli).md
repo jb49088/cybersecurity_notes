@@ -1,7 +1,5 @@
 # SQL injection (SQLi)
 
-[[🏷️Injection attack]]
-
 SQL Injection (SQLi) occurs when an attacker inserts or "injects" their own SQL code into an application's query. This can happen if the application fails to properly sanitize user inputs. The injected SQL code can manipulate the database, potentially allowing unauthorized access to, or modification of, sensitive data. SQLi is a serious vulnerability that can lead to data breaches, loss of information, or complete database compromise.
 
 SQL injections are commonly executed via user input fields on web pages, such as login forms, search bars, or contact forms. Attackers can craft malicious SQL queries to bypass authentication, retrieve confidential data, or even modify or delete records.
@@ -28,8 +26,8 @@ This will always return true, bypassing the authentication and exposing the data
 
 See also:
 
-- [[Code injection]]
-- [[Structured Query Language (SQL)]]
-- [[Prepared statement]]
-- [[Input sanitization]]
-- [[Input validation]]
+- [[code_injection]]
+- [[structured_query_language_(sql)]]
+- [[prepared_statement]]
+- [[input_sanitization]]
+- [[input_validation]]

@@ -1,7 +1,5 @@
 # Motherboard
 
-[[🏷️PC hardware]]
-
 The spine of the computer is the motherboard, otherwise known as the system board or mainboard. This is the printed circuit board (PCB), which is a conductive series of pathways laminated to a nonconductive substrate that lines the bottom of the computer and is often of a uniform color, such as green, brown, blue, black, or red. It is the most important component in the computer because it connects all the other components together. Figure 1.01 shows a typical PC system board, as seen from above. All other components are attached to this circuit board. On the system board, you will find the central processing unit (CPU) slot or integrated CPU, underlying circuitry, expansion slots, video components, random access memory (RAM) slots, and a variety of other chips.
 
 ## Motherboard Form Factors

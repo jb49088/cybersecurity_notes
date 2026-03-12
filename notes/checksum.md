@@ -8,4 +8,4 @@ Checksums are commonly used in data communication, file storage, and software di
 
 See also:
 
-- [[Hashing]]
+- [[hashing]]

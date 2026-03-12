@@ -14,9 +14,9 @@ EDR is a critical tool for modern organizations, offering advanced protection an
 
 See also:
 
-- [[Endpoint]]
-- [[Extended detection and response (XDR)]]
-- [[Signature-based detection]]
-- [[Root cause analysis (RCA)]]
-- [[Application programming interface (API)]]
-- [[Machine Learning (ML)]]
+- [[endpoint]]
+- [[extended_detection_and_response_(xdr)]]
+- [[signature-based_detection]]
+- [[root_cause_analysis_(rca)]]
+- [[application_programming_interface_(api)]]
+- [[machine_learning_(ml)]]

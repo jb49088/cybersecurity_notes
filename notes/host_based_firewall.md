@@ -1,7 +1,5 @@
 # Host-based firewall
 
-[[🏷️Network security]]
-
 A host-based firewall is a software firewall running directly on an individual endpoint or server, controlling traffic at the operating system level. Unlike network-based firewalls which protect an entire network, host-based firewalls enforce policy specific to the host they run on, filtering traffic regardless of where it originates — including other machines on the same local network.
 
 - **Per-host enforcement:** Rules are applied directly on the machine itself, meaning every connection attempt — whether from the internet, the local network, or even another compromised internal host — is subject to inspection. This makes host-based firewalls effective against lateral movement that network firewalls cannot see.
@@ -18,9 +16,9 @@ Host-based firewalls are an essential complement to network-based controls, ensu
 
 See also:
 
-- [[Firewall]]
-- [[Defense in depth]]
+- [[firewall]]
+- [[defense_in_depth]]
 - [[nftables]]
 - [[iptables]]
-- [[Lateral movement]]
-- [[Network-based firewall]]
+- [[lateral_movement]]
+- [[network-based_firewall]]

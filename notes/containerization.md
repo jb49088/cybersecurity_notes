@@ -8,4 +8,4 @@ Containers operate as isolated processes in a sandbox, preventing interactions b
 
 See also:
 
-- [[Virtualization]]
+- [[virtualization]]

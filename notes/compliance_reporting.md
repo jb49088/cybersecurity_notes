@@ -17,5 +17,5 @@ Effective compliance reporting is critical for meeting regulatory requirements, 
 
 See also:
 
-- [[Compliance]]
-- [[Compliance monitoring]]
+- [[compliance]]
+- [[compliance_monitoring]]

@@ -1,5 +1,3 @@
 # Controlled zone
 
-[[🏷️Networking]]
-
-A [[Subnet|subnet]] that protects the internal [[Network|network]] from the [[Uncontrolled Zone|uncontrolled zone]].
+A [[subnet|subnet]] that protects the internal [[network|network]] from the [[uncontrolled_zone|uncontrolled_zone]].

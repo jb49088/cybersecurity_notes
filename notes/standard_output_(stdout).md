@@ -1,11 +1,11 @@
 # Standard output (stdout)
 
-Information returned by the [[Operating system (OS)|OS]] through the [[Shell|shell]].
+Information returned by the [[operating_system_(os)|os]] through the [[shell|shell]].
 
 
 ---
 
 See also:
 
-- [[Standard input (stdin)]]
-- [[Standard error (stderr)]]
+- [[standard_input_(stdin)]]
+- [[standard_error_(stderr)]]

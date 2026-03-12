@@ -10,4 +10,4 @@ An important metric for assessing the effectiveness of an IT infrastructure is i
 
 See also:
 
-- [[High availability (HA)]]
+- [[high_availability_(ha)]]

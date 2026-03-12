@@ -10,5 +10,5 @@ Both techniques are commonly used in malware attacks, as they allow attackers to
 
 See also:
 
-- [[DLL injection]]
-- [[DLL sideloading]]
+- [[dll_injection]]
+- [[dll_sideloading]]

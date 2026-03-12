@@ -8,7 +8,7 @@ CRLs are updated regularly and can grow in size as more certificates are revoked
 
 See also:
 
-- [[Certificate authority (CA)]]
-- [[Digital certificate]]
-- [[Online certificate status protocol (OCSP)]]
-- [[OCSP stapling]]
+- [[certificate_authority_(ca)]]
+- [[digital_certificate]]
+- [[online_certificate_status_protocol_(ocsp)]]
+- [[ocsp_stapling]]

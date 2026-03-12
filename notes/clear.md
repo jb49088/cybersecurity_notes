@@ -1,7 +1,5 @@
 # clear
 
-[[🏷️Linux command]]
-
 The `clear` command in Linux clears the terminal screen. It removes all the text and output currently displayed on the terminal and gives you a clean slate to work with.
 
 Here is an example of how to use the `clear` command:

@@ -13,6 +13,6 @@ Legal holds are crucial for protecting critical evidence and ensuring compliance
 
 See also:
 
-- [[Digital forensics]]
-- [[Chain of custody]]
-- [[E-discovery]]
+- [[digital_forensics]]
+- [[chain_of_custody]]
+- [[e-discovery]]

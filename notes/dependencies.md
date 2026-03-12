@@ -14,4 +14,4 @@ Proper dependency management enhances system reliability and minimizes vulnerabi
 
 See also:
 
-- [[Change management]]
+- [[change_management]]

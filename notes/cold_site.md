@@ -10,6 +10,6 @@ Additionally, a cold site does not include personnel on-site, meaning the organi
 
 See also:
 
-- [[Hot site]]
-- [[Warm site]]
-- [[Disaster recovery plan (DRP)]]
+- [[hot_site]]
+- [[warm_site]]
+- [[disaster_recovery_plan_(drp)]]

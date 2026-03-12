@@ -10,5 +10,5 @@ While NFC is considered more secure than traditional RFID due to its short commu
 
 See also:
 
-- [[Radio Frequency Identification (RFID)]]
-- [[Access badge cloning]]
+- [[radio_frequency_identification_(rfid)]]
+- [[access_badge_cloning]]

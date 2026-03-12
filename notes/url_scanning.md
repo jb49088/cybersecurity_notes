@@ -13,7 +13,7 @@ URL scanning enhances network security and policy enforcement by analyzing and c
 
 See also:
 
-- [[Universal Resource Locator (URL)]]
-- [[Uniform resource identifier (URI)]]
-- [[Content filtering]]
-- [[DNS filtering]]
+- [[universal_resource_locator_(url)]]
+- [[uniform_resource_identifier_(uri)]]
+- [[content_filtering]]
+- [[dns_filtering]]

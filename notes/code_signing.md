@@ -10,7 +10,7 @@ To address these concerns, the developer can digitally sign the application code
 
 See also:
 
-- [[Asymmetric encryption]]
-- [[Certificate authority (CA)]]
-- [[Digital signature]]
-- [[Digital certificate]]
+- [[asymmetric_encryption]]
+- [[certificate_authority_(ca)]]
+- [[digital_signature]]
+- [[digital_certificate]]

@@ -1,7 +1,5 @@
 # Cyber Threat Framework (CTF)
 
-[[🏷️Framework]]
-
 The Cyber Threat Framework, developed by the U.S. Office of the Director of National Intelligence (ODNI), provides a standardized way to describe and analyze cyber threat activities. It helps organizations understand, categorize, and communicate cyber threats consistently, enabling more effective threat information sharing and collaborative defense efforts.
 
 **The framework is structured into four high-level categories:**

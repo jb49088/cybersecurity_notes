@@ -14,7 +14,7 @@ The efficiency and strength of ECDSA make it ideal for environments requiring se
 
 See also:
 
-- [[Digital signature]]
-- [[Rivest shamir adleman (RSA)]]
-- [[Elliptic-curve cryptography (ECC)]]
-- [[Digital signature algorithm (DSA)]]
+- [[digital_signature]]
+- [[rivest_shamir_adleman_(rsa)]]
+- [[elliptic-curve_cryptography_(ecc)]]
+- [[digital_signature_algorithm_(dsa)]]

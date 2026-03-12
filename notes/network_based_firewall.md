@@ -1,7 +1,5 @@
 # Network-based firewall
 
-[[🏷️Network security]]
-
 A network-based firewall is a security device or software solution positioned at the boundary of a network, controlling traffic flow between different network segments or between an internal network and the internet. Rather than protecting a single host, a network-based firewall enforces policy for all traffic passing through it, making it the first line of defense in most network architectures.
 
 - **Perimeter enforcement:** Network-based firewalls sit at network boundaries, inspecting traffic entering and leaving the network. All external traffic must pass through the firewall before reaching internal hosts, making it a natural choke point for filtering.
@@ -18,9 +16,9 @@ Network-based firewalls are a foundational control in any network architecture, 
 
 See also:
 
-- [[Firewall]]
-- [[Host-based firewall]]
-- [[Network address translation (NAT)]]
-- [[Network segmentation]]
-- [[Defense in depth]]
-- [[Next-generation firewall (NGFW)]]
+- [[firewall]]
+- [[host-based_firewall]]
+- [[network_address_translation_(nat)]]
+- [[network_segmentation]]
+- [[defense_in_depth]]
+- [[next-generation_firewall_(ngfw)]]

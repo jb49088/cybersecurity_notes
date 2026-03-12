@@ -14,4 +14,4 @@ TSIG enhances DNS security by protecting critical transactions from unauthorized
 
 See also:
 
-- [[Domain name system (DNS)]]
+- [[domain_name_system_(dns)]]

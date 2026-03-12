@@ -1,7 +1,5 @@
 # NIST Risk Management Framework (RMF)
 
-[[🏷️Framework]]
-
 The NIST Risk Management Framework (RMF) provides a structured process for organizations to manage security and privacy risks associated with their information systems. Developed by the National Institute of Standards and Technology (NIST), RMF integrates security, privacy, and risk management activities into the system development lifecycle. It helps organizations comply with federal information security regulations and manage risks in a cost-effective and efficient manner.
 
 The RMF consists of seven steps that guide organizations through the risk management process

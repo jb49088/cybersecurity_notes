@@ -14,4 +14,4 @@ By following a responsible disclosure process, organizations can reduce security
 
 See also:
 
-- [[Bug bounty]]
+- [[bug_bounty]]

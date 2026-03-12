@@ -1,7 +1,5 @@
 # Open shortest path first (OSPF)
 
-[[🏷️Network protocol]]
-
 Open shortest path first (OSPF) is a link-state routing protocol used in IP networks to determine the most efficient path for data transmission. It is widely used in large enterprise and service provider networks due to its ability to scale and quickly adapt to network changes.
 
 - **Link-state routing protocol:** OSPF maintains a map of the network topology and calculates the shortest path using Dijkstra’s algorithm.
@@ -18,5 +16,5 @@ By providing fast convergence, efficient routing updates, and strong scalability
 
 See also:
 
-- [[Routing Information Protocol (RIP)]]
-- [[Border gateway protocol (BGP)]]
+- [[routing_information_protocol_(rip)]]
+- [[border_gateway_protocol_(bgp)]]

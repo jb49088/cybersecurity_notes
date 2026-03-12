@@ -10,7 +10,7 @@ Responsibilities can vary based on the cloud provider, service agreements, and c
 
 See also:
 
-- [[Cloud Service Provider (CSP)]]
-- [[Infrastructure as a service (IaaS)]]
-- [[Platform as a service (PaaS)]]
-- [[Software as a service (SaaS)]]
+- [[cloud_service_provider_(csp)]]
+- [[infrastructure_as_a_service_(iaas)]]
+- [[platform_as_a_service_(paas)]]
+- [[software_as_a_service_(saas)]]

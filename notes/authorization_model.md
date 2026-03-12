@@ -6,7 +6,7 @@ Authorization defines what actions authenticated users can perform and which res
 
 See also:
 
-- [[Attribute-based access control (ABAC)]]
-- [[Discretionary access control (DAC)]]
-- [[Mandatory access control (MAC)]]
-- [[Role-based access control (RBAC)]]
+- [[attribute-based_access_control_(abac)]]
+- [[discretionary_access_control_(dac)]]
+- [[mandatory_access_control_(mac)]]
+- [[role-based_access_control_(rbac)]]

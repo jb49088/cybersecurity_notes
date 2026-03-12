@@ -18,5 +18,5 @@ The OSI model helps in understanding and diagnosing network issues by breaking d
 
 See also:
 
-- [[TCP ⁄ IP model]]
-- [[Network Protocol]]
+- [[tcp_⁄_ip_model]]
+- [[network_protocol]]

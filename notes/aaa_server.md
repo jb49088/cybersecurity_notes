@@ -16,8 +16,8 @@ AAA servers are essential for maintaining secure, controlled access to networks 
 
 See also:
 
-- [[IEEE 802.1X]]
-- [[Authentication, Authorization, and Accounting (AAA)]]
-- [[Network access control (NAC)]]
-- [[Remote authentication dial-in user service (RADIUS)]]
-- [[Terminal access controller access control system plus (TACACS+)]]
+- [[ieee_802.1x]]
+- [[authentication,_authorization,_and_accounting_(aaa)]]
+- [[network_access_control_(nac)]]
+- [[remote_authentication_dial-in_user_service_(radius)]]
+- [[terminal_access_controller_access_control_system_plus_(tacacs+)]]

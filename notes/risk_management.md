@@ -6,5 +6,5 @@ Risk management is the process of identifying, assessing, and controlling risks 
 
 See also:
 
-- [[Risk]]
-- [[Risk appetite]]
+- [[risk]]
+- [[risk_appetite]]

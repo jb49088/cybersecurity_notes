@@ -14,4 +14,4 @@ VTC enhances remote communication, improving collaboration and reducing the need
 
 See also:
 
-- [[Voice over internet protocol (VoIP)]]
+- [[voice_over_internet_protocol_(voip)]]

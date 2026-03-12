@@ -1,7 +1,5 @@
 # Incorporating comparison operators
 
-[[🏷️SQL]]
-
 These comparison operators are used in the `WHERE` clause at the end of a query. The following query uses the `>` operator to filter the `birthdate` column. You can run this query to explore its output:
 
 ```sql

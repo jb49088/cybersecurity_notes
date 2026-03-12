@@ -1,7 +1,5 @@
 # Command injection
 
-[[🏷️Injection attack]]
-
 Command injection is a type of attack where an attacker is able to execute arbitrary commands on a host operating system through a vulnerable application. This occurs when an application improperly processes user input and allows it to be interpreted as part of a system command. Successful command injection can lead to unauthorized access, data leakage, system compromise, and further exploitation of the affected system.
 
 - **Vulnerable input fields**: Attackers often exploit input fields, such as search bars, forms, or URL parameters, that are not properly sanitized or validated.

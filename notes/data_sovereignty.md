@@ -10,4 +10,4 @@ The issue of data sovereignty raises questions about where data is stored, who h
 
 See also:
 
-- [[General data protection regulation (GDPR)]]
+- [[general_data_protection_regulation_(gdpr)]]

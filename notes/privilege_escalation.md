@@ -11,4 +11,4 @@ Privilege escalation is a critical concern for system administrators because onc
 
 See also:
 
-- [[Lateral movement]]
+- [[lateral_movement]]

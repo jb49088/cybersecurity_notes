@@ -1,7 +1,5 @@
 # Health Information Trust Alliance (HITRUST)
 
-[[🏷️Framework]]
-
 HITRUST, or the Health Information Trust Alliance, is an organization that provides a common security framework (CSF) to help organizations manage regulatory compliance and risk management for sensitive information, particularly in the healthcare industry. The HITRUST CSF integrates and harmonizes various standards and regulations, offering a comprehensive and flexible approach to information security.
 
 - **HITRUST CSF (Common Security Framework):** A certifiable framework that provides organizations with a comprehensive, scalable, and certifiable approach to regulatory compliance and risk management.

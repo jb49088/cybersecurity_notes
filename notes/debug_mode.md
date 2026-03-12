@@ -15,6 +15,6 @@ Debug mode misconfiguration is a low-hanging fruit finding in bug bounty program
 
 See also:
 
-- [[Disclosure]]
-- [[Web application]]
-- [[Reconnaissance]]
+- [[disclosure]]
+- [[web_application]]
+- [[reconnaissance]]

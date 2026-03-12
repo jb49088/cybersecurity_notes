@@ -17,6 +17,6 @@ STIX is widely used by government agencies, cybersecurity vendors, and enterpris
 
 See also:
 
-- [[Cyber threat intelligence (CTI)]]
-- [[Trusted Automated eXchange of Indicator Information (TAXII)]]
-- [[Indicators of compromise (IoC)]]
+- [[cyber_threat_intelligence_(cti)]]
+- [[trusted_automated_exchange_of_indicator_information_(taxii)]]
+- [[indicators_of_compromise_(ioc)]]

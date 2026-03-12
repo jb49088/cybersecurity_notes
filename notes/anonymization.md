@@ -14,4 +14,4 @@ Anonymization is essential for enabling the secure use and sharing of data in sc
 
 See also:
 
-- [[Data masking]]
+- [[data_masking]]

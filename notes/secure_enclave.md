@@ -1,7 +1,5 @@
 # Secure enclave
 
-[[🏷️Security hardware]]
-
 A secure enclave is a dedicated security processor built into systems to provide a protected environment for sensitive data and operations. It acts as a highly secure area within a device’s main processor, offering features that enhance security and protect against unauthorized access or tampering.
 
 The Secure Enclave provides several key security features:
@@ -17,6 +15,6 @@ By isolating sensitive data and cryptographic operations from the rest of the sy
 
 See also:
 
-- [[Encryption]]
-- [[Hardware Security Module (HSM)]]
-- [[Trusted platform module (TPM)]]
+- [[encryption]]
+- [[hardware_security_module_(hsm)]]
+- [[trusted_platform_module_(tpm)]]

@@ -15,5 +15,5 @@ There are several types of SIM cards, including traditional SIM, Micro-SIM, Nano
 
 See also:
 
-- [[Mobile device management (MDM)]]
-- [[IEEE 802.11 (Wi-Fi)]]
+- [[mobile_device_management_(mdm)]]
+- [[ieee_802.11_(wi-fi)]]

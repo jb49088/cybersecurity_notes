@@ -16,5 +16,5 @@ TOTP provides a strong layer of security, making it a common choice for multi-fa
 
 See also:
 
-- [[One-Time Password (OTP)]]
-- [[HMAC-based one-time password (HOTP)]]
+- [[one-time_password_(otp)]]
+- [[hmac-based_one-time_password_(hotp)]]

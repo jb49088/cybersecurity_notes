@@ -14,5 +14,5 @@ Metadata is a critical resource for categorizing, analyzing, and securing data, 
 
 See also:
 
-- [[Data]]
-- [[Log]]
+- [[data]]
+- [[log]]

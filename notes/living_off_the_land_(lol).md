@@ -8,4 +8,4 @@ The main advantage of Living off the Land is its ability to blend in with normal
 
 See also:
 
-- [[Lateral movement]]
+- [[lateral_movement]]

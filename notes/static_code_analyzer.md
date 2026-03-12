@@ -10,7 +10,7 @@ However, not all security risks can be detected through static analysis alone. F
 
 See also:
 
-- [[Vulnerability scanning]]
-- [[Buffer overflow]]
-- [[Injection attack]]
-- [[Fuzzing]]
+- [[vulnerability_scanning]]
+- [[buffer_overflow]]
+- [[injection_attack]]
+- [[fuzzing]]

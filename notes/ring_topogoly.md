@@ -1,7 +1,5 @@
 # Ring Topology
 
-[[🏷️Network topology]]
-
 In a ring topology, each computer connects to two other computers, joining them in a circle and creating a unidirectional path where messages move from workstation to workstation. Each entity participating in the ring reads a message and then regenerates it and hands it to its neighbor on a different network cable. See Figure 2.28 for an example of a ring topology.
 
 - **Figure 2.28** The ring topology

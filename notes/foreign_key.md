@@ -1,3 +1,3 @@
 # Foreign key
 
-A column in a table that is a [[Primary key|primary key]] in another table.
+A column in a table that is a [[primary_key|primary_key]] in another table.

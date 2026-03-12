@@ -1,7 +1,5 @@
 # Power Supply
 
-[[🏷️PC hardware]]
-
 The computer’s components would not be able to operate without power. The device in the computer that provides this power is the power supply (see Figure 1.67). A power supply converts 110V or 220V AC current into the DC voltages that a computer needs to operate. These are +3.3VDC, +5VDC, –5VDC (on older systems), +12VDC, and –12VDC. The jacket on the leads carrying each type of voltage has a different industry-standard color-coding for faster recognition. Black ground leads offer the reference that gives the voltage leads their respective magnitudes. The +3.3VDC voltage was first offered on ATX motherboards.
 
 - **Figure 1.67** A desktop power supply

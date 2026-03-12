@@ -10,10 +10,10 @@ GCM is popular due to its high performance and strong security properties. It is
 
 See also:
 
-- [[Counter mode (CTM)]]
-- [[Galois message authentication code (GMAC)]]
-- [[Message Authentication Code (MAC)]]
-- [[Advanced encryption standard (AES)]]
-- [[Wi-Fi Protected Access III (WPA3)]]
-- [[Transport Layer Security (TLS)]]
-- [[Internet protocol security (IPsec)]]
+- [[counter_mode_(ctm)]]
+- [[galois_message_authentication_code_(gmac)]]
+- [[message_authentication_code_(mac)]]
+- [[advanced_encryption_standard_(aes)]]
+- [[wi-fi_protected_access_iii_(wpa3)]]
+- [[transport_layer_security_(tls)]]
+- [[internet_protocol_security_(ipsec)]]

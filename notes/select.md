@@ -1,7 +1,5 @@
 # Select
 
-[[🏷️SQL]]
-
 The `SELECT` keyword specifies which columns to include in the query results. For example, to return just the `customerid` column from a table named `customers` you would write:
 
 ```sql

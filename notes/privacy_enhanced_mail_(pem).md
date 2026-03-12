@@ -17,5 +17,5 @@ Although PEM introduced important email security concepts, it was not widely ado
 
 See also:
 
-- [[Secure ⁄ multipurpose internet mail extensions (S ⁄ MIME)]]
-- [[Pretty good privacy (PGP)]]
+- [[secure_⁄_multipurpose_internet_mail_extensions_(s_⁄_mime)]]
+- [[pretty_good_privacy_(pgp)]]

@@ -18,7 +18,7 @@ NIST’s work ensures the development of robust security measures for government
 
 See also:
 
-- [[NIST Cybersecurity Framework (CSF)]]
-- [[NIST Incident Response Lifecycle]]
-- [[NIST Risk Management Framework (RMF)]]
-- [[NIST Special Publication (S.P.) 800-53]]
+- [[nist_cybersecurity_framework_(csf)]]
+- [[nist_incident_response_lifecycle]]
+- [[nist_risk_management_framework_(rmf)]]
+- [[nist_special_publication_(s.p.)_800-53]]

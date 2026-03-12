@@ -15,6 +15,6 @@ Effective security measures combine multiple layers of protection, often referre
 
 See also:
 
-- [[Security controls]]
-- [[Risk management]]
-- [[Encryption]]
+- [[security_controls]]
+- [[risk_management]]
+- [[encryption]]

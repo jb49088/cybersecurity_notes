@@ -11,6 +11,6 @@ Effective asset tracking ensures efficient resource management, streamlined trou
 
 ---
 
-- [[Asset]]
-- [[Enumeration]]
-- [[Decommissioning]]
+- [[asset]]
+- [[enumeration]]
+- [[decommissioning]]

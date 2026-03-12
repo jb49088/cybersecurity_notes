@@ -1,7 +1,5 @@
 # Proxy server
 
-[[🏷️Networking]]
-
 A proxy server acts as an intermediary between users and external networks, receiving and forwarding user requests on their behalf. This mechanism is widely used to enhance security, manage traffic, and provide additional functionality such as caching, access control, URL filtering, and content scanning.
 
 Proxies come in two main forms:
@@ -24,6 +22,6 @@ Proxies are essential tools in modern network architectures, offering versatilit
 
 See also:
 
-- [[Network address translation (NAT)]]
-- [[Load balancer]]
-- [[Content filtering]]
+- [[network_address_translation_(nat)]]
+- [[load_balancer]]
+- [[content_filtering]]

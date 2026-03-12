@@ -2,7 +2,7 @@
 
 A set of rules used to solve a problem by breaking it down into logical steps.
 
-- **Foundational for computing:** Algorithms are the building blocks of computer programs. They are essential for everything computers do, from basic calculations to complex tasks like [[Artificial Intelligence (AI)|AI]] and [[ML|ML]].
+- **Foundational for computing:** Algorithms are the building blocks of computer programs. They are essential for everything computers do, from basic calculations to complex tasks like [[artificial_intelligence_(ai)|ai]] and [[ml|ml]].
 
 - **Problem-solving approach:** Algorithms provide a structured way to approach problems and develop solutions. They ensure a clear and efficient path to reach the desired outcome.
 

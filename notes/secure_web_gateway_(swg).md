@@ -1,7 +1,5 @@
 # Secure web gateway (SWG)
 
-[[🏷️Network security]]
-
 A secure web gateway (SWG) is a security solution that protects users from online threats by filtering web traffic, enforcing security policies, and preventing access to malicious content. SWGs act as an intermediary between users and the internet, ensuring that web requests comply with security rules before granting access.
 
 SWGs are commonly used in enterprise environments to prevent cyber threats such as malware, phishing, and data leaks while maintaining compliance with organizational security policies.
@@ -18,6 +16,6 @@ Secure web gateways help organizations maintain a safe browsing environment by p
 
 See also:
 
-- [[Next-generation firewall (NGFW)]]
-- [[Data loss prevention (DLP)]]
-- [[Proxy server]]
+- [[next-generation_firewall_(ngfw)]]
+- [[data_loss_prevention_(dlp)]]
+- [[proxy_server]]

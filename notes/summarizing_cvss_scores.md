@@ -8,7 +8,7 @@ The first calculation analysts perform is computing the impact sub-score (ISS). 
 
 $$ ISS =1-[(1- Confidentiality) \times(1- Integrity) \times(1- Availability )] $$
 
-Plugging in the values for our SSL vulnerability shown in [[Image 2.51.png|Image 2.51]], we obtain:
+Plugging in the values for our SSL vulnerability shown in [[image_2.51.png|image_2.51]], we obtain:
 
 $$ \begin{array}{c}\text { ISS }=1-[(1-0.56) \times(1-0.000) \times(1-0.00)] \\ \text { ISS }=1-[0.44 \times 1.00 \times 1.00] \\ \text { ISS }=1-0.44 \\ \text { ISS }=0.56\end{array} $$
 
@@ -41,16 +41,16 @@ With all of this information at hand, we can now determine the CVSS base score u
 - If the scope metric is Changed, calculate the base score by adding together the impact and exploitability scores and multiplying the result by 1.08.
 - The highest possible base score is 10. If the calculated value is greater than 10, set the base score to 10.
 
-In our example, the impact score is 3.60 and the exploitability score rounds to 3.9. Adding these together, we get a base score of 7.5, which is the same value found in [[Image 2.51.png|Image 2.51]].
+In our example, the impact score is 3.60 and the exploitability score rounds to 3.9. Adding these together, we get a base score of 7.5, which is the same value found in [[image_2.51.png|image_2.51]].
 
 > [!info] Note
 > Now that you understand the math behind CVSS scores, the good news is that you don't need to perform these calculations by hand. NIST offers a CVSS calculator at www.first.org/cvss/calculator/3.1, where you can easily compute the CVSS base score for a vulnerability.
 
 ## Categorizing CVSS Base Scores
 
-Many vulnerability scanning systems further summarize CVSS results by using risk categories rather than numeric risk ratings. These are usually based on the CVSS Qualitative Severity Rating Scale, shown in [[Table 1.20]].
+Many vulnerability scanning systems further summarize CVSS results by using risk categories rather than numeric risk ratings. These are usually based on the CVSS Qualitative Severity Rating Scale, shown in [[table_1.20]].
 
-Continuing with the SSL vulnerability example from [[Image 2.51.png|Image 2.51]], we calculated the CVSS score for this vulnerability as 7.5. This places it into the High risk category, as shown in the header of [[Image 2.51.png|Image 2.51]].
+Continuing with the SSL vulnerability example from [[image_2.51.png|image_2.51]], we calculated the CVSS score for this vulnerability as 7.5. This places it into the High risk category, as shown in the header of [[image_2.51.png|image_2.51]].
 
 > [!info] Note
 > Be sure you are familiar with the CVSS severity rating scale for the exam. These scores are a common topic for exam questions!

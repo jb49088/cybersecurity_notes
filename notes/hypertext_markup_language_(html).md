@@ -1,7 +1,5 @@
 # Hypertext markup language (HTML)
 
-[[🏷️Development]]
-
 Hypertext markup language (HTML) is the standard language used to create and design documents on the web. HTML defines the structure and layout of a web page by using a set of tags and attributes to organize content such as text, images, links, and multimedia elements.
 
 - **Document structure:** HTML provides a framework to structure content, including headers, paragraphs, lists, and tables. It enables browsers to render the content in a readable format.
@@ -16,5 +14,5 @@ HTML is the foundation of web development and is essential for building the stru
 
 See also:
 
-- [[Cascading Style Sheets (CSS)]]
-- [[JavaScript]]
+- [[cascading_style_sheets_(css)]]
+- [[javascript]]

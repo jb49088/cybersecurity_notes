@@ -14,5 +14,5 @@ SoCs enable modern electronics to be smaller, more efficient, and cost-effective
 
 See also:
 
-- [[Embedded systems]]
-- [[Internet of Things (IoT)]]
+- [[embedded_systems]]
+- [[internet_of_things_(iot)]]

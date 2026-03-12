@@ -16,6 +16,6 @@ DSS is widely used in secure communications, ensuring that messages are both gen
 
 See also:
 
-- [[Digital signature algorithm (DSA)]]
-- [[Rivest shamir adleman (RSA)]]
-- [[Elliptic Curve Digital Signature Algorithm (ECDSA)]]
+- [[digital_signature_algorithm_(dsa)]]
+- [[rivest_shamir_adleman_(rsa)]]
+- [[elliptic_curve_digital_signature_algorithm_(ecdsa)]]

@@ -14,5 +14,5 @@ Path hijacking is a subtle but impactful technique, often discovered during priv
 
 See also:
 
-- [[Privilege escalation]]
-- [[Environment variable]]
+- [[privilege_escalation]]
+- [[environment_variable]]

@@ -17,8 +17,8 @@ Encapsulation ensures the integrity and privacy of data as it travels across unt
 
 See also:
 
-- [[Encryption]]
-- [[Virtual private network (VPN)]]
-- [[Internet protocol security (IPsec)]]
-- [[Secure sockets layer (SSL)]]
-- [[Transport Layer Security (TLS)]]
+- [[encryption]]
+- [[virtual_private_network_(vpn)]]
+- [[internet_protocol_security_(ipsec)]]
+- [[secure_sockets_layer_(ssl)]]
+- [[transport_layer_security_(tls)]]

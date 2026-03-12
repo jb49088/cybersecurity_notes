@@ -14,7 +14,7 @@ Security considerations for RTOS are especially challenging due to its complexit
 
 See also:
 
-- [[High availability (HA)]]
-- [[Embedded systems]]
-- [[Industrial Control Systems (ICS)]]
-- [[Supervisory control and data acquisition (SCADA)]]
+- [[high_availability_(ha)]]
+- [[embedded_systems]]
+- [[industrial_control_systems_(ics)]]
+- [[supervisory_control_and_data_acquisition_(scada)]]

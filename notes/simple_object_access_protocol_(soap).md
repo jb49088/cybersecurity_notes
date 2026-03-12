@@ -1,7 +1,5 @@
 # Simple object access protocol (SOAP)
 
-[[🏷️Network protocol]]
-
 Simple object access protocol (SOAP) is a messaging protocol used for exchanging structured data between web services over a network. SOAP enables communication between applications running on different platforms and programming languages by using XML-based messaging.
 
 SOAP is widely used in enterprise environments for secure and reliable web service communication, particularly in scenarios that require strict message validation, transaction support, or integration with legacy systems.
@@ -18,4 +16,4 @@ SOAP is commonly used in enterprise applications, financial services, and govern
 
 See also:
 
-- [[Extensible markup language (XML)]]
+- [[extensible_markup_language_(xml)]]

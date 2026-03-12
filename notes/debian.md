@@ -1,7 +1,5 @@
 # Debian
 
-[[🏷️Linux distribution]]
-
 Debian is a widely used Linux distribution known for its stability, security, and open-source philosophy. It serves as the foundation for many other distributions, including Ubuntu. Debian is maintained by a large community of volunteers and follows a strict commitment to free software principles.
 
 - **Stable, Testing, and Unstable branches**: Debian offers different release branches—Stable (for production use), Testing (for upcoming releases), and Unstable (actively developed, named "Sid").
@@ -17,4 +15,4 @@ Debian is ideal for users who prioritize stability, open-source principles, and 
 
 See also:
 
-- [[Linux]]
+- [[linux]]

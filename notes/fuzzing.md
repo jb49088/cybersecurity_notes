@@ -10,5 +10,5 @@ By identifying these vulnerabilities, fuzzing helps improve the stability, relia
 
 See also:
 
-- [[Vulnerability scanning]]
-- [[Injection attack]]
+- [[vulnerability_scanning]]
+- [[injection_attack]]

@@ -1,7 +1,5 @@
 # Point-to-point tunneling protocol (PPTP)
 
-[[🏷️Network protocol]]
-
 Point-to-Point Tunneling Protocol (PPTP) is a VPN protocol used to create encrypted tunnels for secure communication over public or private networks. It is based on the Point-to-Point Protocol (PPP) and was one of the first VPN protocols widely adopted for remote access and site-to-site connections.
 
 - **Port number and protocol type:** PPTP operates over TCP port **1723** and uses the GRE (Generic Routing Encapsulation) protocol for tunneling.
@@ -16,6 +14,6 @@ Due to its security flaws, PPTP is generally not recommended, with more secure a
 
 See also:
 
-- [[Virtual private network (VPN)]]
-- [[Point-to-Point Protocol (PPP)]]
-- [[Layer 2 tunneling protocol (L2TP)]]
+- [[virtual_private_network_(vpn)]]
+- [[point-to-point_protocol_(ppp)]]
+- [[layer_2_tunneling_protocol_(l2tp)]]

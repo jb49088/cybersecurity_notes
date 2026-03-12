@@ -16,8 +16,8 @@ Misconfiguration is consistently ranked among the most common vulnerability clas
 
 See also:
 
-- [[Default credentials]]
-- [[Disclosure]]
-- [[Attack surface]]
-- [[Hardening]]
-- [[Debug mode]]
+- [[default_credentials]]
+- [[disclosure]]
+- [[attack_surface]]
+- [[hardening]]
+- [[debug_mode]]

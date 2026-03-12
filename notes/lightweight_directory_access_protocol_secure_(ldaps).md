@@ -1,7 +1,5 @@
 # Lightweight directory access protocol secure (LDAPS)
 
-[[🏷️Network protocol]]
-
 Lightweight directory access protocol secure (LDAPS) is a protocol used for accessing and managing directory services over a secure connection. It is a secure version of the standard Lightweight Directory Access Protocol (LDAP), which is used to query and modify directory services, such as those storing user information, email addresses, and other network resources.
 
 - **Port number and protocol type:** LDAPS operates over port 636 using TCP (Transmission Control Protocol) for reliable data transfer.
@@ -16,9 +14,9 @@ LDAPS is essential for protecting sensitive directory information and maintainin
 
 See also:
 
-- [[Lightweight directory access protocol (LDAP)]]
-- [[X.500]]
-- [[Active directory (AD)]]
-- [[Security assertion markup language (SAML)]]
-- [[Remote authentication dial-in user service (RADIUS)]]
-- [[Terminal access controller access control system plus (TACACS+)]]
+- [[lightweight_directory_access_protocol_(ldap)]]
+- [[x.500]]
+- [[active_directory_(ad)]]
+- [[security_assertion_markup_language_(saml)]]
+- [[remote_authentication_dial-in_user_service_(radius)]]
+- [[terminal_access_controller_access_control_system_plus_(tacacs+)]]

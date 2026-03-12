@@ -16,5 +16,5 @@ Posture assessment is essential for managing device security in an environment w
 
 See also:
 
-- [[Network access control (NAC)]]
-- [[Bring your own device (BYOD)]]
+- [[network_access_control_(nac)]]
+- [[bring_your_own_device_(byod)]]

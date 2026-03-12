@@ -14,4 +14,4 @@ MFDs are commonly used in workplaces that require a combination of office functi
 
 See also:
 
-- [[Multifunction printer (MFP)]]
+- [[multifunction_printer_(mfp)]]

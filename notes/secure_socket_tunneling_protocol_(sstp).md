@@ -1,7 +1,5 @@
 # Secure socket tunneling protocol (SSTP)
 
-[[🏷️Network protocol]]
-
 Secure socket tunneling protocol (SSTP) is a VPN protocol developed by Microsoft that uses SSL/TLS to securely transmit data over a network. SSTP creates a secure tunnel between a client and a server, using port 443, which allows it to bypass firewalls and other network restrictions commonly imposed on other VPN protocols.
 
 - **Port number and protocol type:** SSTP operates over TCP port 443 and uses SSL/TLS for encryption.
@@ -17,4 +15,4 @@ SSTP is a preferred VPN protocol for users looking for secure and reliable remot
 
 See also:
 
-- [[Virtual private network (VPN)]]
+- [[virtual_private_network_(vpn)]]

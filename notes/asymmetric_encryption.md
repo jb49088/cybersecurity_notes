@@ -11,8 +11,8 @@ Asymmetric encryption is commonly used for one-time exchanges, such as establish
 
 See also:
 
-- [[Symmetric encryption]]
-- [[Digital signature]]
-- [[Public key Infrastructure (PKI)]]
-- [[Secure sockets layer (SSL)]]
-- [[Transport Layer Security (TLS)]]
+- [[symmetric_encryption]]
+- [[digital_signature]]
+- [[public_key_infrastructure_(pki)]]
+- [[secure_sockets_layer_(ssl)]]
+- [[transport_layer_security_(tls)]]

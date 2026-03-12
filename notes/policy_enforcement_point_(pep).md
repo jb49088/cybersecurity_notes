@@ -12,8 +12,8 @@ PEPs are commonly deployed in firewalls, APIs, cloud environments, and identity 
 
 See also:
 
-- [[Zero trust]]
-- [[Policy-based access control (PBAC)]]
-- [[Policy decision point (PDP)]]
-- [[Policy engine]]
-- [[Policy administrator]]
+- [[zero_trust]]
+- [[policy-based_access_control_(pbac)]]
+- [[policy_decision_point_(pdp)]]
+- [[policy_engine]]
+- [[policy_administrator]]

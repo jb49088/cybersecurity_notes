@@ -10,8 +10,8 @@ Primarily used in modern UEFI-based systems, secure boot adds an essential layer
 
 See also:
 
-- [[Bootloader]]
-- [[Unified Extensible Firmware Interface (UEFI)]]
-- [[Operating system (OS)]]
-- [[Bootkit]]
-- [[Rootkit]]
+- [[bootloader]]
+- [[unified_extensible_firmware_interface_(uefi)]]
+- [[operating_system_(os)]]
+- [[bootkit]]
+- [[rootkit]]

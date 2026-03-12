@@ -19,6 +19,6 @@ Benefits of IPS include active threat prevention and automated responses, improv
 
 See also:
 
-- [[Intrusion detection system (IDS)]]
-- [[Signature-based detection]]
-- [[Anomaly-based detection]]
+- [[intrusion_detection_system_(ids)]]
+- [[signature-based_detection]]
+- [[anomaly-based_detection]]

@@ -1,3 +1,3 @@
 # Prepared statement
 
-A coding technique that executes [[Structured Query Language (SQL)|Structured Query Language (SQL)]] statements before passing them on to a [[Database|database]].
+A coding technique that executes [[structured_query_language_(sql)|structured_query_language_(sql)]] statements before passing them on to a [[database|database]].

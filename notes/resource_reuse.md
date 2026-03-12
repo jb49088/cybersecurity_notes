@@ -20,6 +20,6 @@ Proper management of resource reuse is essential for maintaining confidentiality
 
 See also:
 
-- [[Virtualization technology]]
-- [[Hypervisor]]
-- [[Memory (RAM)]]
+- [[virtualization_technology]]
+- [[hypervisor]]
+- [[memory_(ram)]]

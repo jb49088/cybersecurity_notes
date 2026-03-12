@@ -1,7 +1,5 @@
 # curl
 
-[[🏷️Linux command]]
-
 curl is a command-line tool and library used for transferring data to or from a server using a wide variety of network protocols. It is available on most operating systems and is widely used by developers, system administrators, and security professionals for testing, debugging, and interacting with network services and APIs.
 
 - **Protocol support:** curl supports a broad range of protocols including HTTP, HTTPS, FTP, SFTP, SMTP, and more, making it a versatile tool for interacting with many different types of network services.
@@ -18,8 +16,8 @@ curl is an essential utility in both development and security workflows, providi
 
 See also:
 
-- [[Hypertext transfer protocol (HTTP)]]
-- [[Hypertext transfer protocol secure (HTTPS)]]
-- [[File transfer protocol (FTP)]]
-- [[SSH file transfer protocol (SFTP)]]
-- [[Simple mail transfer protocol (SMTP)]]
+- [[hypertext_transfer_protocol_(http)]]
+- [[hypertext_transfer_protocol_secure_(https)]]
+- [[file_transfer_protocol_(ftp)]]
+- [[ssh_file_transfer_protocol_(sftp)]]
+- [[simple_mail_transfer_protocol_(smtp)]]

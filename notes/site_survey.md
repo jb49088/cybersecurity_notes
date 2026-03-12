@@ -14,6 +14,6 @@ By conducting regular site surveys, you ensure that the wireless network remains
 
 See also:
 
-- [[IEEE 802.11 (Wi-Fi)]]
-- [[Wireless Local Area Network (WLAN)]]
-- [[Access point (AP)]]
+- [[ieee_802.11_(wi-fi)]]
+- [[wireless_local_area_network_(wlan)]]
+- [[access_point_(ap)]]

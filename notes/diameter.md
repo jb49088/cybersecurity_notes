@@ -1,7 +1,5 @@
 # Diameter
 
-[[🏷️Network protocol]]
-
 Diameter is an authentication, authorization, and accounting (AAA) protocol that serves as an advanced successor to RADIUS. It is designed for high-performance networks, offering improved security, scalability, and reliability for handling user access control in modern telecommunications and enterprise environments.
 
 - **Port number and protocol type:** Diameter operates over port 3868 using TCP or SCTP (Stream Control Transmission Protocol) for reliable data transfer.
@@ -17,8 +15,8 @@ Diameter is widely used in telecommunications, mobile networks, and large enterp
 
 See also:
 
-- [[Remote authentication dial-in user service (RADIUS)]]
-- [[Authentication, Authorization, and Accounting (AAA)]]
-- [[IEEE 802.1X]]
-- [[Lightweight directory access protocol (LDAP)]]
-- [[Terminal access controller access control system plus (TACACS+)]]
+- [[remote_authentication_dial-in_user_service_(radius)]]
+- [[authentication,_authorization,_and_accounting_(aaa)]]
+- [[ieee_802.1x]]
+- [[lightweight_directory_access_protocol_(ldap)]]
+- [[terminal_access_controller_access_control_system_plus_(tacacs+)]]

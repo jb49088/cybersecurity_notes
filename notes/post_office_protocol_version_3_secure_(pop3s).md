@@ -1,7 +1,5 @@
 # Post office protocol version 3 secure (POP3S)
 
-[[🏷️Network protocol]]
-
 Post office protocol version 3 secure (POP3S) is a secure version of the Post Office Protocol version 3 (POP3), used for retrieving email messages from a mail server. POP3S enhances the security of the traditional POP3 protocol by adding SSL/TLS encryption, ensuring that email communications are securely transmitted.
 
 - **Port number and protocol type:** POP3S operates over port **995** using TCP (Transmission Control Protocol) for reliable data transfer.
@@ -16,6 +14,6 @@ POP3S is commonly used when security is critical, offering encrypted communicati
 
 See also:
 
-- [[Post office protocol (POP)]]
-- [[Simple mail transfer protocol (SMTP)]]
-- [[Internet message access protocol (IMAP)]]
+- [[post_office_protocol_(pop)]]
+- [[simple_mail_transfer_protocol_(smtp)]]
+- [[internet_message_access_protocol_(imap)]]

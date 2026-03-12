@@ -1,7 +1,5 @@
 # Misinformation and Disinformation
 
-[[🏷️Social engineering]]
-
 Misinformation and disinformation involve the spread of false information, but they differ in intent. Misinformation refers to the unintentional sharing of incorrect information, while disinformation is the deliberate creation and dissemination of false information to deceive or manipulate.
 
 These tactics are often used in influence campaigns to sway public opinion on political and social issues. Nation-state actors frequently employ disinformation to divide, distract, and persuade target audiences, fostering confusion and societal division.
@@ -14,6 +12,6 @@ Both misinformation and disinformation have significant societal impacts, unders
 
 See also:
 
-- [[Phishing]]
-- [[Social engineering]]
-- [[Hoaxes]]
+- [[phishing]]
+- [[social_engineering]]
+- [[hoaxes]]

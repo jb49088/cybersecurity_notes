@@ -14,6 +14,6 @@ URLs are a foundational component of the World Wide Web, enabling efficient reso
 
 See also:
 
-- [[Hypertext transfer protocol (HTTP)]]
-- [[Hypertext transfer protocol secure (HTTPS)]]
-- [[Domain name system (DNS)]]
+- [[hypertext_transfer_protocol_(http)]]
+- [[hypertext_transfer_protocol_secure_(https)]]
+- [[domain_name_system_(dns)]]

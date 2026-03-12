@@ -16,5 +16,5 @@ The MIB acts as a critical component in network management, providing administra
 
 See also:
 
-- [[Object identifier (OID)]]
-- [[Simple network management protocol (SNMP)]]
+- [[object_identifier_(oid)]]
+- [[simple_network_management_protocol_(snmp)]]

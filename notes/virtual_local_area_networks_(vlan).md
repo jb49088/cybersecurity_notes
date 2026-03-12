@@ -10,5 +10,5 @@ VLANs are typically used to organize devices based on function, department, or s
 
 See also:
 
-- [[Network segmentation]]
-- [[Local Area Network (LAN)]]
+- [[network_segmentation]]
+- [[local_area_network_(lan)]]

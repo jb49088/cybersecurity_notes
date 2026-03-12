@@ -13,6 +13,6 @@ By integrating SCAP, organizations can enhance security efficiency, improve comp
 
 See also:
 
-- [[Interoperability]]
-- [[Common vulnerabilities and exposures (CVE)]]
-- [[Open Vulnerability and Assessment Language (OVAL)]]
+- [[interoperability]]
+- [[common_vulnerabilities_and_exposures_(cve)]]
+- [[open_vulnerability_and_assessment_language_(oval)]]

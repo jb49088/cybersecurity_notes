@@ -15,8 +15,8 @@ GTFOBins is an indispensable reference for anyone working in offensive security,
 
 See also:
 
-- [[Set user ID (SUID)]]
-- [[Privilege escalation]]
-- [[Linux]]
-- [[Sudo]]
-- [[Living off the land (LoL)]]
+- [[set_user_id_(suid)]]
+- [[privilege_escalation]]
+- [[linux]]
+- [[sudo]]
+- [[living_off_the_land_(lol)]]

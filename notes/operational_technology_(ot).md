@@ -14,7 +14,7 @@ As industries become more automated and connected, securing and maintaining oper
 
 See also:
 
-- [[Industrial control system (ICS)]]
-- [[Supervisory control and data acquisition (SCADA)]]
-- [[Real-time operating system (RTOS)]]
-- [[Embedded systems]]
+- [[industrial_control_system_(ics)]]
+- [[supervisory_control_and_data_acquisition_(scada)]]
+- [[real-time_operating_system_(rtos)]]
+- [[embedded_systems]]

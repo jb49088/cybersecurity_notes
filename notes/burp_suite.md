@@ -1,7 +1,5 @@
 # Burp Suite
 
-[[🏷️Cybersecurity tool]]
-
 Burp Suite is a widely used tool for web application security testing and vulnerability assessment. Developed by PortSwigger, it provides a comprehensive set of features for identifying and exploiting security issues in web applications. Here’s a breakdown of its key components and functionality:
 
 1. **Proxy:** Burp Suite acts as a proxy between your browser and the web application. This allows it to intercept, modify, and analyze HTTP/S requests and responses. This is crucial for examining how data is exchanged between the client and server and finding potential security issues.

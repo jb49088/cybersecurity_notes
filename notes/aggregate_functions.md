@@ -1,7 +1,5 @@
 # Aggregate functions
 
-[[🏷️SQL]]
-
 In SQL, aggregate functions are functions that perform a calculation over multiple data points and return the result of the calculation. The actual data is not returned.
 
 There are various aggregate functions that perform different calculations:

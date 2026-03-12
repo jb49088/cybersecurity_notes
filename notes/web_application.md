@@ -10,7 +10,7 @@ Web applications rely on technologies such as HTML, CSS, JavaScript, and server-
 
 See also:
 
-- [[Hypertext transfer protocol (HTTP)]]
-- [[Hypertext transfer protocol secure (HTTPS)]]
-- [[JavaScript]]
-- [[Cascading Style Sheets (CSS)]]
+- [[hypertext_transfer_protocol_(http)]]
+- [[hypertext_transfer_protocol_secure_(https)]]
+- [[javascript]]
+- [[cascading_style_sheets_(css)]]

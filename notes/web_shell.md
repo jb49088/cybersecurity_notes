@@ -16,8 +16,8 @@ Web shells sit at the intersection of file upload vulnerabilities and remote cod
 
 See also:
 
-- [[Remote code execution (RCE)]]
-- [[Command injection]]
-- [[Base64]]
-- [[Exclusive or (XOR)]]
-- [[Misconfiguration]]
+- [[remote_code_execution_(rce)]]
+- [[command_injection]]
+- [[base64]]
+- [[exclusive_or_(xor)]]
+- [[misconfiguration]]

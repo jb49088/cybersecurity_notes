@@ -18,4 +18,4 @@ The data lifecycle encompasses the various stages that data goes through from cr
 
 See also:
 
-- [[Data states]]
+- [[data_states]]

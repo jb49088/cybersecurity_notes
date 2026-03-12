@@ -1,7 +1,5 @@
 # Channel service unit (CSU)
 
-[[🏷️Networking device]]
-
 A channel service unit (CSU) is a network device that connects a customer's network to a wide area network (WAN) service, such as a leased line. It is primarily used to provide a reliable interface between the customer’s equipment and the telecommunications provider's network, ensuring signal integrity and compliance with transmission standards.
 
 - **Signal conditioning:** The CSU is responsible for ensuring the quality and integrity of the signal transmitted between the customer’s equipment and the service provider's network.
@@ -16,6 +14,6 @@ CSUs are critical in maintaining stable and reliable WAN connections, ensuring t
 
 See also:
 
-- [[Wide Area Network (WAN)]]
-- [[Cyclical redundancy check (CRC)]]
-- [[Modem]]
+- [[wide_area_network_(wan)]]
+- [[cyclical_redundancy_check_(crc)]]
+- [[modem]]

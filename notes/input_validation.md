@@ -15,5 +15,5 @@ Effective input validation is vital for preventing many common security issues. 
 
 See also:
 
-- [[Input sanitization]]
-- [[Injection attack]]
+- [[input_sanitization]]
+- [[injection_attack]]

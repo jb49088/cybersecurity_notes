@@ -14,5 +14,5 @@ VDI improves flexibility, security, and cost efficiency, making it ideal for bus
 
 See also:
 
-- [[Virtual desktop environment (VDE)]]
-- [[Cloud computing]]
+- [[virtual_desktop_environment_(vde)]]
+- [[cloud_computing]]

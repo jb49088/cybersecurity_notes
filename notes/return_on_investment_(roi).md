@@ -8,4 +8,4 @@ ROI is calculated by subtracting the cost of the investment from the return, the
 
 See also:
 
-- [[Cost]]
+- [[cost]]

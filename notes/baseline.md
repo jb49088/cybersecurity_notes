@@ -13,5 +13,5 @@ A baseline is an essential tool in security and system management, enabling orga
 
 See also:
 
-- [[Security baselines]]
-- [[Anomaly-based detection]]
+- [[security_baselines]]
+- [[anomaly-based_detection]]

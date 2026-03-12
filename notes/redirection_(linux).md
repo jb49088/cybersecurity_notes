@@ -14,7 +14,7 @@ Redirection is fundamental for scripting and advanced shell usage, enabling user
 
 See also:
 
-- [[Standard input (stdin)]]
-- [[Standard output (stdout)]]
-- [[Standard error (stderr)]]
+- [[standard_input_(stdin)]]
+- [[standard_output_(stdout)]]
+- [[standard_error_(stderr)]]
 -  [[pipe]]

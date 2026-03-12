@@ -8,6 +8,6 @@ In a hierarchical database, data is stored in records, and these records are lin
 
 See also:
 
-- [[Relational database]]
-- [[Network database]]
-- [[Data]]
+- [[relational_database]]
+- [[network_database]]
+- [[data]]

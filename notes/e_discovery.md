@@ -13,6 +13,6 @@ E-discovery is essential for managing digital evidence in legal contexts, ensuri
 
 See also:
 
-- [[Digital forensics]]
-- [[Legal hold]]
-- [[Chain of custody]]
+- [[digital_forensics]]
+- [[legal_hold]]
+- [[chain_of_custody]]

@@ -1,7 +1,5 @@
 # Internet protocol security (IPsec)
 
-[[🏷️Network protocol]]
-
 Internet protocol security (IPsec) is a suite of protocols used to secure IP communications by authenticating and encrypting each IP packet in a communication session. IPsec is commonly used to establish Virtual Private Network (VPN) tunnels, ensuring secure data transmission over untrusted networks like the internet.
 
 - **Port number and protocol type:** IPsec operates over UDP port 500 (for IKE) and ESP (IP protocol 50) and AH (IP protocol 51) for data transport.
@@ -21,7 +19,7 @@ IPsec is widely used for creating secure VPN tunnels between devices, such as re
 
 See also:
 
-- [[Virtual private network (VPN)]]
-- [[Internet key exchange (IKE)]]
-- [[Encapsulating security payload (ESP)]]
-- [[Authentication header (AH)]]
+- [[virtual_private_network_(vpn)]]
+- [[internet_key_exchange_(ike)]]
+- [[encapsulating_security_payload_(esp)]]
+- [[authentication_header_(ah)]]

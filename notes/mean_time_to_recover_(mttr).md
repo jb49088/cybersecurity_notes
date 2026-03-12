@@ -8,7 +8,7 @@ MTTR includes the time taken for detection, diagnosis, and recovery of the syste
 
 See also:
 
-- [[Mean time between failures (MTBF)]]
-- [[Mean time to failure (MTTF)]]
-- [[Disaster recovery plan (DRP)]]
-- [[Business continuity plan (BCP)]]
+- [[mean_time_between_failures_(mtbf)]]
+- [[mean_time_to_failure_(mttf)]]
+- [[disaster_recovery_plan_(drp)]]
+- [[business_continuity_plan_(bcp)]]

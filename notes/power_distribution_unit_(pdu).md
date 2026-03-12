@@ -17,5 +17,5 @@ PDUs are essential in ensuring efficient power management and avoiding downtime 
 
 See also:
 
-- [[Uninterruptible power supply (UPS)]]
-- [[High availability (HA)]]
+- [[uninterruptible_power_supply_(ups)]]
+- [[high_availability_(ha)]]

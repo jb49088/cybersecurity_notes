@@ -1,7 +1,5 @@
 # Red hat enterprise linux (RHEL)
 
-[[🏷️Linux distribution]]
-
 Red hat enterprise linux (RHEL) is a commercial Linux distribution developed by Red Hat, designed for enterprise environments that require stability, security, and long-term support. It is widely used in corporate, government, and cloud computing environments.
 
 - **Enterprise-grade stability**: RHEL undergoes extensive testing to ensure reliability, making it a trusted choice for critical workloads.

@@ -1,7 +1,5 @@
 # Bridge
 
-[[🏷️Networking device]]
-
 A bridge is a network device used to connect and filter traffic between two or more network segments. it operates at the data link layer (layer 2) of the OSI model and helps improve network efficiency by reducing collisions and dividing network traffic intelligently.
 
 - **Traffic filtering:** Examines MAC addresses to determine whether to forward or block network traffic between segments.
@@ -16,5 +14,5 @@ Bridges are useful for extending networks, improving performance, and ensuring e
 
 see also:
 
-- [[Switch]]
-- [[Router]]
+- [[switch]]
+- [[router]]

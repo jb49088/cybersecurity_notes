@@ -1,7 +1,5 @@
 # uname & whoami
 
-[[🏷️Linux command]]
-
 The `uname` and `whoami` commands allow you to access some basic information that comes in handy when you work on multiple systems.
 
 The `uname` command in Linux displays information about the system’s kernel, including the kernel name, hostname, kernel release, kernel version, and machine hardware name.

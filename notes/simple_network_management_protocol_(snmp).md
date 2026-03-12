@@ -1,7 +1,5 @@
 # Simple network management protocol (SNMP)
 
-[[🏷️Network protocol]]
-
 Simple network management protocol (SNMP) is a protocol used for monitoring and managing network devices such as routers, switches, servers, and printers. It allows network administrators to collect performance data, detect faults, and configure devices remotely.
 
 - **Port number and protocol type:** SNMP operates over port 161 using UDP for general communication, and port 162 using UDP for receiving trap messages.
@@ -16,6 +14,6 @@ SNMP is widely used in enterprise networks for automated device management, moni
 
 See also:
 
-- [[Management information base (MIB)]]
-- [[Object identifier (OID)]]
-- [[Internet Control Message Protocol (ICMP)]]
+- [[management_information_base_(mib)]]
+- [[object_identifier_(oid)]]
+- [[internet_control_message_protocol_(icmp)]]

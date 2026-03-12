@@ -1,7 +1,5 @@
 # Terminal access controller access control system plus (TACACS+)
 
-[[🏷️Network protocol]]
-
 Terminal access controller access control system plus (TACACS+) is an authentication, authorization, and accounting (AAA) protocol used to manage network access. It is designed to provide centralized control over access to network devices such as routers, switches, and firewalls.
 
 - **Port number:** TACACS+ typically operates over port 49.
@@ -17,6 +15,6 @@ TACACS+ is commonly used in large enterprise environments to ensure secure and c
 
 See also:
 
-- [[Authentication, Authorization, and Accounting (AAA)]]
-- [[Remote authentication dial-in user service (RADIUS)]]
-- [[Lightweight directory access protocol (LDAP)]]
+- [[authentication,_authorization,_and_accounting_(aaa)]]
+- [[remote_authentication_dial-in_user_service_(radius)]]
+- [[lightweight_directory_access_protocol_(ldap)]]

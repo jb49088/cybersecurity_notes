@@ -1,7 +1,5 @@
 # Sender policy framework (SPF)
 
-[[🏷️Network protocol]]
-
 Sender policy framework (SPF) is an email authentication protocol designed to prevent unauthorized senders from sending emails on behalf of a domain. It helps to combat email spoofing, phishing, and spam by allowing domain owners to specify which mail servers are authorized to send emails for their domain. SPF works by checking the "From" address of an incoming email against a list of authorized mail servers published in the domain's DNS records.
 
 An SPF record is a type of DNS record that lists the IP addresses or hostnames of the servers allowed to send email on behalf of the domain. When an email is received, the recipient's mail server performs an SPF check to see if the sending server is on the list. If the email fails the SPF check, it is typically flagged as suspicious or rejected, depending on the recipient's configuration.
@@ -26,7 +24,7 @@ SPF is a critical component of email security and works in conjunction with othe
 
 See also:
 
-- [[DomainKeys identified mail (DKIM)]]
-- [[Domain-based message authentication, reporting, and conformance (DMARC)]]
-- [[Domain name system (DNS)]]
-- [[Mail gateway]]
+- [[domainkeys_identified_mail_(dkim)]]
+- [[domain-based_message_authentication,_reporting,_and_conformance_(dmarc)]]
+- [[domain_name_system_(dns)]]
+- [[mail_gateway]]

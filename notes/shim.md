@@ -10,5 +10,5 @@ In a typical attack scenario, a shim may be used to manipulate the execution flo
 
 See also:
 
-- [[Malware]]
-- [[Code injection]]
+- [[malware]]
+- [[code_injection]]

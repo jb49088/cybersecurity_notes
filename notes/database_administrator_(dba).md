@@ -14,5 +14,5 @@ A DBA plays a critical role in ensuring that databases are well-structured, avai
 
 See also:
 
-- [[Database]]
-- [[Relational database management system (RDBMS)]]
+- [[database]]
+- [[relational_database_management_system_(rdbms)]]

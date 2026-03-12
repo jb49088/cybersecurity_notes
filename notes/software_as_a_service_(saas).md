@@ -17,6 +17,6 @@ Popular SaaS examples include Google Workspace (formerly G Suite), Microsoft Off
 
 See also:
 
-- [[Cloud computing]]
-- [[Platform as a service (PaaS)]]
-- [[Infrastructure as a service (IaaS)]]
+- [[cloud_computing]]
+- [[platform_as_a_service_(paas)]]
+- [[infrastructure_as_a_service_(iaas)]]

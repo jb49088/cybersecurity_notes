@@ -10,8 +10,8 @@ The recovery testing process typically involves simulating a very specific disas
 
 See also:
 
-- [[Disaster recovery plan (DRP)]]
-- [[Business continuity plan (BCP)]]
-- [[Incident response plan (IRP)]]
-- [[Recovery point objective (RPO)]]
-- [[Recovery time objective (RTO)]]
+- [[disaster_recovery_plan_(drp)]]
+- [[business_continuity_plan_(bcp)]]
+- [[incident_response_plan_(irp)]]
+- [[recovery_point_objective_(rpo)]]
+- [[recovery_time_objective_(rto)]]

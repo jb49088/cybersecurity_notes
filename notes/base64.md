@@ -15,6 +15,6 @@ Base64 is one of the first things to check when encountering an unfamiliar or su
 
 See also:
 
-- [[Encoding]]
-- [[Base16]]
-- [[Reconnaissance]]
+- [[encoding]]
+- [[base16]]
+- [[reconnaissance]]

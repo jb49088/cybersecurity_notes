@@ -6,4 +6,4 @@ Information systems security focuses on protecting the entire IT infrastructure,
 
 See also:
 
-- [[Information Security (InfoSec)]]
+- [[information_security_(infosec)]]

@@ -1,7 +1,5 @@
 # Secure real-time transport protocol (SRTP)
 
-[[🏷️Network protocol]]
-
 Secure real-time transport protocol (SRTP) is an extension of the Real-time Transport Protocol (RTP) that provides encryption, authentication, and integrity for real-time audio and video communications. It is commonly used in VoIP, video conferencing, and streaming applications to protect sensitive media data from eavesdropping and tampering.
 
 - **Port number and protocol type:** SRTP operates over the same dynamic UDP port ranges as RTP, typically starting at 5004, ensuring secure, low-latency media transmission.
@@ -16,4 +14,4 @@ SRTP is widely adopted in secure VoIP, teleconferencing, and multimedia streamin
 
 See also:
 
-- [[Real-time transport protocol (RTP)]]
+- [[real-time_transport_protocol_(rtp)]]

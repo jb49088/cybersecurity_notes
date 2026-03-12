@@ -1,7 +1,5 @@
 # String
 
-[[🏷️Data type]]
-
 In Python, string data is data consisting of an ordered sequence of characters. Characters in a string may include letters, numbers, symbols, and spaces. These characters must be placed within quotation marks. These are all valid strings:
 
 - `"updates needed"`

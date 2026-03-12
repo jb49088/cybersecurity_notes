@@ -16,5 +16,5 @@ SDKs are essential for accelerating development processes and enabling developer
 
 See also:
 
-- [[Application programming interface (API)]]
-- [[Integrated development environment (IDE)]]
+- [[application_programming_interface_(api)]]
+- [[integrated_development_environment_(ide)]]

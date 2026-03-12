@@ -1,7 +1,5 @@
 # ssh
 
-[[🏷️Linux command]]
-
 The `ssh` command in Linux and Unix-based operating systems establishes a secure shell connection to a remote server. The command provides a secure encrypted connection between the local and remote servers, allowing users to run commands and transfer files securely.
 
 The basic syntax of the `ssh` command is:

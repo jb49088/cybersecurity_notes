@@ -14,4 +14,4 @@ FPGAs offer significant flexibility and performance advantages for applications 
 
 See also:
 
-- [[Embedded systems]]
+- [[embedded_systems]]

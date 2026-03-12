@@ -14,4 +14,4 @@ POTS remains in use for critical infrastructure, including **alarm systems, elev
 
 See also:
 
-- [[Voice over internet protocol (VoIP)]]
+- [[voice_over_internet_protocol_(voip)]]

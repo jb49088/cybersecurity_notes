@@ -15,4 +15,4 @@ Despite their challenges, many organizations continue using legacy platforms due
 
 See also:
 
-- [[Compliance]]
+- [[compliance]]

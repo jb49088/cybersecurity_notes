@@ -10,4 +10,4 @@ This approach is fundamental in cloud computing, where automation and scalabilit
 
 See also:
 
-- [[Cloud computing]]
+- [[cloud_computing]]

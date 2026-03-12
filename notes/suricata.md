@@ -1,7 +1,5 @@
 # Suricata
 
-[[🏷️Cybersecurity tool]]
-
 An open-source intrusion detection system, intrusion prevention system, and network analysis tool.
 
 ## Suricata features

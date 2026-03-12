@@ -15,7 +15,7 @@ HackTheBox is one of the most effective platforms for developing the practical s
 
 See also:
 
-- [[Capture the flag (CTF)]]
-- [[TryHackMe]]
-- [[Privilege escalation]]
-- [[Bug bounty]]
+- [[capture_the_flag_(ctf)]]
+- [[tryhackme]]
+- [[privilege_escalation]]
+- [[bug_bounty]]

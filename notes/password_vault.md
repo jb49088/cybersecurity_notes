@@ -1,7 +1,5 @@
 # Password vault
 
-[[🏷️Password security]]
-
 A password vault is a secure tool designed to store and manage passwords and sensitive credentials. It helps individuals and organizations protect their login information by encrypting and centralizing password storage, reducing the risk of password reuse, weak passwords, and credential theft.
 
 - **Encrypted storage**: Password vaults use strong encryption to protect stored credentials, ensuring that even if the vault is compromised, the data remains unreadable without the master password or authentication key.
@@ -17,5 +15,5 @@ Using a password vault reduces the risk of credential-related attacks, such as p
 
 See also:
 
-- [[Password]]
-- [[Password manager]]
+- [[password]]
+- [[password_manager]]

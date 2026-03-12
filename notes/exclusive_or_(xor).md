@@ -15,7 +15,7 @@ XOR is a deceptively simple operation that appears throughout cryptography, malw
 
 See also:
 
-- [[Encoding]]
-- [[Stream cipher]]
-- [[Cryptography]]
-- [[Obfuscation]]
+- [[encoding]]
+- [[stream_cipher]]
+- [[cryptography]]
+- [[obfuscation]]

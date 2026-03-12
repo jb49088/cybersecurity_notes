@@ -15,7 +15,7 @@ Scripts are foundational tools across computing environments for accelerating wo
 
 See also:
 
-- [[Shell scripting]]
-- [[Bash]]
-- [[PowerShell]]
-- [[Python]]
+- [[shell_scripting]]
+- [[bash]]
+- [[powershell]]
+- [[python]]

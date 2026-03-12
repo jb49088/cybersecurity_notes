@@ -16,6 +16,6 @@ SELinux is a powerful tool for enhancing the security of Linux systems, helping 
 
 See also:
 
-- [[Linux]]
-- [[Mandatory access control (MAC)]]
-- [[Discretionary access control (DAC)]]
+- [[linux]]
+- [[mandatory_access_control_(mac)]]
+- [[discretionary_access_control_(dac)]]

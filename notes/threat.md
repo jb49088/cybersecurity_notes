@@ -16,5 +16,5 @@ Mitigating threats involves proactive measures such as threat intelligence, syst
 
 See also:
 
-- [[Risk]]
-- [[Vulnerability]]
+- [[risk]]
+- [[vulnerability]]

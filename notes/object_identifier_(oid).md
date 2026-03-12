@@ -14,7 +14,7 @@ OIDs are critical in systems where unique identification is required, such as in
 
 See also:
 
-- [[X.500]]
-- [[Public key Infrastructure (PKI)]]
-- [[Simple network management protocol (SNMP)]]
-- [[Management information base (MIB)]]
+- [[x.500]]
+- [[public_key_infrastructure_(pki)]]
+- [[simple_network_management_protocol_(snmp)]]
+- [[management_information_base_(mib)]]

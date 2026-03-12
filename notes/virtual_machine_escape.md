@@ -19,5 +19,5 @@ Mitigation strategies:
 
 See also:
 
-- [[Hypervisor]]
-- [[Virtualization technology]]
+- [[hypervisor]]
+- [[virtualization_technology]]

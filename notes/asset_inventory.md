@@ -15,4 +15,4 @@ Automated tools, such as Configuration Management Databases (CMDB) or asset trac
 
 See also:
 
-- [[Asset]]
+- [[asset]]

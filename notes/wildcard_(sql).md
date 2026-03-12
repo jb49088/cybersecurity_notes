@@ -1,7 +1,5 @@
 # Wildcard (SQL)
 
-[[🏷️SQL]]
-
 A wildcard is a special character that can be substituted with any other character. Two of the most useful wildcards are the percentage sign (`%`) and the underscore (`_`):
 
 - The percentage sign substitutes for any number of other characters.

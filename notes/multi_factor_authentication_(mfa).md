@@ -1,7 +1,5 @@
 # Multi-factor authentication (MFA)
 
-[[🏷️Authentication methods]]
-
 Multi-factor authentication (MFA) enhances security by requiring multiple methods to verify your identity, making it more difficult for unauthorized access. MFA combines different authentication factors to ensure that you are who you claim to be.
 
 - **Something you know:** Includes a password, a PIN, or a pattern.
@@ -15,4 +13,4 @@ MFA improves security by combining multiple authentication factors, making it mo
 
 See also:
 
-- [[Authentication]]
+- [[authentication]]

@@ -1,7 +1,5 @@
 # FROM
 
-[[🏷️SQL]]
-
 `FROM` indicates which table to query. To use the `FROM` keyword, you should write it after the `SELECT` keyword, often on a new line, and follow it with the name of the table you’re querying. If you want to return all columns from the `customers` table, you can write:
 
 ```sql

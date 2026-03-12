@@ -10,6 +10,6 @@ Defending against lateral movement requires strong network segmentation, least-p
 
 See also:
 
-- [[Remote desktop protocol (RDP)]]
-- [[Living off the land (LoL)]]
-- [[Advanced Persistent Threat (APT)]]
+- [[remote_desktop_protocol_(rdp)]]
+- [[living_off_the_land_(lol)]]
+- [[advanced_persistent_threat_(apt)]]

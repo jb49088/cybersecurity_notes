@@ -17,5 +17,5 @@ NAT plays a vital role in modern networking by enabling more efficient use of IP
 
 See also:
 
-- [[IP address]]
-- [[Dynamic host configuration protocol (DHCP)]]
+- [[ip_address]]
+- [[dynamic_host_configuration_protocol_(dhcp)]]

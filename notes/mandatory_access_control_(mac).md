@@ -1,7 +1,5 @@
 # Mandatory access control (MAC)
 
-[[🏷️Access control model]]
-
 Mandatory access control (MAC) is a security model in which the operating system enforces strict policies to control access to resources based on predefined classifications. Users and resources are assigned security labels, and access is determined by these labels.
 
 - **Operating system enforcement:** Access permissions are controlled by the operating system, not individual users. This ensures a consistent and centralized application of policies.
@@ -15,8 +13,8 @@ Mandatory access control is commonly used in environments requiring high levels 
 
 See also:
 
-- [[Attribute-based access control (ABAC)]]
-- [[Discretionary access control (DAC)]]
-- [[Role-based access control (RBAC)]]
-- [[Rule-based access control (RBAC)]]
-- [[SELinux]]
+- [[attribute-based_access_control_(abac)]]
+- [[discretionary_access_control_(dac)]]
+- [[role-based_access_control_(rbac)]]
+- [[rule-based_access_control_(rbac)]]
+- [[selinux]]

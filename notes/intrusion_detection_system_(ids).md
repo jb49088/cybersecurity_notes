@@ -19,6 +19,6 @@ Benefits of IDS include increased visibility into network activity and alerting 
 
 See also:
 
-- [[Intrusion prevention system (IPS)]]
-- [[Signature-based detection]]
-- [[Anomaly-based detection]]
+- [[intrusion_prevention_system_(ips)]]
+- [[signature-based_detection]]
+- [[anomaly-based_detection]]

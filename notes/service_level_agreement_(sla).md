@@ -1,7 +1,5 @@
 # Service-level agreement (SLA)
 
-[[🏷️Business agreement]]
-
 A service-level agreement (SLA) is a formal contract that outlines the minimum standards and expectations for services provided between a service provider and a customer. SLAs ensure that both parties are clear on their responsibilities, performance expectations, and the level of service to be delivered.
 
 - **Minimum terms for services provided:** SLAs define the baseline terms for the service, including key performance indicators (KPIs) like uptime, response times, and service availability.
@@ -15,5 +13,5 @@ SLAs are crucial for managing expectations, providing transparency, and ensuring
 
 See also:
 
-- [[Availability]]
-- [[High availability (HA)]]
+- [[availability]]
+- [[high_availability_(ha)]]

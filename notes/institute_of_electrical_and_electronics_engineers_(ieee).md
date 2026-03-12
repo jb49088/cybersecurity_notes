@@ -14,5 +14,5 @@ IEEE plays a key role in shaping the future of technology through innovation, co
 
 See also:
 
-- [[IEEE 802.1X]]
-- [[IEEE 802.11 (Wi-Fi)]]
+- [[ieee_802.1x]]
+- [[ieee_802.11_(wi-fi)]]

@@ -1,7 +1,5 @@
 # Internet key exchange (IKE)
 
-[[🏷️Key exchange protocol]]
-
 Internet key exchange (IKE) is a protocol used to establish and manage secure communications between two devices over an IP network. it is a fundamental component of IPsec (internet protocol security) and is responsible for negotiating encryption keys, authentication, and security associations (SAs) between endpoints.
 
 - **Secure key exchange**: IKE automates the process of securely exchanging cryptographic keys between devices.
@@ -15,7 +13,7 @@ IKE is essential for securing VPNs (virtual private networks), ensuring encrypte
 
 See also:
 
-- [[Internet protocol security (IPsec)]]
-- [[Encapsulating security payload (ESP)]]
-- [[Virtual private network (VPN)]]
-- [[Diffie-Hellman (DH)]]
+- [[internet_protocol_security_(ipsec)]]
+- [[encapsulating_security_payload_(esp)]]
+- [[virtual_private_network_(vpn)]]
+- [[diffie-hellman_(dh)]]

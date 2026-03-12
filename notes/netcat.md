@@ -16,7 +16,7 @@ Netcat's combination of simplicity and flexibility makes it an indispensable too
 
 See also:
 
-- [[Reverse shell]]
-- [[Bind shell]]
-- [[Remote code execution (RCE)]]
-- [[Nmap]]
+- [[reverse_shell]]
+- [[bind_shell]]
+- [[remote_code_execution_(rce)]]
+- [[nmap]]

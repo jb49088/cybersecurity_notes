@@ -12,4 +12,4 @@ Configuration enforcement is an essential security practice, helping to identify
 
 See also:
 
-- [[Endpoint detection and response (EDR)]]
+- [[endpoint_detection_and_response_(edr)]]

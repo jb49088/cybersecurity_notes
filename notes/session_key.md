@@ -8,10 +8,10 @@ Session keys are typically generated randomly to ensure unpredictability and are
 
 See also:
 
-- [[Symmetric encryption]]
-- [[Asymmetric encryption]]
-- [[Rivest shamir adleman (RSA)]]
-- [[Key exchange]]
-- [[Transport Layer Security (TLS)]]
-- [[Diffie-Hellman (DH)]]
-- [[Elliptic Curve Diffie-Hellman (ECDH)]]
+- [[symmetric_encryption]]
+- [[asymmetric_encryption]]
+- [[rivest_shamir_adleman_(rsa)]]
+- [[key_exchange]]
+- [[transport_layer_security_(tls)]]
+- [[diffie-hellman_(dh)]]
+- [[elliptic_curve_diffie-hellman_(ecdh)]]

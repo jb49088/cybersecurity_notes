@@ -1,7 +1,5 @@
 # Internet message access protocol secure (IMAPS)
 
-[[🏷️Network protocol]]
-
 Internet message access protocol secure (IMAPS) is a secure version of the Internet Message Access Protocol (IMAP), which is used for retrieving and managing email messages stored on a mail server. IMAPS adds encryption to protect the communication between email clients and servers, ensuring the privacy and integrity of email data.
 
 - **Port number and protocol type:** IMAPS operates over port 993 using TCP (Transmission Control Protocol) for reliable data transfer.
@@ -16,6 +14,6 @@ IMAPS is essential for securely accessing and managing email accounts, especiall
 
 See also:
 
-- [[Internet message access protocol (IMAP)]]
-- [[Post office protocol (POP)]]
-- [[Simple mail transfer protocol (SMTP)]]
+- [[internet_message_access_protocol_(imap)]]
+- [[post_office_protocol_(pop)]]
+- [[simple_mail_transfer_protocol_(smtp)]]

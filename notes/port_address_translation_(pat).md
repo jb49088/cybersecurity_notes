@@ -14,5 +14,5 @@ PAT is particularly useful in environments where the number of public IP address
 
 See also:
 
-- [[Network address translation (NAT)]]
-- [[IP address]]
+- [[network_address_translation_(nat)]]
+- [[ip_address]]

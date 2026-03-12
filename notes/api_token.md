@@ -10,5 +10,5 @@ A credential used to access an Application Programming Interface (API). It acts 
 
 See also:
 
-- [[Application programming interface (API)]]
-- [[Encryption]]
+- [[application_programming_interface_(api)]]
+- [[encryption]]

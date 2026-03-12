@@ -15,9 +15,9 @@ Signature-based detection offers fast and efficient identification of known thre
 
 See also:
 
-- [[Anomaly-based detection]]
-- [[Intrusion detection system (IDS)]]
-- [[Intrusion prevention system (IPS)]]
-- [[Endpoint detection and response (EDR)]]
-- [[Antivirus (AV)]]
-- [[Firewall]]
+- [[anomaly-based_detection]]
+- [[intrusion_detection_system_(ids)]]
+- [[intrusion_prevention_system_(ips)]]
+- [[endpoint_detection_and_response_(edr)]]
+- [[antivirus_(av)]]
+- [[firewall]]

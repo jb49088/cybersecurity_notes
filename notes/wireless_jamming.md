@@ -1,7 +1,5 @@
 # Wireless jamming
 
-[[🏷️Network attack]]
-
 Wireless jamming is a deliberate attempt to disrupt wireless communication by interfering with signal transmission. There are various types of jamming, including:
 
 - **Constant Jamming**: Sending random bits or legitimate frames continuously.
@@ -14,5 +12,5 @@ Effective jamming requires proximity, as the signal strength diminishes with dis
 
 See also:
 
-- [[Denial of service (DoS)]]
-- [[Radio frequency (RF) jamming]]
+- [[denial_of_service_(dos)]]
+- [[radio_frequency_(rf)_jamming]]

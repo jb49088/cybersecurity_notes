@@ -16,5 +16,5 @@ Self-encrypting drives provide a seamless and effective way to protect sensitive
 
 See also:
 
-- [[Encryption]]
-- [[Trusted platform module (TPM)]]
+- [[encryption]]
+- [[trusted_platform_module_(tpm)]]

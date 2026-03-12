@@ -16,4 +16,4 @@ Each role plays a part in managing, protecting, and governing data within an org
 
 See also:
 
-- [[Data]]
+- [[data]]

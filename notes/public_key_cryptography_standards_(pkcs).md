@@ -16,7 +16,7 @@ PKCS plays a crucial role in securing communications, authenticating users, and 
 
 See also:
 
-- [[PKCS 12 (P12)]]
-- [[Public key Infrastructure (PKI)]]
-- [[Interoperability]]
-- [[Digital signature]]
+- [[pkcs_12_(p12)]]
+- [[public_key_infrastructure_(pki)]]
+- [[interoperability]]
+- [[digital_signature]]

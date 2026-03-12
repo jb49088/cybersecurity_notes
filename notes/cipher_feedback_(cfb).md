@@ -1,7 +1,5 @@
 # Cipher feedback (CFB)
 
-[[🏷️Cryptography]]
-
 Cipher feedback (CFB) is a block cipher mode of operation that transforms a block cipher into a self-synchronizing stream cipher. It enables encryption and decryption of data in smaller segments, making it suitable for applications requiring real-time or incremental data processing.
 
 - **Mode of operation:** CFB works by feeding the ciphertext from the previous encryption step back into the encryption process as input for the next block. This creates a chain-like dependency between blocks.
@@ -16,8 +14,8 @@ While Cipher Feedback mode provides flexibility and incremental encryption, it m
 
 See also:
 
-- [[Block cipher]]
-- [[Stream cipher]]
-- [[Initialization vector (IV)]]
-- [[Counter mode (CTM)]]
-- [[Cipher block chaining (CBC)]]
+- [[block_cipher]]
+- [[stream_cipher]]
+- [[initialization_vector_(iv)]]
+- [[counter_mode_(ctm)]]
+- [[cipher_block_chaining_(cbc)]]

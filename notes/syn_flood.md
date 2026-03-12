@@ -1,8 +1,6 @@
 # SYN Flood
 
-[[🏷️Network attack]]
-
-A SYN flood attack is a type of Denial of Service (DoS) attack that targets the way TCP connections are established. To understand this better, let's first look at how a TCP connection is set up. It starts with a three-step handshake process seen in [[Diagram 1.07]].
+A SYN flood attack is a type of Denial of Service (DoS) attack that targets the way TCP connections are established. To understand this better, let's first look at how a TCP connection is set up. It starts with a three-step handshake process seen in [[diagram_1.07]].
 
 1. **SYN Request:** The device wanting to connect sends a SYN (synchronize) request to the server.
 2. **SYN/ACK Response:** The server responds with a SYN/ACK (synchronize/acknowledge) packet, confirming it received the request and is ready for the final step.

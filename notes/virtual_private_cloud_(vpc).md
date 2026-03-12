@@ -14,6 +14,6 @@ VPCs are widely used by enterprises to run workloads in the cloud while maintain
 
 See also:
 
-- [[Cloud computing]]
-- [[Infrastructure as a service (IaaS)]]
-- [[Virtual private network (VPN)]]
+- [[cloud_computing]]
+- [[infrastructure_as_a_service_(iaas)]]
+- [[virtual_private_network_(vpn)]]

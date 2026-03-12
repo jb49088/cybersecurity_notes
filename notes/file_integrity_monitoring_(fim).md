@@ -16,5 +16,5 @@ File integrity monitoring is an essential security measure that helps ensure the
 
 See also:
 
-- [[Intrusion prevention system (IPS)]]
-- [[Data loss prevention (DLP)]]
+- [[intrusion_prevention_system_(ips)]]
+- [[data_loss_prevention_(dlp)]]

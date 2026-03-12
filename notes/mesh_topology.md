@@ -1,7 +1,5 @@
 # Mesh Topology
 
-[[🏷️Network topology]]
-
 The mesh topology is the most complex in terms of physical design. In this topology, each device is connected to every other device (see Figure 2.29). This topology is rarely found in wired LANs, mainly because of the complexity of the cabling. If there are x computers, there will be (x × (x – 1)) ÷ 2 cables in the network. For example, if you have five computers in a mesh network, it will use (5 × (5 – 1)) ÷ 2 = 10 cables. This complexity is compounded when you add another workstation. For example, your 5- computer, 10- cable network will jump to 15 cables if you add just one more computer. Imagine how the person doing the cabling would feel if you told them they had to cable 50 computers in a mesh network—they’d have to come up with (50 × (50 – 1)) ÷ 2 = 1,225 cables! (Not to mention figuring out how to connect them all.)
 
 - **Figure 2.29** The mesh topology

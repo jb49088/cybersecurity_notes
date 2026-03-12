@@ -17,9 +17,9 @@ By understanding and managing BSSIDs effectively, network administrators can opt
 
 See also:
 
-- [[Access point (AP)]]
-- [[Media access control (MAC)]]
-- [[Service set identifier (SSID)]]
-- [[Wireless Local Area Network (WLAN)]]
-- [[Access point (AP)]]
-- [[IEEE 802.11 (Wi-Fi)]]
+- [[access_point_(ap)]]
+- [[media_access_control_(mac)]]
+- [[service_set_identifier_(ssid)]]
+- [[wireless_local_area_network_(wlan)]]
+- [[access_point_(ap)]]
+- [[ieee_802.11_(wi-fi)]]

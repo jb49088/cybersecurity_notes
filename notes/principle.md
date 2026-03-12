@@ -16,8 +16,8 @@ Principles provide the ethical and operational framework within which organizati
 
 See also:
 
-- [[Confidentiality]]
-- [[Integrity]]
-- [[Availability]]
-- [[Accountability]]
-- [[Non-repudiation]]
+- [[confidentiality]]
+- [[integrity]]
+- [[availability]]
+- [[accountability]]
+- [[non-repudiation]]

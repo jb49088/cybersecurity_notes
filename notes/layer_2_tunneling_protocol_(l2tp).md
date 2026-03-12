@@ -1,7 +1,5 @@
 # Layer 2 tunneling protocol (L2TP)
 
-[[🏷️Network protocol]]
-
 Layer 2 tunneling protocol (L2TP) is a VPN tunneling protocol used to securely transmit data over public and private networks. It is often combined with IPsec for encryption, as L2TP itself does not provide built-in encryption. L2TP is an evolution of Point-to-Point Tunneling Protocol (PPTP) and Layer 2 Forwarding (L2F), offering improved security and flexibility.
 
 - **Port number and protocol type:** L2TP operates over UDP port 1701 and does not use TCP to avoid connection overhead.
@@ -17,6 +15,6 @@ L2TP is widely supported across operating systems and network devices, making it
 
 See also:
 
-- [[Point-to-point tunneling protocol (PPTP)]]
-- [[Internet protocol security (IPsec)]]
-- [[Virtual private network (VPN)]]
+- [[point-to-point_tunneling_protocol_(pptp)]]
+- [[internet_protocol_security_(ipsec)]]
+- [[virtual_private_network_(vpn)]]

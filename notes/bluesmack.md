@@ -22,7 +22,7 @@ Proactively securing Bluetooth connections and reducing unnecessary exposure are
 
 See also:
 
-- [[Bluetooth]]
-- [[Internet of Things (IoT)]]
-- [[Denial of service (DoS)]]
-- [[Distributed denial of service (DDoS)]]
+- [[bluetooth]]
+- [[internet_of_things_(iot)]]
+- [[denial_of_service_(dos)]]
+- [[distributed_denial_of_service_(ddos)]]

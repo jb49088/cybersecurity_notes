@@ -16,4 +16,4 @@ NAS is commonly used in businesses for file sharing and backup, but it is also u
 
 See also:
 
-- [[Storage Area Network (SAN)]]
+- [[storage_area_network_(san)]]

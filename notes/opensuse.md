@@ -1,7 +1,5 @@
 # openSUSE
 
-[[🏷️Linux distribution]]
-
 openSUSE is a Linux distribution known for its stability, flexibility, and powerful system administration tools. It is developed by the openSUSE Project and is available in two main editions: **openSUSE Leap** (a stable, enterprise-ready release) and **openSUSE Tumbleweed** (a rolling-release version with the latest updates).
 
 - **Leap vs. Tumbleweed**: Leap is based on SUSE Linux Enterprise (SLE) and offers long-term support, while Tumbleweed provides continuously updated software with a rolling-release model.

@@ -1,3 +1,3 @@
 # Bit
 
-The smallest unit of [[Data|data]] measurement on a computer.
+The smallest unit of [[data|data]] measurement on a computer.

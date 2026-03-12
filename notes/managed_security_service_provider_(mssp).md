@@ -14,5 +14,5 @@ MSSPs help organizations manage and enhance their security posture by providing 
 
 See also:
 
-- [[Security Operations Center (SoC)]]
-- [[Managed service provider (MSP)]]
+- [[security_operations_center_(soc)]]
+- [[managed_service_provider_(msp)]]

@@ -10,4 +10,4 @@ In addition to performance benefits, parallel processing also improves system re
 
 See also:
 
-- [[Load balancer]]
+- [[load_balancer]]

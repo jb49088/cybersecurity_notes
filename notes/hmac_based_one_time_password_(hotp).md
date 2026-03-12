@@ -14,6 +14,6 @@ HOTP is a secure and reliable method for providing an additional layer of authen
 
 See also:
 
-- [[One-Time Password (OTP)]]
-- [[Hash-based Message Authentication Code (HMAC)]]
-- [[Time-based one-time password (TOTP)]]
+- [[one-time_password_(otp)]]
+- [[hash-based_message_authentication_code_(hmac)]]
+- [[time-based_one-time_password_(totp)]]

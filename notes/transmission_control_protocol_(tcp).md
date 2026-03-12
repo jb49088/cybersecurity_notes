@@ -1,7 +1,5 @@
 # Transmission control protocol (TCP)
 
-[[🏷️Network protocol]]
-
 Transmission control protocol (TCP) is a core component of the Internet protocol suite, providing reliable, connection-oriented communication between devices over a network. It ensures data is delivered accurately and in the correct order.
 
 - **Reliable data delivery:** TCP uses acknowledgments and retransmissions to guarantee that all data packets are successfully delivered to the destination.
@@ -16,7 +14,7 @@ TCP is widely used for applications requiring reliable data transfer, such as we
 
 See also:
 
-- [[User datagram protocol (UDP)]]
-- [[Internet protocol (IP)]]
-- [[Handshake]]
-- [[Checksum]]
+- [[user_datagram_protocol_(udp)]]
+- [[internet_protocol_(ip)]]
+- [[handshake]]
+- [[checksum]]

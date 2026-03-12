@@ -1,7 +1,5 @@
 # chmod & chown
 
-[[🏷️Linux command]]
-
 The `chmod` and `chown` commands are used to modify file permissions and ownership in Linux.
 
 The `chmod` command is used to change the permissions of a file or directory, and the `chown` command is used to change the ownership of a file or directory

@@ -15,4 +15,4 @@ RCA helps organizations solve problems at their core, leading to more effective 
 
 See also:
 
-- [[Incident response plan (IRP)]]
+- [[incident_response_plan_(irp)]]

@@ -1,7 +1,5 @@
 # Cross-site request forgery (CSRF)
 
-[[🏷️Web application attack]]
-
 Cross-site request forgery (CSRF) is a web application attack where a malicious actor tricks an authenticated user into unknowingly submitting a request to a web application they are currently logged into. Because the request originates from the victim's browser, it carries their session credentials and is processed by the server as if it were a legitimate action performed by the user.
 
 - **How it works:** When a user is authenticated to a web application, their browser automatically includes session cookies with every request made to that domain. An attacker can craft a malicious page or link that silently sends a request to the target application on the victim's behalf, causing actions such as changing account details, transferring funds, or modifying settings without the user's knowledge.
@@ -17,6 +15,6 @@ CSRF is a well-established vulnerability class that remains relevant in bug boun
 
 See also:
 
-- [[Cross-site request forgery (CSRF) token]]
-- [[Cross-site request]]
-- [[Cross-site scripting (XSS)]]
+- [[cross-site_request_forgery_(csrf)_token]]
+- [[cross-site_request]]
+- [[cross-site_scripting_(xss)]]

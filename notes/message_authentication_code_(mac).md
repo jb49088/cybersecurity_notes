@@ -15,6 +15,6 @@ MACs are widely used in secure communication protocols to protect data integrity
 
 See also:
 
-- [[Hash-based Message Authentication Code (HMAC)]]
-- [[Cipher-based Message Authentication Code (CMAC)]]
-- [[Counter mode CBC-MAC protocol (CCMP)]]
+- [[hash-based_message_authentication_code_(hmac)]]
+- [[cipher-based_message_authentication_code_(cmac)]]
+- [[counter_mode_cbc-mac_protocol_(ccmp)]]

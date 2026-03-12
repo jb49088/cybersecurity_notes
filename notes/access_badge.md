@@ -1,7 +1,5 @@
 # Access badge
 
-[[🏷️Authentication methods]]
-
 An access badge is a physical or digital credential used to grant authorized individuals access to secured areas, systems, or networks within an organization. These badges typically include identifying information such as the user’s name, photo, and role, ensuring only authorized personnel can access restricted areas or resources.
 
 Access badges often incorporate embedded technologies like NFC, RFID, magnetic strips, or smart chips, allowing authentication when swiped or scanned. They are programmed with specific permissions, defining where and when the holder can access certain areas or systems. Additionally, many badges integrate with building management and IT systems, streamlining both security and tracking processes.
@@ -12,7 +10,7 @@ By controlling access to buildings, critical infrastructure, and sensitive syste
 
 See also:
 
-- [[Near field communication (NFC)]]
-- [[Radio Frequency Identification (RFID)]]
-- [[Access badge cloning]]
-- [[Multi-factor authentication (MFA)]]
+- [[near_field_communication_(nfc)]]
+- [[radio_frequency_identification_(rfid)]]
+- [[access_badge_cloning]]
+- [[multi-factor_authentication_(mfa)]]

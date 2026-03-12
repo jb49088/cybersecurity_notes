@@ -17,5 +17,5 @@ Indicators of compromise (IoC) are artifacts or patterns found in system logs, f
 
 See also:
 
-- [[Indicators of attack (IoA)]]
-- [[Pyramid of pain]]
+- [[indicators_of_attack_(ioa)]]
+- [[pyramid_of_pain]]

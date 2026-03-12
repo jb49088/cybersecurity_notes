@@ -1,7 +1,5 @@
 # Microsoft challenge handshake authentication protocol (MSCHAP)
 
-[[🏷️Network protocol]]
-
 Microsoft challenge handshake authentication protocol (MSCHAP) is a variation of the standard challenge handshake authentication protocol (CHAP) designed by Microsoft for secure authentication over networks. It is commonly used in virtual private networks (VPNs), dial-up connections, and wireless networks to verify user identities and provide encrypted communication.
 
 - **Authentication mechanism:** MSCHAP works by sending a challenge from the server to the client, which responds with an encrypted value based on a shared secret (such as a password). The server then verifies the response to authenticate the user.
@@ -16,4 +14,4 @@ MSCHAP, especially in its earlier form (MSCHAPv1), is no longer considered secur
 
 See also:
 
-- [[Challenge Handshake Authentication Protocol (CHAP)]]
+- [[challenge_handshake_authentication_protocol_(chap)]]

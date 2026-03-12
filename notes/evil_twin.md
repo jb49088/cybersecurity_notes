@@ -1,7 +1,5 @@
 # Evil twin
 
-[[🏷️Network attack]]
-
 An evil twin is a type of Wi-Fi spoofing attack where a malicious actor sets up a rogue access point that mimics a legitimate wireless network. The goal is to trick users into connecting to the fake network, allowing the attacker to intercept, monitor, or manipulate their network traffic. Evil twin attacks are often used for credential theft, data interception, or man-in-the-middle attacks.
 
 - **Impersonation**: The rogue access point broadcasts the same name (SSID) as a legitimate network, often in a public space like a coffee shop or airport, making it hard for users to distinguish between the real and fake networks.
@@ -16,6 +14,6 @@ Evil twin attacks highlight the importance of being cautious when connecting to 
 
 See also:
 
-- [[Service set identifier (SSID)]]
-- [[On-path attack]]
-- [[Deauthentication attack]]
+- [[service_set_identifier_(ssid)]]
+- [[on-path_attack]]
+- [[deauthentication_attack]]

@@ -1,7 +1,5 @@
 # Certificate authority (CA)
 
-[[🏷️Cryptography]]
-
 A Certificate Authority (CA) is a trusted organization or entity responsible for issuing, managing, and verifying digital certificates. These certificates authenticate the identity of entities (such as websites, individuals, or organizations) and enable secure communication over networks, particularly the internet.
 
 A CA issues digital certificates based on a thorough verification process. These certificates are typically used in public key infrastructure (PKI) systems, where they link a public key to the identity of the certificate holder. The CA's role includes validating the legitimacy of the certificate request, signing the certificate with its private key, and revoking certificates when necessary.
@@ -22,6 +20,6 @@ For a private CA to function, devices within the organization must trust the int
 
 See also:
 
-- [[Digital certificate]]
-- [[Public key Infrastructure (PKI)]]
-- [[Certificate signing request (CSR)]]
+- [[digital_certificate]]
+- [[public_key_infrastructure_(pki)]]
+- [[certificate_signing_request_(csr)]]

@@ -14,4 +14,4 @@ UEM enables organizations to streamline device management, enhance security, and
 
 See also:
 
-- [[Mobile device management (MDM)]]
+- [[mobile_device_management_(mdm)]]

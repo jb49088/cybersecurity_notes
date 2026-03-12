@@ -15,4 +15,4 @@ IT continues to evolve, driving innovation in fields like artificial intelligenc
 
 See also:
 
-- [[Operational technology (OT)]]
+- [[operational_technology_(ot)]]

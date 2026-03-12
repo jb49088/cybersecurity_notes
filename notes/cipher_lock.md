@@ -10,4 +10,4 @@ While cipher locks are generally considered secure, their vulnerability lies in 
 
 See also:
 
-- [[Brute force attack]]
+- [[brute_force_attack]]

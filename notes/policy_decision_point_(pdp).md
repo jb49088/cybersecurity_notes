@@ -12,8 +12,8 @@ PDPs are commonly used in identity and access management (IAM) systems, zero tru
 
 See also:
 
-- [[Zero trust]]
-- [[Policy-based access control (PBAC)]]
-- [[Policy enforcement point (PEP)]]
-- [[Policy engine]]
-- [[Policy administrator]]
+- [[zero_trust]]
+- [[policy-based_access_control_(pbac)]]
+- [[policy_enforcement_point_(pep)]]
+- [[policy_engine]]
+- [[policy_administrator]]

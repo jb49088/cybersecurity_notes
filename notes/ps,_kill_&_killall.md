@@ -1,7 +1,5 @@
 # ps, kill & killall
 
-[[🏷️Linux command]]
-
 The `ps`, `kill` and `killall` commands are all used to manage processes in Linux.
 
 The `ps` command is used to display information about the current running processes on the system. Here are some examples of using the `ps` command:

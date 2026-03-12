@@ -1,7 +1,5 @@
 # Remote desktop protocol (RDP)
 
-[[🏷️Network protocol]]
-
 Remote desktop protocol (RDP) is a proprietary protocol developed by Microsoft that enables remote access to a computer over a network. It allows users to control a remote system as if they were physically present, providing access to files, applications, and system settings.
 
 - **Port number and protocol type:** RDP operates over port 3389 using TCP and optionally UDP for improved performance.

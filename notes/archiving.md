@@ -12,5 +12,5 @@ Effective archiving supports operational continuity, enhances compliance, and pr
 
 See also:
 
-- [[Data retention]]
-- [[Backup]]
+- [[data_retention]]
+- [[backup]]

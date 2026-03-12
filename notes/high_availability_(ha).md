@@ -14,5 +14,5 @@ Achieving high availability often requires significant investment in high-qualit
 
 See also:
 
-- [[Server clustering]]
-- [[Load balancer]]
+- [[server_clustering]]
+- [[load_balancer]]

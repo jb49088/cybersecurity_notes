@@ -15,5 +15,5 @@ CLIs remain an essential tool for IT professionals, developers, and cybersecurit
 
 See also:
 
-- [[Graphical user interface (GUI)]]
-- [[Secure shell (SSH)]]
+- [[graphical_user_interface_(gui)]]
+- [[secure_shell_(ssh)]]

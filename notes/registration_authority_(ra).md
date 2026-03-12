@@ -14,5 +14,5 @@ RAs are essential to the PKI ecosystem, providing a layer of trust by verifying 
 
 See also:
 
-- [[Certificate authority (CA)]]
-- [[Digital certificate]]
+- [[certificate_authority_(ca)]]
+- [[digital_certificate]]

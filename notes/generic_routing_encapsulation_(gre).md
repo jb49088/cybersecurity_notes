@@ -1,7 +1,5 @@
 # Generic routing encapsulation (GRE)
 
-[[🏷️Network protocol]]
-
 Generic routing encapsulation (GRE) is a tunneling protocol used to encapsulate a wide variety of network layer protocols in order to create a point-to-point connection across an IP network. GRE allows for the transmission of packets from one network to another, encapsulating them into IP packets for transport.
 
 - **Tunneling protocol:** GRE is commonly used to create tunnels between two endpoints over an IP network, allowing the transport of data from one network to another in a secure and encapsulated format.
@@ -16,6 +14,6 @@ While GRE is useful for network tunneling and routing, it is often paired with o
 
 See also:
 
-- [[Encapsulation]]
-- [[Virtual private network (VPN)]]
-- [[Internet protocol security (IPsec)]]
+- [[encapsulation]]
+- [[virtual_private_network_(vpn)]]
+- [[internet_protocol_security_(ipsec)]]

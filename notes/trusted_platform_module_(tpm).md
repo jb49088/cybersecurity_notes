@@ -1,7 +1,5 @@
 # Trusted platform module (TPM)
 
-[[🏷️Security hardware]]
-
 A trusted platform module (TPM) is a specialized security chip embedded in computers and other devices that provides hardware-based protection for sensitive information. TPMs are designed to securely store cryptographic keys, passwords, and other critical data, protecting it from tampering, theft, or unauthorized access.
 
 Key features of a TPM include:
@@ -17,7 +15,7 @@ TPMs are widely used in applications like disk encryption (e.g., BitLocker), sec
 
 See also:
 
-- [[Encryption]]
-- [[Secure enclave]]
-- [[Hardware Security Module (HSM)]]
-- [[Secure boot]]
+- [[encryption]]
+- [[secure_enclave]]
+- [[hardware_security_module_(hsm)]]
+- [[secure_boot]]

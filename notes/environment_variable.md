@@ -15,9 +15,9 @@ Environment variables are a fundamental part of how operating systems and applic
 
 See also:
 
-- [[Linux]]
-- [[Windows]]
-- [[Operating system (OS)]]
-- [[Path hijacking]]
-- [[Privilege escalation]]
-- [[Injection attack]]
+- [[linux]]
+- [[windows]]
+- [[operating_system_(os)]]
+- [[path_hijacking]]
+- [[privilege_escalation]]
+- [[injection_attack]]

@@ -1,7 +1,5 @@
 # Void linux
 
-[[🏷️Linux distribution]]
-
 Void linux is an independent, rolling-release Linux distribution known for its simplicity, performance, and unique design. Unlike most mainstream distributions, Void is not based on another Linux distro but is built from scratch. It offers a lightweight, minimal environment that appeals to experienced users looking for a more hands-on approach.
 
 - **RunIt init system**: Void Linux uses RunIt as its init system instead of the more common **Systemd**, offering a simpler and more efficient process management.

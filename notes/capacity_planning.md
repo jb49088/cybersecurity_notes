@@ -10,4 +10,4 @@ Effective capacity planning requires a balanced approach. This includes adding t
 
 See also:
 
-- [[Scalability]]
+- [[scalability]]

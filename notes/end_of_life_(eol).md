@@ -10,5 +10,5 @@ Manufacturers often announce EOL timelines in advance, giving users time to plan
 
 See also:
 
-- [[End of service life (EOSL)]]
-- [[Software update]]
+- [[end_of_service_life_(eosl)]]
+- [[software_update]]

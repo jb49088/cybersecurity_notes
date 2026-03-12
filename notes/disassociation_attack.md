@@ -1,7 +1,5 @@
 # Disassociation attack
 
-[[🏷️Network attack]]
-
 Disassociation attacks are a type of denial-of-service (DoS) attack targeting wireless networks. They exploit the management frames in the 802.11 Wi-Fi protocol to forcibly disconnect devices from an access point (AP), disrupting the network connection.
 
 - **How it works:** Attackers send spoofed disassociation frames, tricking devices into believing the AP has disconnected them. This causes devices to drop their connection and repeatedly attempt to reconnect.
@@ -16,7 +14,7 @@ Disassociation attacks highlight the importance of modern Wi-Fi security protoco
 
 See also:
 
-- [[Denial of service (DoS)]]
-- [[IEEE 802.11 (Wi-Fi)]]
-- [[Access point (AP)]]
-- [[Wi-Fi Protected Access III (WPA3)]]
+- [[denial_of_service_(dos)]]
+- [[ieee_802.11_(wi-fi)]]
+- [[access_point_(ap)]]
+- [[wi-fi_protected_access_iii_(wpa3)]]

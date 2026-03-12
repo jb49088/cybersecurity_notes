@@ -14,4 +14,4 @@ USB OTG enhances the versatility of mobile devices by enabling direct interactio
 
 See also:
 
-- [[Universal serial bus (USB)]]
+- [[universal_serial_bus_(usb)]]

@@ -8,4 +8,4 @@ One of the key uses of geolocation is to manage data access based on geographic 
 
 See also:
 
-- [[Geofencing]]
+- [[geofencing]]

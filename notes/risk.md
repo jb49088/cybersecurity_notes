@@ -10,8 +10,8 @@ Effective risk management helps balance security measures with organizational ne
 
 See also:
 
-- [[Risk management]]
-- [[Risk appetite]]
-- [[Risk assessment]]
-- [[Threat]]
-- [[Vulnerability]]
+- [[risk_management]]
+- [[risk_appetite]]
+- [[risk_assessment]]
+- [[threat]]
+- [[vulnerability]]

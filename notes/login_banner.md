@@ -13,4 +13,4 @@ Login banners are an essential part of system security, ensuring that users are 
 
 See also:
 
-- [[Authentication]]
+- [[authentication]]

@@ -14,5 +14,5 @@ Out-of-bounds writes are often exploited to inject malicious code or overwrite c
 
 See also:
 
-- [[Buffer overflow]]
-- [[Code injection]]
+- [[buffer_overflow]]
+- [[code_injection]]

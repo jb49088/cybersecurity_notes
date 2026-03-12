@@ -1,7 +1,5 @@
 # WHERE
 
-[[🏷️SQL]]
-
 To create a filter in SQL, you need to use the keyword `WHERE`. `WHERE` indicates the condition for a filter.
 
 If you needed to email all employees with a title of IT Staff, you might use a query like this:

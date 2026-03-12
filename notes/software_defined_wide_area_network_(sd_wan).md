@@ -14,6 +14,6 @@ SD-WAN is widely adopted by organizations seeking to simplify WAN management, re
 
 See also:
 
-- [[Cloud computing]]
-- [[Wide Area Network (WAN)]]
-- [[Software-defined networking (SDN)]]
+- [[cloud_computing]]
+- [[wide_area_network_(wan)]]
+- [[software-defined_networking_(sdn)]]

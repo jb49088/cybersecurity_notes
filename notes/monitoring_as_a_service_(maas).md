@@ -18,7 +18,7 @@ MaaS offers several advantages, including scalability, as it easily adapts to gr
 
 See also:
 
-- [[Infrastructure as a service (IaaS)]]
-- [[Software as a service (SaaS)]]
-- [[Platform as a service (PaaS)]]
-- [[Cloud Service Provider (CSP)]]
+- [[infrastructure_as_a_service_(iaas)]]
+- [[software_as_a_service_(saas)]]
+- [[platform_as_a_service_(paas)]]
+- [[cloud_service_provider_(csp)]]

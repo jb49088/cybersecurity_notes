@@ -1,7 +1,5 @@
 # Data masking
 
-[[🏷️Obfuscation]]
-
 Data masking is a technique used to protect sensitive information by replacing it with fictitious but realistic data. The goal is to ensure that sensitive data is not exposed to unauthorized users while maintaining the usability of the data for testing, training, or analysis purposes. Data masking is widely employed in industries like healthcare, finance, and software development to ensure compliance with privacy regulations and secure data handling.
 
 ## Techniques used in data masking
@@ -18,7 +16,7 @@ Data masking ensures that sensitive information, such as social security numbers
 
 See also:
 
-- [[Tokenization]]
-- [[Obfuscation]]
-- [[Steganography]]
-- [[Anonymization]]
+- [[tokenization]]
+- [[obfuscation]]
+- [[steganography]]
+- [[anonymization]]

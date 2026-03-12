@@ -1,7 +1,5 @@
 # nftables
 
-[[🏷️Linux command]]
-
 nftables is a modern Linux kernel packet filtering framework that serves as the successor to iptables, offering a unified and more efficient approach to managing network traffic rules. Introduced in Linux kernel 3.13, it consolidates the functionality of iptables, ip6tables, arptables, and ebtables into a single cohesive tool.
 
 - **Unified framework:** Unlike iptables, which required separate tools for IPv4, IPv6, and Ethernet bridging, nftables handles all protocols through a single interface, simplifying rule management across different network layers.
@@ -17,6 +15,6 @@ nftables represents the current standard for packet filtering on Linux systems, 
 
 See also:
 
-- [[Firewall]]
+- [[firewall]]
 - [[iptables]]
-- [[Linux]]
+- [[linux]]

@@ -1,7 +1,5 @@
 # Password manager
 
-[[🏷️Password security]]
-
 Password managers are tools designed to help users securely store and manage their passwords. They allow individuals to generate strong, unique passwords for each of their accounts while keeping them safe in a centralized, encrypted location. Using a password manager can significantly reduce the risks associated with reusing passwords or relying on easily guessable ones.
 
 - **Use different passwords for each account:** It is important to have unique passwords for every account to reduce the risk of a security breach. Managing them manually would be impractical.
@@ -15,5 +13,5 @@ By using a password manager, you can reduce the likelihood of password-related s
 
 See also:
 
-- [[Password]]
-- [[Password vault]]
+- [[password]]
+- [[password_vault]]

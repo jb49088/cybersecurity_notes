@@ -10,5 +10,5 @@ The term "zombie" reflects the idea that the device is under the control of an e
 
 See also:
 
-- [[Botnets]]
-- [[Malware]]
+- [[botnets]]
+- [[malware]]

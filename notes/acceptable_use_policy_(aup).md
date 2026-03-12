@@ -1,7 +1,5 @@
 # Acceptable use policy (AUP)
 
-[[🏷️Policy]]
-
 An acceptable use policy (AUP) outlines the guidelines and rules for using an organization's assets and resources. It ensures that employees, contractors, and other stakeholders understand the proper use of these resources, protecting the organization from misuse and potential liability.
 
 - **Defines acceptable use:** Specifies what constitutes appropriate use of company assets, such as internet access, telephones, computers, and mobile devices.

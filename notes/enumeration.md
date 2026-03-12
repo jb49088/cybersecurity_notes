@@ -14,5 +14,5 @@ Enumeration is a critical step in both offensive security (ethical hacking and p
 
 See also:
 
-- [[Reconnaissance]]
-- [[Penetration test]]
+- [[reconnaissance]]
+- [[penetration_test]]

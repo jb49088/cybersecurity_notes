@@ -14,5 +14,5 @@ The main objective of IEEE 802.1X is to enhance network security by ensuring tha
 
 See also:
 
-- [[Network access control (NAC)]]
-- [[AAA server]]
+- [[network_access_control_(nac)]]
+- [[aaa_server]]

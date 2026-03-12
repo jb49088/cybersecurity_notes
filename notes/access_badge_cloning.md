@@ -8,6 +8,6 @@ Cloning is a concern in high-security areas like corporate offices, government b
 
 See also:
 
-- [[Social engineering]]
-- [[Near field communication (NFC)]]
-- [[Radio Frequency Identification (RFID)]]
+- [[social_engineering]]
+- [[near_field_communication_(nfc)]]
+- [[radio_frequency_identification_(rfid)]]

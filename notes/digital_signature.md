@@ -12,8 +12,8 @@ How it works:
 
 See also:
 
-- [[Asymmetric encryption]]
-- [[Hashing]]
-- [[Authentication]]
-- [[Integrity]]
-- [[Non-repudiation]]
+- [[asymmetric_encryption]]
+- [[hashing]]
+- [[authentication]]
+- [[integrity]]
+- [[non-repudiation]]

@@ -1,7 +1,5 @@
 # Float
 
-[[🏷️Data type]]
-
 **Float data** is data consisting of a number with a decimal point. All of the following are examples of float data:
 
 - `-2.2`

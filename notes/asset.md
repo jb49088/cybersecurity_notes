@@ -15,5 +15,5 @@ Assets are often tracked through asset inventories, helping organizations mainta
 
 See also:
 
-- [[Asset inventory]]
-- [[Risk management]]
+- [[asset_inventory]]
+- [[risk_management]]

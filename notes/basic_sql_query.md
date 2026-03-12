@@ -1,7 +1,5 @@
 # Basic SQL query
 
-[[🏷️SQL]]
-
 There are two essential keywords in any SQL query: `SELECT` and `FROM`. You will use these keywords every time you want to query a SQL database. Using them together helps SQL identify what data you need from a database and the table you are returning it from.
 
 As an example, you can run this query to return data from the customers table of the `Chinook` database:

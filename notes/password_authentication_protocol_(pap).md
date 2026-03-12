@@ -1,7 +1,5 @@
 # Password authentication protocol (PAP)
 
-[[🏷️Network protocol]]
-
 Password authentication protocol (PAP) is a simple authentication method used to verify users by transmitting usernames and passwords over a network. It is commonly used in older network protocols and remote access services but is considered insecure due to its lack of encryption.
 
 - **Plaintext transmission:** PAP sends credentials in cleartext, making it vulnerable to interception by attackers using packet sniffing techniques.
@@ -16,5 +14,5 @@ Due to its security weaknesses, PAP is generally discouraged for use unless comb
 
 See also:
 
-- [[Challenge Handshake Authentication Protocol (CHAP)]]
-- [[Extensible authentication protocol (EAP)]]
+- [[challenge_handshake_authentication_protocol_(chap)]]
+- [[extensible_authentication_protocol_(eap)]]

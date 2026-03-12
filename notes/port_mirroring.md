@@ -12,5 +12,5 @@ Port mirroring is commonly used in environments where there is a need for contin
 
 See also:
 
-- [[Switched port analyzer (SPAN)]]
-- [[Test access point (TAP)]]
+- [[switched_port_analyzer_(span)]]
+- [[test_access_point_(tap)]]

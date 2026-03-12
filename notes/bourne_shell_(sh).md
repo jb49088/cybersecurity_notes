@@ -1,7 +1,5 @@
 # Bourne Shell (sh)
 
-[[🏷️Linux command]] [[🏷️Interpreter]]
-
 The Bourne Shell is the original Unix shell, written by Stephen Bourne and released with Unix Version 7 in 1979. It established the foundational syntax and behavior that all subsequent shells have built upon. While largely superseded by modern shells like bash and zsh for interactive use, sh remains universally present on Unix and Linux systems and is the basis for POSIX shell standards.
 
 - **POSIX standard:** sh defines the baseline for POSIX shell compliance. Scripts written to the POSIX sh standard are portable across virtually every Unix-like system, making sh the lowest common denominator for cross-platform scripting.
@@ -19,7 +17,7 @@ Despite its age, sh remains one of the most security-relevant binaries on any Un
 
 See also:
 
-- [[Bourne Again SHell (Bash).md]]
-- [[Reverse shell]]
-- [[Privilege escalation]]
-- [[GTFOBins]]
+- [[bourne_again_shell_(bash).md]]
+- [[reverse_shell]]
+- [[privilege_escalation]]
+- [[gtfobins]]

@@ -16,6 +16,6 @@ Encoding is encountered constantly in security testing across web requests, file
 
 See also:
 
-- [[Base64]]
-- [[Cross-site scripting (XSS)]]
-- [[Steganography]]
+- [[base64]]
+- [[cross-site_scripting_(xss)]]
+- [[steganography]]

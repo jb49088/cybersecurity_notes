@@ -8,4 +8,4 @@ Essentially, IoAs focus on finding the why and how of an ongoing or unknown atta
 
 See also:
 
-- [[Indicators of compromise (IoC)]]
+- [[indicators_of_compromise_(ioc)]]

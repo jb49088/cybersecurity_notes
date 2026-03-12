@@ -15,5 +15,5 @@ By monitoring application security, organizations can proactively address vulner
 
 See also:
 
-- [[Injection attack]]
-- [[Anomaly-based detection]]
+- [[injection_attack]]
+- [[anomaly-based_detection]]

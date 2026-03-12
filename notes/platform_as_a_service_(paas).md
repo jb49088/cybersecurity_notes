@@ -17,6 +17,6 @@ Popular PaaS providers include Google App Engine, Microsoft Azure App Service, a
 
 See also:
 
-- [[Cloud computing]]
-- [[Infrastructure as a service (IaaS)]]
-- [[Software as a service (SaaS)]]
+- [[cloud_computing]]
+- [[infrastructure_as_a_service_(iaas)]]
+- [[software_as_a_service_(saas)]]

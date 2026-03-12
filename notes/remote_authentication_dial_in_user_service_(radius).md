@@ -1,7 +1,5 @@
 # Remote authentication dial-in user service (RADIUS)
 
-[[🏷️Network protocol]]
-
 Remote authentication dial-in user service (RADIUS) is a network protocol used for centralized authentication, authorization, and accounting (AAA) of users accessing a network. It is commonly used by internet service providers (ISPs), enterprises, and wireless networks to manage user authentication and access control.
 
 - **Port number and protocol type:** RADIUS operates over UDP, using port 1812 for authentication and authorization and port 1813 for accounting. Some legacy implementations use ports 1645 and 1646 instead.
@@ -16,8 +14,8 @@ RADIUS is widely used in enterprise environments for managing remote access, wir
 
 See also:
 
-- [[AAA server]]
-- [[Authentication, Authorization, and Accounting (AAA)]]
-- [[IEEE 802.1X]]
-- [[Lightweight directory access protocol (LDAP)]]
-- [[Terminal access controller access control system plus (TACACS+)]]
+- [[aaa_server]]
+- [[authentication,_authorization,_and_accounting_(aaa)]]
+- [[ieee_802.1x]]
+- [[lightweight_directory_access_protocol_(ldap)]]
+- [[terminal_access_controller_access_control_system_plus_(tacacs+)]]

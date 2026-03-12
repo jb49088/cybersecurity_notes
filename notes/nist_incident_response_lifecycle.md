@@ -1,7 +1,5 @@
 # NIST Incident Response Lifecycle
 
-[[🏷️Framework]]
-
 The NIST Incident Response Lifecycle, outlined in NIST Special Publication 800-61 Revision 2, provides a structured approach for organizations to effectively manage and respond to cybersecurity incidents. This lifecycle ensures that incidents are handled systematically to minimize damage, recover quickly, and learn from the event to improve future response efforts.
 
 **The NIST Incident Response Lifecycle consists of four main phases:**

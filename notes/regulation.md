@@ -17,8 +17,8 @@ Regulatory compliance is critical for organizations to maintain trust, mitigate 
 
 See also:
 
-- [[Compliance]]
-- [[General data protection regulation (GDPR)]]
-- [[Health Insurance Portability and Accountability Act (HIPAA)]]
-- [[Payment Card Industry Data Security Standard (PCI DSS)]]
-- [[Federal Information Security Management Act (FISMA)]]
+- [[compliance]]
+- [[general_data_protection_regulation_(gdpr)]]
+- [[health_insurance_portability_and_accountability_act_(hipaa)]]
+- [[payment_card_industry_data_security_standard_(pci_dss)]]
+- [[federal_information_security_management_act_(fisma)]]

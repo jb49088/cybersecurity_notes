@@ -1,7 +1,5 @@
 # cd
 
-[[🏷️Linux command]]
-
 While working within the terminal, moving around within directories is pretty much a necessity. The cd command is one of the important Linux commands you must know, and it will help you navigate through directories. Just type `cd` followed by directory, as shown below.
 
 `cd <directory path>`

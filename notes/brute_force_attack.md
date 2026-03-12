@@ -1,7 +1,5 @@
 # Brute force attack
 
-[[🏷️Password attack]]
-
 A brute force attack involves systematically trying every possible password combination until the correct one is found. While this can be an effective method for breaking weak passwords, the process can be time-consuming, especially when strong hashing algorithms are used, which slow down the attack.
 
 Brute force attacks can be categorized into two types:
@@ -15,5 +13,5 @@ To defend against brute force attacks, it’s important to use strong, complex p
 
 See also:
 
-- [[Password spraying]]
-- [[Dictionary attack]]
+- [[password_spraying]]
+- [[dictionary_attack]]

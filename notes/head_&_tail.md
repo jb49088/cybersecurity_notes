@@ -1,7 +1,5 @@
 # head & tail
 
-[[🏷️Linux command]]
-
 When outputting large files, the `head` and `tail` commands come in handy. These commands display the beginning or end of a file, respectively. They are commonly used to quickly view the contents of a file without having to open it in a text editor.
 
 The `head` and `tail` commands display the first 10 lines of a file by default. To display a different number of lines, you can use the `-n` option, followed by the number of lines you want to display.

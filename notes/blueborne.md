@@ -20,5 +20,5 @@ Awareness and timely updates are key to preventing BlueBorne from compromising s
 
 See also:
 
-- [[Bluetooth]]
-- [[Internet of Things (IoT)]]
+- [[bluetooth]]
+- [[internet_of_things_(iot)]]

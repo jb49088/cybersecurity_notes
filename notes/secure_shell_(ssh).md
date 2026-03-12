@@ -1,7 +1,5 @@
 # Secure shell (SSH)
 
-[[🏷️Network protocol]]
-
 Secure Shell (SSH) is a cryptographic network protocol used to securely access and manage remote systems over an unsecured network. It is widely used for securely logging into remote machines, executing commands, and transferring files.
 
 - **Port number:** SSH typically operates over port 22 for both remote login and file transfer.
@@ -18,5 +16,5 @@ SSH is a fundamental tool for secure remote administration and file transfer in 
 
 See also:
 
-- [[SSH file transfer protocol (SFTP)]]
-- [[Secure copy protocol (SCP)]]
+- [[ssh_file_transfer_protocol_(sftp)]]
+- [[secure_copy_protocol_(scp)]]

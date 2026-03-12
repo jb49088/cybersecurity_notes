@@ -1,7 +1,5 @@
 # Bootloader
 
-[[🏷️OS component]]
-
 A bootloader is a small program that loads the operating system (OS) into memory when a computer or device starts up. It is responsible for initiating the boot process and transferring control to the operating system, allowing the system to start and operate.
 
 - **Primary function**: The bootloader's main role is to load the OS kernel into memory and initiate its execution.
@@ -21,6 +19,6 @@ A bootloader is a crucial part of the system startup process, and its configurat
 
 See also:
 
-- [[Unified Extensible Firmware Interface (UEFI)]]
-- [[Basic Input ⧸ Output System (BIOS)]]
-- [[Secure boot]]
+- [[unified_extensible_firmware_interface_(uefi)]]
+- [[basic_input_⧸_output_system_(bios)]]
+- [[secure_boot]]

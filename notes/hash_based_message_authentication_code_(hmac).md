@@ -10,8 +10,8 @@ The HMAC process involves hashing the input data and key in a specific sequence 
 
 See also:
 
-- [[Message Authentication Code (MAC)]]
-- [[Cipher-based Message Authentication Code (CMAC)]]
-- [[Secure Hash Algorithm 2 (SHA-2)]]
-- [[Secure Hash Algorithm 3 (SHA-3)]]
-- [[Hypertext transfer protocol secure (HTTPS)]]
+- [[message_authentication_code_(mac)]]
+- [[cipher-based_message_authentication_code_(cmac)]]
+- [[secure_hash_algorithm_2_(sha-2)]]
+- [[secure_hash_algorithm_3_(sha-3)]]
+- [[hypertext_transfer_protocol_secure_(https)]]

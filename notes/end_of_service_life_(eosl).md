@@ -10,5 +10,5 @@ Organizations should plan to replace or upgrade EOSL products well in advance. R
 
 See also:
 
-- [[End of life (EOL)]]
-- [[Software update]]
+- [[end_of_life_(eol)]]
+- [[software_update]]

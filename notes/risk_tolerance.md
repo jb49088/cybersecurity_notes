@@ -14,6 +14,6 @@ Understanding risk tolerance helps organizations make decisions that align with 
 
 See also:
 
-- [[Risk appetite]]
-- [[Risk management]]
-- [[Risk assessment]]
+- [[risk_appetite]]
+- [[risk_management]]
+- [[risk_assessment]]

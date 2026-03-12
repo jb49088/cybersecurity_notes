@@ -1,7 +1,5 @@
 # rm
 
-[[🏷️Linux command]]
-
 The rm command is used to delete files and folders and is one of the important Linux commands you must know.
 
 `rm <file name>`

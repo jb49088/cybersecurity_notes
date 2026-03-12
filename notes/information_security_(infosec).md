@@ -6,4 +6,4 @@ Information security involves protecting digital data from unauthorized access, 
 
 See also:
 
-- [[Information Systems Security]]
+- [[information_systems_security]]

@@ -12,6 +12,6 @@ FAR is typically adjusted by fine-tuning the sensitivity of the biometric system
 
 See also:
 
-- [[Biometrics]]
-- [[False rejection rate (FRR)]]
-- [[Crossover error rate (CER)]]
+- [[biometrics]]
+- [[false_rejection_rate_(frr)]]
+- [[crossover_error_rate_(cer)]]

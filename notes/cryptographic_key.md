@@ -14,11 +14,11 @@ The security of a cryptographic system depends on the strength and secrecy of th
 
 See also:
 
-- [[Public key Infrastructure (PKI)]]
-- [[Encryption]]
-- [[Symmetric encryption]]
-- [[Asymmetric encryption]]
-- [[Advanced encryption standard (AES)]]
-- [[Data encryption standard (DES)]]
-- [[Rivest shamir adleman (RSA)]]
-- [[Elliptic-curve cryptography (ECC)]]
+- [[public_key_infrastructure_(pki)]]
+- [[encryption]]
+- [[symmetric_encryption]]
+- [[asymmetric_encryption]]
+- [[advanced_encryption_standard_(aes)]]
+- [[data_encryption_standard_(des)]]
+- [[rivest_shamir_adleman_(rsa)]]
+- [[elliptic-curve_cryptography_(ecc)]]

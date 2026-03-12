@@ -1,7 +1,5 @@
 # Personal Area Network (PAN)
 
-[[🏷️Network type]]
-
 In moving from LANs to WANs, we increased the scope. Going the other way, a personal area network (PAN) is going to be much smaller in scale. The term PAN is most commonly used in reference to Bluetooth networks. In 1998, a consortium of companies formed the Bluetooth Special Interest Group (SIG) and formally adopted the name Bluetooth for its technology. The name comes from a tenth-century Danish king named Harald Blåtand, known as Harold Bluetooth in English. (One can only imagine how he got that name.) King Blåtand had successfully unified warring factions in the areas of Norway, Sweden, and Denmark. The makers of Bluetooth were trying to unite disparate technology industries, namely computing, mobile communications, and the auto industry.
 
 > [!info] Note

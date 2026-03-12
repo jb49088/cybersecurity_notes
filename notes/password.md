@@ -1,7 +1,5 @@
 # Password
 
-[[🏷️Authentication methods]]
-
 Passwords are a fundamental and widely used method for authenticating users in digital environments. They act as a primary barrier against unauthorized access, requiring users to input a secret combination of characters to verify their identity.
 
 Setting password requirements was historically one of the few controls available to help protect passwords from brute-force attacks and to help handle the issue of stolen, reused, or otherwise exposed passwords. Common password settings found in most operating systems and many services support configuration options for passwords, including:
@@ -20,6 +18,6 @@ Setting password requirements was historically one of the few controls available
 
 See also:
 
-- [[Password policy]]
-- [[Password attack]]
-- [[Password manager]]
+- [[password_policy]]
+- [[password_attack]]
+- [[password_manager]]

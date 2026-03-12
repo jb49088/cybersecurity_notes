@@ -10,6 +10,6 @@ The primary benefit of honeytokens is that they allow organizations to track att
 
 See also:
 
-- [[Honeypot]]
-- [[Honeyfiles]]
-- [[Honeynet]]
+- [[honeypot]]
+- [[honeyfiles]]
+- [[honeynet]]

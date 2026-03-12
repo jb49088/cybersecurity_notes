@@ -1,7 +1,5 @@
 # Exposure factor (EF)
 
-[[🏷️Risk management]]
-
 Exposure factor (EF) is a metric used in risk management to quantify the potential impact of a specific threat on an asset or system. It represents the percentage of an asset’s value that would be lost if a particular risk or threat were to occur. EF helps organizations assess the financial and operational consequences of various risks.
 
 Key points about Exposure Factor include:
@@ -16,5 +14,5 @@ Exposure factor is an important concept for understanding risk in terms of asset
 
 See also:
 
-- [[Single loss expectancy (SLE)]]
-- [[Annual loss expectancy (ALE)]]
+- [[single_loss_expectancy_(sle)]]
+- [[annual_loss_expectancy_(ale)]]

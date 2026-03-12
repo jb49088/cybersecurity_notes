@@ -17,7 +17,7 @@ Cookies help improve user experience by enabling websites to remember user prefe
 
 See also:
 
-- [[Secure cookies]]
-- [[Session]]
-- [[Session hijacking]]
-- [[Cross-site scripting (XSS)]]
+- [[secure_cookies]]
+- [[session]]
+- [[session_hijacking]]
+- [[cross-site_scripting_(xss)]]

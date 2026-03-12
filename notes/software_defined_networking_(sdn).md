@@ -12,5 +12,5 @@ SDN enhances network flexibility by allowing centralized control, making it espe
 
 See also:
 
-- [[Cloud Service Provider (CSP)]]
-- [[Cloud computing]]
+- [[cloud_service_provider_(csp)]]
+- [[cloud_computing]]

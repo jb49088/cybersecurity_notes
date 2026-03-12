@@ -1,7 +1,5 @@
 # Password-based key derivation function 2 (PBKDF2)
 
-[[🏷️Key derivation function]]
-
 Password-based key derivation function 2 (PBKDF2) is a cryptographic algorithm used to strengthen passwords by generating a secure key from a user-provided password and a salt. It is widely used in password hashing and encryption to make brute-force and dictionary attacks more difficult.
 
 - **Key stretching:** PBKDF2 applies a hash function (such as SHA-256) multiple times to slow down brute-force attacks.
@@ -16,5 +14,5 @@ PBKDF2 remains a strong choice for password hashing and encryption when implemen
 
 See also:
 
-- [[Key Derivation Function (KDF)]]
+- [[key_derivation_function_(kdf)]]
 - [[bcrypt]]

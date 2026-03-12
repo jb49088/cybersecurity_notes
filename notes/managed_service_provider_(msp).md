@@ -15,4 +15,4 @@ MSPs play a critical role in modern business operations, especially for small an
 
 See also:
 
-- [[Managed security service provider (MSSP)]]
+- [[managed_security_service_provider_(mssp)]]

@@ -14,8 +14,8 @@ A software program used to prevent, detect, and eliminate malware and viruses. I
 
 See also:
 
-- [[Malware]]
-- [[Signature-based detection]]
-- [[Virus]]
-- [[Zero-day]]
-- [[Firewall]]
+- [[malware]]
+- [[signature-based_detection]]
+- [[virus]]
+- [[zero-day]]
+- [[firewall]]

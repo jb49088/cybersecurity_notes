@@ -14,5 +14,5 @@ As PEDs continue to evolve, they play a significant role in modern digital commu
 
 See also:
 
-- [[Mobile device management (MDM)]]
-- [[Bring your own device (BYOD)]]
+- [[mobile_device_management_(mdm)]]
+- [[bring_your_own_device_(byod)]]

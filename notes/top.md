@@ -1,7 +1,5 @@
 # top
 
-[[🏷️Linux command]]
-
 A few sections earlier, we talked about the `ps` command. You observed that the `ps` command will output the active processes and end itself.
 
 The `top` command is like a CLI version of the task manager in Windows.

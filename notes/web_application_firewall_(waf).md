@@ -1,7 +1,5 @@
 # Web application firewall (WAF)
 
-[[🏷️Network security]] [[🏷️Web application security]]
-
 A web application firewall (WAF) is a specialized security solution designed to protect web applications by filtering and monitoring HTTP/HTTPS traffic. Unlike traditional firewalls, which operate at the network layer, WAFs operate at the application layer to specifically address threats targeting web applications.
 
 Key Features:
@@ -17,10 +15,10 @@ A web application firewall adds an essential layer of security by focusing on th
 
 See also:
 
-- [[Firewall]]
-- [[Hypertext transfer protocol (HTTP)]]
-- [[Hypertext transfer protocol secure (HTTPS)]]
-- [[Injection attack]]
-- [[SQL injection (SQLi)]]
-- [[Cross-site scripting (XSS)]]
-- [[Payment Card Industry Data Security Standard (PCI DSS)]]
+- [[firewall]]
+- [[hypertext_transfer_protocol_(http)]]
+- [[hypertext_transfer_protocol_secure_(https)]]
+- [[injection_attack]]
+- [[sql_injection_(sqli)]]
+- [[cross-site_scripting_(xss)]]
+- [[payment_card_industry_data_security_standard_(pci_dss)]]

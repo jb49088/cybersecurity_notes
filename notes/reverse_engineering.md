@@ -15,7 +15,7 @@ Reverse engineering is one of the most technically demanding disciplines in cybe
 
 See also:
 
-- [[Capture the flag (CTF)]]
-- [[Malware]]
-- [[Malware analysis]]
-- [[Binary exploitation]]
+- [[capture_the_flag_(ctf)]]
+- [[malware]]
+- [[malware_analysis]]
+- [[binary_exploitation]]

@@ -16,7 +16,7 @@ Gap analysis improves security by identifying weaknesses, ensures compliance wit
 
 See also:
 
-- [[Risk management]]
-- [[Compliance]]
-- [[Security assessment]]
-- [[Vulnerability management]]
+- [[risk_management]]
+- [[compliance]]
+- [[security_assessment]]
+- [[vulnerability_management]]

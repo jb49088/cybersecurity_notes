@@ -1,8 +1,8 @@
 # The evolution of hash functions
 
-Hash functions are important controls that are part of every company's security strategy. Hashing is widely used for [[Authentication|authentication]] and [[Non-repudiation|non-repudiation]], the concept that the authenticity of information can’t be denied.
+Hash functions are important controls that are part of every company's security strategy. Hashing is widely used for [[authentication|authentication]] and [[non-repudiation|non-repudiation]], the concept that the authenticity of information can’t be denied.
 
-Previously, you learned that [[Hash function|hash functions]] are algorithms that produce a code that can't be decrypted. Hash functions convert information into a unique value that can then be used to determine its integrity. In this reading, you’ll learn about the origins of hash functions and how they’ve changed over time.
+Previously, you learned that [[hash_function|hash_functions]] are algorithms that produce a code that can't be decrypted. Hash functions convert information into a unique value that can then be used to determine its integrity. In this reading, you’ll learn about the origins of hash functions and how they’ve changed over time.
 
 ## Origins of hashing
 
@@ -10,7 +10,7 @@ Hash functions have been around since the early days of computing. They were ori
 
 One of the earliest hash functions is Message Digest 5, more commonly known as MD5. Professor Ronald Rivest of the Massachusetts Institute of Technology (MIT) developed MD5 in the early 1990s as a way to verify that a file sent over a network matched its source file.
 
-Whether it’s used to convert a single email or the source code of an application, MD5 works by converting data into a 128-bit value. You might recall that a [[Bit|bit]] is the smallest unit of data measurement on a computer. Bits can either be a 0 or 1. In a computer, bits represent user input in a way that computers can interpret. In a hash table, this appears as a [[20-29 Cybersecurity/26 Programming & Databases/0 Meta/Archive/String|string]] of 32 characters. Altering anything in the source file generates an entirely new hash value.
+Whether it’s used to convert a single email or the source code of an application, MD5 works by converting data into a 128-bit value. You might recall that a [[bit|bit]] is the smallest unit of data measurement on a computer. Bits can either be a 0 or 1. In a computer, bits represent user input in a way that computers can interpret. In a hash table, this appears as a [[20-29_cybersecurity/26_programming_&_databases/0_meta/archive/string|string]] of 32 characters. Altering anything in the source file generates an entirely new hash value.
 
 Generally, the longer the hash value, the more secure it is. It wasn’t long after MD5's creation that security practitioners discovered 128-bit digests resulted in a major vulnerability.
 
@@ -20,7 +20,7 @@ Here is an example of how plaintext gets turned into hash values:
 
 One of the flaws in MD5 happens to be a characteristic of all hash functions. Hash algorithms map any input, regardless of its length, into a fixed-size value of letters and numbers. What’s the problem with that? Although there are an infinite amount of possible inputs, there’s only a finite set of available outputs!
 
-MD5 values are limited to 32 characters in length. Due to the limited output size, the algorithm is considered to be vulnerable to [[Hash collision|hash collision]], an instance when different inputs produce the same hash value. Because hashes are used for authentication, a hash collision is similar to copying someone’s identity. Attackers can carry out [[Collision attack|collision attacks]] to fraudulently impersonate authentic data.
+MD5 values are limited to 32 characters in length. Due to the limited output size, the algorithm is considered to be vulnerable to [[hash_collision|hash_collision]], an instance when different inputs produce the same hash value. Because hashes are used for authentication, a hash collision is similar to copying someone’s identity. Attackers can carry out [[collision_attack|collision_attacks]] to fraudulently impersonate authentic data.
 
 ## Next-generation hashing
 
@@ -44,13 +44,13 @@ This is a safe system unless an attacker gains access to the user database. If p
 
 ### Rainbow tables
 
-A [[Rainbow table|rainbow table]] is a file of pre-generated hash values and their associated plaintext. They’re like dictionaries of weak passwords. Attackers capable of obtaining an organization’s password database can use a rainbow table to compare them against all possible values.
+A [[rainbow_table|rainbow_table]] is a file of pre-generated hash values and their associated plaintext. They’re like dictionaries of weak passwords. Attackers capable of obtaining an organization’s password database can use a rainbow table to compare them against all possible values.
 
 ## Adding some “salt”
 
 Functions with larger digests are less vulnerable to collision and rainbow table attacks. But as you’re learning, no security control is perfect.
 
-[[Salting]] is an additional safeguard that's used to strengthen hash functions. A salt is a random string of characters that's added to data before it's hashed. The additional characters produce a more unique hash value, making salted data resilient to rainbow table attacks.
+[[salting]] is an additional safeguard that's used to strengthen hash functions. A salt is a random string of characters that's added to data before it's hashed. The additional characters produce a more unique hash value, making salted data resilient to rainbow table attacks.
 
 For example, a database containing passwords might have several hashed entries for the password "password." If those passwords were all salted, each entry would be completely different. That means an attacker using a rainbow table would be unable to find matching values for "password" in the database.
 

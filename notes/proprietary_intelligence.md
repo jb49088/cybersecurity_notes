@@ -14,5 +14,5 @@ By utilizing proprietary intelligence, organizations gain access to expert analy
 
 See also:
 
-- [[Threat intelligence]]
-- [[Open-source intelligence (OSINT)]]
+- [[threat_intelligence]]
+- [[open-source_intelligence_(osint)]]

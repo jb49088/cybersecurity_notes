@@ -14,6 +14,6 @@ Shell scripting is essential for system administrators, developers, and power us
 
 See also:
 
-- [[Script]]
-- [[Shell]]
-- [[Bash]]
+- [[script]]
+- [[shell]]
+- [[bash]]

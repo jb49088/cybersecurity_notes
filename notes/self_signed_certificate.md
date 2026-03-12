@@ -14,6 +14,6 @@ While self-signed certificates provide encryption, they are not inherently trust
 
 See also:
 
-- [[Digital certificate]]
-- [[Wildcard certificate]]
-- [[Certificate authority (CA)]]
+- [[digital_certificate]]
+- [[wildcard_certificate]]
+- [[certificate_authority_(ca)]]

@@ -1,7 +1,5 @@
 # Server
 
-[[🏷️Networking device]]
-
 Servers come in many shapes and sizes. They are a core component of the network, providing a link to the resources necessary to perform any task. The link that the server provides could be to a resource existing on the server itself or to a resource on a client computer. The server is the critical enabler, offering directions to the client computers regarding where to go to get what they need.
 
 Servers offer networks the capability of centralizing the control of resources and security,

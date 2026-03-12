@@ -14,5 +14,5 @@ Although ESNs are not as commonly used today, they played a significant role in 
 
 See also:
 
-- [[Mobile device management (MDM)]]
-- [[Subscriber identity module (SIM)]]
+- [[mobile_device_management_(mdm)]]
+- [[subscriber_identity_module_(sim)]]

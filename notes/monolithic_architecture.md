@@ -10,4 +10,4 @@ Despite these challenges, monolithic architectures are straightforward to deploy
 
 See also:
 
-- [[Microservice architecture]]
+- [[microservice_architecture]]

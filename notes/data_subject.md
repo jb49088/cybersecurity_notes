@@ -12,4 +12,4 @@ The concept of the data subject is central to data protection and privacy laws, 
 
 See also:
 
-- [[General data protection regulation (GDPR)]]
+- [[general_data_protection_regulation_(gdpr)]]

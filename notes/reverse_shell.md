@@ -16,10 +16,10 @@ Reverse shells are a fundamental technique in offensive security that bridge the
 
 See also:
 
-- [[Remote code execution (RCE)]]
-- [[Web shell]]
-- [[Bind shell]]
-- [[Netcat]]
-- [[Metasploit]]
-- [[Firewall]]
-- [[Capture the flag (CTF)]]
+- [[remote_code_execution_(rce)]]
+- [[web_shell]]
+- [[bind_shell]]
+- [[netcat]]
+- [[metasploit]]
+- [[firewall]]
+- [[capture_the_flag_(ctf)]]

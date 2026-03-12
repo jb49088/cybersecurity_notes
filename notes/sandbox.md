@@ -8,7 +8,7 @@ Sandboxes can be stand-alone physical computers that are not connected to a netw
 
 See also:
 
-- [[Virtual machine (VM)]]
-- [[Containerization]]
-- [[Virtualization]]
-- [[Hypervisor]]
+- [[virtual_machine_(vm)]]
+- [[containerization]]
+- [[virtualization]]
+- [[hypervisor]]

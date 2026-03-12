@@ -14,8 +14,8 @@ The insights gained from a BIA guide recovery strategies, minimize downtime, and
 
 See also:
 
-- [[Business continuity plan (BCP)]]
-- [[Risk assessment]]
-- [[Disaster recovery plan (DRP)]]
-- [[Recovery time objective (RTO)]]
-- [[Recovery point objective (RPO)]]
+- [[business_continuity_plan_(bcp)]]
+- [[risk_assessment]]
+- [[disaster_recovery_plan_(drp)]]
+- [[recovery_time_objective_(rto)]]
+- [[recovery_point_objective_(rpo)]]

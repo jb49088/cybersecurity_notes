@@ -10,4 +10,4 @@ In addition to location tracking, GPS is also used for time synchronization in v
 
 See also:
 
-- [[Geolocation]]
+- [[geolocation]]

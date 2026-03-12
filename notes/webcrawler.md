@@ -8,6 +8,6 @@ Webcrawlers can be used to enumerate pages, detect hidden or forgotten resources
 
 See also:
 
-- [[Dynamic page generation]]
-- [[SQL injection (SQLi)]]
-- [[Cross-site scripting (XSS)]]
+- [[dynamic_page_generation]]
+- [[sql_injection_(sqli)]]
+- [[cross-site_scripting_(xss)]]

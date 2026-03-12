@@ -1,7 +1,5 @@
 # Desktop environment
 
-[[🏷️OS component]]
-
 A desktop environment is a graphical user interface (GUI) that provides a comprehensive set of tools and utilities to manage a computer's system, applications, and resources. It acts as the interface between the user and the operating system, offering a familiar and interactive way to interact with the system.
 
 - **Graphical interface**: Desktop environments provide graphical elements such as windows, icons, buttons, and menus that make navigating the system easier and more intuitive.

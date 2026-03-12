@@ -14,6 +14,6 @@ MMS remains a widely used messaging service for multimedia communication, though
 
 See also:
 
-- [[Short message service (SMS)]]
-- [[Instant messaging (IM)]]
-- [[Internet relay chat (IRC)]]
+- [[short_message_service_(sms)]]
+- [[instant_messaging_(im)]]
+- [[internet_relay_chat_(irc)]]

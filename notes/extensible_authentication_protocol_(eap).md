@@ -1,7 +1,5 @@
 # Extensible authentication protocol (EAP)
 
-[[🏷️Network protocol]]
-
 Extensible authentication protocol (EAP) is a flexible authentication framework used in network access protocols. Rather than being a single authentication method, EAP provides a structure that supports various authentication mechanisms, allowing customization and extensibility.
 
 - **Authentication Framework:** EAP defines the architecture for authentication but does not specify a single method, enabling support for multiple approaches.
@@ -15,6 +13,6 @@ By supporting diverse authentication methods and working alongside protocols lik
 
 See also:
 
-- [[IEEE 802.1X]]
-- [[Lightweight extensible authentication protocol (LEAP)]]
-- [[Protected extensible authentication protocol (PEAP)]]
+- [[ieee_802.1x]]
+- [[lightweight_extensible_authentication_protocol_(leap)]]
+- [[protected_extensible_authentication_protocol_(peap)]]

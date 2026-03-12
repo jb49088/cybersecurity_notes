@@ -10,5 +10,5 @@ Communication between air-gapped systems requires intentional connections, such 
 
 See also:
 
-- [[Network segmentation]]
-- [[Virtual Local Area Networks (VLAN)]]
+- [[network_segmentation]]
+- [[virtual_local_area_networks_(vlan)]]

@@ -1,7 +1,5 @@
 # Simple certificate enrollment protocol (SCEP)
 
-[[🏷️Network protocol]]
-
 Simple certificate enrollment protocol (SCEP) is a protocol used to automate the issuance and management of digital certificates within a public key infrastructure (PKI). SCEP simplifies the certificate enrollment process by allowing devices and applications to request, retrieve, and renew certificates from a certificate authority (CA) without manual intervention.
 
 SCEP is widely used in enterprise environments to secure network communications, authenticate devices, and enable encrypted data exchanges. It is commonly implemented in mobile device management (MDM), VPN authentication, and IoT security.
@@ -18,7 +16,7 @@ SCEP provides an efficient and scalable solution for managing digital certificat
 
 See also:
 
-- [[Digital certificate]]
-- [[Public key Infrastructure (PKI)]]
-- [[Certificate authority (CA)]]
-- [[Mobile device management (MDM)]]
+- [[digital_certificate]]
+- [[public_key_infrastructure_(pki)]]
+- [[certificate_authority_(ca)]]
+- [[mobile_device_management_(mdm)]]

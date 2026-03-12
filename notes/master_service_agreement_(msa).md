@@ -1,7 +1,5 @@
 # Master service agreement (MSA)
 
-[[🏷️Business agreement]]
-
 A master service agreement (MSA) is a legal contract that establishes the terms and conditions for future transactions or projects between two parties. It serves as a broad framework, setting the groundwork for ongoing business relationships and streamlining future agreements.
 
 - **Legal contract:** The MSA is a binding legal document that defines the terms of the relationship between the parties.
@@ -15,4 +13,4 @@ An MSA is crucial for organizations looking to establish a consistent and legall
 
 See also:
 
--  [[Statement of work (SOW)]]
+-  [[statement_of_work_(sow)]]

@@ -16,9 +16,9 @@ Remote code execution represents the highest tier of impact in most vulnerabilit
 
 See also:
 
-- [[Command injection]]
-- [[Code injection]]
-- [[Buffer overflow]]
-- [[Privilege escalation]]
-- [[Input sanitization]]
-- [[Binary exploitation]]
+- [[command_injection]]
+- [[code_injection]]
+- [[buffer_overflow]]
+- [[privilege_escalation]]
+- [[input_sanitization]]
+- [[binary_exploitation]]

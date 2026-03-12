@@ -15,5 +15,5 @@ Understanding SLE is essential for organizations to assess the financial impact 
 
 See also:
 
-- [[Annual loss expectancy (ALE)]]
-- [[Exposure factor (EF)]]
+- [[annual_loss_expectancy_(ale)]]
+- [[exposure_factor_(ef)]]

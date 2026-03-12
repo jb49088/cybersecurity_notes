@@ -10,6 +10,6 @@ The primary goal of honeyfiles is to gather intelligence on how attackers operat
 
 See also:
 
-- [[Honeypot]]
-- [[Honeynet]]
-- [[Honeytokens]]
+- [[honeypot]]
+- [[honeynet]]
+- [[honeytokens]]

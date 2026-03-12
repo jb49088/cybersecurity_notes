@@ -1,7 +1,5 @@
 # Server message block (SMB)
 
-[[🏷️Network protocol]]
-
 Server message block (SMB) is a network file sharing protocol that allows applications to read and write to files and request services from server programs in a network. It also provides an authenticated inter-process communication mechanism.
 
 - **Port number and protocol type:** SMB operates over port 445 using TCP.

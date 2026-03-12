@@ -1,7 +1,7 @@
 ### Network traffic
 
-The movement of [[Data Packet|data packets]] across a [[Network|network]]. It encompasses all the [[Data|data]] traveling across a [[Network|network]], including various types of [[Data|data]] such as voice, video, and text.
+The movement of [[data_packet|data_packets]] across a [[network|network]]. It encompasses all the [[data|data]] traveling across a [[network|network]], including various types of [[data|data]] such as voice, video, and text.
 
 #### Data traffic
 
-A subset of [[Network Traffic|network traffic]], specifically referring to the volume of [[Data|data]] being transmitted over a [[Network|network]] within a given period.
+A subset of [[network_traffic|network_traffic]], specifically referring to the volume of [[data|data]] being transmitted over a [[network|network]] within a given period.

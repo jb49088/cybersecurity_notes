@@ -15,7 +15,7 @@ Despite its limitations, the MBR is still used in many older systems and is crit
 
 See also:
 
-- [[Basic Input ⧸ Output System (BIOS)]]
-- [[Unified Extensible Firmware Interface (UEFI)]]
-- [[Bootloader]]
-- [[Operating system (OS)]]
+- [[basic_input_⧸_output_system_(bios)]]
+- [[unified_extensible_firmware_interface_(uefi)]]
+- [[bootloader]]
+- [[operating_system_(os)]]

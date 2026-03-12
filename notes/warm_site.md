@@ -10,6 +10,6 @@ Warm sites are often geographically dispersed to ensure resilience against regio
 
 See also:
 
-- [[Hot site]]
-- [[Cold site]]
-- [[Disaster recovery plan (DRP)]]
+- [[hot_site]]
+- [[cold_site]]
+- [[disaster_recovery_plan_(drp)]]

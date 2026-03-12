@@ -1,7 +1,5 @@
 # Post office protocol (POP)
 
-[[🏷️Network protocol]]
-
 Post office protocol (POP) is an email retrieval protocol used by email clients to retrieve messages from a mail server. POP allows users to download emails from a mail server to their local devices for offline reading.
 
 - **Port number and protocol type:** POP typically operates over port 110 using TCP.
@@ -14,6 +12,6 @@ POP is a simple and efficient method of downloading email, but its lack of synch
 
 See also:
 
-- [[Post office protocol version 3 secure (POP3S)]]
-- [[Simple mail transfer protocol (SMTP)]]
-- [[Internet message access protocol (IMAP)]]
+- [[post_office_protocol_version_3_secure_(pop3s)]]
+- [[simple_mail_transfer_protocol_(smtp)]]
+- [[internet_message_access_protocol_(imap)]]

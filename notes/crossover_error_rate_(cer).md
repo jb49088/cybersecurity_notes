@@ -10,6 +10,6 @@ The CER is used to optimize system settings and ensure that the trade-off betwee
 
 See also:
 
-- [[Biometrics]]
-- [[False acceptance rate (FAR)]]
-- [[False rejection rate (FRR)]]
+- [[biometrics]]
+- [[false_acceptance_rate_(far)]]
+- [[false_rejection_rate_(frr)]]

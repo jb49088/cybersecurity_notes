@@ -16,5 +16,5 @@ Compliance monitoring is vital for mitigating risks, maintaining operational tra
 
 See also:
 
-- [[Compliance]]
-- [[Compliance reporting]]
+- [[compliance]]
+- [[compliance_reporting]]

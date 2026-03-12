@@ -13,7 +13,7 @@ Simulations are an effective way to strengthen security by testing both technica
 
 See also:
 
-- [[Tabletop exercise]]
-- [[Disaster recovery plan (DRP)]]
-- [[Business continuity plan (BCP)]]
-- [[Incident response plan (IRP)]]
+- [[tabletop_exercise]]
+- [[disaster_recovery_plan_(drp)]]
+- [[business_continuity_plan_(bcp)]]
+- [[incident_response_plan_(irp)]]

@@ -14,5 +14,5 @@ The FHS provides a standard that simplifies system administration, file manageme
 
 See also:
 
-- [[Linux]]
-- [[New technology file system (NTFS)]]
+- [[linux]]
+- [[new_technology_file_system_(ntfs)]]

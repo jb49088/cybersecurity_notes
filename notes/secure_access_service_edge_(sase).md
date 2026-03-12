@@ -10,8 +10,8 @@ The SASE framework includes lightweight client software installed on all user de
 
 See also:
 
-- [[Virtual private network (VPN)]]
-- [[Cloud computing]]
-- [[Wide Area Network (WAN)]]
-- [[Software-defined wide area network (SD-WAN)]]
-- [[Cloud access security broker (CASB)]]
+- [[virtual_private_network_(vpn)]]
+- [[cloud_computing]]
+- [[wide_area_network_(wan)]]
+- [[software-defined_wide_area_network_(sd-wan)]]
+- [[cloud_access_security_broker_(casb)]]

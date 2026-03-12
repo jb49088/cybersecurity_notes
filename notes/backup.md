@@ -12,7 +12,7 @@ Backup data, especially when stored offsite, often contains a history of sensiti
 
 See also:
 
-- [[Snapshot]]
-- [[Replication]]
-- [[Journaling]]
-- [[High availability (HA)]]
+- [[snapshot]]
+- [[replication]]
+- [[journaling]]
+- [[high_availability_(ha)]]

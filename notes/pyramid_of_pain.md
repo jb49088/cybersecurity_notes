@@ -14,4 +14,4 @@ The Pyramid of Pain helps security professionals prioritize defense mechanisms a
 
 See also:
 
-- [[Tactics, techniques, and procedures (TTP)]]
+- [[tactics,_techniques,_and_procedures_(ttp)]]

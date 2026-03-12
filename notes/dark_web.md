@@ -14,4 +14,4 @@ Organizations monitor the dark web to identify threats, such as mentions of comp
 
 See also:
 
-- [[Dark web intelligence]]
+- [[dark_web_intelligence]]

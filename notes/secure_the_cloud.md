@@ -1,6 +1,6 @@
 # Secure the cloud
 
-[[Cloud computing]] is a model for allowing convenient and on-demand network access to a shared pool of configurable computing resources. These resources can be configured and released with minimal management effort or interaction with the service provider.
+[[cloud_computing]] is a model for allowing convenient and on-demand network access to a shared pool of configurable computing resources. These resources can be configured and released with minimal management effort or interaction with the service provider.
 
 Just like any other IT infrastructure, a cloud infrastructure needs to be secured. This reading will address some main security considerations that are unique to the cloud and introduce you to the shared responsibility model used for security in the cloud. Many organizations that use cloud resources and infrastructure express concerns about the privacy of their data and resources. This concern is addressed through cryptography and other additional security measures.
 
@@ -10,7 +10,7 @@ Many organizations choose to use cloud services because of the ease of deploymen
 
 ### Identity access management
 
-[[Identity access management (IAM)]] is a collection of processes and technologies that helps organizations manage digital identities in their environment. This service also authorizes how users can use different cloud resources. A common problem that organizations face when using the cloud is the loose configuration of cloud user roles. An improperly configured user role increases risk by allowing unauthorized users to have access to critical cloud operations.
+[[identity_access_management_(iam)]] is a collection of processes and technologies that helps organizations manage digital identities in their environment. This service also authorizes how users can use different cloud resources. A common problem that organizations face when using the cloud is the loose configuration of cloud user roles. An improperly configured user role increases risk by allowing unauthorized users to have access to critical cloud operations.
 
 ### Configuration
 
@@ -18,7 +18,7 @@ The number of available cloud services adds complexity to the network. Each serv
 
 ### Attack surface 
 
-[[Cloud Service Provider (CSP)|Cloud service providers (CSPs)]] offer numerous applications and services for organizations at a low cost. 
+[[cloud_service_provider_(csp)|cloud_service_providers_(csps)]] offer numerous applications and services for organizations at a low cost. 
 
 Every service or application on a network carries its own set of risks and vulnerabilities and increases an organization’s overall attack surface. An increased attack surface must be compensated for with increased security measures.
 

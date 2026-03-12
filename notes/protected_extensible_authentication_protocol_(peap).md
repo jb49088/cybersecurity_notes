@@ -1,7 +1,5 @@
 # Protected extensible authentication protocol (PEAP)
 
-[[🏷️Network protocol]]
-
 Protected extensible authentication protocol (PEAP) is a network authentication protocol that enhances security by encapsulating extensible authentication protocol (EAP) within a transport layer security (TLS) tunnel. PEAP is commonly used in wireless networks and VPNs to provide secure authentication without exposing user credentials.
 
 PEAP operates by establishing a secure TLS session between the client and authentication server before transmitting authentication credentials. This prevents attackers from intercepting or tampering with authentication data.
@@ -18,6 +16,6 @@ PEAP enhances security by protecting authentication data from eavesdropping and 
 
 See also:
 
-- [[Extensible authentication protocol (EAP)]]
-- [[Transport Layer Security (TLS)]]
-- [[Virtual private network (VPN)]]
+- [[extensible_authentication_protocol_(eap)]]
+- [[transport_layer_security_(tls)]]
+- [[virtual_private_network_(vpn)]]

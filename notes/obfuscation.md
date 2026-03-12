@@ -1,7 +1,5 @@
 # Obfuscation
 
-[[🏷️Obfuscation]]
-
 Obfuscation is a technique used to make data, code, or communications more difficult to understand or interpret. The primary goal is to enhance security by hiding sensitive information or complicating the analysis of a system. Obfuscation is commonly used in software development, data protection, and cybersecurity to prevent unauthorized access, reverse engineering, or exploitation.
 
 ## Applications of obfuscation:
@@ -16,6 +14,6 @@ Obfuscation is a double-edged sword. While it is a valuable tool for protecting 
 
 See also:
 
-- [[Steganography]]
-- [[Tokenization]]
-- [[Data masking]]
+- [[steganography]]
+- [[tokenization]]
+- [[data_masking]]

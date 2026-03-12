@@ -12,6 +12,6 @@ Decommissioning is a vital practice for safeguarding data during the disposal or
 
 See also:
 
-- [[Storage Devices]]
-- [[Asset tracking]]
-- [[Certificate of destruction]]
+- [[storage_devices]]
+- [[asset_tracking]]
+- [[certificate_of_destruction]]

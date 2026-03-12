@@ -1,7 +1,5 @@
 # FULL OUTER JOIN
 
-[[🏷️SQL]]
-
 `FULL OUTER JOIN` returns all records from both tables. You can think of it as a way of completely merging two tables.
 
 You can review the syntax for using `FULL OUTER JOIN` in the following query:

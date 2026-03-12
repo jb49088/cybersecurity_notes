@@ -15,8 +15,8 @@ Comprehensive logging is vital for proactive threat detection, forensic investig
 
 See also:
 
-- [[Security information and event management (SIEM)]]
-- [[Intrusion detection system (IDS)]]
-- [[Intrusion prevention system (IPS)]]
-- [[Firewall]]
-- [[Next-generation firewall (NGFW)]]
+- [[security_information_and_event_management_(siem)]]
+- [[intrusion_detection_system_(ids)]]
+- [[intrusion_prevention_system_(ips)]]
+- [[firewall]]
+- [[next-generation_firewall_(ngfw)]]

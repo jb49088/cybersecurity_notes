@@ -14,6 +14,6 @@ TryHackMe is one of the most accessible entry points into practical cybersecurit
 
 See also:
 
-- [[Capture the flag (CTF)]]
-- [[HackTheBox]]
-- [[Bug bounty]]
+- [[capture_the_flag_(ctf)]]
+- [[hackthebox]]
+- [[bug_bounty]]

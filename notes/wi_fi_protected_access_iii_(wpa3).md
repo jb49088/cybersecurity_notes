@@ -1,7 +1,5 @@
 # Wi-Fi Protected Access III (WPA3)
 
-[[🏷️Network protocol]]
-
 WPA3 (Wi-Fi Protected Access III) was introduced in 2018 as the latest security protocol for Wi-Fi networks, enhancing the security features of its predecessors, WPA and WPA2.
 
 ## Key Features of WPA3:
@@ -24,7 +22,7 @@ WPA3 aims to provide a more secure wireless experience, addressing vulnerabiliti
 
 See also:
 
-- [[Wi-Fi Protected Access (WPA)]]
-- [[Wi-Fi Protected Access II (WPA2)]]
-- [[Simultaneous authentication of equals (SAE)]]
-- [[Galois counter mode (GCM)]]
+- [[wi-fi_protected_access_(wpa)]]
+- [[wi-fi_protected_access_ii_(wpa2)]]
+- [[simultaneous_authentication_of_equals_(sae)]]
+- [[galois_counter_mode_(gcm)]]

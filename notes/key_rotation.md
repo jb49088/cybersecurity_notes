@@ -18,6 +18,6 @@ Automated tools and managed key rotation services are often used to ensure that 
 
 See also:
 
-- [[Cryptographic key]]
-- [[Public key Infrastructure (PKI)]]
-- [[Encryption]]
+- [[cryptographic_key]]
+- [[public_key_infrastructure_(pki)]]
+- [[encryption]]

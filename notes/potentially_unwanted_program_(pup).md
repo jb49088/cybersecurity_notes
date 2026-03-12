@@ -15,6 +15,6 @@ It’s important to regularly scan devices for PUPs using antivirus or anti-malw
 
 See also:
 
-- [[Adware]]
-- [[Malware]]
-- [[Spyware]]
+- [[adware]]
+- [[malware]]
+- [[spyware]]

@@ -14,6 +14,6 @@ Effective contingency planning helps organizations minimize downtime, protect as
 
 See also:
 
-- [[Business continuity plan (BCP)]]
-- [[Disaster recovery plan (DRP)]]
-- [[Risk management]]
+- [[business_continuity_plan_(bcp)]]
+- [[disaster_recovery_plan_(drp)]]
+- [[risk_management]]

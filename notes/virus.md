@@ -6,7 +6,7 @@ A virus is a type of malicious software (malware) designed to replicate itself a
 
 See also:
 
-- [[Malware]]
-- [[Trojan Horse]]
-- [[Ransomware]]
-- [[Worm]]
+- [[malware]]
+- [[trojan_horse]]
+- [[ransomware]]
+- [[worm]]

@@ -6,4 +6,4 @@ Data refers to raw facts, figures, or values that are collected, stored, and pro
 
 See also:
 
-- [[Database]]
+- [[database]]

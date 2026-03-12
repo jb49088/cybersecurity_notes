@@ -1,7 +1,5 @@
 # Statement of work (SOW)
 
-[[🏷️Business agreement]]
-
 A statement of work (SOW) is a formal document that outlines the scope, objectives, deliverables, and expectations for a project. It serves as an agreement between a client and a vendor, contractor, or service provider, ensuring that all parties understand the work to be completed, the timeline, and the required standards.
 
 - **Project scope**: Defines what work will be performed, including tasks, services, and deliverables.
@@ -18,5 +16,5 @@ A well-defined SOW reduces miscommunication, sets clear expectations, and serves
 
 See also:
 
-- [[Work order (WO)]]
-- [[Master service agreement (MSA)]]
+- [[work_order_(wo)]]
+- [[master_service_agreement_(msa)]]

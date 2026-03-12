@@ -1,7 +1,5 @@
 # CyberChef
 
-[[🏷️Web application.md]]
-
 CyberChef is a web-based data analysis and transformation tool developed by GCHQ, the UK's signals intelligence agency. It provides a visual interface for applying a wide variety of encoding, decoding, encryption, hashing, and data manipulation operations, making it an indispensable utility for security professionals, CTF players, and bug bounty hunters who frequently need to process and transform data quickly.
 
 - **Recipe-based workflow:** CyberChef operates on the concept of recipes, where individual operations are chained together in sequence to transform an input into a desired output. This makes it easy to apply multiple transformations in a single workflow, such as base64 decoding followed by URL decoding followed by JSON formatting.
@@ -18,10 +16,10 @@ CyberChef's combination of breadth, accessibility, and chainable operations make
 
 See also:
 
-- [[Encoding]]
-- [[Encryption]]
-- [[Base16]]
-- [[Base64]]
-- [[Exclusive or (XOR)]]
-- [[Reconnaissance]]
-- [[Web application]]
+- [[encoding]]
+- [[encryption]]
+- [[base16]]
+- [[base64]]
+- [[exclusive_or_(xor)]]
+- [[reconnaissance]]
+- [[web_application]]

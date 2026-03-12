@@ -1,7 +1,5 @@
 # Steganography
 
-[[🏷️Obfuscation]]
-
 Steganography is the practice of concealing messages or information within other, seemingly innocuous data. Unlike encryption, which scrambles data to make it unreadable without a key, steganography focuses on hiding the existence of the message itself. This technique is used for both legitimate purposes, like watermarking, and malicious purposes, such as evading detection in cyberattacks.
 
 ## Common applications of steganography
@@ -19,7 +17,7 @@ Steganography is a powerful tool for discreet communication and copyright protec
 
 See also:
 
-- [[Encryption]]
-- [[Obfuscation]]
-- [[Tokenization]]
-- [[Data masking]]
+- [[encryption]]
+- [[obfuscation]]
+- [[tokenization]]
+- [[data_masking]]

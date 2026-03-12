@@ -1,7 +1,5 @@
 # Change management
 
-[[🏷️Risk management]]
-
 Change management is a structured approach to implementing modifications within an organization, ensuring changes are planned, executed, and monitored effectively to minimize risks and disruptions.
 
 - **Purpose:** Provides guidelines for making changes, such as upgrading software, modifying firewall configurations, or adjusting switch ports, in a controlled and predictable manner.

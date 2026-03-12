@@ -14,5 +14,5 @@ OSINT provides a foundation for understanding threats, monitoring trends, and ma
 
 See also:
 
-- [[Threat intelligence]]
-- [[Proprietary intelligence]]
+- [[threat_intelligence]]
+- [[proprietary_intelligence]]

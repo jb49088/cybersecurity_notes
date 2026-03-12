@@ -16,5 +16,5 @@ SAN is essential for businesses that operate multiple domains or services, offer
 
 See also:
 
-- [[Digital certificate]]
-- [[X.509]]
+- [[digital_certificate]]
+- [[x.509]]

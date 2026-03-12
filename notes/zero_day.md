@@ -8,4 +8,4 @@ Zero-days pose significant security risks, as attackers can use them to steal da
 
 See also:
 
-- [[Vulnerability]]
+- [[vulnerability]]

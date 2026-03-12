@@ -10,5 +10,5 @@ Failover mechanisms are often automated, allowing for seamless transitions witho
 
 See also:
 
-- [[Disaster recovery plan (DRP)]]
-- [[Business continuity plan (BCP)]]
+- [[disaster_recovery_plan_(drp)]]
+- [[business_continuity_plan_(bcp)]]

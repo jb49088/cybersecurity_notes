@@ -1,7 +1,5 @@
 # Internet protocol (IP)
 
-[[🏷️Network protocol]]
-
 Internet protocol (IP) is the fundamental protocol for routing and addressing data across networks, enabling devices to communicate with each other over the internet. It provides a standardized way to deliver packets of data from a source device to a destination device.
 
 - **Packet-based communication:** IP divides data into smaller units called packets, which are transmitted independently and reassembled at the destination.
@@ -19,6 +17,6 @@ IP is the backbone of modern networking, supporting protocols like TCP and UDP t
 
 See also:
 
-- [[IP address]]
-- [[Transmission control protocol (TCP)]]
-- [[User datagram protocol (UDP)]]
+- [[ip_address]]
+- [[transmission_control_protocol_(tcp)]]
+- [[user_datagram_protocol_(udp)]]

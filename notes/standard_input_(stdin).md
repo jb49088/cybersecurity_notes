@@ -6,5 +6,5 @@ Standard input consists of information received by the OS via the command line. 
 
 See also:
 
-- [[Standard output (stdout)]]
-- [[Standard error (stderr)]]
+- [[standard_output_(stdout)]]
+- [[standard_error_(stderr)]]

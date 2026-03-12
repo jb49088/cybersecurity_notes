@@ -20,6 +20,6 @@ The root of trust forms the backbone of security architectures, ensuring that al
 
 See also:
 
-- [[Hardware Security Module (HSM)]]
-- [[Secure enclave]]
-- [[Certificate authority (CA)]]
+- [[hardware_security_module_(hsm)]]
+- [[secure_enclave]]
+- [[certificate_authority_(ca)]]

@@ -17,10 +17,10 @@ Compliance also extends to internal standards and industry best practices that h
 
 See also:
 
-- [[Compliance reporting]]
-- [[Compliance monitoring]]
-- [[Regulation]]
-- [[General data protection regulation (GDPR)]]
-- [[Health Insurance Portability and Accountability Act (HIPAA)]]
-- [[Payment Card Industry Data Security Standard (PCI DSS)]]
-- [[Federal Information Security Management Act (FISMA)]]
+- [[compliance_reporting]]
+- [[compliance_monitoring]]
+- [[regulation]]
+- [[general_data_protection_regulation_(gdpr)]]
+- [[health_insurance_portability_and_accountability_act_(hipaa)]]
+- [[payment_card_industry_data_security_standard_(pci_dss)]]
+- [[federal_information_security_management_act_(fisma)]]

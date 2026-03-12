@@ -14,4 +14,4 @@ By maintaining a proactive and structured approach to incident management, CIRTs
 
 See also:
 
-- [[Computer emergency response team (CERT)]]
+- [[computer_emergency_response_team_(cert)]]

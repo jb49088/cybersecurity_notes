@@ -15,8 +15,8 @@ Default credentials represent one of the most straightforward findings in securi
 
 See also:
 
-- [[Misconfiguration]]
-- [[Credential stuffing]]
-- [[Reconnaissance]]
-- [[Brute force attack]]
-- [[Wordlist]]
+- [[misconfiguration]]
+- [[credential_stuffing]]
+- [[reconnaissance]]
+- [[brute_force_attack]]
+- [[wordlist]]

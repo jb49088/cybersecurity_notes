@@ -14,5 +14,5 @@ DNAT is a valuable tool for managing network traffic, securing internal resource
 
 See also:
 
-- [[Network address translation (NAT)]]
-- [[Port forwarding]]
+- [[network_address_translation_(nat)]]
+- [[port_forwarding]]

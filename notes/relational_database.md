@@ -37,7 +37,7 @@ Here, `StudentID` in the "Classes" table is a foreign key that refers to `Studen
 
 See also:
 
-- [[Hierarchical database]]
-- [[Network database]]
-- [[Data]]
-- [[Structured Query Language (SQL)]]
+- [[hierarchical_database]]
+- [[network_database]]
+- [[data]]
+- [[structured_query_language_(sql)]]

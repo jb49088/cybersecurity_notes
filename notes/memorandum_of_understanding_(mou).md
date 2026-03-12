@@ -1,7 +1,5 @@
 # Memorandum of understanding (MOU)
 
-[[🏷️Business agreement]]
-
 A memorandum of understanding (MOU) is a non-binding agreement between two or more parties that outlines their general understanding and intentions regarding a particular issue or project. While an MOU expresses the parties’ goals and collaborative intentions, it does not have the legal force of a signed contract.
 
 - **General agreement:** Both parties typically agree on the broad terms of the MOU, outlining common objectives or goals.
@@ -15,4 +13,4 @@ MOUs are useful for establishing a mutual understanding and setting the stage fo
 
 See also:
 
-- [[Memorandum of agreement (MOA)]]
+- [[memorandum_of_agreement_(moa)]]

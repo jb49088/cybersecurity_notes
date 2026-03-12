@@ -38,8 +38,8 @@ Rather than returning all records in the `employee` table, this `WHERE` clause i
 
 You can also filter based on a pattern. For example, you can identify entries that start or end with a certain character or characters. Filtering for a pattern requires incorporating two more elements into your `WHERE` clause:
 
-- a [[Wildcard|wildcard]]
-- the `LIKE` [[Operator|operator]]
+- a [[wildcard|wildcard]]
+- the `LIKE` [[operator|operator]]
 
 ### Wildcards
 
@@ -48,7 +48,7 @@ A wildcard is a special character that can be substituted with any other charact
 - The percentage sign substitutes for any number of other characters.
 - The underscore symbol only substitutes for one other character.
 
-These wildcards can be placed after a [[20-29 Cybersecurity/26 Programming & Databases/0 Meta/Archive/String|string]], before a string, or in both locations depending on the pattern you're filtering for.
+These wildcards can be placed after a [[20-29_cybersecurity/26_programming_&_databases/0_meta/archive/string|string]], before a string, or in both locations depending on the pattern you're filtering for.
 
 The following table includes these wildcards applied to the string `a` and examples of what each pattern would return.
 

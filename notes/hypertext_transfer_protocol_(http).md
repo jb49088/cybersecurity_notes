@@ -1,7 +1,5 @@
 # Hypertext transfer protocol (HTTP)
 
-[[🏷️Network protocol]]
-
 Hypertext transfer protocol (HTTP) is an application layer protocol used for transferring hypertext (web pages) and other resources on the World Wide Web. It defines the rules for requesting and delivering web content between clients (typically browsers) and servers.
 
 - **Port number and protocol type:** HTTP operates over port 80 using TCP (Transmission Control Protocol) for reliable data transfer.
@@ -16,4 +14,4 @@ HTTP is the foundation of web browsing, enabling the retrieval and display of co
 
 See also:
 
-- [[Hypertext transfer protocol secure (HTTPS)]]
+- [[hypertext_transfer_protocol_secure_(https)]]

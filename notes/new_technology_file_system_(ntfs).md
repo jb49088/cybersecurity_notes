@@ -10,6 +10,6 @@ The system is designed to ensure data integrity and security while offering comp
 
 See also:
 
-- [[Windows]]
-- [[Encrypting file system (EFS)]]
-- [[Filesystem hierarchy standard (FHS)]]
+- [[windows]]
+- [[encrypting_file_system_(efs)]]
+- [[filesystem_hierarchy_standard_(fhs)]]

@@ -14,5 +14,5 @@ DEP is an important component in defending against memory-based vulnerabilities,
 
 See also:
 
-- [[Buffer overflow]]
-- [[Address space layout randomization (ASLR)]]
+- [[buffer_overflow]]
+- [[address_space_layout_randomization_(aslr)]]

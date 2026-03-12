@@ -14,6 +14,6 @@ IM is commonly used for informal chats, customer service interactions, and inter
 
 See also:
 
-- [[Short message service (SMS)]]
-- [[Multimedia message service (MMS)]]
-- [[Voice over internet protocol (VoIP)]]
+- [[short_message_service_(sms)]]
+- [[multimedia_message_service_(mms)]]
+- [[voice_over_internet_protocol_(voip)]]

@@ -14,6 +14,6 @@ For stronger security, other encryption modes, like Cipher Block Chaining (CBC) 
 
 See also:
 
-- [[Block cipher]]
-- [[Cipher block chaining (CBC)]]
-- [[Galois counter mode (GCM)]]
+- [[block_cipher]]
+- [[cipher_block_chaining_(cbc)]]
+- [[galois_counter_mode_(gcm)]]

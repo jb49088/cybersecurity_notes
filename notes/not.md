@@ -1,7 +1,5 @@
 # NOT
 
-[[🏷️SQL]]
-
 The `NOT` operator negates a condition. This means that SQL returns all records that don’t match the condition specified in the query.
 
 For example, if a cybersecurity issue doesn't affect customers in the USA but might affect those in other countries, you can return all customers who are not in the USA. To use the `NOT` operator for this task, write the following query and place `NOT` directly after `WHERE`:

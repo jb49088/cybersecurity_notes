@@ -17,7 +17,7 @@ By configuring the SSID properly and adhering to best practices, network adminis
 
 See also:
 
-- [[Wireless Local Area Network (WLAN)]]
-- [[Access point (AP)]]
-- [[IEEE 802.11 (Wi-Fi)]]
-- [[Basic service set identifier (BSSID)]]
+- [[wireless_local_area_network_(wlan)]]
+- [[access_point_(ap)]]
+- [[ieee_802.11_(wi-fi)]]
+- [[basic_service_set_identifier_(bssid)]]

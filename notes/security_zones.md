@@ -17,4 +17,4 @@ By clearly defining these zones and the traffic flow between them, organizations
 
 See also:
 
-- [[Network segmentation]]
+- [[network_segmentation]]

@@ -16,4 +16,4 @@ A secure KDF often incorporates techniques like salting (adding random data) and
 
 See also:
 
-- [[Key stretching]]
+- [[key_stretching]]

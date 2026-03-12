@@ -2,9 +2,9 @@
 
 A data packet is a fundamental unit of information that travels across a network from one device to another. When data is transmitted, it's encapsulated in a packet that includes details on its origin, destination, and content. This information is specified through a port number, which helps computers manage and prioritize network traffic.
 
-Each packet is akin to a physical letter. It has a header containing the destination device's [[IP address|IP address]], [[MAC address|MAC address]], and a protocol number that instructs how to process the packet's content. The packet's body carries the actual message, and the footer acts like a signature, marking the end of the packet.
+Each packet is akin to a physical letter. It has a header containing the destination device's [[ip_address|ip_address]], [[mac_address|mac_address]], and a protocol number that instructs how to process the packet's content. The packet's body carries the actual message, and the footer acts like a signature, marking the end of the packet.
 
-The flow of data packets can reflect network performance, with [[Bandwidth|bandwidth]] being a key measure. All data packets include an IP address and are known as IP packets in [[Transmission control protocol (TCP)|TCP]] connections or datagrams in [[User datagram protocol (UDP)|UDP]] connections.
+The flow of data packets can reflect network performance, with [[bandwidth|bandwidth]] being a key measure. All data packets include an IP address and are known as IP packets in [[transmission_control_protocol_(tcp)|tcp]] connections or datagrams in [[user_datagram_protocol_(udp)|udp]] connections.
 
 **Image 2.34** Format of an IPv4 packet
 An IPv4 packet is made up of two sections, the header and the data:

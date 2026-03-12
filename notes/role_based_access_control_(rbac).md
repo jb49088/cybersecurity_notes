@@ -1,7 +1,5 @@
 # Role-based access control (RBAC)
 
-[[🏷️Access control model]]
-
 Role-based access control (RBAC) assigns user permissions based on predefined roles within an organization. This approach simplifies access management and ensures users have the appropriate level of access for their responsibilities.
 
 - **Defines access by roles:** Permissions are linked to specific organizational roles, such as manager, director, or team lead.
@@ -16,7 +14,7 @@ Role-based access control is widely used to maintain consistency and reduce admi
 
 See also:
 
-- [[Attribute-based access control (ABAC)]]
-- [[Discretionary access control (DAC)]]
-- [[Mandatory access control (MAC)]]
-- [[Rule-based access control (RBAC)]]
+- [[attribute-based_access_control_(abac)]]
+- [[discretionary_access_control_(dac)]]
+- [[mandatory_access_control_(mac)]]
+- [[rule-based_access_control_(rbac)]]

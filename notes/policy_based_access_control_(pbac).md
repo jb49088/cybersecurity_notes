@@ -1,7 +1,5 @@
 # Policy-based access control (PBAC)
 
-[[🏷️Access control model]]
-
 Policy-based access control (PBAC) is a security model that grants or denies access to resources based on predefined policies, rather than static roles or permissions. PBAC enables more dynamic, context-aware access control by evaluating attributes such as user identity, location, device, and risk level before granting access.
 
 - **Centralized policy management**: Access rules are defined and managed in a policy engine rather than assigned manually.
@@ -14,8 +12,8 @@ PBAC is commonly used in zero trust architectures, cloud environments, and regul
 
 See also:
 
-- [[Zero trust]]
-- [[Policy enforcement point (PEP)]]
-- [[Policy engine]]
-- [[Policy administrator]]
-- [[Policy decision point (PDP)]]
+- [[zero_trust]]
+- [[policy_enforcement_point_(pep)]]
+- [[policy_engine]]
+- [[policy_administrator]]
+- [[policy_decision_point_(pdp)]]

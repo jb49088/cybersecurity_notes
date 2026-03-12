@@ -1,3 +1,3 @@
 ### Uncontrolled zone
 
-Any [[Network|network]] outside your organization's control.
+Any [[network|network]] outside your organization's control.

@@ -12,4 +12,4 @@ Key features:
 
 See also:
 
-- [[Control plane]]
+- [[control_plane]]

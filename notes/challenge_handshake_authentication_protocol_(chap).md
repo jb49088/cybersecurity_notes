@@ -1,7 +1,5 @@
 # Challenge handshake authentication protocol (CHAP)
 
-[[🏷️Network protocol]]
-
 Challenge handshake authentication protocol (CHAP) is an authentication protocol used to verify the identity of a user or device in a secure manner during a network connection. It is commonly used in point-to-point protocol (PPP) connections, such as those used in dial-up or VPNs.
 
 - **Three-way handshake:** CHAP uses a challenge-response mechanism to authenticate the user:
@@ -18,6 +16,6 @@ CHAP is more secure than simpler protocols like PAP (Password Authentication Pro
 
 See also:
 
-- [[Point-to-Point Protocol (PPP)]]
-- [[Password authentication protocol (PAP)]]
-- [[Extensible authentication protocol (EAP)]]
+- [[point-to-point_protocol_(ppp)]]
+- [[password_authentication_protocol_(pap)]]
+- [[extensible_authentication_protocol_(eap)]]

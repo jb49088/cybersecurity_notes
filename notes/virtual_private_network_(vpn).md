@@ -22,9 +22,9 @@ Firewalls frequently serve as VPN concentrators in site-to-site configurations, 
 
 See also:
 
-- [[Encapsulation]]
-- [[Encryption]]
-- [[Secure sockets layer (SSL)]]
-- [[Transport Layer Security (TLS)]]
-- [[Internet protocol security (IPsec)]]
-- [[Software-defined networking (SDN)]]
+- [[encapsulation]]
+- [[encryption]]
+- [[secure_sockets_layer_(ssl)]]
+- [[transport_layer_security_(tls)]]
+- [[internet_protocol_security_(ipsec)]]
+- [[software-defined_networking_(sdn)]]

@@ -1,7 +1,5 @@
 # Deauthentication attack
 
-[[🏷️Network attack]]
-
 A Deauthentication attack is a type of denial-of-service (DoS) attack that targets wireless networks by exploiting the deauthentication process in the 802.11 Wi-Fi protocol. The attacker sends deauthentication frames, pretending to be the access point (AP) or client, which forces connected devices to disconnect from the network. This disruption can cause service outages, facilitate other attacks like on-path attacks, and potentially be used for credential harvesting or password cracking.
 
 Deauthentication attacks work by sending deauthentication packets to a device, causing it to believe that the connection with the AP is no longer valid. As a result, the client is forced to disconnect and reconnect, during which time sensitive information, such as WPA/WPA2 handshakes, can be captured. This captured data can then be used for brute-forcing or cracking the network's security.
@@ -18,8 +16,8 @@ To mitigate Deauthentication attacks, organizations can enable 802.11w (Manageme
 
 See also:
 
-- [[Denial of service (DoS)]]
-- [[IEEE 802.11 (Wi-Fi)]]
-- [[Access point (AP)]]
-- [[On-path attack]]
-- [[Wi-Fi Protected Access III (WPA3)]]
+- [[denial_of_service_(dos)]]
+- [[ieee_802.11_(wi-fi)]]
+- [[access_point_(ap)]]
+- [[on-path_attack]]
+- [[wi-fi_protected_access_iii_(wpa3)]]

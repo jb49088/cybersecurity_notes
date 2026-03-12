@@ -14,6 +14,6 @@ The Control Plane is distinct from the data plane, which handles actual data mov
 
 See also:
 
-- [[Data plane]]
-- [[Policy-based access control (PBAC)]]
-- [[Zero trust]]
+- [[data_plane]]
+- [[policy-based_access_control_(pbac)]]
+- [[zero_trust]]

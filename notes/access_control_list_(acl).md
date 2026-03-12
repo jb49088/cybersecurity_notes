@@ -16,5 +16,5 @@ By defining granular access rules, ACLs help prevent unauthorized actions and en
 
 See also:
 
-- [[Identity and access management (IAM)]]
-- [[Role-based access control (RBAC)]]
+- [[identity_and_access_management_(iam)]]
+- [[role-based_access_control_(rbac)]]

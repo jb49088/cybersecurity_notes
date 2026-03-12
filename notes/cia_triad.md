@@ -6,6 +6,6 @@ The CIA Triad is a fundamental model in information security that outlines the t
 
 See also:
 
-- [[Confidentiality]]
-- [[Integrity]]
-- [[Availability]]
+- [[confidentiality]]
+- [[integrity]]
+- [[availability]]

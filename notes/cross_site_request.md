@@ -8,5 +8,5 @@ This process is normal and expected, as many websites rely on resources from oth
 
 See also:
 
-- [[Cross-site request forgery (CSRF)]]
-- [[Cross-site scripting (XSS)]]
+- [[cross-site_request_forgery_(csrf)]]
+- [[cross-site_scripting_(xss)]]

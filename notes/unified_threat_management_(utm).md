@@ -19,9 +19,9 @@ UTM solutions provide a comprehensive approach to network security by integratin
 
 See also:
 
-- [[Router]]
-- [[Switch]]
-- [[Intrusion detection system (IDS)]]
-- [[Intrusion prevention system (IPS)]]
-- [[Firewall]]
-- [[Virtual private network (VPN)]]
+- [[router]]
+- [[switch]]
+- [[intrusion_detection_system_(ids)]]
+- [[intrusion_prevention_system_(ips)]]
+- [[firewall]]
+- [[virtual_private_network_(vpn)]]

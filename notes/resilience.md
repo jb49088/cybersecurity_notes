@@ -10,6 +10,6 @@ A key metric used to measure resilience is mean Time to Recover (MTTR), which tr
 
 See also:
 
-- [[Mean time to recover (MTTR)]]
-- [[Business continuity plan (BCP)]]
-- [[Disaster recovery plan (DRP)]]
+- [[mean_time_to_recover_(mttr)]]
+- [[business_continuity_plan_(bcp)]]
+- [[disaster_recovery_plan_(drp)]]

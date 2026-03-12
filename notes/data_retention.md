@@ -15,5 +15,5 @@ By implementing a well-structured data retention policy, organizations can prote
 
 See also:
 
-- [[Backup]]
-- [[Disaster recovery plan (DRP)]]
+- [[backup]]
+- [[disaster_recovery_plan_(drp)]]

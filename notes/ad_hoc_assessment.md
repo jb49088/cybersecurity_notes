@@ -13,4 +13,4 @@ Ad hoc assessments provide flexibility and responsiveness, enabling organization
 
 See also:
 
-- [[Risk assessment]]
+- [[risk_assessment]]

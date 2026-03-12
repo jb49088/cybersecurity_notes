@@ -15,7 +15,7 @@ To mitigate risks, users should verify the authenticity of apps before sideloadi
 
 See also:
 
-- [[Jailbreaking ⁄ Rooting]]
-- [[Mobile device management (MDM)]]
-- [[Corporate owned, personally enabled (COPE)]]
-- [[Bring your own device (BYOD)]]
+- [[jailbreaking_⁄_rooting]]
+- [[mobile_device_management_(mdm)]]
+- [[corporate_owned,_personally_enabled_(cope)]]
+- [[bring_your_own_device_(byod)]]

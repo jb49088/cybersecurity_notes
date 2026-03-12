@@ -1,7 +1,5 @@
 # Wi-Fi protected setup (WPS)
 
-[[🏷️Networking]] [[🏷️Network security]]
-
 Wi-Fi protected setup (WPS) is a network security standard designed to make it easier to connect devices to a Wi-Fi network without needing to manually enter a password. WPS simplifies the process of securely setting up wireless networks, often used for home networks and small businesses.
 
 - **Easy device connection:** Allows devices to connect to Wi-Fi networks with minimal user input, typically through a PIN or push-button method.

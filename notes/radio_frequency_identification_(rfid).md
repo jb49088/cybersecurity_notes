@@ -10,5 +10,5 @@ To protect against RFID security breaches, modern systems implement encryption, 
 
 See also:
 
-- [[Near field communication (NFC)]]
-- [[Access badge cloning]]
+- [[near_field_communication_(nfc)]]
+- [[access_badge_cloning]]

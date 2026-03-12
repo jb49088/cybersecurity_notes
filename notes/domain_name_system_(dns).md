@@ -1,7 +1,5 @@
 # Domain name system (DNS)
 
-[[🏷️Network protocol]]
-
 Domain name system (DNS) is a hierarchical system used to translate human-readable domain names into machine-readable IP addresses. It is a critical component of the internet, enabling users to access websites and services by using easy-to-remember domain names rather than numeric IP addresses.
 
 - **Port numbers:** DNS primarily operates over port 53 for both TCP and UDP connections.
@@ -17,6 +15,6 @@ DNS plays an essential role in enabling easy access to websites and services, tr
 
 See also:
 
-- [[DNS filtering]]
-- [[DNS poisoning]]
-- [[DNS tunneling]]
+- [[dns_filtering]]
+- [[dns_poisoning]]
+- [[dns_tunneling]]

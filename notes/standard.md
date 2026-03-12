@@ -15,4 +15,4 @@ Standards can be used to:
 
 See also:
 
-- [[International Organization for Standardization (ISO)]]
+- [[international_organization_for_standardization_(iso)]]

@@ -1,7 +1,7 @@
 # Argument (Linux)
 
-Specific information needed by a [[Command|command]].
+Specific information needed by a [[command|command]].
 
-- **Controls command behavior:** [[Linux|Linux]] arguments provide specific instructions or [[Data|data]] that influence how a [[Command|command]] operates. They allow you to finetune the [[Command|command's]] actions and achieve the desired outcome.
+- **Controls command behavior:** [[linux|linux]] arguments provide specific instructions or [[data|data]] that influence how a [[command|command]] operates. They allow you to finetune the [[command|command's]] actions and achieve the desired outcome.
 
-- **Positional vs optional:** [[Linux|Linux]] arguments can be positional or optional. Positional arguments appear in a specific order after the [[Command|command]] itself, while optional arguments (often flagged with hyphens "") come with keywords and can appear in any order.
+- **Positional vs optional:** [[linux|linux]] arguments can be positional or optional. Positional arguments appear in a specific order after the [[command|command]] itself, while optional arguments (often flagged with hyphens "") come with keywords and can appear in any order.

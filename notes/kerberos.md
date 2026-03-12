@@ -1,7 +1,5 @@
 # Kerberos
 
-[[🏷️Network protocol]]
-
 Kerberos is a network authentication protocol designed to provide secure authentication for users and services within a distributed environment. It uses strong cryptography to ensure that data exchanged between clients and servers is secure, and that unauthorized users cannot access sensitive information.
 
 - **Port number and protocol type:** Kerberos typically operates over port 88 using TCP or UDP.
@@ -16,7 +14,7 @@ Kerberos is widely used in enterprise environments for secure network authentica
 
 See also:
 
-- [[Ticket granting ticket (TGT)]]
-- [[Authentication, Authorization, and Accounting (AAA)]]
-- [[Lightweight directory access protocol (LDAP)]]
-- [[Remote authentication dial-in user service (RADIUS)]]
+- [[ticket_granting_ticket_(tgt)]]
+- [[authentication,_authorization,_and_accounting_(aaa)]]
+- [[lightweight_directory_access_protocol_(ldap)]]
+- [[remote_authentication_dial-in_user_service_(radius)]]

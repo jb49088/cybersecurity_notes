@@ -1,7 +1,5 @@
 # Attribute-based access control (ABAC)
 
-[[🏷️Access control model]]
-
 Attribute-based access control (ABAC) evaluates multiple attributes to determine access, enabling granular and context-aware authorization decisions.
 
 - **Supports complex relationships:** Access is granted based on intricate user relationships with applications and data.
@@ -16,7 +14,7 @@ Attribute-based access control's dynamic nature is ideal for environments requir
 
 See also:
 
-- [[Discretionary access control (DAC)]]
-- [[Mandatory access control (MAC)]]
-- [[Role-based access control (RBAC)]]
-- [[Rule-based access control (RBAC)]]
+- [[discretionary_access_control_(dac)]]
+- [[mandatory_access_control_(mac)]]
+- [[role-based_access_control_(rbac)]]
+- [[rule-based_access_control_(rbac)]]

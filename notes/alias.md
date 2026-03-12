@@ -1,7 +1,5 @@
 # alias
 
-[[🏷️Linux command]]
-
 Do you have some commands that you run very frequently while using the terminal? It could be `rm -r` or `ls -l`, or it could be something longer like `tar -xvzf`.
 
 This is one of the productivity-boosting Linux commands you must know.

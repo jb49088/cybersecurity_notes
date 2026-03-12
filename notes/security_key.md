@@ -14,4 +14,4 @@ Security keys are an effective way to protect sensitive accounts and systems, si
 
 See also:
 
-- [[Multi-factor authentication (MFA)]]
+- [[multi-factor_authentication_(mfa)]]

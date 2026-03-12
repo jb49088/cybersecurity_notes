@@ -13,5 +13,5 @@ OAuth provides a robust solution for managing secure authorization in applicatio
 
 See also:
 
-- [[OpenID Connect]]
-- [[Authorization]]
+- [[openid_connect]]
+- [[authorization]]

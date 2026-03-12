@@ -1,7 +1,5 @@
 # sudo
 
-[[🏷️Linux command]]
-
 > With great power, comes great responsibility
 
 This is the quote displayed when a sudo-enabled user(sudoer) first uses the `sudo` command to escalate privileges. This command is equivalent to logging in as `root` (based on what permissions you have as a sudoer).

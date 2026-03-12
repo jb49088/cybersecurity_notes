@@ -14,4 +14,4 @@ SDLC frameworks are invaluable for creating efficient, reliable, and user-focuse
 
 See also:
 
-- [[Software Development Life Cycle Methodology (SDLM)]]
+- [[software_development_life_cycle_methodology_(sdlm)]]

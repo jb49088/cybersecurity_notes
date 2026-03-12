@@ -1,7 +1,5 @@
 # Authentication, Authorization, and Accounting (AAA)
 
-[[🏷️Framework]]
-
 AAA refers to a framework used to manage and secure access to systems and networks. It involves three key processes:
 
 - **Authentication:** Verifying the identity of users or systems before granting access.
@@ -16,7 +14,7 @@ AAA ensures that only authorized users can access resources, controls their leve
 
 See also:
 
-- [[Authentication]]
-- [[Authorization]]
-- [[Accountability]]
-- [[AAA server]]
+- [[authentication]]
+- [[authorization]]
+- [[accountability]]
+- [[aaa_server]]

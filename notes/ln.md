@@ -1,7 +1,5 @@
 # ln
 
-[[🏷️Linux command]]
-
 To create a link to another file, we use the `ln` command. This is one of the most important Linux commands that you should know if you’re planning to work as a Linux administrator.
 
 `ln -s <source path> <link name>`

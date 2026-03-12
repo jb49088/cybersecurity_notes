@@ -1,9 +1,7 @@
 # Variables
 
-[[🏷️Python]]
+A container that stores [[data|data]].
 
-A container that stores [[Data|data]].
+- Local variable: A [[variable|variable]] assigned within a [[function|function]].
 
-- Local variable: A [[Variable|variable]] assigned within a [[Function|function]].
-
-- Global variable: A [[Variable|variable]] that is available through the entire program.
+- Global variable: A [[variable|variable]] that is available through the entire program.

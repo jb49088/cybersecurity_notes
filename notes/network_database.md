@@ -8,6 +8,6 @@ In a network database, the connections between records are defined by set relati
 
 See also:
 
-- [[Hierarchical database]]
-- [[Relational database]]
-- [[Data]]
+- [[hierarchical_database]]
+- [[relational_database]]
+- [[data]]

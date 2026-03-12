@@ -1,7 +1,5 @@
 # Lightweight extensible authentication protocol (LEAP)
 
-[[🏷️Network protocol]]
-
 Lightweight extensible authentication protocol (LEAP) is a proprietary wireless LAN (WLAN) authentication method developed by Cisco. It is designed to provide secure authentication for devices connecting to wireless networks. LEAP is based on the Extensible Authentication Protocol (EAP) and is widely used in enterprise environments to manage wireless network access.
 
 - **Authentication process:** LEAP uses a challenge-response mechanism where the client and server exchange encrypted information to verify the identity of the user or device attempting to access the network.
@@ -16,5 +14,5 @@ LEAP was once a popular choice for wireless authentication in enterprise setting
 
 See also:
 
-- [[Extensible authentication protocol (EAP)]]
-- [[Remote authentication dial-in user service (RADIUS)]]
+- [[extensible_authentication_protocol_(eap)]]
+- [[remote_authentication_dial-in_user_service_(radius)]]

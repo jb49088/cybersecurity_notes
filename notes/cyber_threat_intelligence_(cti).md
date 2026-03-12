@@ -14,8 +14,8 @@ CTI strengthens an organization’s security posture by providing real-time insi
 
 See also:
 
-- [[Threat intelligence]]
-- [[Tactics, techniques, and procedures (TTP)]]
-- [[Indicators of compromise (IoC)]]
-- [[Structured threat information expression (STIX)]]
-- [[Trusted Automated eXchange of Indicator Information (TAXII)]]
+- [[threat_intelligence]]
+- [[tactics,_techniques,_and_procedures_(ttp)]]
+- [[indicators_of_compromise_(ioc)]]
+- [[structured_threat_information_expression_(stix)]]
+- [[trusted_automated_exchange_of_indicator_information_(taxii)]]

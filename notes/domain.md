@@ -1,3 +1,3 @@
 # Domain
 
-A series of [[Endpoint|endpoints]] that are all connected as one entity.
+A series of [[endpoint|endpoints]] that are all connected as one entity.

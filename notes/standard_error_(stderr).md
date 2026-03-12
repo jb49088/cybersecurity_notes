@@ -14,5 +14,5 @@ Understanding and managing stderr is crucial for effective command-line use, tro
 
 See also:
 
-- [[Standard input (stdin)]]
-- [[Standard output (stdout)]]
+- [[standard_input_(stdin)]]
+- [[standard_output_(stdout)]]

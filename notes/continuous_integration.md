@@ -14,4 +14,4 @@ by implementing continuous integration, teams can streamline development workflo
 
 See also:
 
-- [[Version control]]
+- [[version_control]]

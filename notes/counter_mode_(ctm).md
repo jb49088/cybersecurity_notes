@@ -10,9 +10,9 @@ CTM is often used in protocols like TLS (Transport Layer Security) and IPsec to 
 
 See also:
 
-- [[Block cipher]]
-- [[Stream cipher]]
-- [[Nonce]]
-- [[Galois counter mode (GCM)]]
-- [[Symmetric encryption]]
-- [[Advanced encryption standard (AES)]]
+- [[block_cipher]]
+- [[stream_cipher]]
+- [[nonce]]
+- [[galois_counter_mode_(gcm)]]
+- [[symmetric_encryption]]
+- [[advanced_encryption_standard_(aes)]]

@@ -10,6 +10,6 @@ Defending against process hollowing requires monitoring for abnormal process beh
 
 See also:
 
-- [[Malware]]
-- [[Code injection]]
-- [[DLL injection]]
+- [[malware]]
+- [[code_injection]]
+- [[dll_injection]]

@@ -10,5 +10,5 @@ Server clusters are typically configured within the operating system, with all s
 
 See also:
 
-- [[High availability (HA)]]
-- [[Load balancer]]
+- [[high_availability_(ha)]]
+- [[load_balancer]]

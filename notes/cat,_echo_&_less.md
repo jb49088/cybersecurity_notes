@@ -1,7 +1,5 @@
 # cat, echo & less
 
-[[🏷️Linux command]]
-
 When you want to output the contents of a file or print anything to the terminal output, we use the `cat` or `echo` commands. Let’s see their basic usage.
 
 `cat <file name>`

@@ -1,7 +1,5 @@
 # Bourne Again SHell (Bash)
 
-[[🏷️Linux command]] [[🏷️Interpreter]]
-
 Bourne Again SHell (Bash) is a Unix shell and command language that serves as the default interactive shell on most Linux distributions and macOS. It is both a command interpreter for interactive use and a scripting language for automating tasks. Bash is a replacement for the original Bourne Shell (sh), extending it with additional features and improvements while maintaining backward compatibility.
 
 - **Command interpreter:** Bash reads and executes commands entered interactively by a user or supplied from a script file. It handles process execution, I/O redirection, piping, and job control, forming the primary interface between a user and the operating system kernel.
@@ -19,8 +17,8 @@ Bash's ubiquity on Linux systems makes it both an essential tool for administrat
 
 See also:
 
-- [[Bourne Shell (sh)]]
-- [[Interpreter]]
-- [[Environment variable]]
-- [[Reverse shell]]
-- [[Privilege escalation]]
+- [[bourne_shell_(sh)]]
+- [[interpreter]]
+- [[environment_variable]]
+- [[reverse_shell]]
+- [[privilege_escalation]]

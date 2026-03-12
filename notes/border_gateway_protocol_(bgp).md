@@ -1,7 +1,5 @@
 # Border gateway protocol (BGP)
 
-[[🏷️Network protocol]]
-
 Border gateway protocol (BGP) is the primary routing protocol used to exchange routing information and determine the best paths between autonomous systems (AS) on the internet. As the backbone of global internet routing, BGP enables data to travel efficiently across multiple networks by selecting optimal paths based on routing policies and rules.
 
 - **Path vector protocol:** BGP uses a path vector mechanism to determine the best routes, maintaining a record of the AS paths that data must traverse.

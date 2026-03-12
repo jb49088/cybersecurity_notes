@@ -14,6 +14,6 @@ X.509 plays a critical role in securing online communications by providing a tru
 
 See also:
 
-- [[Digital certificate]]
-- [[Certificate authority (CA)]]
-- [[Certificate signing request (CSR)]]
+- [[digital_certificate]]
+- [[certificate_authority_(ca)]]
+- [[certificate_signing_request_(csr)]]

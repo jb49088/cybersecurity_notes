@@ -1,7 +1,5 @@
 # Voice over Internet Protocol (VoIP)
 
-[[🏷️Network protocol]]
-
 Voice over Internet Protocol (VoIP) is a technology that enables voice communication and multimedia sessions (such as video calls) over the internet, rather than using traditional telephone lines. VoIP converts analog voice signals into digital data packets and transmits them over an internet connection, allowing users to make voice calls, video calls, and send messages using the internet rather than the Public Switched Telephone Network (PSTN).
 
 VoIP offers significant advantages over traditional telephone systems, including lower costs, especially for long-distance or international calls, greater flexibility, and the ability to integrate voice communications with other internet services. It can be used on a variety of devices such as computers, smartphones, tablets, and dedicated VoIP phones.

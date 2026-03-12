@@ -13,8 +13,8 @@ Security professionals classify data into various categories to ensure that the 
 
 See also:
 
-- [[Data types]]
-- [[Personally identifiable information (PII)]]
-- [[Sensitive personally identifiable information (SPII)]]
-- [[Protected health information (PHI)]]
-- [[Non-disclosure agreement (NDA)]]
+- [[data_types]]
+- [[personally_identifiable_information_(pii)]]
+- [[sensitive_personally_identifiable_information_(spii)]]
+- [[protected_health_information_(phi)]]
+- [[non-disclosure_agreement_(nda)]]

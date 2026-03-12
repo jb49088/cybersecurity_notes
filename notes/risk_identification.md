@@ -14,4 +14,4 @@ Identifying risks early enables organizations to prioritize them, develop mitiga
 
 See also:
 
-- [[Risk assessment]]
+- [[risk_assessment]]

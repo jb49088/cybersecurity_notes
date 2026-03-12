@@ -6,7 +6,7 @@ The Security+ exam outline defines four factors of authentication:
 
 - Something you know, including passwords, PINs, or the answer to a security question.
   <br>
-- Something you have like a smartcard, USB or Bluetooth token, or another object or item that is in your possession, like the Titan security key shown in [[Image 2.59.png]].
+- Something you have like a smartcard, USB or Bluetooth token, or another object or item that is in your possession, like the Titan security key shown in [[image_2.59.png]].
 
 - Something you are, which relies on a physical characteristic of the person who is authenticating themselves. Fingerprints, retina scans, voice prints, and even your typing speed and patterns are all included as options for this type of factor.
   <br>
@@ -18,6 +18,6 @@ The Security+ exam outline defines four factors of authentication:
 
 See also:
 
-- [[Multi-factor authentication (MFA)]]
-- [[Authorization]]
-- [[Passwordless authentication]]
+- [[multi-factor_authentication_(mfa)]]
+- [[authorization]]
+- [[passwordless_authentication]]

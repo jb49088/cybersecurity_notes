@@ -1,7 +1,5 @@
 # File transfer protocol secure (FTPS)
 
-[[🏷️Network protocol]]
-
 File transfer protocol secure (FTPS) is an extension of the standard File Transfer Protocol (FTP) that adds support for secure connections. FTPS uses encryption to protect the data and control channels during file transfer, ensuring that sensitive files are securely transmitted over a network.
 
 - **Port number and protocol type:** FTPS typically operates over port 990 for implicit SSL/TLS encryption, or port 21 when using explicit SSL/TLS encryption, using TCP (Transmission Control Protocol) for reliable data transfer.
@@ -16,4 +14,4 @@ FTPS is commonly used for secure file transfers in industries that require compl
 
 See also:
 
-- [[File transfer protocol (FTP)]]
+- [[file_transfer_protocol_(ftp)]]

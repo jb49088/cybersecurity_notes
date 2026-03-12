@@ -14,6 +14,6 @@ Wildcard certificates are useful for organizations that manage multiple subdomai
 
 See also:
 
-- [[Digital certificate]]
-- [[Self-signed certificate]]
-- [[Certificate authority (CA)]]
+- [[digital_certificate]]
+- [[self-signed_certificate]]
+- [[certificate_authority_(ca)]]

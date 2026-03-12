@@ -1,8 +1,6 @@
 # Wi-Fi Protected Access II (WPA2)
 
-[[🏷️Network protocol]]
-
-WPA2 (Wi-Fi Protected Access II) was introduced in 2004 as the successor to [[Wi-Fi Protected Access (WPA)|WPA]] and is now the standard for securing Wi-Fi networks. It addressed some of the limitations of its predecessor and provided stronger security features.
+WPA2 (Wi-Fi Protected Access II) was introduced in 2004 as the successor to [[wi-fi_protected_access_(wpa)|wpa]] and is now the standard for securing Wi-Fi networks. It addressed some of the limitations of its predecessor and provided stronger security features.
 
 **Key Features of WPA2:**
 
@@ -22,5 +20,5 @@ WPA2 has become the standard for most Wi-Fi networks, and while it's more secure
 
 See also:
 
-- [[Wi-Fi Protected Access (WPA)]]
-- [[Wi-Fi Protected Access III (WPA3)]]
+- [[wi-fi_protected_access_(wpa)]]
+- [[wi-fi_protected_access_iii_(wpa3)]]

@@ -14,7 +14,7 @@ CVE is an essential resource for security teams and organizations to track known
 
 See also:
 
-- [[Vulnerability]]
-- [[Common vulnerability scoring system (CVSS)]]
-- [[Security content automation protocol (SCAP)]]
-- [[Open Vulnerability and Assessment Language (OVAL)]]
+- [[vulnerability]]
+- [[common_vulnerability_scoring_system_(cvss)]]
+- [[security_content_automation_protocol_(scap)]]
+- [[open_vulnerability_and_assessment_language_(oval)]]

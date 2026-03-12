@@ -1,7 +1,5 @@
 # NixOS
 
-[[🏷️Linux distribution]]
-
 NixOS is a Linux distribution built around the Nix package manager, known for its declarative configuration, reproducibility, and atomic upgrades. Unlike traditional Linux distributions, NixOS uses a unique approach to package and system management, making it highly reliable and easy to roll back changes.
 
 - **Declarative configuration**: System settings and installed packages are defined in a single configuration file (`/etc/nixos/configuration.nix`), ensuring consistency across deployments.

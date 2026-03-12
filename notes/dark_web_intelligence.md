@@ -13,7 +13,7 @@ Dark web intelligence helps organizations stay proactive by identifying risks, u
 
 See also:
 
-- [[Dark web]]
-- [[Threat intelligence]]
-- [[Open-source intelligence (OSINT)]]
-- [[Proprietary intelligence]]
+- [[dark_web]]
+- [[threat_intelligence]]
+- [[open-source_intelligence_(osint)]]
+- [[proprietary_intelligence]]

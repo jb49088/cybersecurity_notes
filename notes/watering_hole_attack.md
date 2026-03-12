@@ -1,7 +1,5 @@
 # Watering hole attack
 
-[[🏷️Web application attack]]
-
 A watering hole attack targets a specific group of users by compromising websites or online resources that they are known to frequent. This tactic leverages the attacker’s knowledge of the victim’s habits to deliver malicious content in a trusted context.
 
 The process begins with attackers identifying websites commonly visited by their intended targets. The attackers then exploit vulnerabilities in those websites to inject malicious code, which often aims to install malware or steal sensitive information from visitors. Since the compromised sites are trusted by the victims, they are more likely to engage with the malicious content unknowingly.

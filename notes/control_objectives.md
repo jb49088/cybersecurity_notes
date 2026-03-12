@@ -15,5 +15,5 @@ Effective control objectives help organizations identify and address potential r
 
 See also:
 
-- [[Risk management]]
-- [[Compliance]]
+- [[risk_management]]
+- [[compliance]]

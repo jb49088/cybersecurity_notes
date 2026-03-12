@@ -1,7 +1,5 @@
 # Domain-based message authentication, reporting, and conformance (DMARC)
 
-[[🏷️Network protocol]]
-
 Domain-based message authentication, reporting, and conformance (DMARC) is an email authentication protocol used to protect domains from unauthorized use, such as email spoofing or phishing attacks. DMARC allows domain owners to specify how email from their domain should be authenticated using Sender Policy Framework (SPF) and DomainKeys Identified Mail (DKIM). It also provides a way for domain owners to receive reports on email authentication activity.
 
 DMARC works by publishing a DMARC record in the DNS of the domain. This record defines the policy for handling emails that fail SPF and DKIM checks, which can include actions like quarantine or reject. DMARC also enables the generation of reports, which provide valuable insights into email traffic and security events.
@@ -18,7 +16,7 @@ DMARC helps prevent malicious actors from impersonating a legitimate domain, thu
 
 See also:
 
-- [[Sender policy framework (SPF)]]
-- [[DomainKeys identified mail (DKIM)]]
-- [[Domain name system (DNS)]]
-- [[Mail gateway]]
+- [[sender_policy_framework_(spf)]]
+- [[domainkeys_identified_mail_(dkim)]]
+- [[domain_name_system_(dns)]]
+- [[mail_gateway]]

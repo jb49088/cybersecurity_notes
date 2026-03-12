@@ -15,6 +15,6 @@ NetFlow is an essential tool for network monitoring and analysis, offering netwo
 
 See also:
 
-- [[Simple network management protocol (SNMP)]]
-- [[Internet Control Message Protocol (ICMP)]]
-- [[Reporting]]
+- [[simple_network_management_protocol_(snmp)]]
+- [[internet_control_message_protocol_(icmp)]]
+- [[reporting]]

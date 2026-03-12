@@ -1,3 +1,3 @@
 # Metrics
 
-Key technical attributes such as response time, [[Availability|availability]], and failure rate, which are used to [[Assess|assess]] the performance of a [[Software Security|software]] [[Application|application]].
+Key technical attributes such as response time, [[availability|availability]], and failure rate, which are used to [[assess|assess]] the performance of a [[software_security|software]] [[application|application]].

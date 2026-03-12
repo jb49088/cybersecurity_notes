@@ -14,5 +14,5 @@ GPOs are a crucial tool in enterprise environments, ensuring consistency and sec
 
 See also:
 
-- [[Active directory (AD)]]
-- [[Windows]]
+- [[active_directory_(ad)]]
+- [[windows]]

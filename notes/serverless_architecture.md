@@ -10,4 +10,4 @@ The serverless model is managed by a third-party provider, which assumes respons
 
 See also:
 
-- [[Cloud computing]]
+- [[cloud_computing]]

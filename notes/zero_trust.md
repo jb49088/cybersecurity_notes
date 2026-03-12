@@ -1,7 +1,5 @@
 # Zero trust
 
-[[🏷️Principle]]
-
 Zero trust is a security model that assumes no entity—whether inside or outside the network—should be trusted by default. Instead of relying on traditional perimeter-based security, zero trust enforces strict identity verification, least privilege access, and continuous monitoring to protect data, systems, and users from potential threats.
 
 - **Verify every user and device**: Access is granted based on authentication, authorization, and risk assessment, rather than assuming trust based on location or network position.
@@ -16,8 +14,8 @@ Zero trust is widely adopted in modern cybersecurity frameworks, particularly in
 
 See also:
 
-- [[Policy-based access control (PBAC)]]
-- [[Policy enforcement point (PEP)]]
-- [[Policy decision point (PDP)]]
-- [[Policy engine]]
-- [[Policy administrator]]
+- [[policy-based_access_control_(pbac)]]
+- [[policy_enforcement_point_(pep)]]
+- [[policy_decision_point_(pdp)]]
+- [[policy_engine]]
+- [[policy_administrator]]

@@ -15,4 +15,4 @@ CSRF tokens are the primary defense against CSRF attacks, but their effectivenes
 
 See also:
 
-- [[Cross-site request forgery (CSRF)]]
+- [[cross-site_request_forgery_(csrf)]]

@@ -16,7 +16,7 @@ Choosing between fail-open and fail-closed often depends on the system’s prior
 
 See also:
 
-- [[Mean time to failure (MTTF)]]
-- [[Mean time between failures (MTBF)]]
-- [[Intrusion prevention system (IPS)]]
-- [[Intrusion detection system (IDS)]]
+- [[mean_time_to_failure_(mttf)]]
+- [[mean_time_between_failures_(mtbf)]]
+- [[intrusion_prevention_system_(ips)]]
+- [[intrusion_detection_system_(ids)]]

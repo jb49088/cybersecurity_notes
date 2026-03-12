@@ -1,7 +1,5 @@
 # Internet message access protocol (IMAP)
 
-[[🏷️Network protocol]]
-
 Internet message access protocol (IMAP) is an email retrieval protocol that allows users to access and manage their emails directly on a mail server, keeping messages synchronized across multiple devices.
 
 - **Port number and protocol type:** IMAP operates over port 143 using TCP, and port 993 when using IMAP over SSL/TLS for encrypted communication.
@@ -16,6 +14,6 @@ IMAP is widely used in modern email services due to its ability to provide a sea
 
 See also:
 
-- [[Internet message access protocol secure (IMAPS)]]
-- [[Post office protocol (POP)]]
-- [[Simple mail transfer protocol (SMTP)]]
+- [[internet_message_access_protocol_secure_(imaps)]]
+- [[post_office_protocol_(pop)]]
+- [[simple_mail_transfer_protocol_(smtp)]]

@@ -1,7 +1,5 @@
 # Memorandum of agreement (MOA)
 
-[[🏷️Business agreement]]
-
 A memorandum of agreement (MOA) is a formal document that outlines the terms and conditions for collaboration between two or more parties. It is more detailed and structured than a memorandum of understanding (MOU) but does not always have the same legal weight as a full contract.
 
 - **Conditional agreement to objectives:** Both parties agree to the objectives and actions to be taken, but the agreement is conditional and may not involve enforceable promises.
@@ -14,4 +12,4 @@ MOAs are useful for setting clear expectations between parties and documenting a
 
 See also:
 
-- [[Memorandum of understanding (MOU)]]
+- [[memorandum_of_understanding_(mou)]]

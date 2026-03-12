@@ -1,7 +1,5 @@
 # NIST Cybersecurity Framework (CSF)
 
-[[🏷️Framework]]
-
 There are five core functions of the NIST CSF framework: identify, protect, detect, respond, and recover. These core functions help organizations manage cybersecurity risks, implement risk management strategies, and learn from previous mistakes. Plans based on this framework should be continuously updated to stay ahead of the latest security threats. The core functions help ensure organizations are protected against potential threats, risks, and vulnerabilities. Each function can be used to improve an organization’s security:
 
 - **Identify:** Manage security risks through regular audits of internal networks, systems, devices, and access privileges to identify potential gaps in security.
@@ -14,7 +12,7 @@ There are five core functions of the NIST CSF framework: identify, protect, dete
 
 See also:
 
-- [[National Institute of Standards and Technology (NIST)]]
-- [[NIST Incident Response Lifecycle]]
-- [[NIST Risk Management Framework (RMF)]]
-- [[NIST Special Publication (S.P.) 800-53]]
+- [[national_institute_of_standards_and_technology_(nist)]]
+- [[nist_incident_response_lifecycle]]
+- [[nist_risk_management_framework_(rmf)]]
+- [[nist_special_publication_(s.p.)_800-53]]

@@ -12,6 +12,6 @@ FRR is usually adjusted by fine-tuning the system's sensitivity or threshold for
 
 See also:
 
-- [[Biometrics]]
-- [[False acceptance rate (FAR)]]
-- [[Crossover error rate (CER)]]
+- [[biometrics]]
+- [[false_acceptance_rate_(far)]]
+- [[crossover_error_rate_(cer)]]

@@ -14,4 +14,4 @@ Visual Basic is widely used in developing desktop applications, particularly in 
 
 See also:
 
-- [[Integrated development environment (IDE)]]
+- [[integrated_development_environment_(ide)]]

@@ -10,6 +10,6 @@ One of the key advantages of GMAC is its ability to perform message authenticati
 
 See also:
 
-- [[Galois counter mode (GCM)]]
-- [[Message Authentication Code (MAC)]]
-- [[Advanced encryption standard (AES)]]
+- [[galois_counter_mode_(gcm)]]
+- [[message_authentication_code_(mac)]]
+- [[advanced_encryption_standard_(aes)]]

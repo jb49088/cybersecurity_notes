@@ -1,7 +1,5 @@
 # User datagram protocol (UDP)
 
-[[🏷️Network protocol]]
-
 User datagram protocol (UDP) is a core component of the Internet protocol suite, designed for connectionless communication. Unlike TCP, UDP focuses on speed and efficiency rather than reliability, making it suitable for applications where real-time data transfer is more critical than error correction.
 
 - **Connectionless communication:** UDP does not establish a connection before sending data, reducing latency and enabling faster transmissions.
@@ -16,5 +14,5 @@ While UDP sacrifices reliability, its efficiency and low latency make it an esse
 
 See also:
 
-- [[Transmission control protocol (TCP)]]
-- [[Internet protocol (IP)]]
+- [[transmission_control_protocol_(tcp)]]
+- [[internet_protocol_(ip)]]

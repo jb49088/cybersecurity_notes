@@ -1,7 +1,5 @@
 # Parameters
 
-[[🏷️Python]]
-
 A parameter is an object that is included in a function definition for use in that function. When you define a function, you create variables in the function header. They can then be used in the body of the function. In this context, these variables are called parameters.  For example, consider the following function:
 
 ```

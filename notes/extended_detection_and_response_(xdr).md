@@ -13,10 +13,10 @@ XDR is a powerful tool for organizations looking to enhance their threat detecti
 
 See also:
 
-- [[Endpoint]]
-- [[Endpoint detection and response (EDR)]]
-- [[Signature-based detection]]
-- [[Root cause analysis (RCA)]]
-- [[Application programming interface (API)]]
-- [[Machine Learning (ML)]]
-- [[User behavior analytics (UBA)]]
+- [[endpoint]]
+- [[endpoint_detection_and_response_(edr)]]
+- [[signature-based_detection]]
+- [[root_cause_analysis_(rca)]]
+- [[application_programming_interface_(api)]]
+- [[machine_learning_(ml)]]
+- [[user_behavior_analytics_(uba)]]

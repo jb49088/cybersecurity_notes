@@ -1,7 +1,5 @@
 # Hash collision
 
-[[🏷️Cryptography]]
-
 A hash collision occurs when two different inputs produce the same hash output. In other words, it is when two distinct sets of data (e.g., files, passwords, or messages) yield the same hash value after being processed by a hash function. Hash collisions are a significant concern in cryptography and data integrity because they undermine the uniqueness and reliability of a hash function.
 
 ## Impact of hash collisions
@@ -16,6 +14,6 @@ A hash collision demonstrates the limits of hash functions and the importance of
 
 See also:
 
-- [[Hashing]]
-- [[Secure Hash Algorithm 1 (SHA-1)]]
-- [[Message Digest 5 (MD5)]]
+- [[hashing]]
+- [[secure_hash_algorithm_1_(sha-1)]]
+- [[message_digest_5_(md5)]]

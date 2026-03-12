@@ -13,4 +13,4 @@ ICS ensures operational efficiency, safety, and reliability by automating comple
 
 See also:
 
-- [[Supervisory control and data acquisition (SCADA)]]
+- [[supervisory_control_and_data_acquisition_(scada)]]

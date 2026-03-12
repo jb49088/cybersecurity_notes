@@ -1,7 +1,5 @@
 # Non-disclosure agreement (NDA)
 
-[[🏷️Business agreement]]
-
 A non-disclosure agreement (NDA) is a formal contract between parties that establishes confidentiality and restricts the sharing of specific information. NDAs are designed to protect sensitive information from being disclosed to unauthorized individuals or organizations.
 
 - **Confidentiality agreement:** The NDA ensures that any information covered by the agreement remains confidential and is not disclosed without permission.

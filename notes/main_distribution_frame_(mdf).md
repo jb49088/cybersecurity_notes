@@ -14,4 +14,4 @@ The MDF plays a crucial role in network design and maintenance, offering a struc
 
 See also:
 
-- [[Intermediate distribution frame (IDF)]]
+- [[intermediate_distribution_frame_(idf)]]

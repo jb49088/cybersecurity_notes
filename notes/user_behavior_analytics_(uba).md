@@ -14,6 +14,6 @@ UBA plays a crucial role in modern security systems, offering advanced detection
 
 See also:
 
-- [[Baseline]]
-- [[Anomaly-based detection]]
-- [[Extended detection and response (XDR)]]
+- [[baseline]]
+- [[anomaly-based_detection]]
+- [[extended_detection_and_response_(xdr)]]

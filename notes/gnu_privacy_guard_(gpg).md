@@ -14,5 +14,5 @@ GPG is widely used for secure communication, ensuring confidentiality, integrity
 
 See also:
 
-- [[Pretty good privacy (PGP)]]
-- [[Digital signature]]
+- [[pretty_good_privacy_(pgp)]]
+- [[digital_signature]]

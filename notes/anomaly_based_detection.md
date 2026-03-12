@@ -14,10 +14,10 @@ Anomaly-based detection is useful for identifying previously unknown or zero-day
 
 See also:
 
-- [[Security baselines]]
-- [[Signature-based detection]]
-- [[Intrusion detection system (IDS)]]
-- [[Intrusion prevention system (IPS)]]
-- [[Endpoint detection and response (EDR)]]
-- [[Antivirus (AV)]]
-- [[Firewall]]
+- [[security_baselines]]
+- [[signature-based_detection]]
+- [[intrusion_detection_system_(ids)]]
+- [[intrusion_prevention_system_(ips)]]
+- [[endpoint_detection_and_response_(edr)]]
+- [[antivirus_(av)]]
+- [[firewall]]

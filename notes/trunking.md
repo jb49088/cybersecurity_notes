@@ -16,4 +16,4 @@ Trunking is widely used in enterprise networks, especially when managing large, 
 
 See also:
 
-- [[Virtual Local Area Networks (VLAN)]]
+- [[virtual_local_area_networks_(vlan)]]

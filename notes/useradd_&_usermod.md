@@ -1,7 +1,5 @@
 # useradd & usermod
 
-[[🏷️Linux command]]
-
 The `useradd` and `usermod` commands are used in Linux to manage user accounts.
 
 The `useradd` or `adduser` commands are the exact same commands where `adduser` is just a symbolic link to the `useradd` command. This command allows us to create a new user in Linux.

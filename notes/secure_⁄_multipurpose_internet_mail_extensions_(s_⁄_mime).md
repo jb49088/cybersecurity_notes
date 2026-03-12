@@ -16,6 +16,6 @@ S/MIME is an essential tool for businesses and individuals who require secure em
 
 See also:
 
-- [[Public key Infrastructure (PKI)]]
-- [[Digital signature]]
-- [[Digital certificate]]
+- [[public_key_infrastructure_(pki)]]
+- [[digital_signature]]
+- [[digital_certificate]]
