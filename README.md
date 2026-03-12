@@ -9,9 +9,9 @@
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Markdown                      1167           8449              4          16532
+Markdown                      1156           8354              4          16379
 -------------------------------------------------------------------------------
-SUM:                          1167           8449              4          16532
+SUM:                          1156           8354              4          16379
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -21,1303 +21,1235 @@ SUM:                          1167           8449              4          16532
 ### Project Structure
 ```
 cybersecurity_notes
-├── Help
-│   ├── Bold, italics, highlights.md
-│   ├── Callouts.md
-│   ├── Code.md
-│   ├── Flashcards.md
-│   ├── Headings.md
-│   ├── Line break.md
-│   ├── Lists.md
-│   ├── Non-breaking space.md
-│   └── Quotes.md
-├── Inbox
-│   └── Standards & Standard Bodies
-│       ├── Center for Internet Security (CIS).md
-│       ├── FedRAMP.md
-│       ├── Institute of electrical and electronics engineers (IEEE).md
-│       ├── International Organization for Standardization (ISO).md
-│       ├── ISO ∕ IEC 270001.md
-│       ├── National Institute of Standards and Technology (NIST).md
-│       └── Research and development in advanced communications technologies in Europe (RACE).md
-├── Notes
-│   ├── AAA server.md
-│   ├── Abstraction.md
-│   ├── Acceptable use policy (AUP).md
-│   ├── Access badge cloning.md
-│   ├── Access badge.md
-│   ├── Access control list (ACL).md
-│   ├── Access control vestibule.md
-│   ├── Access point (AP).md
-│   ├── Access Restrictions.md
-│   ├── Accountability.md
-│   ├── Account Change Audit.md
-│   ├── Account.md
-│   ├── Active directory (AD).md
-│   ├── Active packet sniffing.md
-│   ├── Adaptive identity.md
-│   ├── Address resolution protocol (ARP).md
-│   ├── Address space layout randomization (ASLR).md
-│   ├── Ad hoc assessment.md
-│   ├── Advanced encryption standard (AES).md
-│   ├── Advanced Package Tool (APT).md
-│   ├── Advanced Persistent Threat (APT).md
-│   ├── Adversarial AI.md
-│   ├── Adversarial tactics, techniques, and common knowledge (ATT&CK).md
-│   ├── Adware.md
-│   ├── Aggregate functions.md
-│   ├── Aircrack-ng.md
-│   ├── Air gap.md
-│   ├── Alert.md
-│   ├── Algorithm.md
+├── notes
+│   ├── aaa_server.md
+│   ├── abstraction.md
+│   ├── acceptable_use_policy_(aup).md
+│   ├── access_badge_cloning.md
+│   ├── access_badge.md
+│   ├── access_control_list_(acl).md
+│   ├── access_control_vestibule.md
+│   ├── access_point_(ap).md
+│   ├── access_restrictions.md
+│   ├── accountability.md
+│   ├── account_change_audit.md
+│   ├── account.md
+│   ├── active_directory_(ad).md
+│   ├── active_packet_sniffing.md
+│   ├── adaptive_identity.md
+│   ├── address_resolution_protocol_(arp).md
+│   ├── address_space_layout_randomization_(aslr).md
+│   ├── ad_hoc_assessment.md
+│   ├── advanced_encryption_standard_(aes).md
+│   ├── advanced_package_tool_(apt).md
+│   ├── advanced_persistent_threat_(apt).md
+│   ├── adversarial_ai.md
+│   ├── adversarial_tactics,_techniques,_and_common_knowledge_(att&ck).md
+│   ├── adware.md
+│   ├── aggregate_functions.md
+│   ├── aircrack_ng.md
+│   ├── air_gap.md
+│   ├── alert.md
+│   ├── algorithm.md
 │   ├── alias.md
-│   ├── Alteration.md
-│   ├── Amplification attack.md
-│   ├── Analysis.md
-│   ├── AND.md
-│   ├── Angler phishing.md
-│   ├── Annual loss expectancy (ALE).md
-│   ├── Annual rate of occurrence (ARO).md
-│   ├── Anomaly-based detection.md
-│   ├── Anonymization.md
-│   ├── Antivirus (AV).md
-│   ├── API token.md
-│   ├── Application allow list ⁄ deny list.md
-│   ├── Application.md
-│   ├── Application programming interface (API).md
-│   ├── Application security monitoring.md
-│   ├── Archiving.md
-│   ├── Arch linux.md
-│   ├── Argon2.md
-│   ├── Argument (Linux).md
-│   ├── Argument (Python).md
-│   ├── Armor virus.md
-│   ├── ARP poisoning.md
-│   ├── Artificial Intelligence (AI).md
-│   ├── Asset classification.md
-│   ├── Asset inventory.md
-│   ├── Asset lifecycle management.md
-│   ├── Asset.md
-│   ├── Asset ownership.md
-│   ├── Asset tracking.md
-│   ├── Assign and reassign variables in python.md
-│   ├── Asymmetric encryption.md
-│   ├── Asynchronous Transfer Mode (ATM).md
-│   ├── Attack surface.md
-│   ├── Attack vector.md
-│   ├── Attestation.md
-│   ├── Attribute-based access control (ABAC).md
-│   ├── Audit checklist.md
-│   ├── Authentication, Authorization, and Accounting (AAA).md
-│   ├── Authentication & Authorization Technologies.md
-│   ├── Authentication header (AH).md
-│   ├── Authentication.md
-│   ├── Authorization.md
-│   ├── Authorization model.md
-│   ├── Automated indicator sharing (AIS).md
-│   ├── Automation.md
-│   ├── Autopsy.md
-│   ├── Availability.md
-│   ├── Backdoor.md
-│   ├── Backout plan.md
-│   ├── Backup.md
-│   ├── Baiting.md
-│   ├── Bandwidth.md
-│   ├── Base16.md
-│   ├── Base64.md
-│   ├── Baseline.md
-│   ├── Basic Auth.md
-│   ├── Basic filters on SQL queries.md
-│   ├── Basic Input ⧸ Output System (BIOS).md
-│   ├── Basic queries.md
-│   ├── Basic service set identifier (BSSID).md
-│   ├── Basic SQL query.md
+│   ├── alteration.md
+│   ├── amplification_attack.md
+│   ├── analysis.md
+│   ├── and.md
+│   ├── angler_phishing.md
+│   ├── annual_loss_expectancy_(ale).md
+│   ├── annual_rate_of_occurrence_(aro).md
+│   ├── anomaly_based_detection.md
+│   ├── anonymization.md
+│   ├── antivirus_(av).md
+│   ├── api_token.md
+│   ├── application_allow_list_⁄_deny_list.md
+│   ├── application.md
+│   ├── application_programming_interface_(api).md
+│   ├── application_security_monitoring.md
+│   ├── archiving.md
+│   ├── arch_linux.md
+│   ├── argon2.md
+│   ├── argument_(linux).md
+│   ├── argument_(python).md
+│   ├── armor_virus.md
+│   ├── arp_poisoning.md
+│   ├── artificial_intelligence_(ai).md
+│   ├── asset_classification.md
+│   ├── asset_inventory.md
+│   ├── asset_lifecycle_management.md
+│   ├── asset.md
+│   ├── asset_ownership.md
+│   ├── asset_tracking.md
+│   ├── assign_and_reassign_variables_in_python.md
+│   ├── asymmetric_encryption.md
+│   ├── asynchronous_transfer_mode_(atm).md
+│   ├── attack_surface.md
+│   ├── attack_vector.md
+│   ├── attestation.md
+│   ├── attribute_based_access_control_(abac).md
+│   ├── audit_checklist.md
+│   ├── authentication,_authorization,_and_accounting_(aaa).md
+│   ├── authentication_&_authorization_technologies.md
+│   ├── authentication_header_(ah).md
+│   ├── authentication.md
+│   ├── authorization.md
+│   ├── authorization_model.md
+│   ├── automated_indicator_sharing_(ais).md
+│   ├── automation.md
+│   ├── autopsy.md
+│   ├── availability.md
+│   ├── backdoor.md
+│   ├── backout_plan.md
+│   ├── backup.md
+│   ├── baiting.md
+│   ├── bandwidth.md
+│   ├── base16.md
+│   ├── base64.md
+│   ├── baseline.md
+│   ├── basic_auth.md
+│   ├── basic_filters_on_sql_queries.md
+│   ├── basic_input_⧸_output_system_(bios).md
+│   ├── basic_queries.md
+│   ├── basic_service_set_identifier_(bssid).md
+│   ├── basic_sql_query.md
 │   ├── bcrypt.md
-│   ├── Best practices for log collection and management.md
-│   ├── BETWEEN.md
-│   ├── Binary exploitation.md
-│   ├── Bind shell.md
-│   ├── Biometrics.md
-│   ├── Birthday attack.md
-│   ├── Bit.md
-│   ├── Blockchain.md
-│   ├── Block cipher.md
-│   ├── Blowfish.md
-│   ├── BlueBorne.md
-│   ├── BlueSmack.md
-│   ├── Bluesnarfing.md
-│   ├── Bluetooth.md
-│   ├── Bogus DNS.md
-│   ├── Bollards.md
-│   ├── Boolean.md
-│   ├── Bootkit.md
-│   ├── Bootloader.md
-│   ├── Boot sector virus.md
-│   ├── Border gateway protocol (BGP).md
-│   ├── Botnet.md
-│   ├── Bourne Again SHell (Bash).md
-│   ├── Bourne Shell (sh).md
-│   ├── Bracket notation.md
-│   ├── Brand impersonation.md
-│   ├── Breach.md
-│   ├── Bridge.md
-│   ├── Bridge protocol data unit (BPDU).md
-│   ├── Bring your own device (BYOD).md
-│   ├── Brute force attack.md
-│   ├── Buffer overflow.md
-│   ├── Bug bounty.md
-│   ├── Built-in function.md
-│   ├── Burp Suite.md
-│   ├── Business continuity considerations.md
-│   ├── Business continuity plan (BCP).md
-│   ├── Business Email Compromise (BEC).md
-│   ├── Business impact analysis (BIA).md
-│   ├── Business partners agreement (BPA).md
-│   ├── Bus topology.md
-│   ├── C2 Node.md
+│   ├── best_practices_for_log_collection_and_management.md
+│   ├── between.md
+│   ├── binary_exploitation.md
+│   ├── bind_shell.md
+│   ├── biometrics.md
+│   ├── birthday_attack.md
+│   ├── bit.md
+│   ├── blockchain.md
+│   ├── block_cipher.md
+│   ├── blowfish.md
+│   ├── blueborne.md
+│   ├── bluesmack.md
+│   ├── bluesnarfing.md
+│   ├── bluetooth.md
+│   ├── bogus_dns.md
+│   ├── bollards.md
+│   ├── boolean.md
+│   ├── bootkit.md
+│   ├── bootloader.md
+│   ├── boot_sector_virus.md
+│   ├── border_gateway_protocol_(bgp).md
+│   ├── botnet.md
+│   ├── bourne_again_shell_(bash).md
+│   ├── bourne_shell_(sh).md
+│   ├── bracket_notation.md
+│   ├── brand_impersonation.md
+│   ├── breach.md
+│   ├── bridge.md
+│   ├── bridge_protocol_data_unit_(bpdu).md
+│   ├── bring_your_own_device_(byod).md
+│   ├── brute_force_attack.md
+│   ├── buffer_overflow.md
+│   ├── bug_bounty.md
+│   ├── built_in_function.md
+│   ├── burp_suite.md
+│   ├── business_continuity_considerations.md
+│   ├── business_continuity_plan_(bcp).md
+│   ├── business_email_compromise_(bec).md
+│   ├── business_impact_analysis_(bia).md
+│   ├── business_partners_agreement_(bpa).md
+│   ├── bus_topology.md
+│   ├── c2_node.md
 │   ├── cal.md
-│   ├── Capacity planning.md
-│   ├── CAPTCHA.md
-│   ├── Capture the flag (CTF).md
-│   ├── Carriage Return Line Feed (CRLF) Injection.md
-│   ├── Cascading Style Sheets (CSS).md
-│   ├── cat, echo & less.md
+│   ├── capacity_planning.md
+│   ├── captcha.md
+│   ├── capture_the_flag_(ctf).md
+│   ├── carriage_return_line_feed_(crlf)_injection.md
+│   ├── cascading_style_sheets_(css).md
+│   ├── cat,_echo_&_less.md
 │   ├── cd.md
-│   ├── CEF (Common Event Format).md
-│   ├── Cellular network.md
-│   ├── CentOS.md
-│   ├── Central Processing Unit (CPU).md
-│   ├── Certificate authority (CA).md
-│   ├── Certificate of destruction.md
-│   ├── Certificate revocation list (CRL).md
-│   ├── Certificate signing request (CSR).md
-│   ├── Chain of custody.md
-│   ├── Challenge Handshake Authentication Protocol (CHAP).md
-│   ├── Change management.md
-│   ├── Channel service unit (CSU).md
-│   ├── Checksum.md
-│   ├── chmod & chown.md
-│   ├── Choose your own device (CYOD).md
-│   ├── Chronicle.md
-│   ├── CIA triad.md
-│   ├── Cipher-based Message Authentication Code (CMAC).md
-│   ├── Cipher block chaining (CBC).md
-│   ├── Cipher feedback (CFB).md
-│   ├── Cipher lock.md
-│   ├── Cipher.md
-│   ├── Ciphertext.md
-│   ├── CISSP Security Domains.md
-│   ├── Classless Inter-Domain Routing (CIDR).md
+│   ├── cef_(common_event_format).md
+│   ├── cellular_network.md
+│   ├── center_for_internet_security_(cis).md
+│   ├── centos.md
+│   ├── central_processing_unit_(cpu).md
+│   ├── certificate_authority_(ca).md
+│   ├── certificate_of_destruction.md
+│   ├── certificate_revocation_list_(crl).md
+│   ├── certificate_signing_request_(csr).md
+│   ├── chain_of_custody.md
+│   ├── challenge_handshake_authentication_protocol_(chap).md
+│   ├── change_management.md
+│   ├── channel_service_unit_(csu).md
+│   ├── checksum.md
+│   ├── chmod_&_chown.md
+│   ├── choose_your_own_device_(cyod).md
+│   ├── chronicle.md
+│   ├── cia_triad.md
+│   ├── cipher_based_message_authentication_code_(cmac).md
+│   ├── cipher_block_chaining_(cbc).md
+│   ├── cipher_feedback_(cfb).md
+│   ├── cipher_lock.md
+│   ├── cipher.md
+│   ├── ciphertext.md
+│   ├── cissp_security_domains.md
+│   ├── classless_inter_domain_routing_(cidr).md
 │   ├── clear.md
-│   ├── Client-Server model.md
-│   ├── Clone Phishing.md
-│   ├── Closed-circuit television (CCTV).md
-│   ├── Cloud access security broker (CASB).md
-│   ├── Cloud computing.md
-│   ├── Cloud-managed access points.md
-│   ├── Cloud responsibility matrix.md
-│   ├── Cloud Service Provider (CSP).md
-│   ├── Code injection.md
-│   ├── Code.md
-│   ├── Code signing.md
-│   ├── Cold site.md
-│   ├── Combining operators.md
-│   ├── Command and control (C2).md
-│   ├── Command injection.md
-│   ├── Command line interface (CLI).md
-│   ├── Command.md
-│   ├── Comma Separated Value (CSV).md
-│   ├── Comment.md
-│   ├── Common Event Format (CEF).md
-│   ├── Common vulnerabilities and exposures (CVE).md
-│   ├── Common vulnerability scoring system (CVSS).md
-│   ├── Communicate effectively with stakeholders.md
-│   ├── Compare operating systems.md
-│   ├── Comparison operators.md
-│   ├── Compliance.md
-│   ├── Compliance monitoring.md
-│   ├── Compliance reporting.md
-│   ├── Components of a detection signature.md
-│   ├── Computer emergency response team (CERT).md
-│   ├── Computer incident response team (CIRT).md
-│   ├── Conditional statement.md
-│   ├── Confidentiality.md
-│   ├── Configuration enforcement.md
-│   ├── Configuration file.md
-│   ├── Containerization.md
-│   ├── Containment.md
-│   ├── Content filtering.md
-│   ├── Content management system (CMS).md
-│   ├── Contingency planning (CP).md
-│   ├── Continuity of operations planning (COOP).md
-│   ├── Continuous integration.md
-│   ├── Continuous learning in SQL.md
-│   ├── Controlled zone.md
-│   ├── Controller-based access point (CAP).md
-│   ├── Control objectives.md
-│   ├── Control plane.md
-│   ├── Cookie.md
-│   ├── Corporate owned, personally enabled (COPE).md
-│   ├── Corrective action report (CAR).md
-│   ├── Cost.md
-│   ├── Counter mode CBC-MAC protocol (CCMP).md
-│   ├── Counter mode (CTM).md
-│   ├── cp & mv.md
-│   ├── Credential stuffing.md
-│   ├── Crossover error rate (CER).md
-│   ├── Cross-site request forgery (CSRF).md
-│   ├── Cross-site request forgery (CSRF) token.md
-│   ├── Cross-site request.md
-│   ├── Cross-site scripting (XSS).md
-│   ├── Crowdsourcing.md
-│   ├── Cryptographic erasure.md
-│   ├── Cryptographic key.md
-│   ├── Cryptography.md
-│   ├── Cryptojacking.md
-│   ├── CSO Online.md
+│   ├── client_server_model.md
+│   ├── clone_phishing.md
+│   ├── closed_circuit_television_(cctv).md
+│   ├── cloud_access_security_broker_(casb).md
+│   ├── cloud_computing.md
+│   ├── cloud_managed_access_points.md
+│   ├── cloud_responsibility_matrix.md
+│   ├── cloud_service_provider_(csp).md
+│   ├── code_injection.md
+│   ├── code.md
+│   ├── code_signing.md
+│   ├── cold_site.md
+│   ├── combining_operators.md
+│   ├── command_and_control_(c2).md
+│   ├── command_injection.md
+│   ├── command_line_interface_(cli).md
+│   ├── command.md
+│   ├── comma_separated_value_(csv).md
+│   ├── comment.md
+│   ├── common_event_format_(cef).md
+│   ├── common_vulnerabilities_and_exposures_(cve).md
+│   ├── common_vulnerability_scoring_system_(cvss).md
+│   ├── communicate_effectively_with_stakeholders.md
+│   ├── compare_operating_systems.md
+│   ├── comparison_operators.md
+│   ├── compliance.md
+│   ├── compliance_monitoring.md
+│   ├── compliance_reporting.md
+│   ├── components_of_a_detection_signature.md
+│   ├── computer_emergency_response_team_(cert).md
+│   ├── computer_incident_response_team_(cirt).md
+│   ├── conditional_statement.md
+│   ├── confidentiality.md
+│   ├── configuration_enforcement.md
+│   ├── configuration_file.md
+│   ├── containerization.md
+│   ├── containment.md
+│   ├── content_filtering.md
+│   ├── content_management_system_(cms).md
+│   ├── contingency_planning_(cp).md
+│   ├── continuity_of_operations_planning_(coop).md
+│   ├── continuous_integration.md
+│   ├── continuous_learning_in_sql.md
+│   ├── controlled_zone.md
+│   ├── controller_based_access_point_(cap).md
+│   ├── control_objectives.md
+│   ├── control_plane.md
+│   ├── cookie.md
+│   ├── corporate_owned,_personally_enabled_(cope).md
+│   ├── corrective_action_report_(car).md
+│   ├── cost.md
+│   ├── counter_mode_cbc_mac_protocol_(ccmp).md
+│   ├── counter_mode_(ctm).md
+│   ├── cp_&_mv.md
+│   ├── credential_stuffing.md
+│   ├── crossover_error_rate_(cer).md
+│   ├── cross_site_request_forgery_(csrf).md
+│   ├── cross_site_request_forgery_(csrf)_token.md
+│   ├── cross_site_request.md
+│   ├── cross_site_scripting_(xss).md
+│   ├── crowdsourcing.md
+│   ├── cryptographic_erasure.md
+│   ├── cryptographic_key.md
+│   ├── cryptography.md
+│   ├── cryptojacking.md
+│   ├── cso_online.md
 │   ├── curl.md
-│   ├── CVE Numbering Authority (CNA).md
-│   ├── CVSS Metrics.md
-│   ├── CyberChef.md
-│   ├── CyberHAC.md
-│   ├── Cybersecurity insurance.md
-│   ├── Cyber Threat Framework (CTF).md
-│   ├── Cyber threat intelligence (CTI).md
-│   ├── Cyclical redundancy check (CRC).md
-│   ├── Dark web intelligence.md
-│   ├── Dark web.md
-│   ├── Database administrator (DBA).md
-│   ├── Database.md
-│   ├── Data center.md
-│   ├── Data classifications.md
-│   ├── Data encryption standard (DES).md
-│   ├── Data execution prevention (DEP).md
-│   ├── Data exfiltration.md
-│   ├── Data Governance Policy.md
-│   ├── Datagram Congestion Control Protocol (DCCP).md
-│   ├── Data inventory.md
-│   ├── Data lifecycle stages.md
-│   ├── Data loss prevention (DLP).md
-│   ├── Data masking.md
-│   ├── Data.md
-│   ├── Data Minimization.md
-│   ├── Data Packet.md
-│   ├── Data plane.md
-│   ├── Data Protection Policy.md
-│   ├── Data retention.md
-│   ├── Data roles.md
-│   ├── Data sovereignty.md
-│   ├── Data states.md
-│   ├── Data Structures.md
-│   ├── Data subject.md
-│   ├── Data types.md
+│   ├── cve_numbering_authority_(cna).md
+│   ├── cvss_metrics.md
+│   ├── cyberchef.md
+│   ├── cyberhac.md
+│   ├── cybersecurity_insurance.md
+│   ├── cyber_threat_framework_(ctf).md
+│   ├── cyber_threat_intelligence_(cti).md
+│   ├── cyclical_redundancy_check_(crc).md
+│   ├── dark_web_intelligence.md
+│   ├── dark_web.md
+│   ├── database_administrator_(dba).md
+│   ├── database.md
+│   ├── data_center.md
+│   ├── data_classifications.md
+│   ├── data_encryption_standard_(des).md
+│   ├── data_execution_prevention_(dep).md
+│   ├── data_exfiltration.md
+│   ├── data_governance_policy.md
+│   ├── datagram_congestion_control_protocol_(dccp).md
+│   ├── data_inventory.md
+│   ├── data_lifecycle_stages.md
+│   ├── data_loss_prevention_(dlp).md
+│   ├── data_masking.md
+│   ├── data.md
+│   ├── data_minimization.md
+│   ├── data_packet.md
+│   ├── data_plane.md
+│   ├── data_protection_policy.md
+│   ├── data_retention.md
+│   ├── data_roles.md
+│   ├── data_sovereignty.md
+│   ├── data_states.md
+│   ├── data_structures.md
+│   ├── data_subject.md
+│   ├── data_types.md
 │   ├── dd.md
-│   ├── Deauthentication attack.md
-│   ├── Debian.md
-│   ├── Debugger.md
-│   ├── Debugging.md
-│   ├── Debug mode.md
-│   ├── Decommissioning.md
-│   ├── Decoy directories.md
-│   ├── Decryption.md
-│   ├── Deep packet inspection (DPI).md
-│   ├── Default credentials.md
-│   ├── Defense in depth.md
-│   ├── Demilitarized zone (DMZ).md
-│   ├── Denial of service (DoS).md
-│   ├── Dependencies.md
-│   ├── Desktop environment.md
-│   ├── Destination network address translation (DNAT).md
-│   ├── Detection.md
-│   ├── Detection tools and techniques.md
-│   ├── Determining Scan Frequency.md
-│   ├── df & mount.md
-│   ├── Diameter.md
-│   ├── Dictionary attack.md
-│   ├── Dictionary.md
-│   ├── diff, cmp & comm.md
-│   ├── Diffie-Hellman (DH).md
-│   ├── Diffie-Hellman Ephemeral (DHE).md
-│   ├── Digital certificate.md
-│   ├── Digital forensics.md
-│   ├── Digital Security Standard (DSS).md
-│   ├── Digital signature algorithm (DSA).md
-│   ├── Digital signature.md
-│   ├── Digital subscriber line (DSL).md
-│   ├── Directory.md
-│   ├── Directory traversal.md
-│   ├── Disassociation attack.md
-│   ├── Disaster recovery plan (DRP).md
-│   ├── Disclosure.md
-│   ├── Discretionary access control (DAC).md
-│   ├── Distance Vector Routing Protocol (DVRP).md
-│   ├── Distributed denial of service (DDoS).md
-│   ├── DLL injection.md
-│   ├── DLL sideloading.md
-│   ├── DNS filtering.md
-│   ├── DNS over HTTPS (DoH).md
-│   ├── DNS poisoning.md
-│   ├── DNS tunneling.md
-│   ├── Domain-based message authentication, reporting, and conformance (DMARC).md
-│   ├── Domain hijacking.md
-│   ├── DomainKeys identified mail (DKIM).md
-│   ├── Domain.md
-│   ├── Domain name system (DNS).md
-│   ├── Downgrade attack.md
+│   ├── deauthentication_attack.md
+│   ├── debian.md
+│   ├── debugger.md
+│   ├── debugging.md
+│   ├── debug_mode.md
+│   ├── decommissioning.md
+│   ├── decoy_directories.md
+│   ├── decryption.md
+│   ├── deep_packet_inspection_(dpi).md
+│   ├── default_credentials.md
+│   ├── defense_in_depth.md
+│   ├── demilitarized_zone_(dmz).md
+│   ├── denial_of_service_(dos).md
+│   ├── dependencies.md
+│   ├── desktop_environment.md
+│   ├── destination_network_address_translation_(dnat).md
+│   ├── detection.md
+│   ├── detection_tools_and_techniques.md
+│   ├── determining_scan_frequency.md
+│   ├── df_&_mount.md
+│   ├── diameter.md
+│   ├── dictionary_attack.md
+│   ├── dictionary.md
+│   ├── diff,_cmp_&_comm.md
+│   ├── diffie_hellman_(dh).md
+│   ├── diffie_hellman_ephemeral_(dhe).md
+│   ├── digital_certificate.md
+│   ├── digital_forensics.md
+│   ├── digital_security_standard_(dss).md
+│   ├── digital_signature_algorithm_(dsa).md
+│   ├── digital_signature.md
+│   ├── digital_subscriber_line_(dsl).md
+│   ├── directory.md
+│   ├── directory_traversal.md
+│   ├── disassociation_attack.md
+│   ├── disaster_recovery_plan_(drp).md
+│   ├── disclosure.md
+│   ├── discretionary_access_control_(dac).md
+│   ├── distance_vector_routing_protocol_(dvrp).md
+│   ├── distributed_denial_of_service_(ddos).md
+│   ├── dll_injection.md
+│   ├── dll_sideloading.md
+│   ├── dns_filtering.md
+│   ├── dns_over_https_(doh).md
+│   ├── dns_poisoning.md
+│   ├── dns_tunneling.md
+│   ├── domain_based_message_authentication,_reporting,_and_conformance_(dmarc).md
+│   ├── domain_hijacking.md
+│   ├── domainkeys_identified_mail_(dkim).md
+│   ├── domain.md
+│   ├── domain_name_system_(dns).md
+│   ├── downgrade_attack.md
 │   ├── dpkg.md
-│   ├── Dropper.md
-│   ├── Due diligence.md
-│   ├── Dumpster diving.md
-│   ├── Dynamic code analysis.md
-│   ├── Dynamic host configuration protocol (DHCP).md
-│   ├── Dynamic-link library (DLL).md
-│   ├── Dynamic page generation.md
-│   ├── Ease of deployment.md
-│   ├── Easter egg.md
-│   ├── Eavesdropping.md
-│   ├── E-discovery.md
-│   ├── Electronic codebook (ECB).md
-│   ├── Electronic serial number (ESN).md
-│   ├── Elliptic-curve cryptography (ECC).md
-│   ├── Elliptic Curve Diffie-Hellman (ECDH).md
-│   ├── Elliptic-curve diffie-hellman ephemeral (ECDHE).md
-│   ├── Elliptic Curve Digital Signature Algorithm (ECDSA).md
-│   ├── Email Header Injection.md
-│   ├── Email Phishing.md
-│   ├── Embedded systems.md
-│   ├── Encapsulating security payload (ESP).md
-│   ├── Encapsulation.md
-│   ├── Encoding.md
-│   ├── Encrypted virus.md
-│   ├── Encrypting file system (EFS).md
-│   ├── Encryption.md
-│   ├── End of life (EOL).md
-│   ├── End of service life (EOSL).md
-│   ├── Endpoint detection and response (EDR).md
-│   ├── Endpoint.md
-│   ├── End-to-End Encryption (E2EE).md
-│   ├── Enhanced Interior Gateway Routing Protocol (EIGRP).md
-│   ├── Enterprise resource planning (ERP).md
-│   ├── Enumeration.md
-│   ├── Enum.md
-│   ├── Environment variable.md
-│   ├── Eric Parker.md
-│   ├── Escalation.md
-│   ├── Escalation Policy.md
-│   ├── Ethernet.md
-│   ├── Ettercap.md
-│   ├── Evil twin.md
-│   ├── Exception.md
-│   ├── Exclusive or (XOR).md
-│   ├── Exploitable gaps in databases.md
+│   ├── dropper.md
+│   ├── due_diligence.md
+│   ├── dumpster_diving.md
+│   ├── dynamic_code_analysis.md
+│   ├── dynamic_host_configuration_protocol_(dhcp).md
+│   ├── dynamic_link_library_(dll).md
+│   ├── dynamic_page_generation.md
+│   ├── ease_of_deployment.md
+│   ├── easter_egg.md
+│   ├── eavesdropping.md
+│   ├── e_discovery.md
+│   ├── electronic_codebook_(ecb).md
+│   ├── electronic_serial_number_(esn).md
+│   ├── elliptic_curve_cryptography_(ecc).md
+│   ├── elliptic_curve_diffie_hellman_(ecdh).md
+│   ├── elliptic_curve_diffie_hellman_ephemeral_(ecdhe).md
+│   ├── elliptic_curve_digital_signature_algorithm_(ecdsa).md
+│   ├── email_header_injection.md
+│   ├── email_phishing.md
+│   ├── embedded_systems.md
+│   ├── encapsulating_security_payload_(esp).md
+│   ├── encapsulation.md
+│   ├── encoding.md
+│   ├── encrypted_virus.md
+│   ├── encrypting_file_system_(efs).md
+│   ├── encryption.md
+│   ├── end_of_life_(eol).md
+│   ├── end_of_service_life_(eosl).md
+│   ├── endpoint_detection_and_response_(edr).md
+│   ├── endpoint.md
+│   ├── end_to_end_encryption_(e2ee).md
+│   ├── enhanced_interior_gateway_routing_protocol_(eigrp).md
+│   ├── enterprise_resource_planning_(erp).md
+│   ├── enumeration.md
+│   ├── enum.md
+│   ├── environment_variable.md
+│   ├── eric_parker.md
+│   ├── escalation.md
+│   ├── escalation_policy.md
+│   ├── ethernet.md
+│   ├── ettercap.md
+│   ├── evil_twin.md
+│   ├── exception.md
+│   ├── exclusive_or_(xor).md
+│   ├── exploitable_gaps_in_databases.md
 │   ├── export.md
-│   ├── Exposure factor (EF).md
-│   ├── Extended detection and response (XDR).md
-│   ├── Extensible authentication protocol (EAP).md
-│   ├── Extensible markup language (XML).md
-│   ├── Exterior Gateway Protocol (EGP).md
-│   ├── Fail-open ⁄ fail-closed.md
-│   ├── Failover.md
-│   ├── False acceptance rate (FAR).md
-│   ├── False flag attack.md
-│   ├── False rejection rate (FRR).md
-│   ├── Fast Re-Route (FRR).md
-│   ├── Federal Information Processing Standards (FIPS 140-3).md
-│   ├── Federal Information Security Management Act (FISMA).md
-│   ├── Federation.md
-│   ├── Fencing.md
-│   ├── FERC-NERC.md
-│   ├── FIDO2.md
-│   ├── Field programmable gate array (FPGA).md
-│   ├── File integrity monitoring (FIM).md
-│   ├── Fileless exploits.md
-│   ├── Fileless malware.md
-│   ├── File system access control list (FACL).md
-│   ├── Filesystem hierarchy standard (FHS).md
-│   ├── File transfer protocol (FTP).md
-│   ├── File transfer protocol secure (FTPS).md
-│   ├── Filter content in Linux.md
-│   ├── Filter dates and numbers.md
-│   ├── Filtering.md
-│   ├── Filters with AND, OR, and NOT.md
-│   ├── Firewall.md
-│   ├── Firmware.md
-│   ├── Float.md
-│   ├── Foreign key.md
-│   ├── Frame Relay.md
-│   ├── Framework.md
-│   ├── FROM.md
-│   ├── FULL OUTER JOIN.md
-│   ├── Full Packet Capture (FPC).md
-│   ├── Function (Python).md
-│   ├── Functions and variables.md
-│   ├── Fuzzing.md
-│   ├── Galois counter mode (GCM).md
-│   ├── Galois message authentication code (GMAC).md
-│   ├── Gap analysis.md
-│   ├── General data protection regulation (GDPR).md
-│   ├── Generator.md
-│   ├── Generic routing encapsulation (GRE).md
-│   ├── Geofencing.md
-│   ├── Geolocation.md
-│   ├── Global positioning system (GPS).md
-│   ├── GNU.md
-│   ├── GNU privacy guard (GPG).md
+│   ├── exposure_factor_(ef).md
+│   ├── extended_detection_and_response_(xdr).md
+│   ├── extensible_authentication_protocol_(eap).md
+│   ├── extensible_markup_language_(xml).md
+│   ├── exterior_gateway_protocol_(egp).md
+│   ├── fail_open_⁄_fail_closed.md
+│   ├── failover.md
+│   ├── false_acceptance_rate_(far).md
+│   ├── false_flag_attack.md
+│   ├── false_rejection_rate_(frr).md
+│   ├── fast_re_route_(frr).md
+│   ├── federal_information_processing_standards_(fips_140_3).md
+│   ├── federal_information_security_management_act_(fisma).md
+│   ├── federation.md
+│   ├── fedramp.md
+│   ├── fencing.md
+│   ├── ferc_nerc.md
+│   ├── fido2.md
+│   ├── field_programmable_gate_array_(fpga).md
+│   ├── file_integrity_monitoring_(fim).md
+│   ├── fileless_exploits.md
+│   ├── fileless_malware.md
+│   ├── file_system_access_control_list_(facl).md
+│   ├── filesystem_hierarchy_standard_(fhs).md
+│   ├── file_transfer_protocol_(ftp).md
+│   ├── file_transfer_protocol_secure_(ftps).md
+│   ├── filter_content_in_linux.md
+│   ├── filter_dates_and_numbers.md
+│   ├── filtering.md
+│   ├── filters_with_and,_or,_and_not.md
+│   ├── firewall.md
+│   ├── firmware.md
+│   ├── float.md
+│   ├── foreign_key.md
+│   ├── frame_relay.md
+│   ├── framework.md
+│   ├── from.md
+│   ├── full_outer_join.md
+│   ├── full_packet_capture_(fpc).md
+│   ├── function_(python).md
+│   ├── functions_and_variables.md
+│   ├── fuzzing.md
+│   ├── galois_counter_mode_(gcm).md
+│   ├── galois_message_authentication_code_(gmac).md
+│   ├── gap_analysis.md
+│   ├── general_data_protection_regulation_(gdpr).md
+│   ├── generator.md
+│   ├── generic_routing_encapsulation_(gre).md
+│   ├── geofencing.md
+│   ├── geolocation.md
+│   ├── global_positioning_system_(gps).md
+│   ├── gnu.md
+│   ├── gnu_privacy_guard_(gpg).md
 │   ├── gobuster.md
-│   ├── Graphical user interface (GUI).md
+│   ├── graphical_user_interface_(gui).md
 │   ├── grep.md
-│   ├── Group policy object (GPO).md
-│   ├── GTFOBins.md
-│   ├── Guardrails.md
-│   ├── Hacker.md
-│   ├── HackerSploit.md
-│   ├── HackTheBox.md
-│   ├── Handshake.md
-│   ├── Hardening.md
-│   ├── Hardware Security Module (HSM).md
-│   ├── Hash-based Message Authentication Code (HMAC).md
-│   ├── Hashcat.md
-│   ├── Hash collision.md
-│   ├── Hashing.md
-│   ├── Hash value.md
-│   ├── Header manipulation.md
-│   ├── head & tail.md
-│   ├── Health Information Trust Alliance (HITRUST).md
-│   ├── Health Insurance Portability and Accountability Act (HIPAA).md
-│   ├── Hierarchical database.md
-│   ├── High availability (HA).md
-│   ├── High-Level Data Link Control (HDLC).md
-│   ├── HMAC-based one-time password (HOTP).md
-│   ├── Hoaxes.md
-│   ├── Honeyfiles.md
-│   ├── Honeynet.md
-│   ├── Honeypot.md
-│   ├── Honeytokens.md
-│   ├── Host-based firewall.md
-│   ├── Host Header Injection.md
-│   ├── Hosting models.md
-│   ├── Hot site.md
-│   ├── How to read a Wireshark TCP ⁄ HTTP log.md
-│   ├── HTML injection.md
-│   ├── Hub.md
-│   ├── Hybrid cloud.md
-│   ├── Hybrid topology.md
-│   ├── Hypertext markup language (HTML).md
-│   ├── Hypertext transfer protocol (HTTP).md
-│   ├── Hypertext transfer protocol secure (HTTPS).md
-│   ├── Hypervisor.md
-│   ├── ICMP Flood.md
-│   ├── Identity and access management (IAM).md
-│   ├── Identity.md
-│   ├── Identity proofing.md
-│   ├── Identity provider (IdP).md
-│   ├── IEEE 802.11 (Wi-Fi).md
-│   ├── IEEE 802.1X.md
-│   ├── ifconfig & traceroute.md
-│   ├── Immutable.md
-│   ├── Impersonation.md
-│   ├── Import files into python.md
-│   ├── Import modules and libraries in python.md
-│   ├── Improper usage.md
-│   ├── Incident.md
-│   ├── Incident response plan (IRP).md
-│   ├── Incident Response Policy.md
-│   ├── Incorporating comparison operators.md
-│   ├── Indentation.md
-│   ├── Index.md
-│   ├── Indicators of attack (IoA).md
-│   ├── Indicators of compromise (IoC).md
-│   ├── Industrial control system (ICS).md
-│   ├── Infared (IR).md
-│   ├── Influence campagins.md
-│   ├── Information privacy∶ Regulations and compliance.md
-│   ├── Information Security (InfoSec).md
-│   ├── Information Security Policy.md
-│   ├── Information-sharing organization.md
-│   ├── Information Systems Security.md
-│   ├── Information technology (IT).md
-│   ├── Infrastructure as a service (IaaS).md
-│   ├── Infrastructure as code (IaC).md
-│   ├── Initialization vector (IV).md
-│   ├── Injection attack.md
-│   ├── INNER JOIN.md
-│   ├── Input sanitization.md
-│   ├── Input validation.md
-│   ├── Insecure Protocols.md
-│   ├── Inside operating systems.md
-│   ├── Insider Threat.md
-│   ├── Instant messaging (IM).md
-│   ├── Integer.md
-│   ├── Integrated development environment (IDE).md
-│   ├── Integrity.md
-│   ├── Intermediate distribution frame (IDF).md
-│   ├── Intermediate System to Intermediate System (IS-IS).md
-│   ├── International Data Encryption Algorithm (IDEA).md
-│   ├── Internet Assigned Numbers Authority (IANA).md
-│   ├── Internet Control Message Protocol (ICMP).md
-│   ├── Internet Group Management Protocol (IGMP).md
-│   ├── Internet key exchange (IKE).md
-│   ├── Internet.md
-│   ├── Internet message access protocol (IMAP).md
-│   ├── Internet message access protocol secure (IMAPS).md
-│   ├── Internet of Things (IoT).md
-│   ├── Internet protocol (IP).md
-│   ├── Internet protocol security (IPsec).md
-│   ├── Internet relay chat (IRC).md
-│   ├── Internet Service Provider (ISP).md
-│   ├── Interoperability.md
-│   ├── Interpreter.md
-│   ├── Interpreting the CVSS Vector.md
-│   ├── Interpret network communications with packets.md
-│   ├── Introduction to databases.md
-│   ├── Intrusion detection system (IDS).md
-│   ├── Intrusion prevention system (IPS).md
-│   ├── Investigate packet details.md
-│   ├── IP address.md
-│   ├── IP spoofing.md
+│   ├── group_policy_object_(gpo).md
+│   ├── gtfobins.md
+│   ├── guardrails.md
+│   ├── hacker.md
+│   ├── hackersploit.md
+│   ├── hackthebox.md
+│   ├── handshake.md
+│   ├── hardening.md
+│   ├── hardware_security_module_(hsm).md
+│   ├── hash_based_message_authentication_code_(hmac).md
+│   ├── hashcat.md
+│   ├── hash_collision.md
+│   ├── hashing.md
+│   ├── hash_value.md
+│   ├── header_manipulation.md
+│   ├── head_&_tail.md
+│   ├── health_information_trust_alliance_(hitrust).md
+│   ├── health_insurance_portability_and_accountability_act_(hipaa).md
+│   ├── hierarchical_database.md
+│   ├── high_availability_(ha).md
+│   ├── high_level_data_link_control_(hdlc).md
+│   ├── hmac_based_one_time_password_(hotp).md
+│   ├── hoaxes.md
+│   ├── honeyfiles.md
+│   ├── honeynet.md
+│   ├── honeypot.md
+│   ├── honeytokens.md
+│   ├── host_based_firewall.md
+│   ├── host_header_injection.md
+│   ├── hosting_models.md
+│   ├── hot_site.md
+│   ├── how_to_read_a_wireshark_tcp_⁄_http_log.md
+│   ├── html_injection.md
+│   ├── hub.md
+│   ├── hybrid_cloud.md
+│   ├── hybrid_topology.md
+│   ├── hypertext_markup_language_(html).md
+│   ├── hypertext_transfer_protocol_(http).md
+│   ├── hypertext_transfer_protocol_secure_(https).md
+│   ├── hypervisor.md
+│   ├── icmp_flood.md
+│   ├── identity_and_access_management_(iam).md
+│   ├── identity.md
+│   ├── identity_proofing.md
+│   ├── identity_provider_(idp).md
+│   ├── ieee_802.11_(wi_fi).md
+│   ├── ieee_802.1x.md
+│   ├── ifconfig_&_traceroute.md
+│   ├── immutable.md
+│   ├── impersonation.md
+│   ├── import_files_into_python.md
+│   ├── import_modules_and_libraries_in_python.md
+│   ├── improper_usage.md
+│   ├── incident.md
+│   ├── incident_response_plan_(irp).md
+│   ├── incident_response_policy.md
+│   ├── incorporating_comparison_operators.md
+│   ├── indentation.md
+│   ├── index.md
+│   ├── indicators_of_attack_(ioa).md
+│   ├── indicators_of_compromise_(ioc).md
+│   ├── industrial_control_system_(ics).md
+│   ├── infared_(ir).md
+│   ├── influence_campagins.md
+│   ├── information_privacy∶_regulations_and_compliance.md
+│   ├── information_security_(infosec).md
+│   ├── information_security_policy.md
+│   ├── information_sharing_organization.md
+│   ├── information_systems_security.md
+│   ├── information_technology_(it).md
+│   ├── infrastructure_as_a_service_(iaas).md
+│   ├── infrastructure_as_code_(iac).md
+│   ├── initialization_vector_(iv).md
+│   ├── injection_attack.md
+│   ├── inner_join.md
+│   ├── input_sanitization.md
+│   ├── input_validation.md
+│   ├── insecure_protocols.md
+│   ├── inside_operating_systems.md
+│   ├── insider_threat.md
+│   ├── instant_messaging_(im).md
+│   ├── institute_of_electrical_and_electronics_engineers_(ieee).md
+│   ├── integer.md
+│   ├── integrated_development_environment_(ide).md
+│   ├── integrity.md
+│   ├── intermediate_distribution_frame_(idf).md
+│   ├── intermediate_system_to_intermediate_system_(is_is).md
+│   ├── international_data_encryption_algorithm_(idea).md
+│   ├── international_organization_for_standardization_(iso).md
+│   ├── internet_assigned_numbers_authority_(iana).md
+│   ├── internet_control_message_protocol_(icmp).md
+│   ├── internet_group_management_protocol_(igmp).md
+│   ├── internet_key_exchange_(ike).md
+│   ├── internet.md
+│   ├── internet_message_access_protocol_(imap).md
+│   ├── internet_message_access_protocol_secure_(imaps).md
+│   ├── internet_of_things_(iot).md
+│   ├── internet_protocol_(ip).md
+│   ├── internet_protocol_security_(ipsec).md
+│   ├── internet_relay_chat_(irc).md
+│   ├── internet_service_provider_(isp).md
+│   ├── interoperability.md
+│   ├── interpreter.md
+│   ├── interpreting_the_cvss_vector.md
+│   ├── interpret_network_communications_with_packets.md
+│   ├── introduction_to_databases.md
+│   ├── intrusion_detection_system_(ids).md
+│   ├── intrusion_prevention_system_(ips).md
+│   ├── investigate_packet_details.md
+│   ├── ip_address.md
+│   ├── ip_spoofing.md
 │   ├── iptables.md
-│   ├── Iterative statement.md
-│   ├── Jailbreaking ⁄ Rooting.md
-│   ├── JavaScript.md
-│   ├── JavaScript Object Notation (JSON).md
-│   ├── John The Ripper.md
-│   ├── Join tables in SQL.md
-│   ├── Journaling.md
-│   ├── Jump server.md
-│   ├── Just-in-time permissions.md
-│   ├── Kali linux.md
-│   ├── Kerberos.md
-│   ├── Kerchoff’s principle.md
-│   ├── Kernel-based Virtual Machine (KVM).md
-│   ├── Key Derivation Function (KDF).md
-│   ├── Key distribution center (KDC).md
-│   ├── Key encryption key (KEK).md
-│   ├── Key escrow.md
-│   ├── Key exchange.md
-│   ├── Keylogger.md
-│   ├── Key management system.md
-│   ├── Key rotation.md
-│   ├── Key stretching.md
-│   ├── Krebs on Security.md
-│   ├── Lateral movement.md
-│   ├── Layer 2 tunneling protocol (L2TP).md
-│   ├── LDAP Injection.md
-│   ├── Least privilege.md
-│   ├── LEFT JOIN.md
-│   ├── Legacy platforms.md
-│   ├── Legal hold.md
-│   ├── Library.md
-│   ├── Lighting.md
-│   ├── Lightweight directory access protocol (LDAP).md
-│   ├── Lightweight directory access protocol secure (LDAPS).md
-│   ├── Lightweight extensible authentication protocol (LEAP).md
-│   ├── LIKE.md
-│   ├── Linux architecture.md
-│   ├── Linux commands cheat sheet.md
-│   ├── Linux kernel.md
-│   ├── Linux.md
-│   ├── Linux resources.md
-│   ├── List concatenation.md
-│   ├── List.md
-│   ├── Lists and the security analyst.md
-│   ├── Living off the land (LoL).md
+│   ├── iso_∕_iec_270001.md
+│   ├── iterative_statement.md
+│   ├── jailbreaking_⁄_rooting.md
+│   ├── javascript.md
+│   ├── javascript_object_notation_(json).md
+│   ├── john_the_ripper.md
+│   ├── join_tables_in_sql.md
+│   ├── journaling.md
+│   ├── jump_server.md
+│   ├── just_in_time_permissions.md
+│   ├── kali_linux.md
+│   ├── kerberos.md
+│   ├── kerchoff’s_principle.md
+│   ├── kernel_based_virtual_machine_(kvm).md
+│   ├── key_derivation_function_(kdf).md
+│   ├── key_distribution_center_(kdc).md
+│   ├── key_encryption_key_(kek).md
+│   ├── key_escrow.md
+│   ├── key_exchange.md
+│   ├── keylogger.md
+│   ├── key_management_system.md
+│   ├── key_rotation.md
+│   ├── key_stretching.md
+│   ├── krebs_on_security.md
+│   ├── lateral_movement.md
+│   ├── layer_2_tunneling_protocol_(l2tp).md
+│   ├── ldap_injection.md
+│   ├── least_privilege.md
+│   ├── left_join.md
+│   ├── legacy_platforms.md
+│   ├── legal_hold.md
+│   ├── library.md
+│   ├── lighting.md
+│   ├── lightweight_directory_access_protocol_(ldap).md
+│   ├── lightweight_directory_access_protocol_secure_(ldaps).md
+│   ├── lightweight_extensible_authentication_protocol_(leap).md
+│   ├── like.md
+│   ├── linux_architecture.md
+│   ├── linux_commands_cheat_sheet.md
+│   ├── linux_kernel.md
+│   ├── linux.md
+│   ├── linux_resources.md
+│   ├── list_concatenation.md
+│   ├── list.md
+│   ├── lists_and_the_security_analyst.md
+│   ├── living_off_the_land_(lol).md
 │   ├── ln.md
-│   ├── Load balancer.md
-│   ├── Loader.md
-│   ├── Local Area Network (LAN).md
-│   ├── Log forwarders.md
-│   ├── Logic bomb.md
-│   ├── Logic error.md
-│   ├── Login banner.md
-│   ├── Log management.md
-│   ├── Log.md
-│   ├── Loopback address.md
-│   ├── Lost Key Pairs.md
+│   ├── load_balancer.md
+│   ├── loader.md
+│   ├── local_area_network_(lan).md
+│   ├── log_forwarders.md
+│   ├── logic_bomb.md
+│   ├── logic_error.md
+│   ├── login_banner.md
+│   ├── log_management.md
+│   ├── log.md
+│   ├── loopback_address.md
+│   ├── lost_key_pairs.md
 │   ├── ls.md
-│   ├── MAC address.md
-│   ├── Machine Learning (ML).md
-│   ├── macOS.md
-│   ├── Macro virus.md
-│   ├── Mad Hat.md
-│   ├── Mail gateway.md
-│   ├── Main distribution frame (MDF).md
-│   ├── Maintain awareness with network monitoring.md
-│   ├── Malware analysis.md
-│   ├── Malware.md
-│   ├── Managed security service provider (MSSP).md
-│   ├── Managed service provider (MSP).md
-│   ├── Management information base (MIB).md
-│   ├── Mandatory access control (MAC).md
+│   ├── mac_address.md
+│   ├── machine_learning_(ml).md
+│   ├── macos.md
+│   ├── macro_virus.md
+│   ├── mad_hat.md
+│   ├── mail_gateway.md
+│   ├── main_distribution_frame_(mdf).md
+│   ├── maintain_awareness_with_network_monitoring.md
+│   ├── malware_analysis.md
+│   ├── malware.md
+│   ├── managed_security_service_provider_(mssp).md
+│   ├── managed_service_provider_(msp).md
+│   ├── management_information_base_(mib).md
+│   ├── mandatory_access_control_(mac).md
 │   ├── man.md
-│   ├── Masquerading.md
-│   ├── Master boot record (MBR).md
-│   ├── Master service agreement (MSA).md
-│   ├── Maximum transmission unit (MTU).md
-│   ├── Mean time between failures (MTBF).md
-│   ├── Mean time to failure (MTTF).md
-│   ├── Mean time to recover (MTTR).md
-│   ├── Media access control (MAC).md
-│   ├── Memorandum of agreement (MOA).md
-│   ├── Memorandum of understanding (MOU).md
-│   ├── Memory injection.md
-│   ├── Memory (RAM).md
-│   ├── Mesh access points.md
-│   ├── Mesh topology.md
-│   ├── Message Authentication Code (MAC).md
-│   ├── Message Digest 5 (MD5).md
-│   ├── Message integrity code (MIC).md
-│   ├── Metadata.md
-│   ├── Metamorphic virus.md
-│   ├── Metasploit.md
-│   ├── Method.md
-│   ├── Metrics.md
-│   ├── Metropolitan Area Network (MAN).md
-│   ├── Microservice architecture.md
-│   ├── Microsoft challenge handshake authentication protocol (MSCHAP).md
-│   ├── Misconfiguration.md
-│   ├── Misinformation and Disinformation.md
+│   ├── masquerading.md
+│   ├── master_boot_record_(mbr).md
+│   ├── master_service_agreement_(msa).md
+│   ├── maximum_transmission_unit_(mtu).md
+│   ├── mean_time_between_failures_(mtbf).md
+│   ├── mean_time_to_failure_(mttf).md
+│   ├── mean_time_to_recover_(mttr).md
+│   ├── media_access_control_(mac).md
+│   ├── memorandum_of_agreement_(moa).md
+│   ├── memorandum_of_understanding_(mou).md
+│   ├── memory_injection.md
+│   ├── memory_(ram).md
+│   ├── mesh_access_points.md
+│   ├── mesh_topology.md
+│   ├── message_authentication_code_(mac).md
+│   ├── message_digest_5_(md5).md
+│   ├── message_integrity_code_(mic).md
+│   ├── metadata.md
+│   ├── metamorphic_virus.md
+│   ├── metasploit.md
+│   ├── method.md
+│   ├── metrics.md
+│   ├── metropolitan_area_network_(man).md
+│   ├── microservice_architecture.md
+│   ├── microsoft_challenge_handshake_authentication_protocol_(mschap).md
+│   ├── misconfiguration.md
+│   ├── misinformation_and_disinformation.md
 │   ├── mkdir.md
-│   ├── Mobile device management (MDM).md
-│   ├── Modem.md
-│   ├── Module.md
-│   ├── Monitoring as a service (MaaS).md
-│   ├── Monolithic architecture.md
-│   ├── More about regular expressions.md
-│   ├── More on conditionals in python.md
-│   ├── More on filters with AND, OR, and NOT.md
-│   ├── More on loops in python.md
-│   ├── Motherboard.md
-│   ├── Multi-factor authentication (MFA).md
-│   ├── Multifunction device (MFD).md
-│   ├── Multifunction printer (MFP).md
-│   ├── Multimedia message service (MMS).md
-│   ├── Multipartite virus.md
-│   ├── Multi-protocol label switching (MPLS).md
+│   ├── mobile_device_management_(mdm).md
+│   ├── modem.md
+│   ├── module.md
+│   ├── monitoring_as_a_service_(maas).md
+│   ├── monolithic_architecture.md
+│   ├── more_about_regular_expressions.md
+│   ├── more_on_conditionals_in_python.md
+│   ├── more_on_filters_with_and,_or,_and_not.md
+│   ├── more_on_loops_in_python.md
+│   ├── motherboard.md
+│   ├── multi_factor_authentication_(mfa).md
+│   ├── multifunction_device_(mfd).md
+│   ├── multifunction_printer_(mfp).md
+│   ├── multimedia_message_service_(mms).md
+│   ├── multipartite_virus.md
+│   ├── multi_protocol_label_switching_(mpls).md
 │   ├── nano.md
-│   ├── Near field communication (NFC).md
-│   ├── Need-To-Know.md
-│   ├── Netcat.md
-│   ├── NetFlow.md
-│   ├── Network access control (NAC).md
-│   ├── Network address translation (NAT).md
-│   ├── Network attached storage (NAS).md
-│   ├── Network-based firewall.md
-│   ├── NetworkChuck.md
-│   ├── Network Configuration Protocol (NETCONF).md
-│   ├── Network database.md
-│   ├── Network hardening.md
-│   ├── Network hardening tools.md
-│   ├── Network Interface Card (NIC).md
-│   ├── Network.md
-│   ├── Network protocol analyzer.md
-│   ├── Network Protocol.md
-│   ├── Network security applications.md
-│   ├── Network Security Policy.md
-│   ├── Network segmentation.md
-│   ├── Network stack.md
-│   ├── Network time protocol (NTP).md
-│   ├── Network Traffic.md
-│   ├── Network Virtual Appliance (NVA).md
-│   ├── New technology file system (NTFS).md
-│   ├── New technology LAN manager (NTLM).md
-│   ├── Next-generation firewall (NGFW).md
+│   ├── national_institute_of_standards_and_technology_(nist).md
+│   ├── near_field_communication_(nfc).md
+│   ├── need_to_know.md
+│   ├── netcat.md
+│   ├── netflow.md
+│   ├── network_access_control_(nac).md
+│   ├── network_address_translation_(nat).md
+│   ├── network_attached_storage_(nas).md
+│   ├── network_based_firewall.md
+│   ├── networkchuck.md
+│   ├── network_configuration_protocol_(netconf).md
+│   ├── network_database.md
+│   ├── network_hardening.md
+│   ├── network_hardening_tools.md
+│   ├── network_interface_card_(nic).md
+│   ├── network.md
+│   ├── network_protocol_analyzer.md
+│   ├── network_protocol.md
+│   ├── network_security_applications.md
+│   ├── network_security_policy.md
+│   ├── network_segmentation.md
+│   ├── network_stack.md
+│   ├── network_time_protocol_(ntp).md
+│   ├── network_traffic.md
+│   ├── network_virtual_appliance_(nva).md
+│   ├── new_technology_file_system_(ntfs).md
+│   ├── new_technology_lan_manager_(ntlm).md
+│   ├── next_generation_firewall_(ngfw).md
 │   ├── nftables.md
-│   ├── NIST Cybersecurity Framework (CSF).md
-│   ├── NIST Incident Response Lifecycle.md
-│   ├── NIST Risk Management Framework (RMF).md
-│   ├── NIST Special Publication (S.P.) 800-53.md
-│   ├── NixOS.md
+│   ├── nist_cybersecurity_framework_(csf).md
+│   ├── nist_incident_response_lifecycle.md
+│   ├── nist_risk_management_framework_(rmf).md
+│   ├── nist_special_publication_(s.p.)_800_53.md
+│   ├── nixos.md
 │   ├── nmap.md
-│   ├── Nonce.md
-│   ├── Non-disclosure agreement (NDA).md
-│   ├── Non-repudiation and hashing.md
-│   ├── Non-repudiation.md
-│   ├── NoSQL Injection.md
-│   ├── NOT.md
-│   ├── OAuth.md
-│   ├── Obfuscation.md
-│   ├── Object identifier (OID).md
-│   ├── Object.md
-│   ├── OCSP stapling.md
-│   ├── One-Time Password (OTP).md
-│   ├── Online certificate status protocol (OCSP).md
-│   ├── On-path attack.md
-│   ├── On-path browser attack.md
-│   ├── OpenID Connect.md
-│   ├── OpenID.md
-│   ├── Open shortest path first (OSPF).md
-│   ├── Open Shortest Path First Version 3 (OSPFv3).md
-│   ├── Open-source intelligence (OSINT).md
-│   ├── Open-source.md
-│   ├── OpenSSL.md
-│   ├── openSUSE.md
-│   ├── Open systems interconnection (OSI) model.md
-│   ├── Open Vulnerability and Assessment Language (OVAL).md
-│   ├── Operating system (OS).md
-│   ├── Operational technology (OT).md
-│   ├── Operator.md
-│   ├── Operators for filtering dates and numbers.md
-│   ├── Operators.md
-│   ├── Ophcrack.md
-│   ├── ORDER BY.md
-│   ├── OR.md
-│   ├── Out-of-bounds write.md
-│   ├── Over the air (OTA).md
-│   ├── Overview of detection tools.md
-│   ├── Overview of tcmdump.md
-│   ├── Package management tool.md
-│   ├── Package manager.md
-│   ├── Package.md
-│   ├── Package monitoring.md
-│   ├── Packet capture (PCAP).md
-│   ├── Packet captures with tcpdump.md
-│   ├── Packet mirroring.md
-│   ├── Packet sniffing.md
-│   ├── Parallel processing.md
-│   ├── Parameter (Python).md
-│   ├── Parameters.md
-│   ├── ParrotOS.md
-│   ├── Parsing.md
-│   ├── Passive packet sniffing.md
-│   ├── Passkey.md
-│   ├── Pass-the-Hash (PtH) attack.md
+│   ├── nonce.md
+│   ├── non_disclosure_agreement_(nda).md
+│   ├── non_repudiation_and_hashing.md
+│   ├── non_repudiation.md
+│   ├── nosql_injection.md
+│   ├── not.md
+│   ├── oauth.md
+│   ├── obfuscation.md
+│   ├── object_identifier_(oid).md
+│   ├── object.md
+│   ├── ocsp_stapling.md
+│   ├── one_time_password_(otp).md
+│   ├── online_certificate_status_protocol_(ocsp).md
+│   ├── on_path_attack.md
+│   ├── on_path_browser_attack.md
+│   ├── openid_connect.md
+│   ├── openid.md
+│   ├── open_shortest_path_first_(ospf).md
+│   ├── open_shortest_path_first_version_3_(ospfv3).md
+│   ├── open_source_intelligence_(osint).md
+│   ├── open_source.md
+│   ├── openssl.md
+│   ├── opensuse.md
+│   ├── open_systems_interconnection_(osi)_model.md
+│   ├── open_vulnerability_and_assessment_language_(oval).md
+│   ├── operating_system_(os).md
+│   ├── operational_technology_(ot).md
+│   ├── operator.md
+│   ├── operators_for_filtering_dates_and_numbers.md
+│   ├── operators.md
+│   ├── ophcrack.md
+│   ├── order_by.md
+│   ├── or.md
+│   ├── out_of_bounds_write.md
+│   ├── over_the_air_(ota).md
+│   ├── overview_of_detection_tools.md
+│   ├── overview_of_tcmdump.md
+│   ├── package_management_tool.md
+│   ├── package_manager.md
+│   ├── package.md
+│   ├── package_monitoring.md
+│   ├── packet_capture_(pcap).md
+│   ├── packet_captures_with_tcpdump.md
+│   ├── packet_mirroring.md
+│   ├── packet_sniffing.md
+│   ├── parallel_processing.md
+│   ├── parameter_(python).md
+│   ├── parameters.md
+│   ├── parrotos.md
+│   ├── parsing.md
+│   ├── passive_packet_sniffing.md
+│   ├── passkey.md
+│   ├── pass_the_hash_(pth)_attack.md
 │   ├── passwd.md
-│   ├── Password authentication protocol (PAP).md
-│   ├── Password-based key derivation function 2 (PBKDF2).md
-│   ├── Passwordless authentication.md
-│   ├── Password manager.md
-│   ├── Password.md
-│   ├── Password policy.md
-│   ├── Password spraying.md
-│   ├── Password vault.md
-│   ├── PATH hijacking.md
-│   ├── Payment Card Industry Data Security Standard (PCI DSS).md
-│   ├── Peer-to-Peer model.md
-│   ├── Peer to peer (P2P).md
-│   ├── Penetration test.md
-│   ├── Pen test classification.md
-│   ├── Pen testing strategies.md
-│   ├── Perfect forward secrecy (PFS).md
-│   ├── Peripheral devices.md
-│   ├── Permission commands (Linux).md
-│   ├── Permissions.md
-│   ├── Personal Area Network (PAN).md
-│   ├── Personal electronic device (PED).md
-│   ├── Personal identity verification (PIV).md
-│   ├── Personally identifiable information (PII).md
-│   ├── Phases of pen tests.md
-│   ├── Phishing.md
-│   ├── Piggybacking.md
-│   ├── Ping of Death.md
+│   ├── password_authentication_protocol_(pap).md
+│   ├── password_based_key_derivation_function_2_(pbkdf2).md
+│   ├── passwordless_authentication.md
+│   ├── password_manager.md
+│   ├── password.md
+│   ├── password_policy.md
+│   ├── password_spraying.md
+│   ├── password_vault.md
+│   ├── path_hijacking.md
+│   ├── payment_card_industry_data_security_standard_(pci_dss).md
+│   ├── peer_to_peer_model.md
+│   ├── peer_to_peer_(p2p).md
+│   ├── penetration_test.md
+│   ├── pen_test_classification.md
+│   ├── pen_testing_strategies.md
+│   ├── perfect_forward_secrecy_(pfs).md
+│   ├── peripheral_devices.md
+│   ├── permission_commands_(linux).md
+│   ├── permissions.md
+│   ├── personal_area_network_(pan).md
+│   ├── personal_electronic_device_(ped).md
+│   ├── personal_identity_verification_(piv).md
+│   ├── personally_identifiable_information_(pii).md
+│   ├── phases_of_pen_tests.md
+│   ├── phishing.md
+│   ├── piggybacking.md
+│   ├── ping_of_death.md
 │   ├── pipe.md
-│   ├── PKCS 12 (P12).md
-│   ├── Plain old telephone service (POTS).md
-│   ├── Plaintext.md
-│   ├── Platform as a service (PaaS).md
-│   ├── Playbook.md
-│   ├── Pluggable authentication modules (PAM).md
-│   ├── Pointer.md
-│   ├── Point-to-Point Protocol (PPP).md
-│   ├── Point-to-point tunneling protocol (PPTP).md
-│   ├── Policy administrator.md
-│   ├── Policy-based access control (PBAC).md
-│   ├── Policy decision point (PDP).md
-│   ├── Policy enforcement point (PEP).md
-│   ├── Policy engine.md
-│   ├── Policy.md
-│   ├── Polymorphic virus.md
-│   ├── Port address translation (PAT).md
-│   ├── Port filtering.md
-│   ├── Port forwarding.md
-│   ├── Port.md
-│   ├── Port mirroring.md
-│   ├── Port triggering.md
-│   ├── Post office protocol (POP).md
-│   ├── Post office protocol version 3 secure (POP3S).md
-│   ├── Posture assessment.md
-│   ├── Potentially unwanted application (PUA).md
-│   ├── Potentially unwanted program (PUP).md
-│   ├── Power distribution unit (PDU).md
-│   ├── Power-On Self-Test (POST).md
-│   ├── PowerShell.md
-│   ├── Power Supply.md
-│   ├── Prepared statement.md
-│   ├── Pre-shared key (PSK).md
-│   ├── Pretexting.md
-│   ├── Pretty good privacy (PGP).md
-│   ├── Primary key.md
-│   ├── Principle.md
-│   ├── Privacy enhanced mail (PEM).md
-│   ├── Private branch exchange (PBX).md
-│   ├── Private key.md
-│   ├── Privilege Audit.md
-│   ├── Privileged access management (PAM).md
-│   ├── Privilege escalation.md
-│   ├── Process hollowing.md
-│   ├── Process of Attack Simulation and Threat Analysis (PASTA).md
-│   ├── Professor Messer.md
-│   ├── Program virus.md
-│   ├── Proprietary intelligence.md
-│   ├── Protected extensible authentication protocol (PEAP).md
-│   ├── Protected health information (PHI).md
-│   ├── Proxy auto-configuration (PAC).md
-│   ├── Proxy server.md
-│   ├── ps, kill & killall.md
-│   ├── Public key cryptography standards (PKCS).md
-│   ├── Public key Infrastructure (PKI).md
-│   ├── Public key.md
+│   ├── pkcs_12_(p12).md
+│   ├── plain_old_telephone_service_(pots).md
+│   ├── plaintext.md
+│   ├── platform_as_a_service_(paas).md
+│   ├── playbook.md
+│   ├── pluggable_authentication_modules_(pam).md
+│   ├── pointer.md
+│   ├── point_to_point_protocol_(ppp).md
+│   ├── point_to_point_tunneling_protocol_(pptp).md
+│   ├── policy_administrator.md
+│   ├── policy_based_access_control_(pbac).md
+│   ├── policy_decision_point_(pdp).md
+│   ├── policy_enforcement_point_(pep).md
+│   ├── policy_engine.md
+│   ├── policy.md
+│   ├── polymorphic_virus.md
+│   ├── port_address_translation_(pat).md
+│   ├── port_filtering.md
+│   ├── port_forwarding.md
+│   ├── port.md
+│   ├── port_mirroring.md
+│   ├── port_triggering.md
+│   ├── post_office_protocol_(pop).md
+│   ├── post_office_protocol_version_3_secure_(pop3s).md
+│   ├── posture_assessment.md
+│   ├── potentially_unwanted_application_(pua).md
+│   ├── potentially_unwanted_program_(pup).md
+│   ├── power_distribution_unit_(pdu).md
+│   ├── power_on_self_test_(post).md
+│   ├── powershell.md
+│   ├── power_supply.md
+│   ├── prepared_statement.md
+│   ├── pre_shared_key_(psk).md
+│   ├── pretexting.md
+│   ├── pretty_good_privacy_(pgp).md
+│   ├── primary_key.md
+│   ├── principle.md
+│   ├── privacy_enhanced_mail_(pem).md
+│   ├── private_branch_exchange_(pbx).md
+│   ├── private_key.md
+│   ├── privilege_audit.md
+│   ├── privileged_access_management_(pam).md
+│   ├── privilege_escalation.md
+│   ├── process_hollowing.md
+│   ├── process_of_attack_simulation_and_threat_analysis_(pasta).md
+│   ├── professor_messer.md
+│   ├── program_virus.md
+│   ├── proprietary_intelligence.md
+│   ├── protected_extensible_authentication_protocol_(peap).md
+│   ├── protected_health_information_(phi).md
+│   ├── proxy_auto_configuration_(pac).md
+│   ├── proxy_server.md
+│   ├── ps,_kill_&_killall.md
+│   ├── public_key_cryptography_standards_(pkcs).md
+│   ├── public_key_infrastructure_(pki).md
+│   ├── public_key.md
 │   ├── pwd.md
-│   ├── Pyramid of pain.md
-│   ├── Python and cybersecurity.md
-│   ├── Python environments.md
-│   ├── Python functions in cybersecurity.md
-│   ├── Python.md
-│   ├── Quality of service (QoS).md
-│   ├── Query a database.md
-│   ├── Query.md
-│   ├── Query Minimization.md
-│   ├── Quid Pro Quo.md
-│   ├── Race condition.md
-│   ├── RACE Integrity Primitive Evaluation Message Digest (RIPEMD).md
-│   ├── Radio Frequency Identification (RFID).md
-│   ├── Radio frequency (RF) jamming.md
-│   ├── Radio Frequency (RF).md
-│   ├── Rainbow table.md
-│   ├── Ransomware.md
-│   ├── Rapid application development (RAD).md
-│   ├── r ⁄ cybersecurity.md
-│   ├── Real-life DDoS attack.md
-│   ├── Real-time operating system (RTOS).md
-│   ├── Real-time transport protocol (RTP).md
-│   ├── Reconnaissance.md
-│   ├── Recovery agent (RA).md
-│   ├── Recovery.md
-│   ├── Recovery point objective (RPO).md
-│   ├── Recovery testing.md
-│   ├── Recovery time objective (RTO).md
-│   ├── Red, blue & purple teams.md
-│   ├── Red hat enterprise linux (RHEL).md
-│   ├── Redirection (Linux).md
-│   ├── Redundant array of independent disks (RAID).md
-│   ├── Reference Guide SQL.md
-│   ├── Reflection attack.md
-│   ├── Registration authority (RA).md
-│   ├── Regular expression (regex).md
-│   ├── Regulation.md
-│   ├── Relational database management system (RDBMS).md
-│   ├── Relational database.md
-│   ├── Relative file path.md
-│   ├── Reliable User Datagram Protocol (RUDP).md
-│   ├── Relying Party (RP).md
-│   ├── Remote Access Policy.md
-│   ├── Remote access server (RAS).md
-│   ├── Remote Access Trojan (RAT).md
-│   ├── Remote authentication dial-in user service (RADIUS).md
-│   ├── Remote code execution (RCE).md
-│   ├── Remote desktop protocol (RDP).md
-│   ├── Remotely triggered black hole (RTBH).md
-│   ├── Replay attack.md
-│   ├── Replication.md
-│   ├── Reporting.md
-│   ├── Resilience.md
-│   ├── Resource reuse.md
-│   ├── Responsible disclosure program.md
-│   ├── Responsiveness.md
-│   ├── Restricted Zone.md
-│   ├── r ⁄ ethicalhacking.md
-│   ├── Return on investment (ROI).md
-│   ├── Return statement.md
-│   ├── Reverse Address Resolution Protocol (RARP).md
-│   ├── Reverse engineering.md
-│   ├── Reverse shell.md
-│   ├── RIGHT JOIN.md
-│   ├── Right-to-audit clause.md
-│   ├── r ⁄ infosec.md
-│   ├── Ring topogoly.md
-│   ├── Risk appetite.md
-│   ├── Risk assessment.md
-│   ├── Risk-based authentication (RBA).md
-│   ├── Risk identification.md
-│   ├── Risk management.md
-│   ├── Risk.md
-│   ├── Risk register.md
-│   ├── Risk report.md
-│   ├── Risk tolerance.md
-│   ├── Risk transference.md
-│   ├── Rivest Cipher 4 (RC4).md
-│   ├── Rivest Cipher 5 (RC5).md
-│   ├── Rivest Cipher 6 (RC6).md
-│   ├── Rivest shamir adleman (RSA).md
+│   ├── pyramid_of_pain.md
+│   ├── python_and_cybersecurity.md
+│   ├── python_environments.md
+│   ├── python_functions_in_cybersecurity.md
+│   ├── python.md
+│   ├── quality_of_service_(qos).md
+│   ├── query_a_database.md
+│   ├── query.md
+│   ├── query_minimization.md
+│   ├── quid_pro_quo.md
+│   ├── race_condition.md
+│   ├── race_integrity_primitive_evaluation_message_digest_(ripemd).md
+│   ├── radio_frequency_identification_(rfid).md
+│   ├── radio_frequency_(rf)_jamming.md
+│   ├── radio_frequency_(rf).md
+│   ├── rainbow_table.md
+│   ├── ransomware.md
+│   ├── rapid_application_development_(rad).md
+│   ├── r_⁄_cybersecurity.md
+│   ├── real_life_ddos_attack.md
+│   ├── real_time_operating_system_(rtos).md
+│   ├── real_time_transport_protocol_(rtp).md
+│   ├── reconnaissance.md
+│   ├── recovery_agent_(ra).md
+│   ├── recovery.md
+│   ├── recovery_point_objective_(rpo).md
+│   ├── recovery_testing.md
+│   ├── recovery_time_objective_(rto).md
+│   ├── red,_blue_&_purple_teams.md
+│   ├── red_hat_enterprise_linux_(rhel).md
+│   ├── redirection_(linux).md
+│   ├── redundant_array_of_independent_disks_(raid).md
+│   ├── reference_guide_sql.md
+│   ├── reflection_attack.md
+│   ├── registration_authority_(ra).md
+│   ├── regular_expression_(regex).md
+│   ├── regulation.md
+│   ├── relational_database_management_system_(rdbms).md
+│   ├── relational_database.md
+│   ├── relative_file_path.md
+│   ├── reliable_user_datagram_protocol_(rudp).md
+│   ├── relying_party_(rp).md
+│   ├── remote_access_policy.md
+│   ├── remote_access_server_(ras).md
+│   ├── remote_access_trojan_(rat).md
+│   ├── remote_authentication_dial_in_user_service_(radius).md
+│   ├── remote_code_execution_(rce).md
+│   ├── remote_desktop_protocol_(rdp).md
+│   ├── remotely_triggered_black_hole_(rtbh).md
+│   ├── replay_attack.md
+│   ├── replication.md
+│   ├── reporting.md
+│   ├── research_and_development_in_advanced_communications_technologies_in_europe_(race).md
+│   ├── resilience.md
+│   ├── resource_reuse.md
+│   ├── responsible_disclosure_program.md
+│   ├── responsiveness.md
+│   ├── restricted_zone.md
+│   ├── r_⁄_ethicalhacking.md
+│   ├── return_on_investment_(roi).md
+│   ├── return_statement.md
+│   ├── reverse_address_resolution_protocol_(rarp).md
+│   ├── reverse_engineering.md
+│   ├── reverse_shell.md
+│   ├── right_join.md
+│   ├── right_to_audit_clause.md
+│   ├── r_⁄_infosec.md
+│   ├── ring_topogoly.md
+│   ├── risk_appetite.md
+│   ├── risk_assessment.md
+│   ├── risk_based_authentication_(rba).md
+│   ├── risk_identification.md
+│   ├── risk_management.md
+│   ├── risk.md
+│   ├── risk_register.md
+│   ├── risk_report.md
+│   ├── risk_tolerance.md
+│   ├── risk_transference.md
+│   ├── rivest_cipher_4_(rc4).md
+│   ├── rivest_cipher_5_(rc5).md
+│   ├── rivest_cipher_6_(rc6).md
+│   ├── rivest_shamir_adleman_(rsa).md
 │   ├── rm.md
-│   ├── r ⁄ netsec.md
-│   ├── Role-based access control (RBAC).md
-│   ├── Roles in response.md
-│   ├── Root cause analysis (RCA).md
-│   ├── Root directory.md
-│   ├── Rootkit.md
-│   ├── Root of trust.md
-│   ├── Router.md
-│   ├── Routing Information Protocol (RIP).md
-│   ├── Routing Information Protocol Version 2 (RIPv2).md
-│   ├── Rule-based access control (RBAC).md
-│   ├── Rules of engagement (RoE).md
-│   ├── Salting.md
-│   ├── Sandbox.md
-│   ├── Sanitization.md
-│   ├── Scalability.md
-│   ├── Scanner Maintenance.md
-│   ├── Scareware.md
-│   ├── Script.md
+│   ├── r_⁄_netsec.md
+│   ├── role_based_access_control_(rbac).md
+│   ├── roles_in_response.md
+│   ├── root_cause_analysis_(rca).md
+│   ├── root_directory.md
+│   ├── rootkit.md
+│   ├── root_of_trust.md
+│   ├── router.md
+│   ├── routing_information_protocol_(rip).md
+│   ├── routing_information_protocol_version_2_(ripv2).md
+│   ├── rule_based_access_control_(rbac).md
+│   ├── rules_of_engagement_(roe).md
+│   ├── salting.md
+│   ├── sandbox.md
+│   ├── sanitization.md
+│   ├── scalability.md
+│   ├── scanner_maintenance.md
+│   ├── scareware.md
+│   ├── script.md
 │   ├── scrypt.md
-│   ├── Search methods with SIEM tools.md
-│   ├── Search Processing Language (SPL).md
-│   ├── Secure access service edge (SASE).md
-│   ├── Secure boot.md
-│   ├── Secure cookies.md
-│   ├── Secure enclave.md
-│   ├── Secure Hash Algorithm 1 (SHA-1).md
-│   ├── Secure Hash Algorithm 2 (SHA-2).md
-│   ├── Secure Hash Algorithm 3 (SHA-3).md
-│   ├── Secure hypertext transfer protocol (SHTTP).md
-│   ├── Secure ⁄ multipurpose internet mail extensions (S ⁄ MIME).md
-│   ├── Secure real-time transport protocol (SRTP).md
-│   ├── Secure shell (SSH).md
-│   ├── Secure sockets layer (SSL).md
-│   ├── Secure socket tunneling protocol (SSTP).md
-│   ├── Secure the cloud.md
-│   ├── Secure web gateway (SWG).md
-│   ├── Security assertion markup language (SAML).md
-│   ├── Security assessment.md
-│   ├── Security Audits.md
-│   ├── Security baselines.md
-│   ├── Security content automation protocol (SCAP).md
-│   ├── Security controls.md
-│   ├── Security guards.md
-│   ├── Security guidelines in action.md
-│   ├── Security information and event management (SIEM).md
-│   ├── Security key.md
-│   ├── Security measure.md
-│   ├── Security Operations Center (SoC).md
-│   ├── Security orchestration, automation, response (SOAR).md
-│   ├── Security posture.md
-│   ├── Security zones.md
-│   ├── SELECT.md
-│   ├── Self-encrypting drives (SED).md
-│   ├── Self-signed certificate.md
-│   ├── SELinux.md
-│   ├── Sender policy framework (SPF).md
-│   ├── Sensitive personally identifiable information (SPII).md
-│   ├── Sensors.md
-│   ├── Separation of duties (SoD).md
-│   ├── Server clustering.md
-│   ├── Serverless architecture.md
-│   ├── Server.md
-│   ├── Server message block (SMB).md
-│   ├── Service-level agreement (SLA).md
+│   ├── search_methods_with_siem_tools.md
+│   ├── search_processing_language_(spl).md
+│   ├── secure_access_service_edge_(sase).md
+│   ├── secure_boot.md
+│   ├── secure_cookies.md
+│   ├── secure_enclave.md
+│   ├── secure_hash_algorithm_1_(sha_1).md
+│   ├── secure_hash_algorithm_2_(sha_2).md
+│   ├── secure_hash_algorithm_3_(sha_3).md
+│   ├── secure_hypertext_transfer_protocol_(shttp).md
+│   ├── secure_⁄_multipurpose_internet_mail_extensions_(s_⁄_mime).md
+│   ├── secure_real_time_transport_protocol_(srtp).md
+│   ├── secure_shell_(ssh).md
+│   ├── secure_sockets_layer_(ssl).md
+│   ├── secure_socket_tunneling_protocol_(sstp).md
+│   ├── secure_the_cloud.md
+│   ├── secure_web_gateway_(swg).md
+│   ├── security_assertion_markup_language_(saml).md
+│   ├── security_assessment.md
+│   ├── security_audits.md
+│   ├── security_baselines.md
+│   ├── security_content_automation_protocol_(scap).md
+│   ├── security_controls.md
+│   ├── security_guards.md
+│   ├── security_guidelines_in_action.md
+│   ├── security_information_and_event_management_(siem).md
+│   ├── security_key.md
+│   ├── security_measure.md
+│   ├── security_operations_center_(soc).md
+│   ├── security_orchestration,_automation,_response_(soar).md
+│   ├── security_posture.md
+│   ├── security_zones.md
+│   ├── select.md
+│   ├── self_encrypting_drives_(sed).md
+│   ├── self_signed_certificate.md
+│   ├── selinux.md
+│   ├── sender_policy_framework_(spf).md
+│   ├── sensitive_personally_identifiable_information_(spii).md
+│   ├── sensors.md
+│   ├── separation_of_duties_(sod).md
+│   ├── server_clustering.md
+│   ├── serverless_architecture.md
+│   ├── server.md
+│   ├── server_message_block_(smb).md
+│   ├── service_level_agreement_(sla).md
 │   ├── service.md
-│   ├── Service set identifier (SSID).md
-│   ├── Session fixation.md
-│   ├── Session hijacking.md
-│   ├── Session ID.md
-│   ├── Session key.md
-│   ├── Session.md
-│   ├── Session timeout.md
-│   ├── Set.md
-│   ├── Set user ID (SUID).md
-│   ├── Shared responsibility.md
-│   ├── Shellcode.md
-│   ├── Shell scripting.md
-│   ├── Shim.md
-│   ├── Short message service (SMS).md
-│   ├── Shoulder surfing.md
-│   ├── Side-Channel Attacks.md
-│   ├── Sideloading.md
-│   ├── Signature-based detection.md
-│   ├── Simple certificate enrollment protocol (SCEP).md
-│   ├── Simple mail transfer protocol (SMTP).md
-│   ├── Simple main transfer protocol secure (SMTPS).md
-│   ├── Simple network management protocol (SNMP).md
-│   ├── Simple object access protocol (SOAP).md
-│   ├── Simulation.md
-│   ├── Simultaneous authentication of equals (SAE).md
-│   ├── Single loss expectancy (SLE).md
-│   ├── Single sign-on (SSO).md
-│   ├── Site survey.md
-│   ├── Smishing.md
-│   ├── Smurf attack.md
-│   ├── Snapshot.md
-│   ├── Social engineering.md
-│   ├── Social Engineering Policy.md
-│   ├── Social media phishing.md
-│   ├── Software as a service (SaaS).md
-│   ├── Software-defined networking (SDN).md
-│   ├── Software-defined wide area network (SD-WAN).md
-│   ├── Software development kit (SDK).md
-│   ├── Software Development Life Cycle Methodology (SDLM).md
-│   ├── Software development lifecycle (SDLC).md
-│   ├── Software update.md
+│   ├── service_set_identifier_(ssid).md
+│   ├── session_fixation.md
+│   ├── session_hijacking.md
+│   ├── session_id.md
+│   ├── session_key.md
+│   ├── session.md
+│   ├── session_timeout.md
+│   ├── set.md
+│   ├── set_user_id_(suid).md
+│   ├── shared_responsibility.md
+│   ├── shellcode.md
+│   ├── shell_scripting.md
+│   ├── shim.md
+│   ├── short_message_service_(sms).md
+│   ├── shoulder_surfing.md
+│   ├── side_channel_attacks.md
+│   ├── sideloading.md
+│   ├── signature_based_detection.md
+│   ├── simple_certificate_enrollment_protocol_(scep).md
+│   ├── simple_mail_transfer_protocol_(smtp).md
+│   ├── simple_main_transfer_protocol_secure_(smtps).md
+│   ├── simple_network_management_protocol_(snmp).md
+│   ├── simple_object_access_protocol_(soap).md
+│   ├── simulation.md
+│   ├── simultaneous_authentication_of_equals_(sae).md
+│   ├── single_loss_expectancy_(sle).md
+│   ├── single_sign_on_(sso).md
+│   ├── site_survey.md
+│   ├── smishing.md
+│   ├── smurf_attack.md
+│   ├── snapshot.md
+│   ├── social_engineering.md
+│   ├── social_engineering_policy.md
+│   ├── social_media_phishing.md
+│   ├── software_as_a_service_(saas).md
+│   ├── software_defined_networking_(sdn).md
+│   ├── software_defined_wide_area_network_(sd_wan).md
+│   ├── software_development_kit_(sdk).md
+│   ├── software_development_life_cycle_methodology_(sdlm).md
+│   ├── software_development_lifecycle_(sdlc).md
+│   ├── software_update.md
 │   ├── sort.md
-│   ├── Spam over internet messaging (SPIM).md
-│   ├── Spear phishing.md
-│   ├── Speed.md
-│   ├── Splunk Cloud.md
-│   ├── Splunk Enterprise.md
-│   ├── Spyware.md
-│   ├── SQL cheat sheet.md
-│   ├── SQL injection (SQLi).md
-│   ├── SSH file transfer protocol (SFTP).md
+│   ├── spam_over_internet_messaging_(spim).md
+│   ├── spear_phishing.md
+│   ├── speed.md
+│   ├── splunk_cloud.md
+│   ├── splunk_enterprise.md
+│   ├── spyware.md
+│   ├── sql_cheat_sheet.md
+│   ├── sql_injection_(sqli).md
+│   ├── ssh_file_transfer_protocol_(sftp).md
 │   ├── ssh.md
-│   ├── SSL stripping.md
-│   ├── Standalone access point.md
-│   ├── Standard error.md
-│   ├── Standard error (stderr).md
-│   ├── Standard input (stdin).md
-│   ├── Standard.md
-│   ├── Standard output (stdout).md
-│   ├── Star topology.md
-│   ├── Statement of work (SOW).md
-│   ├── Static code analyzer.md
-│   ├── Stealth virus.md
-│   ├── Steganography.md
-│   ├── Storage Area Network (SAN).md
-│   ├── Stream cipher.md
-│   ├── Stream Control Transmission Protocol (SCTP).md
-│   ├── String concatenation.md
-│   ├── String.md
-│   ├── Strings and the security analyst.md
-│   ├── Structured exception handler (SEH).md
-│   ├── Structured Query Language (SQL).md
-│   ├── Structured threat information expression (STIX).md
-│   ├── Style Guide.md
-│   ├── Subject alternative name (SAN).md
-│   ├── Subnet.md
-│   ├── Subnetting.md
-│   ├── Subscriber identity module (SIM).md
-│   ├── Substring.md
-│   ├── sudoers file.md
+│   ├── ssl_stripping.md
+│   ├── standalone_access_point.md
+│   ├── standard_error.md
+│   ├── standard_error_(stderr).md
+│   ├── standard_input_(stdin).md
+│   ├── standard.md
+│   ├── standard_output_(stdout).md
+│   ├── star_topology.md
+│   ├── statement_of_work_(sow).md
+│   ├── static_code_analyzer.md
+│   ├── stealth_virus.md
+│   ├── steganography.md
+│   ├── storage_area_network_(san).md
+│   ├── stream_cipher.md
+│   ├── stream_control_transmission_protocol_(sctp).md
+│   ├── string_concatenation.md
+│   ├── string.md
+│   ├── strings_and_the_security_analyst.md
+│   ├── structured_exception_handler_(seh).md
+│   ├── structured_query_language_(sql).md
+│   ├── structured_threat_information_expression_(stix).md
+│   ├── style_guide.md
+│   ├── subject_alternative_name_(san).md
+│   ├── subnet.md
+│   ├── subnetting.md
+│   ├── subscriber_identity_module_(sim).md
+│   ├── substring.md
+│   ├── sudoers_file.md
 │   ├── sudo.md
-│   ├── Summarizing CVSS Scores.md
-│   ├── Supervisory control and data acquisition (SCADA).md
-│   ├── Supply chain analysis.md
-│   ├── Supply-chain attack.md
-│   ├── Suricata.md
-│   ├── Switched port analyzer (SPAN).md
-│   ├── Switch.md
-│   ├── Symmetric encryption.md
-│   ├── SYN Flood.md
-│   ├── Syntax error.md
-│   ├── Syntax.md
-│   ├── Syslog.md
-│   ├── System and Organization Controls (SOC) Reports.md
-│   ├── System hardening.md
-│   ├── System on chip (SoC).md
-│   ├── Tabletop exercise.md
-│   ├── Tactics, techniques, and procedures (TTP).md
-│   ├── Tailgating.md
-│   ├── tar, zip & unzip.md
-│   ├── tcpdump cheat sheet.md
+│   ├── summarizing_cvss_scores.md
+│   ├── supervisory_control_and_data_acquisition_(scada).md
+│   ├── supply_chain_analysis.md
+│   ├── supply_chain_attack.md
+│   ├── suricata.md
+│   ├── switched_port_analyzer_(span).md
+│   ├── switch.md
+│   ├── symmetric_encryption.md
+│   ├── syn_flood.md
+│   ├── syntax_error.md
+│   ├── syntax.md
+│   ├── syslog.md
+│   ├── system_and_organization_controls_(soc)_reports.md
+│   ├── system_hardening.md
+│   ├── system_on_chip_(soc).md
+│   ├── tabletop_exercise.md
+│   ├── tactics,_techniques,_and_procedures_(ttp).md
+│   ├── tailgating.md
+│   ├── tar,_zip_&_unzip.md
+│   ├── tcpdump_cheat_sheet.md
 │   ├── tcpdump.md
-│   ├── TCP ⁄ IP model.md
-│   ├── Technical debt.md
-│   ├── Telemetry.md
-│   ├── Telnet.md
-│   ├── Temporal key integrity protocol (TKIP).md
-│   ├── Terminal access controller access control system plus (TACACS+).md
-│   ├── Test access point (TAP).md
-│   ├── THC Hydra.md
-│   ├── The containment, eradication, and recovery phase of the lifecycle.md
-│   ├── The evolution of hash functions.md
-│   ├── The Hacker News.md
-│   ├── The OWASP Top 10.md
-│   ├── The PC Security Channel.md
-│   ├── The triage process.md
-│   ├── The value of documentation.md
-│   ├── The WHERE clause and basic operators.md
-│   ├── Threat actor.md
-│   ├── Threat hunting.md
-│   ├── Threat intelligence.md
-│   ├── Threat landscape.md
-│   ├── Threat.md
-│   ├── Threat modeling.md
-│   ├── Ticket granting ticket (TGT).md
-│   ├── Time-based one-time password (TOTP).md
-│   ├── Time-of-check to time-of-use (TOCTOU).md
-│   ├── Tokenization.md
-│   ├── Tokens.md
+│   ├── tcp_⁄_ip_model.md
+│   ├── technical_debt.md
+│   ├── telemetry.md
+│   ├── telnet.md
+│   ├── temporal_key_integrity_protocol_(tkip).md
+│   ├── terminal_access_controller_access_control_system_plus_(tacacs+).md
+│   ├── test_access_point_(tap).md
+│   ├── thc_hydra.md
+│   ├── the_containment,_eradication,_and_recovery_phase_of_the_lifecycle.md
+│   ├── the_evolution_of_hash_functions.md
+│   ├── the_hacker_news.md
+│   ├── the_owasp_top_10.md
+│   ├── the_pc_security_channel.md
+│   ├── the_triage_process.md
+│   ├── the_value_of_documentation.md
+│   ├── the_where_clause_and_basic_operators.md
+│   ├── threat_actor.md
+│   ├── threat_hunting.md
+│   ├── threat_intelligence.md
+│   ├── threat_landscape.md
+│   ├── threat.md
+│   ├── threat_modeling.md
+│   ├── ticket_granting_ticket_(tgt).md
+│   ├── time_based_one_time_password_(totp).md
+│   ├── time_of_check_to_time_of_use_(toctou).md
+│   ├── tokenization.md
+│   ├── tokens.md
 │   ├── top.md
-│   ├── Topology.md
+│   ├── topology.md
 │   ├── touch.md
-│   ├── Transaction signature (TSIG).md
-│   ├── Transmission control protocol (TCP).md
-│   ├── Transport Layer Security (TLS).md
-│   ├── Triage.md
-│   ├── Triple DES (3DES).md
-│   ├── Trivial File Transfer Protocol (TFTP).md
-│   ├── Trojan Horse.md
-│   ├── Trunking.md
-│   ├── Trusted Automated eXchange of Indicator Information (TAXII).md
-│   ├── Trusted platform module (TPM).md
-│   ├── TryHackMe.md
-│   ├── Tuple.md
-│   ├── Twofish.md
-│   ├── Type error.md
-│   ├── Types of joins.md
-│   ├── Typo-squatting.md
-│   ├── Ubuntu.md
-│   ├── UDP Flood.md
-│   ├── Unauthorized access.md
-│   ├── Uncontrolled Zone.md
-│   ├── Unified access points.md
-│   ├── Unified endpoint management (UEM).md
-│   ├── Unified Extensible Firmware Interface (UEFI).md
-│   ├── Unified threat management (UTM).md
-│   ├── Uniform resource identifier (URI).md
-│   ├── Uninterruptible power supply (UPS).md
-│   ├── Universal Resource Locator (URL).md
-│   ├── Universal serial bus (USB).md
-│   ├── Unmanned aerial vehicle (UAV).md
-│   ├── Unshielded twisted pair (UTP).md
-│   ├── Unskilled Attacker.md
-│   ├── URL scanning.md
-│   ├── Usage Audit.md
-│   ├── USB on the go (USB OTG).md
-│   ├── User acceptance testing (UAT).md
-│   ├── User access reviews.md
-│   ├── useradd & usermod.md
-│   ├── User behavior analytics (UBA).md
-│   ├── User datagram protocol (UDP).md
-│   ├── User Interface.md
-│   ├── User.md
-│   ├── User provisioning.md
-│   ├── Variable length subnet masking (VLSM).md
-│   ├── Variables.md
-│   ├── Vendor Management Policy.md
-│   ├── Vendor monitoring.md
-│   ├── Version control.md
-│   ├── Video teleconferencing (VTC).md
-│   ├── Virtual desktop environment (VDE).md
-│   ├── Virtual desktop infrastructure (VDI).md
-│   ├── Virtual hosting.md
-│   ├── Virtualization.md
-│   ├── Virtual Local Area Networks (VLAN).md
-│   ├── Virtual machine escape.md
-│   ├── Virtual machine (VM).md
-│   ├── Virtual private cloud (VPC).md
-│   ├── Virtual private network (VPN).md
-│   ├── Virus.md
-│   ├── VirusTotal.md
-│   ├── Vishing.md
-│   ├── Visual basic (VB).md
-│   ├── Voice over internet protocol (VoIP).md
-│   ├── Void linux.md
-│   ├── Void.md
-│   ├── Vulnerability assessment.md
-│   ├── Vulnerability life cycle.md
-│   ├── Vulnerability.md
-│   ├── Vulnerability scanning.md
-│   ├── Vulnerability Scanning Tools.md
-│   ├── Warm site.md
-│   ├── Watering hole attack.md
-│   ├── Web application firewall (WAF).md
-│   ├── Web application.md
-│   ├── Web-based exploits.md
-│   ├── Webcrawler.md
-│   ├── Web shell.md
+│   ├── transaction_signature_(tsig).md
+│   ├── transmission_control_protocol_(tcp).md
+│   ├── transport_layer_security_(tls).md
+│   ├── triage.md
+│   ├── triple_des_(3des).md
+│   ├── trivial_file_transfer_protocol_(tftp).md
+│   ├── trojan_horse.md
+│   ├── trunking.md
+│   ├── trusted_automated_exchange_of_indicator_information_(taxii).md
+│   ├── trusted_platform_module_(tpm).md
+│   ├── tryhackme.md
+│   ├── tuple.md
+│   ├── twofish.md
+│   ├── type_error.md
+│   ├── types_of_joins.md
+│   ├── typo_squatting.md
+│   ├── ubuntu.md
+│   ├── udp_flood.md
+│   ├── unauthorized_access.md
+│   ├── uncontrolled_zone.md
+│   ├── unified_access_points.md
+│   ├── unified_endpoint_management_(uem).md
+│   ├── unified_extensible_firmware_interface_(uefi).md
+│   ├── unified_threat_management_(utm).md
+│   ├── uniform_resource_identifier_(uri).md
+│   ├── uninterruptible_power_supply_(ups).md
+│   ├── universal_resource_locator_(url).md
+│   ├── universal_serial_bus_(usb).md
+│   ├── unmanned_aerial_vehicle_(uav).md
+│   ├── unshielded_twisted_pair_(utp).md
+│   ├── unskilled_attacker.md
+│   ├── url_scanning.md
+│   ├── usage_audit.md
+│   ├── usb_on_the_go_(usb_otg).md
+│   ├── user_acceptance_testing_(uat).md
+│   ├── user_access_reviews.md
+│   ├── useradd_&_usermod.md
+│   ├── user_behavior_analytics_(uba).md
+│   ├── user_datagram_protocol_(udp).md
+│   ├── user_interface.md
+│   ├── user.md
+│   ├── user_provisioning.md
+│   ├── variable_length_subnet_masking_(vlsm).md
+│   ├── variables.md
+│   ├── vendor_management_policy.md
+│   ├── vendor_monitoring.md
+│   ├── version_control.md
+│   ├── video_teleconferencing_(vtc).md
+│   ├── virtual_desktop_environment_(vde).md
+│   ├── virtual_desktop_infrastructure_(vdi).md
+│   ├── virtual_hosting.md
+│   ├── virtualization.md
+│   ├── virtual_local_area_networks_(vlan).md
+│   ├── virtual_machine_escape.md
+│   ├── virtual_machine_(vm).md
+│   ├── virtual_private_cloud_(vpc).md
+│   ├── virtual_private_network_(vpn).md
+│   ├── virus.md
+│   ├── virustotal.md
+│   ├── vishing.md
+│   ├── visual_basic_(vb).md
+│   ├── voice_over_internet_protocol_(voip).md
+│   ├── void_linux.md
+│   ├── void.md
+│   ├── vulnerability_assessment.md
+│   ├── vulnerability_life_cycle.md
+│   ├── vulnerability.md
+│   ├── vulnerability_scanning.md
+│   ├── vulnerability_scanning_tools.md
+│   ├── warm_site.md
+│   ├── watering_hole_attack.md
+│   ├── web_application_firewall_(waf).md
+│   ├── web_application.md
+│   ├── web_based_exploits.md
+│   ├── webcrawler.md
+│   ├── web_shell.md
 │   ├── wget.md
-│   ├── Whaling.md
-│   ├── whereis & whatis.md
-│   ├── WHERE.md
+│   ├── whaling.md
+│   ├── whereis_&_whatis.md
+│   ├── where.md
 │   ├── whoami.md
-│   ├── Wide Area Network (WAN).md
-│   ├── Wi-Fi Protected Access III (WPA3).md
-│   ├── Wi-Fi Protected Access II (WPA2).md
-│   ├── Wi-Fi Protected Access (WPA).md
-│   ├── Wi-Fi protected setup (WPS).md
-│   ├── Wildcard certificate.md
-│   ├── Wildcard.md
-│   ├── Wildcard (SQL).md
-│   ├── Window manager.md
-│   ├── Windows.md
-│   ├── Wired Equivalent Privacy (WEP).md
-│   ├── WireGuard.md
-│   ├── Wireless jamming.md
-│   ├── Wireless LAN Controller (WLC).md
-│   ├── Wireless Local Area Network (WLAN).md
-│   ├── Wireless Transport Layer Security (WTLS).md
-│   ├── Wireshark.md
-│   ├── Wordlist.md
-│   ├── Work order (WO).md
-│   ├── Workstation.md
-│   ├── World-writable file.md
-│   ├── Worm.md
-│   ├── X.500.md
-│   ├── X.509.md
-│   ├── XML Injection.md
-│   ├── XPath Injection.md
-│   ├── Yara-L.md
-│   ├── Yellowdog Updater Modified (YUM).md
-│   ├── Zero-day.md
-│   ├── Zero trust.md
-│   ├── Zigbee.md
-│   └── Zombie.md
-├── Prompts
-│   └── Page writer.md
-├── README.md
-├── Tags
-│   ├── 🏷️Access control model.md
-│   ├── 🏷️Asymmetric encryption algorithm.md
-│   ├── 🏷️Authentication methods.md
-│   ├── 🏷️Business agreement.md
-│   ├── 🏷️Cryptographic attack.md
-│   ├── 🏷️Cryptography.md
-│   ├── 🏷️Cybersecurity tool.md
-│   ├── 🏷️Data structure.md
-│   ├── 🏷️Data type.md
-│   ├── 🏷️Development.md
-│   ├── 🏷️Framework.md
-│   ├── 🏷️Hash function.md
-│   ├── 🏷️Injection attack.md
-│   ├── 🏷️Interpreter.md
-│   ├── 🏷️Key derivation function.md
-│   ├── 🏷️Key exchange algorithm.md
-│   ├── 🏷️Key exchange protocol.md
-│   ├── 🏷️Linux command.md
-│   ├── 🏷️Linux distribution.md
-│   ├── 🏷️Malware.md
-│   ├── 🏷️Network attack.md
-│   ├── 🏷️Networking device.md
-│   ├── 🏷️Networking.md
-│   ├── 🏷️Network protocol.md
-│   ├── 🏷️Network security.md
-│   ├── 🏷️Network topology.md
-│   ├── 🏷️Network type.md
-│   ├── 🏷️News outlet.md
-│   ├── 🏷️Obfuscation.md
-│   ├── 🏷️Operating system.md
-│   ├── 🏷️OS component.md
-│   ├── 🏷️Password attack.md
-│   ├── 🏷️Password security.md
-│   ├── 🏷️PC hardware.md
-│   ├── 🏷️Physical security.md
-│   ├── 🏷️Policy.md
-│   ├── 🏷️Principle.md
-│   ├── 🏷️Programming.md
-│   ├── 🏷️Python.md
-│   ├── 🏷️Regulation.md
-│   ├── 🏷️Risk management.md
-│   ├── 🏷️Security hardware.md
-│   ├── 🏷️Social engineering.md
-│   ├── 🏷️Software.md
-│   ├── 🏷️SQL.md
-│   ├── 🏷️Subreddit.md
-│   ├── 🏷️Symmetric encryption algorithm.md
-│   ├── 🏷️Threat intelligence.md
-│   ├── 🏷️Web application attack.md
-│   ├── 🏷️Web application.md
-│   ├── 🏷️Web application security.md
-│   └── 🏷️Youtube channel.md
-└── To-Do List
+│   ├── wide_area_network_(wan).md
+│   ├── wi_fi_protected_access_iii_(wpa3).md
+│   ├── wi_fi_protected_access_ii_(wpa2).md
+│   ├── wi_fi_protected_access_(wpa).md
+│   ├── wi_fi_protected_setup_(wps).md
+│   ├── wildcard_certificate.md
+│   ├── wildcard.md
+│   ├── wildcard_(sql).md
+│   ├── window_manager.md
+│   ├── windows.md
+│   ├── wired_equivalent_privacy_(wep).md
+│   ├── wireguard.md
+│   ├── wireless_jamming.md
+│   ├── wireless_lan_controller_(wlc).md
+│   ├── wireless_local_area_network_(wlan).md
+│   ├── wireless_transport_layer_security_(wtls).md
+│   ├── wireshark.md
+│   ├── wordlist.md
+│   ├── work_order_(wo).md
+│   ├── workstation.md
+│   ├── world_writable_file.md
+│   ├── worm.md
+│   ├── x.500.md
+│   ├── x.509.md
+│   ├── xml_injection.md
+│   ├── xpath_injection.md
+│   ├── yara_l.md
+│   ├── yellowdog_updater_modified_(yum).md
+│   ├── zero_day.md
+│   ├── zero_trust.md
+│   ├── zigbee.md
+│   └── zombie.md
+└── README.md
 
-8 directories, 1289 files
+2 directories, 1227 files
 ```
 <!-- PROJECT_STRUCTURE_END -->
