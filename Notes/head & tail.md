@@ -11,11 +11,7 @@ Here’s an example of using the `head` and `tail` commands:
 `head <file name>`
 `tail <file name>`
 
-![[Image 3.10.png]]
-
 As you can see, the head command showed 10 lines from the top of the file.
-
-![[Image 3.11.png]]
 
 The tail command outputted the bottom 10 lines from the file.
 

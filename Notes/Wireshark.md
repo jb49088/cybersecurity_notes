@@ -2,8 +2,6 @@
 
 Wireshark is an open-source network protocol analyzer. It uses a graphical user interface (GUI), which makes it easier to visualize network communications for packet analysis purposes. Wireshark has many features to explore that are beyond the scope of this course. You'll focus on how to use basic filtering to isolate network packets so that you can find what you need.
 
-![[Image 3.39.png]]
-
 ## Display filters
 
 Wireshark's display filters let you apply filters to packet capture files. This is helpful when you are inspecting packet captures with large volumes of information. Display filters will help you find specific information that's most relevant to your investigation. You can filter packets based on information such as protocols, IP addresses, ports, and virtually any other property found in a packet. Here, you'll focus on display filtering syntax and filtering for protocols, IP addresses, and ports.
@@ -14,16 +12,12 @@ You can use different comparison operators to locate specific header fields and 
 
 This table summarizes the different types of comparison operators you can use for display filtering.
 
-![[Table 1.71|no-link no-title clean]]
-
 > [!Tip]
 > You can combine comparison operators with Boolean logical operators like `and` and `or` to create complex display filters. Parentheses can also be used to group expressions and to prioritize search terms.
 
 ## Contains operator
 
 The `contains` operator is used to filter packets that contain an exact match of a string of text. Here is an example of a filter that displays all HTTP streams that match the keyword `"moved"`.
-
-![[Image 3.40.png]]
 
 ## Matches operator
 
@@ -32,8 +26,6 @@ The `matches` operator is used to filter packets based on the regular expression
 ## Filter toolbar
 
 You can apply filters to a packet capture using Wireshark's filter toolbar. In this example, `dns` is the applied filter, which means Wireshark will only display packets containing the DNS protocol.
-
-![[Image 3.41.png]]
 
 > [!Tip]
 > Wireshark uses different colors to represent protocols. You can customize colors and create your own filters.
@@ -89,7 +81,5 @@ Likewise, you can filter for TCP ports as well:
 ## Follow streams
 
 Wireshark provides a feature that lets you filter for packets specific to a protocol and view streams. A stream or conversation is the exchange of data between devices using a protocol. Wireshark reassembles the data that was transferred in the stream in a way that's simple to read.
-
-![[Image 3.42.png]]
 
 Following a protocol stream is useful when trying to understand the details of a conversation. For example, you can examine the details of an HTTP conversation to view the content of the exchanged request and response messages.

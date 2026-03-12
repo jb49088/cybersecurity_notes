@@ -1,6 +1,6 @@
 # Droppers
 
-[[🏷️Malware]] 
+[[🏷️Malware]]
 
 A **dropper** is a type of malware designed to deliver or "drop" additional malicious payloads onto a target system. Once executed, droppers typically work by downloading and installing other types of malware, such as ransomware, spyware, or trojans, onto the victim's device without their knowledge. Droppers can be disguised as legitimate software or embedded in other files, making them difficult to detect.
 

@@ -15,9 +15,9 @@ The last item `("")`, which doesn't contain anything within the quotation marks,
 
 ## Displaying Strings
 
-You can use the `print()` function to display a string. For example: 
+You can use the `print()` function to display a string. For example:
 
-`print("updates needed")` 
+`print("updates needed")`
 
 Outputs:
 

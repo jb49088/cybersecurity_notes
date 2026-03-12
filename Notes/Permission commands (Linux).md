@@ -17,12 +17,10 @@ These permissions are given to these types of owners:
 - **user**: the owner of the file
 <br>
 - **group**: a larger group that the owner is a part of
-<br>    
+<br>
 - **other**: all other users on the system
 
 Each character in the 10-character string conveys different information about these permissions. The following table describes the purpose of each character:
-
-![[Table 1.46|no-link no-title clean]]
 
 ## Exploring existing permissions
 
@@ -31,9 +29,9 @@ You can use the `ls` command to investigate who has permissions on files and dir
 There are additional options you can add to the `ls` command to make your command more specific. Some of these options provide details about permissions. Here are a few important `ls` options for security analysts:
 
 - `ls -a`: Displays hidden files. Hidden files start with a period (`.`) at the beginning.
-    
+
 - `ls -l`: Displays permissions to files and directories. Also displays other additional information, including owner name, group, file size, and the time of last modification.
-    
+
 - `ls -la`: Displays permissions to files and directories, including hidden files. This is a combination of the other two options.
 
 ## Changing permissions
@@ -59,8 +57,6 @@ Another way to assign these permissions is to use the equals sign (`=`) in this 
 This command overwrites existing permissions. For instance, if the user previously had write permissions, these write permissions are removed after you specify only read permissions with `=`.
 
 The following table reviews how each character is used within the first argument of `chmod`:
-
-![[Table 1.47|no-link no-title clean]]
 
 > [!note]
 > When there are permission changes to more than one owner type, commas are needed to separate changes for each owner type. You should not add spaces after those commas.

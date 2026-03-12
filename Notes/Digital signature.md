@@ -8,10 +8,6 @@ How it works:
 2. **Encrypting the Hash**: The hash value is then **encrypted** with the sender's **private key**, creating the **digital signature**. This ensures that only the sender, who possesses the private key, can generate the signature.
 3. **Verifying the Signature**: The recipient decrypts the digital signature using the sender’s **public key** to retrieve the original hash value. The recipient then hashes the received message and compares it with the decrypted hash. If they match, the message is verified as authentic and unchanged.
 
-![[Image 2.78.png]]
-
-![[Image 2.79.png]]
-
 ---
 
 See also:

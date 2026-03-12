@@ -1,6 +1,6 @@
 # Bootkit
 
-[[🏷️Malware]] 
+[[🏷️Malware]]
 
 A bootkit is a type of malicious software designed to infect the boot process of a computer, typically targeting the master boot record (MBR) or UEFI firmware. It allows an attacker to gain control of a system before the operating system (OS) starts, giving them the ability to bypass traditional security measures like antivirus programs and firewalls.
 

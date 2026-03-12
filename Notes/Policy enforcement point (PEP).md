@@ -6,8 +6,6 @@ A policy enforcement point (PEP) is a security component that enforces access co
 - **Communicating with the Policy Decision Point (PDP)**: Sends access requests to the PDP for evaluation.
 - **Enforcing access decisions**: Implements the PDP’s decision by permitting or denying access to resources.
 
-![[Image 2.58.png|600]]
-
 PEPs are commonly deployed in firewalls, APIs, cloud environments, and identity management systems to enforce security policies dynamically.
 
 ---

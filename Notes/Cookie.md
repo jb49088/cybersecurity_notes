@@ -21,5 +21,3 @@ See also:
 - [[Session]]
 - [[Session hijacking]]
 - [[Cross-site scripting (XSS)]]
-
-

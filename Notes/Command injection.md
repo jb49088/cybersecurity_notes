@@ -9,7 +9,7 @@ Command injection is a type of attack where an attacker is able to execute arbit
 - **Risk to web applications**: Command injection vulnerabilities are common in web applications, especially in those that interact with system processes or rely on external utilities (e.g., pinging a host, executing a script).
 - **Mitigation techniques**: Proper input validation and sanitization, use of parameterized queries, least privilege access controls, and secure coding practices can help prevent command injection.
 - **Examples**: An attacker may inject commands like `; rm -rf /` to delete all files or `| ls` to list system files when input is incorrectly processed by the application.
-    
+
 
 Command injection is a significant security concern, as it allows attackers to manipulate the underlying system, bypass application security mechanisms, and potentially gain control over the server or network.
 

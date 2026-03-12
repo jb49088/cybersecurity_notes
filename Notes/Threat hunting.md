@@ -1,4 +1,4 @@
-# Threat hunting 
+# Threat hunting
 
 Threat hunting is the proactive process of identifying and mitigating cyber threats before they can cause harm. It is a dynamic and evolving effort to stay ahead of attackers in the ever-changing cybersecurity landscape.
 

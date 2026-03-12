@@ -6,7 +6,7 @@ Shoulder surfing is a type of social engineering attack where an attacker observ
 
 Shoulder surfing is effective because it relies on the victim’s lack of awareness, rather than technical vulnerabilities. Attackers may look over a person’s shoulder, use reflective surfaces to view screens, or even stand behind someone in a line to gather valuable information without the victim noticing.
 
---- 
+---
 
 See also:
 

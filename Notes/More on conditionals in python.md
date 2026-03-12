@@ -8,8 +8,6 @@ A **conditional statement** is a statement that evaluates code to determine whet
 
 In conditional statements, the condition is often based on a comparison of two values. This table summarizes common comparison operators used to compare numerical values.
 
-![[Table 1.74]]
-
 > [!Note]
 > The equal to (`==`) and not equal to (`!=`) operators are also commonly used to compare string data
 

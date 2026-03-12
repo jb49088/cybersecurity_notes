@@ -16,6 +16,3 @@ See also:
 
 - [[Regulation]]
 - [[Data subject]]
-
-
-

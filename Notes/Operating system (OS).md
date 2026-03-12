@@ -6,8 +6,6 @@ Operating systems are remarkably complex, consisting of millions of lines of cod
 
 Because of this complexity, keeping an OS secure requires constant vigilance, patching, and updates to address newly discovered vulnerabilities and prevent potential exploitation.
 
-![[Diagram 1.18]]
-
 
 ---
 

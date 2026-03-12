@@ -25,7 +25,7 @@ When used with `grep`, the pipe can help you find directories and files containi
 
 ## find
 
-The `find` command searches for directories and files that meet specified criteria. There’s a wide range of criteria that can be specified with `find`. For example, you can search for files and directories that: 
+The `find` command searches for directories and files that meet specified criteria. There’s a wide range of criteria that can be specified with `find`. For example, you can search for files and directories that:
 
 - Contain a specific string in the name
 - Are a certain file size

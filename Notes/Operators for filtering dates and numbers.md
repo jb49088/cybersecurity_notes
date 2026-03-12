@@ -30,8 +30,6 @@ You'll also encounter date and time data, or data representing a date and/or tim
 
 In SQL, filtering numeric and date and time data often involves operators. You can use the following operators in your filters to make sure you return only the rows you need:
 
-![[Table 1.55|no-link no-title clean]]
-
 > [!note]
 > You can also use `!=` as an alternative operator for not equal to.
 
@@ -41,7 +39,7 @@ These comparison operators are used in the `WHERE` clause at the end of a query.
 
 ```sql
 SELECT firstname, lastname, birthdate
-FROM employees 
+FROM employees
 WHERE birthdate > '1970-01-01';
 ```
 
@@ -66,7 +64,7 @@ Another operator used for numeric data as well as date and time data is the `BET
 ```sql
 SELECT firstname, lastname, hiredate
 FROM employees
-WHERE hiredate BETWEEN '2002-01-01' AND '2003-01-01'; 
+WHERE hiredate BETWEEN '2002-01-01' AND '2003-01-01';
 ```
 
 ```

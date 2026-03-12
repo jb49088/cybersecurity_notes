@@ -1,26 +1,24 @@
 # Deep packet inspection (DPI)
 
-Deep packet inspection (DPI) is an advanced network analysis technique that examines the entire content of data packets, beyond the basic header information, to identify, analyze, or control traffic. This capability is used in security, network management, and traffic optimization applications.
+[[🏷️Network security]]
 
-Key Features:
+Deep packet inspection (DPI) is a network traffic analysis technique that examines the contents of packets beyond just their headers. Unlike traditional packet filtering, which only evaluates source/destination IP addresses and port numbers, DPI inspects the actual payload of packets to identify protocols, applications, and threats in real time.
 
-- **Comprehensive Packet Analysis**: Unlike basic packet filtering, which only inspects headers, DPI examines both the headers and the payload of packets. This allows it to detect specific applications, protocols, and content.
-- **Application Identification**: DPI can identify applications such as streaming services, social media platforms, or file-sharing programs based on packet content rather than just port numbers or IP addresses.
-- **Threat Detection**: DPI identifies malicious payloads, such as viruses, worms, or exploits, and blocks them before they reach their destination.
-- **Content Filtering**: It enables enforcement of policies by blocking inappropriate or unauthorized content, such as adult websites or unapproved applications.
-- **Bandwidth Management**: DPI allows prioritization or throttling of specific types of traffic, ensuring critical applications receive the necessary bandwidth.
+- **Application identification:** DPI can identify the true application or protocol being used regardless of port number, meaning SSH disguised as HTTP traffic on port 80 can still be detected and blocked.
+- **Threat detection:** DPI is used by intrusion detection and prevention systems (IDS/IPS) to identify malicious payloads, exploits, and command-and-control traffic embedded within otherwise legitimate-looking packets.
+- **Protocol fingerprinting:** Even without reading plaintext content, DPI can identify protocols by analyzing handshake patterns, packet size distributions, and timing — making it effective against traffic that attempts to blend in.
+- **TLS/encrypted traffic:** DPI has limited visibility into encrypted payloads, however metadata such as SNI headers, certificate information, and TLS handshake fingerprints (JA3/JA3S) still reveal significant information about the traffic without decryption.
+- **TLS inspection:** Enterprise DPI solutions can perform man-in-the-middle decryption by acting as a TLS proxy, fully decrypting, inspecting, and re-encrypting traffic. This requires a trusted root certificate installed on client devices.
+- **Evasion techniques:** From an offensive perspective, DPI can be evaded through traffic obfuscation, protocol mimicry, encrypting C2 communications over common protocols like HTTPS or DNS, and fragmenting packets to prevent signature matching.
 
-Applications:
-
-- **Security**: DPI is commonly used in Next-Generation Firewalls (NGFWs) and Intrusion Prevention Systems (IPS) to detect and mitigate threats in real time.
-- **Traffic Shaping**: Internet Service Providers (ISPs) use DPI to manage network traffic by identifying and prioritizing specific types of data.
-- **Compliance**: Organizations use DPI to enforce regulatory requirements, such as blocking prohibited content or monitoring sensitive data transfers.
-
-DPI provides unparalleled insight and control over network traffic, making it a cornerstone of modern cybersecurity and network management.
+DPI is a powerful tool for both defenders and a well-understood obstacle for attackers, making knowledge of its capabilities and limitations essential for offensive security work.
 
 ---
 
 See also:
 
+- [[Firewall]]
 - [[Next-generation firewall (NGFW)]]
+- [[Intrusion detection system (IDS)]]
 - [[Intrusion prevention system (IPS)]]
+- [[Transport layer security (TLS)]]

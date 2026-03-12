@@ -8,8 +8,6 @@ These tactics are often used in influence campaigns to sway public opinion on po
 
 Social media platforms play a central role in enabling the rapid spread of both misinformation and disinformation. Users amplify false narratives through creating, sharing, liking, and reposting content. Additionally, advertising campaigns can be utilized to purchase visibility and influence public perception.
 
-![[Image 2.74.png]]
-
 Both misinformation and disinformation have significant societal impacts, underscoring the need for critical thinking, media literacy, and proactive measures to counteract false narratives.
 
 ---

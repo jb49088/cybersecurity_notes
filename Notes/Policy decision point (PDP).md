@@ -6,8 +6,6 @@ A policy decision point (PDP) is a security component responsible for evaluating
 - **Consulting the policy engine**: Uses rules and policies to determine the appropriate response.
 - **Sending decisions to the Policy Enforcement Point (PEP)**: Communicates access decisions, which are then enforced by the PEP.
 
-![[Image 2.58.png|600]]
-
 PDPs are commonly used in identity and access management (IAM) systems, zero trust architectures, and cloud security frameworks.
 
 ---
@@ -19,4 +17,3 @@ See also:
 - [[Policy enforcement point (PEP)]]
 - [[Policy engine]]
 - [[Policy administrator]]
-

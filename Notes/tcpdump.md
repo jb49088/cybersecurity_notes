@@ -94,8 +94,6 @@ Once you run a command to capture packets, tcpdump will print the output of the 
 
 This command tells tcpdump to capture packets on `-i any` network interface. The option `-v` prints out the packet with detailed information and the option `-c 1` prints out only one packet. Here is the output of this command: 
 
-![[Image 2.37.png]]
-
 1. **Timestamp**: The output begins with the timestamp, which starts with hours, minutes, seconds, and fractions of a second.
    <br>
 2. **Source IP:** The packet’s origin is provided by its source IP address.

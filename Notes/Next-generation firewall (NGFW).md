@@ -19,7 +19,7 @@ See also:
 
 - [[Firewall]]
 - [[Network-based firewall]]
-- [[Web application firewall (WAF)]]
 - [[Intrusion prevention system (IPS)]]
 - [[Intrusion detection system (IDS)]]
 - [[Deep packet inspection (DPI)]]
+- [[Web application firewall (WAF)]]

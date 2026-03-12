@@ -7,7 +7,7 @@ A graphical user interface (GUI) is a visual-based interface that allows users t
 - **Multi-tasking support**: Allows users to run multiple applications simultaneously, with the ability to switch between open windows.
 - **Widespread adoption**: Found in operating systems like Windows, macOS, and Linux desktop environments (GNOME, KDE), as well as in applications, websites, and mobile devices.
 - **Touchscreen compatibility**: Many modern GUIs are optimized for touch-based interactions, commonly seen in smartphones, tablets, and kiosks.
-    
+
 
 GUIs enhance usability by making digital interactions more intuitive, but they may require more system resources compared to text-based CLIs.
 

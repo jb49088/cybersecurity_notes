@@ -10,11 +10,10 @@ Network segmentation is the practice of dividing a computer network into smaller
 
 Network segmentation is a crucial practice for optimizing network performance, securing sensitive information, and ensuring compliance with industry regulations. Whether achieved through physical, logical, or virtual means, segmentation helps control network environments, reduce risks, and simplify compliance with mandates like PCI requirements. It also enhances security by restricting access to critical resources and minimizing the exposure of sensitive services, such as SQL and SSH.
 
---- 
+---
 
 See also:
 
 - [[Air gap]]
 - [[Virtual Local Area Networks (VLAN)]]
 - [[Software-defined networking (SDN)]]
-

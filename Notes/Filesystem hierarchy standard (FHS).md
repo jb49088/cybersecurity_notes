@@ -8,8 +8,6 @@ The filesystem hierarchy standard (FHS) is a key component in Linux that defines
 
 This diagram illustrates the hierarchy of relationships under the FHS:
 
-![[Diagram 1.20]]
-
 The FHS provides a standard that simplifies system administration, file management, and user interaction with the filesystem.
 
 ---

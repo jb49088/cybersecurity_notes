@@ -4,14 +4,12 @@
 
 When joining two tables, `LEFT JOIN` returns all the records of the first table, but only returns rows of the second table that match on a specified column.
 
-![[Image 2.83.png]]
-
 ## The syntax of a left outer join
 
 ```sql
 SELECT *
 FROM employees
-LEFT JOIN machines 
+LEFT JOIN machines
 ON employees.device_id = machines.device_id;
 ```
 

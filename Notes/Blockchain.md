@@ -2,8 +2,6 @@
 
 A blockchain is a type of distributed ledger technology that allows transactions and data to be securely recorded and verified across multiple locations without relying on a central authority. It maintains an immutable record of all transactions and ensures transparency, as everyone on the blockchain network maintains a copy of the ledger. Once a transaction is recorded, the data is shared with all participants, ensuring consistency across the decentralized network.
 
-![[Image 2.72.png]]
-
 ## Use cases of blockchain
 
 Blockchain technology is widely used in various industries to enable secure, transparent, and decentralized systems. Common use cases include:

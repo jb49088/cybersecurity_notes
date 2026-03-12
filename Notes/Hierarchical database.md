@@ -4,7 +4,7 @@ A hierarchical database is a type of database model that organizes data in a tre
 
 In a hierarchical database, data is stored in records, and these records are linked together by pointers, with the parent record pointing to its child records. The model is simple and efficient for certain types of data, particularly when the relationships between records are naturally hierarchical.
 
---- 
+---
 
 See also:
 

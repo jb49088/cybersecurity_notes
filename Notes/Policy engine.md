@@ -6,8 +6,6 @@ A policy engine is the core component responsible for processing and applying se
 - **Context-aware decision-making**: Considers factors such as user identity, device type, location, and risk level.
 - **Integrating with external data sources**: Uses identity providers, threat intelligence, and compliance databases to inform decisions.
 
-![[Image 2.58.png|600]]
-
 Policy engines play a crucial role in policy-based access control (PBAC) and zero trust security models, ensuring that access decisions are made dynamically and based on real-time risk assessments.
 
 ---

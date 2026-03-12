@@ -20,4 +20,3 @@ See also:
 - [[Routing Information Protocol Version 2 (RIPv2)]]
 - [[Open shortest path first (OSPF)]]
 - [[Enhanced Interior Gateway Routing Protocol (EIGRP)]]
-

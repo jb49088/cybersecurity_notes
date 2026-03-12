@@ -29,5 +29,3 @@ Set an expiration date for a user’s password:
 Replace `days` with the number of days before the password expires and `warn days` with the number of days before the password expires that the user will be warned.
 
 These are just a few examples of using the `passwd` command in Linux. By understanding how to use this command effectively, you can manage user accounts and ensure that your system is secure.
-
-![[Image 3.28.png]]

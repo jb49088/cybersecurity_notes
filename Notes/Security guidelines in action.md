@@ -24,7 +24,7 @@ The CSF tiers are a way of measuring the sophistication of an organization's cyb
 
 The CSF profiles are pre-made templates of the NIST CSF that are developed by a team of industry experts. CSF profiles are tailored to address the specific risks of an organization or industry. They are used to help organizations develop a baseline for their cybersecurity plans, or as a way of comparing their current cybersecurity posture to a specific industry standard.
 
->[!note] 
+>[!note]
 >The core, tiers, and profiles were each designed to help any business improve their security operations. Although there are only three components, the entire framework consists of a complex system of subcategories and processes.
 
 ## Implementing the CSF

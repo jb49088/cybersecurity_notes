@@ -15,4 +15,3 @@ See also:
 
 - [[Password]]
 - [[Authentication]]
-

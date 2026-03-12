@@ -1,6 +1,6 @@
 # Web application firewall (WAF)
 
-[[🏷️Web application security]]
+[[🏷️Network security]] [[🏷️Web application security]]
 
 A web application firewall (WAF) is a specialized security solution designed to protect web applications by filtering and monitoring HTTP/HTTPS traffic. Unlike traditional firewalls, which operate at the network layer, WAFs operate at the application layer to specifically address threats targeting web applications.
 

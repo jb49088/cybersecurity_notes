@@ -9,7 +9,7 @@ File integrity monitoring (FIM) is a security process that involves tracking and
 - **Windows - SFC (System File Checker):** Windows operating systems use the built-in SFC tool to scan and repair corrupted or altered system files.
 - **Linux - Tripwire:** Tripwire is a well-known tool for Linux systems that can monitor and verify file integrity, providing alerts for unauthorized changes.
 - **Many host-based IPS options:** Many host-based intrusion prevention systems (IPS) also include FIM capabilities, adding an extra layer of protection by monitoring file integrity alongside other security measures.
-    
+
 File integrity monitoring is an essential security measure that helps ensure the integrity and trustworthiness of systems by identifying unauthorized changes before they can have significant consequences.
 
 ---

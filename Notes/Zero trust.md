@@ -10,8 +10,6 @@ Zero trust is a security model that assumes no entity—whether inside or outsid
 - **Continuous monitoring and logging**: Activity is continuously tracked to detect and respond to suspicious behavior in real time.
 - **Multi-factor authentication (MFA)**: Additional verification steps beyond just usernames and passwords help ensure secure access.
 
-![[Image 2.58.png|600]]
-
 Zero trust is widely adopted in modern cybersecurity frameworks, particularly in cloud environments and remote work scenarios, where traditional security models are insufficient to defend against evolving threats.
 
 ---

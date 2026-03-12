@@ -6,8 +6,6 @@ A Pass-the-Hash (PtH) attack allows attackers to authenticate as a user without 
 
 Once the hash is captured, the attacker can use it to authenticate on the target system, gaining unauthorized access, escalating privileges, or moving laterally within the network. This attack exploits weaknesses in authentication protocols that accept hashed credentials as equivalent to the original password.
 
-![[Image 3.44.png|center|700]]
-
 Mitigating PtH attacks involves enforcing strong authentication methods, such as multifactor authentication (MFA), minimizing the use of cached credentials, and regularly updating and salting hashes to invalidate stolen credentials.
 
 ---

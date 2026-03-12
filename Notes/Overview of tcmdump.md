@@ -5,7 +5,7 @@ As a security analyst, you’ll use network protocol analyzers to help defend ag
 - A **network protocol analyzer (packet sniffer)** is a tool designed to capture and analyze data traffic within a network.
   <br>
 - **Packet sniffing** is the practice of capturing and inspecting data packets across a network. 
-    
+
 In this reading, you'll learn more about tcpdump, a network protocol analyzer that can be used to capture and view network communications.
 
 ## What is tcpdump?
@@ -101,8 +101,6 @@ Once you run a command to capture packets, tcpdump will print the output of the 
 `sudo tcpdump -i any -v -c 1`
 
 This command tells tcpdump to capture packets on `-i any` network interface. The option `-v` prints out the packet with detailed information and the option `-c 1` prints out only one packet. Here is the output of this command: 
-
-![[Image 2.37.png]]
 
 1. **Timestamp**: The output begins with the timestamp, which starts with hours, minutes, seconds, and fractions of a second.
    <br>

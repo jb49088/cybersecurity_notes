@@ -24,10 +24,6 @@ For demonstration purposes, we will create a shell script with an infinite loop 
 
 With the use of the `&` symbol, we can pass a process into the background. As you can see, a new bash process with PID 25098 is created.
 
-![[Image 3.18.png]]
-
 Now, to kill a process with the `kill` command, you can type `kill` followed by the PID(Process Id) of the process.
-
-![[Image 3.19.png]]
 
 But if you do not know the process ID and just want to kill the process with the name, you can make use of the killall command.

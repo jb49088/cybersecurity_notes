@@ -9,11 +9,7 @@ X.500 is a set of standards defined by the International Telecommunication Union
 
 This table describes the distinguished names used in X.500 directory services for identifying individuals, organizations, and locations.
 
-![[Table 1.11]]
-
 This diagram illustrates the hierarchical structure of an X.500 directory, showing how different components are organized.
-
-![[Diagram 1.14]]
 
 X.500 serves as the foundation for various directory service protocols, including LDAP, and helps in managing large-scale directory information.
 

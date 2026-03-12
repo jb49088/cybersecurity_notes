@@ -13,5 +13,3 @@ The process of documenting evidence possession and control during an [[main/Inci
 ### Broken chain of custody
 
 Inconsistencies in the collection and [[Logging|logging]] of evidence in the [[Chain of custody|chain of custody]].
-
-

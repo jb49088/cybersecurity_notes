@@ -8,8 +8,6 @@ The basic syntax of the `sort` command is:
 
 `sort <filename>`
 
-![[Image 3.15.png]]
-
 By default, the `sort` command sorts lines in ASCII collating sequence, which can lead to unexpected results when sorting numbers or special characters. To sort numbers in numerical order, you can use the `-n` option.
 
 Here’s an example of using the `-n` option:

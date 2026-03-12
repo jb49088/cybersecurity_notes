@@ -1,6 +1,6 @@
 # cybersecurity_notes
 
-1,000+ interconnected cybersecurity notes built in Neovim, complete with links, tags, and scripts. Designed for both learning and long-term knowledge management.
+1,000+ interconnected cybersecurity notes built in Neovim, complete with tags and links. Designed for both learning and long-term knowledge management.
 
 <!-- CODE_STATISTICS_START -->
 
@@ -9,9 +9,9 @@
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Markdown                      1164           9262              4          17408
+Markdown                      1167           8449              4          16532
 -------------------------------------------------------------------------------
-SUM:                          1164           9262              4          17408
+SUM:                          1167           8449              4          16532
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -21,87 +21,25 @@ SUM:                          1164           9262              4          17408
 ### Project Structure
 ```
 cybersecurity_notes
-├── Meta
-│   ├── Help
-│   │   ├── Bold, italics, highlights.md
-│   │   ├── Callouts.md
-│   │   ├── Code.md
-│   │   ├── Flashcards.md
-│   │   ├── Headings.md
-│   │   ├── Line break.md
-│   │   ├── Lists.md
-│   │   ├── Non-breaking space.md
-│   │   └── Quotes.md
-│   ├── Inbox
-│   │   ├── Cables and Connectors.md
-│   │   ├── Cooling Systems.md
-│   │   ├── Expansion Cards.md
-│   │   ├── Standards & Standard Bodies
-│   │   │   ├── Center for Internet Security (CIS).md
-│   │   │   ├── FedRAMP.md
-│   │   │   ├── Institute of electrical and electronics engineers (IEEE).md
-│   │   │   ├── International Organization for Standardization (ISO).md
-│   │   │   ├── ISO ∕ IEC 270001.md
-│   │   │   ├── National Institute of Standards and Technology (NIST).md
-│   │   │   └── Research and development in advanced communications technologies in Europe (RACE).md
-│   │   └── Storage Devices.md
-│   ├── Prompts
-│   │   └── Page writer.md
-│   ├── Tags
-│   │   ├── 🏷️Access control model.md
-│   │   ├── 🏷️Asymmetric encryption algorithm.md
-│   │   ├── 🏷️Authentication methods.md
-│   │   ├── 🏷️Business agreement.md
-│   │   ├── 🏷️Cryptographic attack.md
-│   │   ├── 🏷️Cryptography.md
-│   │   ├── 🏷️Cybersecurity tool.md
-│   │   ├── 🏷️Data structure.md
-│   │   ├── 🏷️Data type.md
-│   │   ├── 🏷️Development.md
-│   │   ├── 🏷️Framework.md
-│   │   ├── 🏷️Hash function.md
-│   │   ├── 🏷️Injection attack.md
-│   │   ├── 🏷️Key derivation function.md
-│   │   ├── 🏷️Key exchange algorithm.md
-│   │   ├── 🏷️Key exchange protocol.md
-│   │   ├── 🏷️Linux command.md
-│   │   ├── 🏷️Linux distribution.md
-│   │   ├── 🏷️Malware.md
-│   │   ├── 🏷️Network attack.md
-│   │   ├── 🏷️Networking device.md
-│   │   ├── 🏷️Networking.md
-│   │   ├── 🏷️Network protocol.md
-│   │   ├── 🏷️Network security.md
-│   │   ├── 🏷️Network topology.md
-│   │   ├── 🏷️Network type.md
-│   │   ├── 🏷️News outlet.md
-│   │   ├── 🏷️Obfuscation.md
-│   │   ├── 🏷️Operating system.md
-│   │   ├── 🏷️OS component.md
-│   │   ├── 🏷️Password attack.md
-│   │   ├── 🏷️Password security.md
-│   │   ├── 🏷️PC hardware.md
-│   │   ├── 🏷️Physical security.md
-│   │   ├── 🏷️Policy.md
-│   │   ├── 🏷️Principle.md
-│   │   ├── 🏷️Programming.md
-│   │   ├── 🏷️Python.md
-│   │   ├── 🏷️Regulation.md
-│   │   ├── 🏷️Risk management.md
-│   │   ├── 🏷️Security hardware.md
-│   │   ├── 🏷️Social engineering.md
-│   │   ├── 🏷️Software.md
-│   │   ├── 🏷️SQL.md
-│   │   ├── 🏷️Subreddit.md
-│   │   ├── 🏷️Symmetric encryption algorithm.md
-│   │   ├── 🏷️Threat intelligence.md
-│   │   ├── 🏷️Web application attack.md
-│   │   ├── 🏷️Web application security.md
-│   │   └── 🏷️Youtube channel.md
-│   ├── Templates
-│   │   ├── Note Callout.md
-│   │   └── See also.md
-│   └── To-Do List
+├── Help
+│   ├── Bold, italics, highlights.md
+│   ├── Callouts.md
+│   ├── Code.md
+│   ├── Flashcards.md
+│   ├── Headings.md
+│   ├── Line break.md
+│   ├── Lists.md
+│   ├── Non-breaking space.md
+│   └── Quotes.md
+├── Inbox
+│   └── Standards & Standard Bodies
+│       ├── Center for Internet Security (CIS).md
+│       ├── FedRAMP.md
+│       ├── Institute of electrical and electronics engineers (IEEE).md
+│       ├── International Organization for Standardization (ISO).md
+│       ├── ISO ∕ IEC 270001.md
+│       ├── National Institute of Standards and Technology (NIST).md
+│       └── Research and development in advanced communications technologies in Europe (RACE).md
 ├── Notes
 │   ├── AAA server.md
 │   ├── Abstraction.md
@@ -188,7 +126,6 @@ cybersecurity_notes
 │   ├── Base16.md
 │   ├── Base64.md
 │   ├── Baseline.md
-│   ├── Bash.md
 │   ├── Basic Auth.md
 │   ├── Basic filters on SQL queries.md
 │   ├── Basic Input ⧸ Output System (BIOS).md
@@ -198,6 +135,8 @@ cybersecurity_notes
 │   ├── bcrypt.md
 │   ├── Best practices for log collection and management.md
 │   ├── BETWEEN.md
+│   ├── Binary exploitation.md
+│   ├── Bind shell.md
 │   ├── Biometrics.md
 │   ├── Birthday attack.md
 │   ├── Bit.md
@@ -216,6 +155,8 @@ cybersecurity_notes
 │   ├── Boot sector virus.md
 │   ├── Border gateway protocol (BGP).md
 │   ├── Botnet.md
+│   ├── Bourne Again SHell (Bash).md
+│   ├── Bourne Shell (sh).md
 │   ├── Bracket notation.md
 │   ├── Brand impersonation.md
 │   ├── Breach.md
@@ -237,6 +178,7 @@ cybersecurity_notes
 │   ├── cal.md
 │   ├── Capacity planning.md
 │   ├── CAPTCHA.md
+│   ├── Capture the flag (CTF).md
 │   ├── Carriage Return Line Feed (CRLF) Injection.md
 │   ├── Cascading Style Sheets (CSS).md
 │   ├── cat, echo & less.md
@@ -324,6 +266,7 @@ cybersecurity_notes
 │   ├── Credential stuffing.md
 │   ├── Crossover error rate (CER).md
 │   ├── Cross-site request forgery (CSRF).md
+│   ├── Cross-site request forgery (CSRF) token.md
 │   ├── Cross-site request.md
 │   ├── Cross-site scripting (XSS).md
 │   ├── Crowdsourcing.md
@@ -335,6 +278,7 @@ cybersecurity_notes
 │   ├── curl.md
 │   ├── CVE Numbering Authority (CNA).md
 │   ├── CVSS Metrics.md
+│   ├── CyberChef.md
 │   ├── CyberHAC.md
 │   ├── Cybersecurity insurance.md
 │   ├── Cyber Threat Framework (CTF).md
@@ -527,6 +471,7 @@ cybersecurity_notes
 │   ├── Guardrails.md
 │   ├── Hacker.md
 │   ├── HackerSploit.md
+│   ├── HackTheBox.md
 │   ├── Handshake.md
 │   ├── Hardening.md
 │   ├── Hardware Security Module (HSM).md
@@ -548,6 +493,7 @@ cybersecurity_notes
 │   ├── Honeynet.md
 │   ├── Honeypot.md
 │   ├── Honeytokens.md
+│   ├── Host-based firewall.md
 │   ├── Host Header Injection.md
 │   ├── Hosting models.md
 │   ├── Hot site.md
@@ -696,6 +642,7 @@ cybersecurity_notes
 │   ├── Mail gateway.md
 │   ├── Main distribution frame (MDF).md
 │   ├── Maintain awareness with network monitoring.md
+│   ├── Malware analysis.md
 │   ├── Malware.md
 │   ├── Managed security service provider (MSSP).md
 │   ├── Managed service provider (MSP).md
@@ -749,6 +696,7 @@ cybersecurity_notes
 │   ├── nano.md
 │   ├── Near field communication (NFC).md
 │   ├── Need-To-Know.md
+│   ├── Netcat.md
 │   ├── NetFlow.md
 │   ├── Network access control (NAC).md
 │   ├── Network address translation (NAT).md
@@ -799,7 +747,6 @@ cybersecurity_notes
 │   ├── OpenID.md
 │   ├── Open shortest path first (OSPF).md
 │   ├── Open Shortest Path First Version 3 (OSPFv3).md
-│   ├── Open source intelligence.md
 │   ├── Open-source intelligence (OSINT).md
 │   ├── Open-source.md
 │   ├── OpenSSL.md
@@ -843,7 +790,7 @@ cybersecurity_notes
 │   ├── Password policy.md
 │   ├── Password spraying.md
 │   ├── Password vault.md
-│   ├── Path hijacking.md
+│   ├── PATH hijacking.md
 │   ├── Payment Card Industry Data Security Standard (PCI DSS).md
 │   ├── Peer-to-Peer model.md
 │   ├── Peer to peer (P2P).md
@@ -981,6 +928,8 @@ cybersecurity_notes
 │   ├── Return on investment (ROI).md
 │   ├── Return statement.md
 │   ├── Reverse Address Resolution Protocol (RARP).md
+│   ├── Reverse engineering.md
+│   ├── Reverse shell.md
 │   ├── RIGHT JOIN.md
 │   ├── Right-to-audit clause.md
 │   ├── r ⁄ infosec.md
@@ -1077,7 +1026,6 @@ cybersecurity_notes
 │   ├── Set user ID (SUID).md
 │   ├── Shared responsibility.md
 │   ├── Shellcode.md
-│   ├── Shell.md
 │   ├── Shell scripting.md
 │   ├── Shim.md
 │   ├── Short message service (SMS).md
@@ -1209,6 +1157,7 @@ cybersecurity_notes
 │   ├── Trunking.md
 │   ├── Trusted Automated eXchange of Indicator Information (TAXII).md
 │   ├── Trusted platform module (TPM).md
+│   ├── TryHackMe.md
 │   ├── Tuple.md
 │   ├── Twofish.md
 │   ├── Type error.md
@@ -1273,6 +1222,7 @@ cybersecurity_notes
 │   ├── Web application.md
 │   ├── Web-based exploits.md
 │   ├── Webcrawler.md
+│   ├── Web shell.md
 │   ├── wget.md
 │   ├── Whaling.md
 │   ├── whereis & whatis.md
@@ -1298,8 +1248,6 @@ cybersecurity_notes
 │   ├── Wordlist.md
 │   ├── Work order (WO).md
 │   ├── Workstation.md
-│   ├── Work with built-in functions.md
-│   ├── Work with files in python.md
 │   ├── World-writable file.md
 │   ├── Worm.md
 │   ├── X.500.md
@@ -1312,8 +1260,64 @@ cybersecurity_notes
 │   ├── Zero trust.md
 │   ├── Zigbee.md
 │   └── Zombie.md
-└── README.md
+├── Prompts
+│   └── Page writer.md
+├── README.md
+├── Tags
+│   ├── 🏷️Access control model.md
+│   ├── 🏷️Asymmetric encryption algorithm.md
+│   ├── 🏷️Authentication methods.md
+│   ├── 🏷️Business agreement.md
+│   ├── 🏷️Cryptographic attack.md
+│   ├── 🏷️Cryptography.md
+│   ├── 🏷️Cybersecurity tool.md
+│   ├── 🏷️Data structure.md
+│   ├── 🏷️Data type.md
+│   ├── 🏷️Development.md
+│   ├── 🏷️Framework.md
+│   ├── 🏷️Hash function.md
+│   ├── 🏷️Injection attack.md
+│   ├── 🏷️Interpreter.md
+│   ├── 🏷️Key derivation function.md
+│   ├── 🏷️Key exchange algorithm.md
+│   ├── 🏷️Key exchange protocol.md
+│   ├── 🏷️Linux command.md
+│   ├── 🏷️Linux distribution.md
+│   ├── 🏷️Malware.md
+│   ├── 🏷️Network attack.md
+│   ├── 🏷️Networking device.md
+│   ├── 🏷️Networking.md
+│   ├── 🏷️Network protocol.md
+│   ├── 🏷️Network security.md
+│   ├── 🏷️Network topology.md
+│   ├── 🏷️Network type.md
+│   ├── 🏷️News outlet.md
+│   ├── 🏷️Obfuscation.md
+│   ├── 🏷️Operating system.md
+│   ├── 🏷️OS component.md
+│   ├── 🏷️Password attack.md
+│   ├── 🏷️Password security.md
+│   ├── 🏷️PC hardware.md
+│   ├── 🏷️Physical security.md
+│   ├── 🏷️Policy.md
+│   ├── 🏷️Principle.md
+│   ├── 🏷️Programming.md
+│   ├── 🏷️Python.md
+│   ├── 🏷️Regulation.md
+│   ├── 🏷️Risk management.md
+│   ├── 🏷️Security hardware.md
+│   ├── 🏷️Social engineering.md
+│   ├── 🏷️Software.md
+│   ├── 🏷️SQL.md
+│   ├── 🏷️Subreddit.md
+│   ├── 🏷️Symmetric encryption algorithm.md
+│   ├── 🏷️Threat intelligence.md
+│   ├── 🏷️Web application attack.md
+│   ├── 🏷️Web application.md
+│   ├── 🏷️Web application security.md
+│   └── 🏷️Youtube channel.md
+└── To-Do List
 
-10 directories, 1283 files
+8 directories, 1289 files
 ```
 <!-- PROJECT_STRUCTURE_END -->

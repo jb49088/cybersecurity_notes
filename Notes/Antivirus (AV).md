@@ -1,6 +1,6 @@
 # Antivirus (AV)
 
-A software program used to prevent, detect, and eliminate malware and viruses. It offers various functionalities like scanning, detection and removal, real-time protection, scheduled scans, and automatic updates. 
+A software program used to prevent, detect, and eliminate malware and viruses. It offers various functionalities like scanning, detection and removal, real-time protection, scheduled scans, and automatic updates.
 
 - **Essential security layer:** Antivirus is a fundamental layer of security for personal devices.
   <br>
@@ -19,4 +19,3 @@ See also:
 - [[Virus]]
 - [[Zero-day]]
 - [[Firewall]]
-

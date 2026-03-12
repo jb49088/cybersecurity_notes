@@ -21,4 +21,3 @@ This [[Visual dashboard|dashboard]] provides statistics related to [[main/Incide
 #### User sign in overview dashboard
 
 This [[Visual dashboard|dashboard]] provides information about [[User|user]] access behavior across the organization. This dashboard can be used to access a list of all [[User|user]] signin events to identify unusual [[User|user]] activity, such as a [[User|user]] signing in from multiple locations at the same time. This information is then used to help mitigate [[Cyber Threats|threats]], [[Risk management|risks]], and [[Vulnerability|vulnerabilities]] to user accounts and the organization’s applications.
-

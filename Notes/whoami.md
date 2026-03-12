@@ -10,8 +10,6 @@ The `whoami` command in Linux returns the current user’s username. It stands f
 
 Let’s see the output of both the commands and the way we can use these.
 
-![[Image 2.94.png]]
-
 The parameter `-a` with `uname` command stands for “all”. This prints out the complete information. If the parameter is not added, all you will get as the output is “Linux”.
 
 > [!note]

@@ -7,8 +7,6 @@ A policy administrator is responsible for defining, managing, and updating acces
 - **Managing policy enforcement**: Works with policy enforcement points (PEPs) and policy decision points (PDPs) to ensure policies are correctly applied.
 - **Ensuring compliance**: Monitors and adjusts policies to meet regulatory and industry security requirements.
 
-![[Image 2.58.png|600]]
-
 Policy administrators play a critical role in maintaining a secure and adaptable access control framework, often working with cybersecurity teams to refine policies as threats evolve.
 
 ---
@@ -20,4 +18,3 @@ See also:
 - [[Policy enforcement point (PEP)]]
 - [[Policy decision point (PDP)]]
 - [[Policy engine]]
-

@@ -18,4 +18,3 @@ See also:
 
 - [[Kerberos]]
 - [[Single sign-on (SSO)]]
-

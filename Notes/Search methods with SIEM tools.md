@@ -1,14 +1,12 @@
 # Search methods with SIEM tools
 
-So far, you’ve learned about how you can use security information and event management (SIEM) tools to search for security events such as failed login attempts. Remember, SIEM is an application that collects and analyzes log data to monitor critical activities in an organization. In this reading, you’ll examine how SIEM tools like Splunk and Chronicle use different search methods to find, filter, and transform search results. 
+So far, you’ve learned about how you can use security information and event management (SIEM) tools to search for security events such as failed login attempts. Remember, SIEM is an application that collects and analyzes log data to monitor critical activities in an organization. In this reading, you’ll examine how SIEM tools like Splunk and Chronicle use different search methods to find, filter, and transform search results.
 
 Not all organizations use the same SIEM tool to gather and centralize their security data. As a security analyst, you’ll need to be ready to learn how to use different SIEM tools. It’s important to understand the different types of searches you can perform using SIEM tools so that you can find relevant event data to support your security investigations.
 
 ## Splunk searches
 
 As you’ve learned, Splunk has its own querying language called Search Processing Language (SPL). SPL is used to search and retrieve events from indexes using Splunk’s Search & Reporting app. An SPL search can contain many different commands and arguments. For example, you can use commands to transform your search results into a chart format or filter results for specific information.
-
-![[Image 3.55.png]]
 
 Here is an example of a basic SPL search that is querying an index for a failed event:
 
@@ -53,13 +51,9 @@ A **wildcard** is a special character that can be substituted with any other cha
 
 In Chronicle, you can search for events using the Search field. You can also use Procedural Filtering to apply filters to a search to further refine the search results. For example, you can use Procedural Filtering to include or exclude search results that contain specific information relating to an event type or log source. There are two types of searches you can perform to find events in Chronicle, a Unified Data Mode (UDM) Search or a Raw Log Search.
 
-![[Image 3.56.png]]
-
 ### Unified Data Model (UDM) Search
 
 The UDM Search is the default search type used in Chronicle. You can perform a UDM search by typing your search, clicking on “Search,” and selecting “UDM Search.” Through a UDM Search, Chronicle searches security data that has been ingested, parsed, and normalized. A UDM Search retrieves search results faster than a Raw Log Search because it searches through indexed and structured data that’s normalized in UDM.
-
-![[Image 3.57.png]]
 
 A UDM Search retrieves events formatted in UDM and these events contain UDM fields. There are many different types of UDM fields that can be used to query for specific information from an event. Know that all UDM events contain a set of common fields including:
 

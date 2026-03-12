@@ -14,7 +14,7 @@ A desktop environment is a graphical user interface (GUI) that provides a compre
     - **Cinnamon**: A user-friendly desktop environment that is popular for users transitioning from other operating systems like Windows.
 - **Customization**: Many desktop environments allow users to tweak various elements, such as themes, icons, and behaviors, to suit their preferences.
 - **Integration with operating systems**: Desktop environments are tightly integrated with the underlying operating system, providing system-wide settings, software management, and peripheral support.
-    
+
 A desktop environment enhances the user experience by providing a graphical interface that simplifies managing and interacting with system resources and applications.
 
 ---

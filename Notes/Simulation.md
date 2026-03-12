@@ -17,4 +17,3 @@ See also:
 - [[Disaster recovery plan (DRP)]]
 - [[Business continuity plan (BCP)]]
 - [[Incident response plan (IRP)]]
-

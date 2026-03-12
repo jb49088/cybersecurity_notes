@@ -15,7 +15,7 @@ WPA2 (Wi-Fi Protected Access II) was introduced in 2004 as the successor to [[Wi
 4. **Robust Security Network (RSN)**: WPA2 includes the RSN feature, which ensures that only devices that support WPA2 can connect to the network, improving overall security.
    <br>
 5. **Backward Compatibility**: WPA2 was designed to be backward compatible with WPA, allowing users to transition without losing connectivity with older devices.
-    
+
 WPA2 has become the standard for most Wi-Fi networks, and while it's more secure than its predecessors, vulnerabilities have been discovered over time. This led to the development of WPA3, which provides even more advanced security features, but WPA2 remains widely used today.
 
 ---

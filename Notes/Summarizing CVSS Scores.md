@@ -26,7 +26,7 @@ $$ Impact = 7.52 \times(ISS -0.029)-3.25 \times(\text { ISS }-0.02)^{15} $$
 
 Analysts may calculate the exploitability score for a vulnerability using this formula:
 
-$$ \begin{aligned} \text { Exploitability }= & 8.22 \times \text { Attack Vector } \times \text { AttackComplexity } \\ & \times \text { PrivilegesRequired } \times \text { UserInteraction }\end{aligned} $$ 
+$$ \begin{aligned} \text { Exploitability }= & 8.22 \times \text { Attack Vector } \times \text { AttackComplexity } \\ & \times \text { PrivilegesRequired } \times \text { UserInteraction }\end{aligned} $$
 
 Plugging in values for our SSL vulnerability, we get
 
@@ -34,7 +34,7 @@ $$ \begin{array}{c}\text { Exploitability }=8.22 \times 0.85 \times 0.77 \times 
 
 ## Calculating the Base Score
 
-With all of this information at hand, we can now determine the CVSS base score using the following rules: 
+With all of this information at hand, we can now determine the CVSS base score using the following rules:
 
 - If the impact is 0, the base score is 0.
 - If the scope metric is Unchanged, calculate the base score by adding together the impact and exploitability scores.
@@ -50,11 +50,7 @@ In our example, the impact score is 3.60 and the exploitability score rounds to 
 
 Many vulnerability scanning systems further summarize CVSS results by using risk categories rather than numeric risk ratings. These are usually based on the CVSS Qualitative Severity Rating Scale, shown in [[Table 1.20]].
 
-![[Table 1.20|no-link no-title clean]]
-
-Continuing with the SSL vulnerability example from [[Image 2.51.png|Image 2.51]], we calculated the CVSS score for this vulnerability as 7.5. This places it into the High risk category, as shown in the header of [[Image 2.51.png|Image 2.51]]. 
+Continuing with the SSL vulnerability example from [[Image 2.51.png|Image 2.51]], we calculated the CVSS score for this vulnerability as 7.5. This places it into the High risk category, as shown in the header of [[Image 2.51.png|Image 2.51]].
 
 > [!info] Note
 > Be sure you are familiar with the CVSS severity rating scale for the exam. These scores are a common topic for exam questions!
-
-

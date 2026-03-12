@@ -4,7 +4,7 @@ Playbooks provide a predefined and up-to-date list of steps to perform when resp
 
 Each organization has a different set of playbook tools, methodologies, protocols, and procedures that they adhere to. However, there may be government-imposed laws and regulations such as notification requirements. These requirements are subject to change based on where the [[main/Incident Response & Forensics|incident]] originated and the type of [[Data|data]] affected.
 
-Playbooks sometimes cover specific [[main/Incident Response & Forensics|incidents]] and [[Vulnerability|vulnerabilities]]. These might include [[Ransomware|ransomware]], [[Vishing|vishing]], [[Business Email Compromise (BEC)|Business Email Compromise (BEC)]], and more. 
+Playbooks sometimes cover specific [[main/Incident Response & Forensics|incidents]] and [[Vulnerability|vulnerabilities]]. These might include [[Ransomware|ransomware]], [[Vishing|vishing]], [[Business Email Compromise (BEC)|Business Email Compromise (BEC)]], and more.
 
 An incident response playbook is a guide with six phases used to help mitigate and manage security incidents from beginning to end. Let's discuss each phase.
 

@@ -12,8 +12,6 @@ Nmap is an open-source network scanning tool used for discovering hosts, service
 
 The table below lists commonly used Nmap flags and their functions, helping users customize scans based on their needs.
 
-![[Table 1.28]]
-
 Nmap is an essential tool for network security, offering powerful scanning capabilities for system and vulnerability assessment.
 
 ---

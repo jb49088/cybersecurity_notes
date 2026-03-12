@@ -17,6 +17,3 @@ See also:
 
 - [[Mobile device management (MDM)]]
 - [[IEEE 802.11 (Wi-Fi)]]
-
-
-

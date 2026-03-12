@@ -8,6 +8,6 @@ Hardening extends to all system components, including servers, workstations, net
 
 System hardening is a fundamental practice in cybersecurity, helping to protect critical assets by creating a robust and resilient infrastructure. Regular reviews and updates to hardening procedures ensure that systems remain secure against evolving threats.
 
---- 
+---
 
 See also:

@@ -4,8 +4,6 @@
 
 The first type of join that you might perform is an inner join. `INNER JOIN` returns rows matching on a specified column that exists in more than one table.
 
-![[Image 2.82.png]]
-
 It only returns the rows where there is a match, but like other types of joins, it returns all specified columns from all joined tables. For example, if the query joins two tables with `SELECT *`, all columns in both of the tables are returned.
 
 > [!note]
@@ -18,7 +16,7 @@ To write a query using `INNER JOIN`, you can use the following syntax:
 ```sql
 SELECT *
 FROM employees
-INNER JOIN machines 
+INNER JOIN machines
 ON employees.device_id = machines.device_id;
 ```
 
@@ -31,10 +29,9 @@ In addition to selecting all columns, you can select only certain columns.  For
 ```sql
 SELECT username, operating_system, employees.device_id
 FROM  employees
-INNER JOIN machines 
+INNER JOIN machines
 ON employees.device_id = machines.device_id;
 ```
 
 > [!note]
 > In the example query, `username` and `operating_system` only appear in one of the two tables, so they are written with just the column name. On the other hand, because `device_id` appears in both tables, it's necessary to indicate which one to return by specifying both the table and column name (`employees.device_id`).
-

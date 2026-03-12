@@ -8,7 +8,7 @@ Key steps in input validation:
 - **Document all input methods**: Record all ways through which data can be input, such as forms, fields, or other entry points. Each input method should have clear documentation, including the types of data expected, required formats, and any constraints.
 - **Check and correct all input (normalization)**: Input should be checked for correctness and normalized to ensure consistency. This includes formatting issues, such as ensuring a zip code is entered with the correct number of characters or properly formatted phone numbers. If needed, the system should automatically fix minor mistakes in input format.
 - **Fuzzers will find what you missed**: Automated fuzz testing tools are designed to input random or unexpected data into an application to test how it handles edge cases or unusual inputs. These tools help uncover vulnerabilities that may not have been considered during manual testing. It's essential to harden your application to prevent fuzzers from exploiting weak spots.
-    
+
 Effective input validation is vital for preventing many common security issues. It protects against malicious data input and ensures that applications behave predictably and securely, even when faced with unexpected user inputs.
 
 ---

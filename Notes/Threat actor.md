@@ -14,8 +14,6 @@ A threat actor is any individual, group, or organization that poses a threat to 
 - **Insider Threats:** Employees or contractors with legitimate access who intentionally or unintentionally compromise security. Motivations can include financial gain, revenge, or negligence.
 - **Shadow IT:** Unauthorized use of technology, such as unapproved software or hardware, by employees. While often unintentional, it can introduce vulnerabilities and bypass established security controls.
 
-![[Table 1.06|no-link no-title clean]]
-
 By identifying and understanding threat actors, organizations can better anticipate potential attacks and implement targeted defenses, such as employee training, access controls, and advanced monitoring systems.
 
 ---

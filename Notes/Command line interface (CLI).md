@@ -7,7 +7,7 @@ A command line interface (CLI) is a text-based interface used to interact with a
 - **Common CLI environments**: Popular CLIs include Bash (Linux/macOS), Command Prompt (Windows), PowerShell (Windows), and Zsh (Linux/macOS).
 - **Remote administration**: CLI tools like SSH (Secure Shell) enable administrators to manage remote systems securely.
 - **Extensibility**: Many CLIs support scripting languages like Bash, Python, or PowerShell, allowing users to automate complex workflows.
-    
+
 
 CLIs remain an essential tool for IT professionals, developers, and cybersecurity experts, offering flexibility, speed, and powerful control over computing environments.
 

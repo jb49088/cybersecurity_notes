@@ -10,8 +10,6 @@ Detection tools work similarly to home security systems. Whereas home security s
 
 As a security analyst, you'll likely encounter IDS, IPS, and EDR detection tools at some point, but it's important to understand the differences between them. Here is a comparison chart for quick reference:
 
-![[Table 1.70|no-link no-title clean]]
-
 ## Overview of IDS tools
 
 An intrusion detection system (IDS) is an application that monitors system activity and alerts on possible intrusions. An IDS provides continuous monitoring of network events to help protect against security threats or attacks. The goal of an IDS is to detect potential malicious activity and generate an alert once such activity is detected. An IDS does _not_ stop or prevent the activity. Instead, security professionals will investigate the alert and act to stop it, if necessary. 

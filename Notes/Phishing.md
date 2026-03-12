@@ -9,5 +9,3 @@ Phishing is a prominent form of social engineering, where attackers use psycholo
 See also:
 
 - [[Social engineering]]
-
-

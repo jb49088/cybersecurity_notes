@@ -5,4 +5,3 @@ The movement of [[Data Packet|data packets]] across a [[Network|network]]. It en
 #### Data traffic
 
 A subset of [[Network Traffic|network traffic]], specifically referring to the volume of [[Data|data]] being transmitted over a [[Network|network]] within a given period.
-

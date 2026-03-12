@@ -16,5 +16,3 @@ See also:
 
 - [[Block cipher]]
 - [[Advanced encryption standard (AES)]]
-
-

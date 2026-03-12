@@ -18,8 +18,6 @@ Like strings, you can work with lists through their indices, and indices start a
 
 This table contains the index for each element in the list `["elarson", "fgarcia", "tshah", "sgilmore"]`:
 
-![[Table 1.79|no-link no-title clean]]
-
 ## Bracket notation
 
 Similar to strings, you can use bracket notation to extract elements or slices in a list. To extract an element from a list, after the list or the variable that contains a list, add square brackets that contain the index of the element. The following example extracts the element with an index of `2` from the variable `username_list` and prints it.

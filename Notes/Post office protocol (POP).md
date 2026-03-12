@@ -10,7 +10,7 @@ Post office protocol (POP) is an email retrieval protocol used by email clients 
 
 POP is a simple and efficient method of downloading email, but its lack of synchronization between devices and server can make it less suitable for modern email management compared to newer protocols like IMAP.
 
---- 
+---
 
 See also:
 

@@ -6,17 +6,11 @@ The `diff`, `comm`, and `cmp` commands are all used to compare files in Linux an
 
 `diff <file 1> <file 2>`
 
-![[Image 3.12.png]]
-
 The `cmp` command is used to compare two files and display the first byte that is different between them. It can be used to identify differences between binary files or to check for corruption in files.
 
 `cmp <file 1> <file 2>`
 
-![[Image 3.13.png]]
-
 `comm <file 1> <file2>`
-
-![[Image 3.14.png]]
 
 The text that’s aligned to the left is only present in `file 1`. The centre-aligned text is present only in `file 2`. And the right-aligned text is present in both files.
 

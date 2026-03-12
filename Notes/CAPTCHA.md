@@ -4,6 +4,4 @@ CAPTCHA stands for Completely Automated Public Turing test to tell Computers and
 
 Here are common CAPTCHA examples:
 
-![[Image 3.29.png]]
-
 There are two types of CAPTCHA tests. One scrambles and distorts a randomly generated sequence of letters and/or numbers and asks users to enter them into a text box. The other test asks users to match images to a randomly generated word. You’ve likely had to pass a CAPTCHA test when accessing a web service that contains sensitive information, like an online bank account.

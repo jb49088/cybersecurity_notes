@@ -14,7 +14,7 @@ This [[Visual dashboard|dashboard]] is designed to analyze and monitor the overa
 
 #### Incident review dashboard
 
-This [[Visual dashboard|dashboard]] allows analysts to identify suspicious patterns that can occur in the event of an [[main/Incident Response & Forensics|incident]]. It assists by highlighting higher [[Risk management|risk]] items that need immediate review by an analyst. 
+This [[Visual dashboard|dashboard]] allows analysts to identify suspicious patterns that can occur in the event of an [[main/Incident Response & Forensics|incident]]. It assists by highlighting higher [[Risk management|risk]] items that need immediate review by an analyst.
 
 #### Risk analysis dashboard
 

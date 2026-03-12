@@ -4,14 +4,12 @@
 
 When joining two tables, `RIGHT JOIN` returns all of the records of the second table, but only returns rows from the first table that match on a specified column.
 
-![[Image 2.84.png]]
-
 The following query demonstrates the syntax for `RIGHT JOIN`:
 
-```sql 
+```sql
 SELECT *
 FROM employees
-RIGHT JOIN machines 
+RIGHT JOIN machines
 ON employees.device_id = machines.device_id;
 ```
 
@@ -23,7 +21,7 @@ ON employees.device_id = machines.device_id;
 ```sql
 SELECT *
 FROM machines
-RIGHT JOIN employees 
+RIGHT JOIN employees
 ON employees.device_id = machines.device_id;
 ```
 

@@ -7,5 +7,3 @@ The `grep` command is a powerful and versatile text search tool in Linux and Uni
 The `grep` command stands for “global regular expression print,” which reflects its ability to search for regular expressions across multiple lines and files.
 
 `<Any command with output> | grep "<string to find>"`
-
-![[Image 3.09.png]]

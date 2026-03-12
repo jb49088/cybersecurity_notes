@@ -4,8 +4,6 @@
 
 openSUSE is a Linux distribution known for its stability, flexibility, and powerful system administration tools. It is developed by the openSUSE Project and is available in two main editions: **openSUSE Leap** (a stable, enterprise-ready release) and **openSUSE Tumbleweed** (a rolling-release version with the latest updates).
 
-![[Image 3.33.png|225]]
-
 - **Leap vs. Tumbleweed**: Leap is based on SUSE Linux Enterprise (SLE) and offers long-term support, while Tumbleweed provides continuously updated software with a rolling-release model.
 - **YaST system management**: openSUSE includes **YaST (Yet another Setup Tool)**, a powerful configuration tool for managing system settings, software, networking, and security.
 - **Zypper package manager**: openSUSE uses `zypper` for package management, providing a robust alternative to `apt` or `dnf`.

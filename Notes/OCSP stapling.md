@@ -12,4 +12,3 @@ See also:
 - [[Certificate authority (CA)]]
 - [[Digital certificate]]
 - [[Certificate revocation list (CRL)]]
-

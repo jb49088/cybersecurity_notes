@@ -2,11 +2,7 @@
 
 Cybersecurity professionals depend on automation to help them perform their duties in a efficient, effective manner. Vulnerability scanning tools allow the automated scheduling of scans to take the burden off administrators. Image 2.41 shows and example of how these scans might be configured in Tenable's Nessus product. Nessus was one of the first vulnerability scanners on the market and remains widely used today. Administrators may designate a schedule that meets their security, compliance, and business requirements.
 
-![[Image 2.41.png]]
-
 Administrators should configure these scans to provide automated alerting when they detect new vulnerabilities. Many security teams configure their scans to produce automated email reports of scan results, such as the report shown in Image 2.42.
-
-![[Image 2.42.png]]
 
 Many different factors influence how often an organization decides to conduct vulnerability scans against its systems:
 

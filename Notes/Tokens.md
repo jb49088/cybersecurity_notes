@@ -2,14 +2,14 @@
 
 Tokens are physical or digital objects used to authenticate a user's identity. They generate or store credentials that validate the user to access secure systems, applications, or data. Tokens are often used in conjunction with other authentication methods.
 
-## Types 
+## Types
 
 - **Hardware Tokens:** Physical devices, such as smart cards or USB tokens, that generate or store authentication credentials.
 - **Software Tokens:** Applications or software programs that generate time-based or event-based credentials, often on smartphones or computers.
 - **One-Time Password (OTP) Tokens:** Generate a unique password for each authentication session, typically used only once.
 - **Security Keys:** Physical devices that connect via USB, NFC, or Bluetooth, often used for two-factor authentication (e.g., YubiKeys).
 
-## Advantages 
+## Advantages
 
 - **Enhanced Security:** Tokens add an additional layer of security, reducing the reliance on passwords alone.
 - **Reduced Risk of Phishing:** Physical tokens are less susceptible to phishing attacks since they cannot be easily replicated or stolen through digital means.

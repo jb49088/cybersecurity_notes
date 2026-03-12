@@ -16,11 +16,7 @@ An **index** is a number assigned to every element in a sequence that indicates 
 
 Indices start at `0`. For example, you might be working with this string containing a device ID: `"h32rb17"`. The following table indicates the index for each character in this string:
 
-![[Table 1.77|no-link no-title clean]]
-
 You can also use negative numbers as indices. This is based on their position relative to the last character in the string:
-
-![[Table 1.78|no-link no-title clean]]
 
 ### Bracket notation
 

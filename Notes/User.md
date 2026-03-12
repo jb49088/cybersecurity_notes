@@ -1,6 +1,6 @@
 # User
 
-Refers to any individual who interacts with a computer system, network, or application. 
+Refers to any individual who interacts with a computer system, network, or application.
 
 There are several types of users::
 

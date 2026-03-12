@@ -10,6 +10,4 @@ The `cal` command displays a well-presented calendar on the terminal. Just enter
 
 `cal March 2024`
 
-![[Image 3.25.png]]
-
 Although we don’t need it often, it’s a great addition! It’s an amazing option for terminal fans.

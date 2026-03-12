@@ -25,4 +25,4 @@ Automated tools, such as asset management software, are often used to streamline
 See also:
 
 - [[Asset inventory]]
-- 
+-

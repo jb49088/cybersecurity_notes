@@ -2,20 +2,25 @@
 
 [[🏷️Network security]]
 
-Network-based firewalls are critical components of network security, deployed to monitor and control traffic across network boundaries. They offer advanced features for filtering, encryption, and routing to safeguard enterprise networks.
+A network-based firewall is a security device or software solution positioned at the boundary of a network, controlling traffic flow between different network segments or between an internal network and the internet. Rather than protecting a single host, a network-based firewall enforces policy for all traffic passing through it, making it the first line of defense in most network architectures.
 
-Key Features:
+- **Perimeter enforcement:** Network-based firewalls sit at network boundaries, inspecting traffic entering and leaving the network. All external traffic must pass through the firewall before reaching internal hosts, making it a natural choke point for filtering.
+- **Stateful inspection:** Modern network firewalls track the state of connections using a connection table, allowing return traffic for established sessions while blocking unsolicited inbound packets. This is more effective than simple stateless filtering which evaluates each packet in isolation.
+- **Rule-based traffic filtering:** Administrators define rules based on source/destination IP, port, protocol, and direction. Traffic matching allow rules is forwarded, everything else is dropped or rejected.
+- **Network address translation (NAT):** Network firewalls commonly perform NAT, translating private internal IP addresses to a public-facing address. This provides a layer of obscurity by hiding internal network topology from external observers.
+- **Segmentation:** Beyond perimeter defense, network firewalls are used to segment internal networks into zones, restricting traffic between departments, VLANs, or trust levels. This limits blast radius if a segment is compromised.
+- **Blind spot — lateral movement:** A network firewall only sees traffic that crosses its boundary. Traffic between two hosts on the same network segment never passes through it, meaning an attacker who has gained internal access can move laterally without touching the perimeter firewall at all.
+- **Offensive relevance:** From an attacker's perspective, bypassing or pivoting past a network firewall is a primary objective during exploitation. Techniques include tunneling traffic over allowed protocols, exploiting misconfigured rules, and abusing outbound connections which are often less restricted than inbound.
 
-- **Traffic Filtering**: Network-based firewalls filter traffic by port numbers (OSI Layer 4) or application-level protocols (OSI Layer 7). Traditional firewalls focus on packet filtering and stateful inspection, while Next-Generation Firewalls (NGFWs) include features like application awareness and advanced threat detection.
-- **Traffic Encryption**: These firewalls support Virtual Private Networks (VPNs) to enable secure communication between sites, ensuring data confidentiality and integrity.
-- **Layer 3 Functionality**: Many firewalls act as Layer 3 devices (routers) and are typically positioned at the network's ingress or egress points. They often include Network Address Translation (NAT) to share public IP addresses among devices and support dynamic routing protocols with authentication.
-
-Network-based firewalls combine these features to provide comprehensive protection, making them an essential part of modern network infrastructures.
+Network-based firewalls are a foundational control in any network architecture, but their effectiveness depends entirely on traffic being forced through them. Any path that bypasses the firewall renders its rules irrelevant.
 
 ---
 
 See also:
 
 - [[Firewall]]
+- [[Host-based firewall]]
+- [[Network address translation (NAT)]]
+- [[Network segmentation]]
+- [[Defense in depth]]
 - [[Next-generation firewall (NGFW)]]
-- [[Web application firewall (WAF)]]

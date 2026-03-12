@@ -20,4 +20,4 @@ Configuring rule options helps in narrowing down network traffic, so you can fin
 
 The first rule option, msg, which stands for message, provides the alert's text. In this case, the alert will print out the text: "This is a message." There's also the option sid, which stands for signature ID. This attaches a unique id to each signature. The rev option stands for revision. Each time a signature is updated or changed, the revision number changes. Here, the number 1 means it's the first version of the signature.
 
-Great! Now you've developed another skill in your journey towards becoming a security analyst: how to read signatures. There's so much more to learn and coming up, we'll discuss tools that use signatures. 
+Great! Now you've developed another skill in your journey towards becoming a security analyst: how to read signatures. There's so much more to learn and coming up, we'll discuss tools that use signatures.

@@ -1,3 +1,3 @@
-## Threat landscape 
+## Threat landscape
 
 blah blah blah blah

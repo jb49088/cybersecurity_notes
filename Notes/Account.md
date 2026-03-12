@@ -2,7 +2,7 @@
 
 Claiming an identity and being authorized to access a system or service requires an account. Accounts contain the information about a user, including things like rights and permissions that are associated with the account.
 
-## Account Types 
+## Account Types
 
 There are many types of accounts, and they can almost all be described
 as one of a few basic account types:

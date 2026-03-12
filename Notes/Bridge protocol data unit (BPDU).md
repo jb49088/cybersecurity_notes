@@ -23,7 +23,3 @@ BPDU communication ensures that network switches can detect and avoid loops, pro
 ---
 
 See also:
-
-
-
-

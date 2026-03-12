@@ -17,4 +17,3 @@ HTTP is the foundation of web browsing, enabling the retrieval and display of co
 See also:
 
 - [[Hypertext transfer protocol secure (HTTPS)]]
-

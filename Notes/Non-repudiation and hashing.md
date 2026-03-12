@@ -6,13 +6,13 @@ We've spent some time together exploring a couple forms of encryption. The two t
 
 A [[Hash function|hash function]] is an algorithm that produces a code that can't be decrypted. Unlike asymmetric and symmetric algorithms, hash functions are one-way processes that do not generate decryption keys. Instead, these algorithms produce a unique identifier known as a [[Hash value|hash value]], or digest. Here's an example to demonstrate this.
 
-Imagine a company has an internal application that is used by employees and is stored in a shared drive. After passing through a hashing function, the program receives its hash value. For example purposes, we created this relatively short hash value with the MD5 hashing function. 
+Imagine a company has an internal application that is used by employees and is stored in a shared drive. After passing through a hashing function, the program receives its hash value. For example purposes, we created this relatively short hash value with the MD5 hashing function.
 
 `5cff47ccd980f800432898cedaa97b2e`
 
 Generally, standard hash functions that produce longer hashes are preferred for being more secure.
 
-Next, let's imagine an attacker replaces the program with a modified version that performs malicious actions. The malicious program may work like the original. However, if so much as one line of code is different from the original, it will produce a different hash value. 
+Next, let's imagine an attacker replaces the program with a modified version that performs malicious actions. The malicious program may work like the original. However, if so much as one line of code is different from the original, it will produce a different hash value.
 
 `53499071b2d56bd37ccb0d395d536c7e`
 

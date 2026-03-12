@@ -1,6 +1,6 @@
 # Loaders
 
-[[🏷️Malware]] 
+[[🏷️Malware]]
 
 A loader is a type of malicious software used to deliver and execute additional malware on a compromised system. Typically, a loader works by bypassing security defenses and launching payloads like ransomware, trojans, or other forms of malware. Loaders are often part of multi-stage attacks, where they act as the initial infection vector, providing a "gateway" for further malicious software to be installed.
 

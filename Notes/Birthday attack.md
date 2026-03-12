@@ -13,4 +13,3 @@ For a hash function that produces an output of a certain length (for example, a 
 See also:
 
 - [[Hash collision]]
-- [[Collision attack]]

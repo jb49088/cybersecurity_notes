@@ -10,15 +10,11 @@ The primary function of a VPN is to maintain data privacy across the internet. E
 
 An SSL/TLS VPN leverages the Secure Sockets Layer (SSL) or Transport Layer Security (TLS) protocols, operating over TCP port 443. These protocols enable VPNs to establish secure connections while maintaining compatibility with existing firewalls, minimizing connectivity issues. SSL/TLS VPNs are commonly used for remote access due to their simplicity and minimal setup requirements. Unlike traditional VPNs, SSL/TLS VPNs do not require extensive configuration or large client software installations.
 
-![[Image 2.33.png]]
-
 Authentication for SSL/TLS VPNs is user-friendly, often bypassing the need for digital certificates or shared passwords required by IPsec-based systems. They are highly versatile, functioning through web browsers or lightweight VPN clients on various operating systems. These VPNs support on-demand access for remote devices, and some configurations enable always-on connectivity, providing uninterrupted secure communication.
 
 ## Site-to-Site IPsec VPN
 
 Site-to-site IPsec VPNs are designed to connect entire networks, such as linking branch offices to a central headquarters. These VPNs rely heavily on encapsulation to create persistent encrypted tunnels that facilitate seamless communication between networks. They are typically always-on or nearly always active, ensuring continuous and reliable connectivity.
-
-![[Image 2.68.png]]
 
 Firewalls frequently serve as VPN concentrators in site-to-site configurations, making deployment more cost-effective and straightforward, as organizations often already have firewalls in place. The integration of encapsulation and encryption in these VPNs ensures secure and efficient inter-network communication, even over public networks.
 

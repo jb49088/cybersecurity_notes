@@ -1,4 +1,4 @@
-# Diffie-Hellman (DH) 
+# Diffie-Hellman (DH)
 
 [[🏷️Key exchange algorithm]]
 

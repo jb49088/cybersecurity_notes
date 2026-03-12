@@ -12,8 +12,6 @@ Today’s AMD and Intel CPUs should be compatible with every PC-based operating 
 Older CPUs are generally square, with contacts arranged in a pin grid array (PGA). Prior to 1981, chips were found in a rectangle with two rows of 20 pins known as a dual in-line package (DIP)—see Figure 1.26. There are still integrated circuits that use the DIP form factor; however, the DIP form factor is no longer used for PC CPUs. Most modern CPUs use the LGA form factor. Figure 1.10, earlier in this chapter, shows an LGA socket next to a PGA socket. Additionally, the ATX motherboard in Figure 1.2 has a PGA socket, whereas the micro ATX motherboard has an LGA.
 
 - **Figure 1.26** DIP and PGA
-![[Image 1.26.png]]
-
 Intel and AMD both make extensive use of an inverted socket/processor combination of sorts. As mentioned earlier, the LGA packaging calls for the pins to be placed on the motherboard, while the mates for these pins are on the processor packaging. As with PGA, LGA is named for the landmarks on the processor, not the ones on the motherboard. As a result, the grid of metallic contact points, called lands, on the bottom of the CPU gives this format its name.
 
 You can easily identify which component inside the computer is the CPU because it is a large square lying flat on the motherboard with a very large heat sink and fan (refer to Figure 1.10). The CPU is almost always located very close to the RAM to improve system speed, as shown in Figure 1.1, Figure 1.2, and Figure 1.8.
@@ -76,21 +74,17 @@ HTT-capable processors appear to the operating system as two processors. As a re
 HTT manifests itself in the Windows 10 Task Manager by showing graphs for twice as many CPUs as the system has cores. These virtual CPUs are listed as logical processors (see Figure 1.27).
 
 - **Figure 1.27** Logical processors in Windows
-![[Image 1.27.png]]
-
 For an in-market example, compare the Intel i5 with the Intel i7. Similar models will have the same number of cores (say, four), but the i7 supports HTT, whereas the i5 does not. This gives the i7 a performance edge over its cousin. The i9 will be even one further step up from the i7. For everyday email and internet use, the differences won’t amount to much. But for someone using resource-intensive applications such as online gaming or virtual reality, especially between i5 and i9 processors, the differences can be important.
 
 > [!info] Real World Scenario
 > **Which CPU Do You Have?**
 > The surest way to determine which CPU your computer is using is to open the case and view the numbers stamped on the CPU, a process that today requires removal of the active heat sink. However, you may be able to get an idea without opening the case and removing the heat sink and fan because many manufacturers place a very obvious sticker somewhere on the case indicating the processor type. Failing this, you can always go to the manufacturer’s website and look up the information on the model of computer you have.
-> 
+>
 > >
-> 
+>
 > An easier way to determine your computer's CPU may be to look in Control Panel ➢ System to access the About screen, as shown in Figure 1.28. For even more detailed information, you can run System Information by clicking Start and entering `msinfo32.exe`. Click on System Information when it appears as the Best Match. Alternatively, third-party utilities such as CPU-Z, which we mentioned earlier, can provide detailed information about your CPU. Another method is to save your work, exit any open programs, and restart the computer. Watch closely during the POST routine (Power-On Self-Test); you should see a notation that tells you what chip you are using.
-> 
+>
 > - **Figure 1.28** System information an the About screen
-> ![[Image 1.28.png]]
-
 ### Virtualization Support
 
 Many of today’s CPUs support virtualization in hardware, which eases the burden on the system that software-based virtualization imposes. For more information on virtualization, see Chapter 8, “Virtualization and Cloud Computing.” AMD calls its virtualization technology AMD-V (V for virtualization), whereas Intel calls theirs Virtualization Technology (VT). Most processors made today support virtual technology, but not all. Keep in mind that the BIOS/UEFI and operating system must support it as well for virtualization to work. You may need to manually enable the virtualization support in the BIOS/UEFI before it can be used.
@@ -98,7 +92,5 @@ Many of today’s CPUs support virtualization in hardware, which eases the burde
 As shown in Figure 1.29, the CPU Technologies tab of this utility tells you if your CPU supports Intel VT.
 
 - **Figure 1.29** Intel Processor Identification Utility
-![[Image 1.29.png]]
-
 > [!info] Note
 > The CompTIA A+ objectives for CPUs aren’t quite as long as they were for motherboards. For CPUs, be sure to understand the differences between x64/x86/ARM, single- core and multicore, multithreading, and virtualization support.

@@ -4,8 +4,6 @@ Security zones refer to logical or physical divisions of a network that help to 
 
 Zone-based security technologies provide a more flexible and secure method than traditional IP address ranges for controlling traffic between different segments of the network. By defining security zones, organizations can apply tailored policies to each zone, ensuring that only authorized traffic is allowed and that the right level of protection is provided for each area.
 
-![[Image 2.67.png]]
-
 Common security zones include:
 
 - **Trusted zone**: This is typically where internal systems and resources reside, with higher levels of trust and access.
@@ -20,9 +18,3 @@ By clearly defining these zones and the traffic flow between them, organizations
 See also:
 
 - [[Network segmentation]]
-
-
-
-
-
-

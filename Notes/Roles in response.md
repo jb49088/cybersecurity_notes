@@ -23,7 +23,7 @@ A **computer security incident response team (CSIRT)** is a specialized group of
 - **Control** refers to the ability to manage technical aspects during incident response, like coordinating resources and assigning tasks.
   <br>
 - **Communication** refers to the ability to keep stakeholders informed.
-    
+
 Establishing a CSIRT organizational structure with clear and distinctive roles aids in achieving an effective and efficient response.
 
 ## Roles in CSIRTs 
@@ -45,7 +45,7 @@ The job of the security analyst is to continuously monitor an environment for an
 - Performing root-cause investigations
   <br>
 - Escalating or resolving alerts 
-    
+
 If a critical threat is identified, then analysts escalate it to the appropriate team lead, such as the technical lead.
 
 ### Technical lead
@@ -70,8 +70,6 @@ A security operations center (SOC) is an organizational unit dedicated to monito
 ## SOC organization
 
 A SOC is composed of SOC analysts, SOC leads, and SOC managers. Each role has its own respective responsibilities. SOC analysts are grouped into three different tiers.
-
-![[Image 3.32.png]]
 
 ### Tier 1 SOC analyst
 

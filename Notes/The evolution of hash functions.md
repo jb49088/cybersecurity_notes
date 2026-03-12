@@ -4,8 +4,6 @@ Hash functions are important controls that are part of every company's security 
 
 Previously, you learned that [[Hash function|hash functions]] are algorithms that produce a code that can't be decrypted. Hash functions convert information into a unique value that can then be used to determine its integrity. In this reading, you’ll learn about the origins of hash functions and how they’ve changed over time.
 
-![[Diagram 1.21]]
-
 ## Origins of hashing
 
 Hash functions have been around since the early days of computing. They were originally created as a way to quickly search for data. Since the beginning, these algorithms have been designed to represent data of any size as small, fixed-size values, or digests. Using a hash table, which is a data structure that's used to store and reference hash values, these small values became a more secure and efficient way for computers to reference data.
@@ -17,8 +15,6 @@ Whether it’s used to convert a single email or the source code of an applicati
 Generally, the longer the hash value, the more secure it is. It wasn’t long after MD5's creation that security practitioners discovered 128-bit digests resulted in a major vulnerability.
 
 Here is an example of how plaintext gets turned into hash values:
-
-![[Image 2.87.png]]
 
 ### Hash collisions
 
@@ -57,7 +53,5 @@ Functions with larger digests are less vulnerable to collision and rainbow table
 [[Salting]] is an additional safeguard that's used to strengthen hash functions. A salt is a random string of characters that's added to data before it's hashed. The additional characters produce a more unique hash value, making salted data resilient to rainbow table attacks.
 
 For example, a database containing passwords might have several hashed entries for the password "password." If those passwords were all salted, each entry would be completely different. That means an attacker using a rainbow table would be unable to find matching values for "password" in the database.
-
-![[Image 2.88.png]]
 
 For this reason, salting has become increasingly common when storing passwords and other types of sensitive data. The length and uniqueness of a salt is important. Similar to hash values, the longer and more complex a salt is, the harder it is to crack.

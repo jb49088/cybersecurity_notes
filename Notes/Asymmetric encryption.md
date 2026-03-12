@@ -7,8 +7,6 @@ Asymmetric encryption, also known as public-key cryptography, is a method of enc
 
 Asymmetric encryption is commonly used for one-time exchanges, such as establishing a secure connection or key exchange during a handshake. After this, symmetric encryption is typically employed for ongoing communication since it is faster and better suited for encrypting large amounts of data.
 
-![[Image 2.81.png]]
-
 ---
 
 See also:

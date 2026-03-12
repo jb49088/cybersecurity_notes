@@ -7,4 +7,3 @@ Refers to a collection of interconnected devices such as [[Endpoint|endpoints]],
 - **Resource Sharing:** Networks allow for the sharing of resources such as files, printers, storage devices, and internet connections among connected devices. This enhances collaboration and efficiency within organizations.
   <br>
 - **Access to Services:** Networks provide access to various services and applications, including email, web browsing, file transfer, video streaming, and more. These services may be hosted locally within the network or accessed remotely over the internet.
-

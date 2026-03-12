@@ -1,6 +1,6 @@
 # Standard output (stdout)
 
-Information returned by the [[Operating system (OS)|OS]] through the [[Shell|shell]]. 
+Information returned by the [[Operating system (OS)|OS]] through the [[Shell|shell]].
 
 
 ---

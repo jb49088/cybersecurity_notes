@@ -14,5 +14,3 @@ When we say `mount`, it means that we’ll connect the device to a folder so we 
 In the above case, `/dev/cdrom` is the device that needs to be mounted. Usually, a mountable device is found inside the `/dev` folder. `mnt` is the destination folder to which to mount the device. You can change it to any folder you want, but we have used `/mnt` as it’s the system’s default folder for mounting devices.
 
 To see the mounted devices and get more information about them, we use the df command. Just typing `df` will give us the data in bytes, which is not readable. So, we’ll use the `-h` parameter to make the data human-readable.
-
-![[Image 3.20.png]]

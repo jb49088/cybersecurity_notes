@@ -1,4 +1,4 @@
-# List 
+# List
 
 [[🏷️Data structure]]
 

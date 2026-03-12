@@ -31,8 +31,6 @@ The `open()` function opens a file in Python.
 
 The first parameter identifies the file you want to open. In the following file structure, `"update_log.txt"` is located in the same directory as the Python file that will access it, `"log_parser.ipynb"`:
 
-![[Diagram 1.22]]
-
 Because they're in the same directory, only the name of the file is required. The code can be written as `with open("update_log.txt", "r") as file:`.
 
 However, `"access_log.txt"` is not in the same directory as the Python file `"log_parser.ipynb"`. Therefore, it's necessary to specify its absolute file path. A **file path** is the location of a file or directory. An absolute file path starts from the highest-level directory, the root. In the following code, the first parameter of the `open()` function includes the absolute file path to `"access_log.txt"`:

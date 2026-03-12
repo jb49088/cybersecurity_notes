@@ -12,8 +12,6 @@ The basic syntax of the command is as below.
 `service ssh stop`
 `service ssh start`
 
-![[Image 3.17.png]]
-
 As you can see in the image, the `ssh` server is running on our system.
 
 > [!info] Note

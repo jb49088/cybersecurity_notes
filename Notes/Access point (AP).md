@@ -4,8 +4,6 @@
 
 Access points are crucial components in wireless networking. They serve as a bridge between wired networks and wireless devices, allowing devices like laptops, smartphones, and tablets to connect to a network without physical cables.
 
-![[Diagram 1.09]]
-
 ## Key Functions of Access Points:
 
 1. **Wireless Connectivity:** APs transmit and receive data wirelessly, enabling devices to access network resources without being tethered to a specific location.

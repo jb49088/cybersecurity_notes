@@ -8,6 +8,6 @@ Security guards perform various tasks, including patrolling premises, checking c
 
 In addition to deterring unauthorized access, security guards play a proactive role in fostering a safe environment by assisting visitors, enforcing rules, and serving as a point of contact during incidents. They are often deployed in high-security environments, such as government facilities, financial institutions, and event venues, but their presence is also common in residential and commercial settings.
 
---- 
+---
 
 See also:

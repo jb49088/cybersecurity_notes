@@ -6,8 +6,6 @@ To create a link to another file, we use the `ln` command. This is one of the mo
 
 `ln -s <source path> <link name>`
 
-![[Image 3.05.png]]
-
 The `-s` flag creates a symbolic link (also known as a symlink or soft link) to a file or directory. A symbolic link is a special type of file that acts as a shortcut or pointer to another file or directory.
 
 By default, the `ln` command will make hard links instead of symbolic or soft links.

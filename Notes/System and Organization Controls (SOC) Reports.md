@@ -2,7 +2,7 @@
 
 [[🏷️Framework]]
 
-System and Organization Controls (SOC) reports are third-party audit reports that evaluate the controls and processes of service organizations. These reports are crucial for providing assurance to customers about the effectiveness of the service organization's internal controls, particularly in relation to data security, availability, processing integrity, confidentiality, and privacy. 
+System and Organization Controls (SOC) reports are third-party audit reports that evaluate the controls and processes of service organizations. These reports are crucial for providing assurance to customers about the effectiveness of the service organization's internal controls, particularly in relation to data security, availability, processing integrity, confidentiality, and privacy.
 
 There are different types of SOC reports, including SOC 1 and SOC 2, each serving specific purposes:
 
@@ -15,5 +15,3 @@ There are different types of SOC reports, including SOC 1 and SOC 2, each servin
 	- **Focus:** Trust Service Criteria (TSC).
 	- **Users:** Relevant to a broad range of stakeholders, including management, regulators, and customers.
 	- **Standards:** Based on the AICPA's TSC.
-
-

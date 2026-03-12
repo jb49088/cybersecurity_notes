@@ -2,7 +2,7 @@
 
 An internet protocol address, or IP address, is a unique string of characters that identifies a location of a device on the internet. Each device on the internet has a unique IP address, just like every house on a street has its own mailing address.
 
-There are two types of IP addresses: 
+There are two types of IP addresses:
 
 - **IP Version 4 (IPv4):** IPv4 addresses are represented as four sets of 1 to 3-digit numbers separated by periods, such as 19.117.63.126. Initially, all internet addresses were IPv4. However, as internet usage expanded, the supply of IPv4 addresses began to dwindle, leading to the development of IPv6.
 

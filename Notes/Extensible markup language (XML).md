@@ -32,12 +32,12 @@ XML elements can also contain attributes. Attributes are used to provide additio
 For example:
 
 ```
-<EventData> 
-	<Data Name='SubjectUserSid'>S-2-3-11-160321</Data> 
-	<Data Name='SubjectUserName'>JSMITH</Data> 
-	<Data Name='SubjectDomainName'>ADCOMP</Data> 
-	<Data Name='SubjectLogonId'>0x1cf1c12</Data> 
-	<Data Name='NewProcessId'>0x1404</Data> 
+<EventData>
+	<Data Name='SubjectUserSid'>S-2-3-11-160321</Data>
+	<Data Name='SubjectUserName'>JSMITH</Data>
+	<Data Name='SubjectDomainName'>ADCOMP</Data>
+	<Data Name='SubjectLogonId'>0x1cf1c12</Data>
+	<Data Name='NewProcessId'>0x1404</Data>
 </EventData>
 ```
 

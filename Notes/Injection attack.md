@@ -14,5 +14,3 @@ This type of attack allows an attacker to inject code into a program or query or
 list
 from "20-39 Cybersecurity/17 Threat Management & Intelligence/26.10 ■ Types of Threats/Injection attacks"
 ```
-
-

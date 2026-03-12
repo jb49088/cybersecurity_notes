@@ -1,6 +1,6 @@
 # Logic bomb
 
-[[🏷️Malware]] 
+[[🏷️Malware]]
 
 A logic bomb is a type of malicious code that is triggered by a specific condition or event, such as a particular date or action. Unlike other malware that spreads immediately, a logic bomb remains dormant until the predefined trigger occurs. Once activated, it can cause various harmful effects, such as deleting files, corrupting data, or disrupting system operations.
 

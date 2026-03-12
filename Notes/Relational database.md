@@ -11,16 +11,12 @@ Think of tables like lists. Each table is a list of similar items:
 - **Table Name:** "Students"
 - **Columns:** Name, Age, Grade
 
-![[Table 1.51]]
-
 ## Primary Key
 
 A primary key is like a unique ID card for each row. It’s a special column that ensures each row is different from the others:
 
 - **Table Name:** "Students"
 - **Primary Key Column:** `StudentID`
-
-![[Table 1.52|no-link no-title clean]]
 
 Here, `StudentID` is the primary key. Each student’s ID is unique.
 
@@ -32,9 +28,7 @@ A foreign key is a way to link tables together. Imagine you have another table f
 - **Primary Key Column:** `ClassID` (this uniquely identifies each class record in the "Classes" table)
 - **Foreign Key Column:** `StudentID` (this references the `StudentID` in the "Students" table)
 
-![[Table 1.53|no-link no-title clean]]
-
-Here, `StudentID` in the "Classes" table is a foreign key that refers to `StudentID` in the "Students" table. It tells you which student is taking which class. 
+Here, `StudentID` in the "Classes" table is a foreign key that refers to `StudentID` in the "Students" table. It tells you which student is taking which class.
 
 > [!note]
 > A table can only have one primary key, but multiple foreign keys.

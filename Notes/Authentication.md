@@ -1,4 +1,4 @@
-# Authentication 
+# Authentication
 
 When a subject wants to claim an identity, they need to prove that the identity is theirs. That means they need to authenticate. Authentication technologies like authentication protocols, servers, and standards all serve to ensure that the subject is who they claim that they are, that the authentication process remains safe and secure, and that capabilities like the ability to use single sign-on (SSO) work.
 
@@ -6,9 +6,7 @@ The Security+ exam outline defines four factors of authentication:
 
 - Something you know, including passwords, PINs, or the answer to a security question.
   <br>
-- Something you have like a smartcard, USB or Bluetooth token, or another object or item that is in your possession, like the Titan security key shown in [[Image 2.59.png]]. 
-
-![[Image 2.59.png|center|200]]
+- Something you have like a smartcard, USB or Bluetooth token, or another object or item that is in your possession, like the Titan security key shown in [[Image 2.59.png]].
 
 - Something you are, which relies on a physical characteristic of the person who is authenticating themselves. Fingerprints, retina scans, voice prints, and even your typing speed and patterns are all included as options for this type of factor.
   <br>

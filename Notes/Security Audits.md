@@ -4,9 +4,9 @@ Security audits use many of the same techniques followed during security assessm
 
 Auditors provide an impartial, unbiased view of the state of security controls. They write reports that are quite similar to security assessment reports, but those reports are intended for different audiences that may include an organization's board of directors, government regulators, and other third parties.
 
-One of the primary outcomes of an audit is an attestation by the auditor. This is a formal statement that the auditors have reviewed the controls and found that they are both adequate to meet the control objectives and working properly. 
+One of the primary outcomes of an audit is an attestation by the auditor. This is a formal statement that the auditors have reviewed the controls and found that they are both adequate to meet the control objectives and working properly.
 
-There are three main types of audits: internal audits, external audits, and third-party audits. 
+There are three main types of audits: internal audits, external audits, and third-party audits.
 
 ## Internal Audits
 
@@ -16,7 +16,7 @@ Internal audits may be conducted for a variety of reasons. Often, management or 
 
 ## External Audits
 
-External audits are performed by an outside auditing firm who serves as an independent third party. These audits have a high degree of external validity because the auditors performing the assessment theoretically have no conflict of interest with the organization itself. There are thousands of firms who perform external audits, but most people place the highest credibility with the so-called Big Four audit firms: 
+External audits are performed by an outside auditing firm who serves as an independent third party. These audits have a high degree of external validity because the auditors performing the assessment theoretically have no conflict of interest with the organization itself. There are thousands of firms who perform external audits, but most people place the highest credibility with the so-called Big Four audit firms:
 
 - Ernst & Young
 - Deloitte
@@ -30,7 +30,7 @@ Audits performed by these firms are generally considered acceptable by most inve
 Independent third-party audits are conducted by, or on behalf of, another organization. For example, a regulatory body might have the authority to initiate an audit of a regulated firm under contract or law. In the case of an independent third-party audit, the organization initiating the audit generally selects the auditors and designs the scope of the audit.
 
 > [!info] Note
-> Independent third-party audits are a subcategory of external audits—the only difference is who is requesting the audit. For an external audit, the request comes from the organization or its governing body. For an independent third-party audit, the request comes from a regulator, customer, or other outside entity. 
+> Independent third-party audits are a subcategory of external audits—the only difference is who is requesting the audit. For an external audit, the request comes from the organization or its governing body. For an independent third-party audit, the request comes from a regulator, customer, or other outside entity.
 
 Organizations that provide services to other organizations are frequently asked to participate in independent third-party audits. This can be quite a burden on the audited organization if they have a large number of clients. The American Institute of Certified Public Accountants (AICPA) released a standard designed to alleviate this burden. The Statement on Standards for Attestation Engagements document 18 (SSAE 18), titled Reporting on Controls, provides a common standard to be used by auditors performing assessments of service organizations with the intent of allowing the organization to conduct an external assessment instead of multiple third-party assessments and then sharing the resulting report with customers and potential customers.
 

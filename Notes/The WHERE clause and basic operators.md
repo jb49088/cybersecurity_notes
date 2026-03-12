@@ -52,8 +52,6 @@ These wildcards can be placed after a [[20-29 Cybersecurity/26 Programming & Dat
 
 The following table includes these wildcards applied to the string `a` and examples of what each pattern would return.
 
-![[Table 1.54|no-link no-title clean]]
-
 ### LIKE
 
 To apply wildcards to the filter, you need to use the `LIKE` operator instead of an equals sign (`=`). `LIKE` is used with `WHERE` to search for a pattern in a column.

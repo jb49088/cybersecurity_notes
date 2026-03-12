@@ -12,7 +12,6 @@ Access control vestibules are common in facilities requiring high levels of secu
 
 See also:
 
-
 - [[Tailgating]]
 - [[Piggybacking]]
 - [[Biometrics]]

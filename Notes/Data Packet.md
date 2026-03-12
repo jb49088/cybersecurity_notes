@@ -4,11 +4,9 @@ A data packet is a fundamental unit of information that travels across a network
 
 Each packet is akin to a physical letter. It has a header containing the destination device's [[IP address|IP address]], [[MAC address|MAC address]], and a protocol number that instructs how to process the packet's content. The packet's body carries the actual message, and the footer acts like a signature, marking the end of the packet.
 
-The flow of data packets can reflect network performance, with [[Bandwidth|bandwidth]] being a key measure. All data packets include an IP address and are known as IP packets in [[Transmission control protocol (TCP)|TCP]] connections or datagrams in [[User datagram protocol (UDP)|UDP]] connections. 
+The flow of data packets can reflect network performance, with [[Bandwidth|bandwidth]] being a key measure. All data packets include an IP address and are known as IP packets in [[Transmission control protocol (TCP)|TCP]] connections or datagrams in [[User datagram protocol (UDP)|UDP]] connections.
 
 **Image 2.34** Format of an IPv4 packet
-![[Image 2.34.png]]
-
 An IPv4 packet is made up of two sections, the header and the data:
 
 - An IPv4 header format is determined by the IPv4 protocol and includes the IP routing information that devices use to direct the packet. The size of the IPv4 header ranges from 20 to 60 bytes. The first 20 bytes are a fixed set of information containing data such as the source and destination IP address, header length, and total length of the packet. The last set of bytes can range from 0 to 40 and consists of the options field.
@@ -16,8 +14,6 @@ An IPv4 packet is made up of two sections, the header and the data:
 - The length of the data section of an IPv4 packet can vary greatly in size. However, the maximum possible size of an IPv4 packet is 65,535 bytes. It contains the message being transferred over the internet, like website information or email text.
 
 **Image 2.35** Header of an IPv4 packet
-![[Image 2.35.png]]
-
 There are 13 fields within the header of an IPv4 packet:
 
 - **Version (VER):** This 4 bit component tells receiving devices what protocol the packet is using. The packet used in the illustration above is an IPv4 packet.

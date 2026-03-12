@@ -13,5 +13,3 @@ Here’s an example of how to use the `man` command:
 `man ls`
 
 This will display a page that looks something like this:
-
-![[Image 2.95.png]]

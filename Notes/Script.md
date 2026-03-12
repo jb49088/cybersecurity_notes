@@ -7,7 +7,7 @@ A script is a plain text file containing a series of commands or instructions th
 - **Types of scripts:** Common examples include shell scripts (for command-line tasks), Python scripts (for general-purpose programming), and JavaScript (for web development).
 - **Portability:** Scripts are usually platform-independent if written in widely supported scripting languages or shells, facilitating easy sharing and reuse.
 - **Use cases:** Tasks like system administration, data processing, application automation, and testing often leverage scripts.
-    
+
 
 Scripts are foundational tools across computing environments for accelerating workflows and enabling flexible control over software and systems.
 

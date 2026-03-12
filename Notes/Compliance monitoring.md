@@ -2,7 +2,7 @@
 
 Compliance monitoring is the process of ensuring that an organization adheres to regulatory requirements, internal policies, and industry standards. It is an ongoing activity that helps maintain operational integrity, reduce risks, and demonstrate accountability.
 
-- **Ensure compliance in daily operations**: Compliance monitoring involves regular checks to ensure that daily activities align with established rules and guidelines.    
+- **Ensure compliance in daily operations**: Compliance monitoring involves regular checks to ensure that daily activities align with established rules and guidelines.
 - **Due diligence and due care**:
     - **Due diligence** refers to investigating and verifying compliance, often related to third-party activities.
     - **Due care** focuses on internal actions, requiring an organization to act honestly and in good faith to maintain compliance.

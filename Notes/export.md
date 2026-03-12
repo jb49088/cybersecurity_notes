@@ -11,5 +11,3 @@ Environment variables can be used to store a wide range of information, such as 
 Here’s an example of using the `export` command:
 
 `export <variable name>=<value>`
-
-![[Image 3.16.png]]

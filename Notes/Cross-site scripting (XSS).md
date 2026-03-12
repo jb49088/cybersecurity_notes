@@ -6,8 +6,6 @@ Cross-site scripting (XSS) is a common and dangerous web application vulnerabili
 
 XSS vulnerabilities allow attackers to inject malicious scripts, often using JavaScript, into web pages viewed by other users. These scripts can steal sensitive information such as session cookies, credentials, or other personal data without the user's knowledge.
 
-![[Image 2.77.png|center|700]]
-
 To protect against XSS, avoid clicking on suspicious links, especially from untrusted sources. Consider disabling JavaScript or using browser extensions for better control, though this isn't foolproof. Regularly update your browser and applications to patch vulnerabilities, and ensure websites validate and sanitize user inputs to prevent script injection, restricting the types of data users can submit.
 
 ## Non-persistent (Reflected) XSS
@@ -35,4 +33,3 @@ See also:
 - [[Web application]]
 - [[Input sanitization]]
 - [[Input validation]]
-

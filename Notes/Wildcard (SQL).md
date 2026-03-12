@@ -8,5 +8,3 @@ A wildcard is a special character that can be substituted with any other charact
 - The underscore symbol only substitutes for one other character.
 
 The following table includes these wildcards applied to the string `a` and examples of what each pattern could return.
-
-![[Table 1.54|no-link no-title clean]]

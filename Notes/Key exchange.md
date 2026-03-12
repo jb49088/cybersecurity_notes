@@ -11,8 +11,6 @@ A session key is a temporary symmetric key generated for a specific communicatio
 
 Algorithms like Diffie-Hellman and Elliptic Curve Diffie-Hellman (ECDH) enable two parties to derive a shared symmetric key without directly transmitting it. These methods ensure that key material is never exposed, even during the exchange.
 
-![[Image 3.30.png]]
-
 ---
 
 See also:

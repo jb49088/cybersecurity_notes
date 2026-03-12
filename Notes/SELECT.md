@@ -23,5 +23,5 @@ SELECT *
 FROM customers;
 ```
 
-> [!note] 
+> [!note]
 > Be cautious when using `SELECT *`, especially with large databases and tables. This approach can lead to a cluttered result set and may slow down query performance.

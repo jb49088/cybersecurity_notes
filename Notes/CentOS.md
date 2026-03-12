@@ -4,8 +4,6 @@
 
 CentOS (Community Enterprise Operating System) is a Linux distribution that provides a free, open-source alternative to Red Hat Enterprise Linux (RHEL). It is widely used for servers, enterprise environments, and cloud deployments due to its stability, security, and long-term support.
 
-![[Image 2.71.png|150]]
-
 - **RHEL compatibility**: CentOS is built from RHEL source code, making it functionally identical to RHEL but without commercial support.
 - **Stability and security**: CentOS focuses on providing a secure and stable environment, making it ideal for enterprise applications, web hosting, and virtualization.
 - **Long-term support (LTS)**: Each major CentOS version receives updates and security patches for several years, ensuring reliability for production systems.

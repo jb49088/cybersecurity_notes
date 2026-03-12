@@ -6,8 +6,6 @@ The process begins by creating a key pair, which consists of a private key and a
 
 Once validated, the CA digitally signs the certificate with its private key. The signed certificate is then returned to the applicant, who can now use it for secure communications. This process helps ensure that the identity associated with the public key is legitimate and trusted by users and systems relying on the certificate.
 
-![[Image 2.73.png|center|600]]
-
 ---
 
 See also:
@@ -17,4 +15,3 @@ See also:
 - [[Digital signature]]
 - [[Public key]]
 - [[Private key]]
-

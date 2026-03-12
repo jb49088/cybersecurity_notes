@@ -7,6 +7,3 @@ Authorization verifies what you have access to. It is the process of determining
 See also:
 
 - [[Authentication]]
-
-
-

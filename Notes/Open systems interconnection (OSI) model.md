@@ -11,7 +11,7 @@ The seven layers of the OSI model include:
 - **Network Layer (Layer 3):** The network layer is responsible for routing data between different networks. It manages logical addressing, such as IP addresses, and handles the forwarding of packets. Routers operate at this layer to direct traffic across networks.
 - **Data Link Layer (Layer 2):** The data link layer is responsible for establishing, maintaining, and terminating connections between devices on the same network. It ensures reliable data transfer by handling error correction and flow control. Common protocols include Ethernet and Wi-Fi.
 - **Physical Layer (Layer 1):** The physical layer deals with the transmission of raw data bits over a physical medium (e.g., cables, switches, radio waves). It defines the hardware elements involved in the communication, such as electrical signals, cables, and network interfaces.
-    
+
 The OSI model helps in understanding and diagnosing network issues by breaking down complex network communication into manageable layers. By isolating problems to specific layers, network administrators can identify and resolve issues more effectively. It also promotes standardization and compatibility between different networking technologies and protocols.
 
 ---

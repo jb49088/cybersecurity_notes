@@ -8,4 +8,4 @@ A set of rules used to solve a problem by breaking it down into logical steps.
 
 - **Efficiency matters:** Different algorithms can solve the same problem, but some are more efficient than others. Efficiency considers factors like time complexity (how long it takes) and space complexity (how much memory it uses).
 
-- **Continuous development:** The field of algorithm design is constantly evolving as new problems arise and new technologies emerge. There's ongoing research to develop more efficient and effective algorithms. 
+- **Continuous development:** The field of algorithm design is constantly evolving as new problems arise and new technologies emerge. There's ongoing research to develop more efficient and effective algorithms.

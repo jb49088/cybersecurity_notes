@@ -16,7 +16,3 @@ See also:
 - [[Interoperability]]
 - [[Common vulnerabilities and exposures (CVE)]]
 - [[Open Vulnerability and Assessment Language (OVAL)]]
-
-
-
-
